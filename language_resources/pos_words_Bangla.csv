@@ -1,0 +1,2179 @@
+Term,PosScore,NegScore,Bangla
+direct,0.75,0.0,সরাসরি
+adoptable,0.75,0.0,গ্রহণযোগ্য
+due,0.75,0.0,বাকি
+ravishing,0.75,0.0,আনন্দজনক
+benefic,0.75,0.0,উপকারী
+unsurpassable,1.0,0.0,অনতিক্রম্য
+thorough,0.75,0.0,পুঙ্খানুপুঙ্খ
+cautious,0.75,0.0,সাবধান
+competent,0.75,0.0,উপযুক্ত
+workmanlike,0.75,0.0,শ্রমিকতুল্য
+competent,0.75,0.0,উপযুক্ত
+full-blown,0.75,0.0,পূর্ণবিকশিত
+conspicuous,0.75,0.0,সুস্পষ্ট
+differentiable,0.75,0.0,differentiable
+constant,0.75,0.125,ধ্রুব
+incorrupt,0.75,0.25,incorrupt
+corn-fed,0.75,0.0,ভূট্টা খাওয়ানো
+decorous,0.75,0.0,শোভন
+definite,0.75,0.0,নির্দিষ্ট
+importunate,0.75,0.125,নাছোড়বান্দা
+plummy,0.75,0.0,মনোরম
+discerning,0.875,0.0,নির্ণায়ক
+incisive,0.75,0.0,ব্যঙ্গকারী
+metal-cutting,0.75,0.0,ধাতু কাটার
+bounden,0.875,0.0,অবশ্যপালনীয়
+disenchanted,0.875,0.0,মোহমুক্তি
+exportable,0.75,0.0,চালানি
+enlightened,0.75,0.0,আলোকিত
+estimable,1.0,0.0,শ্রদ্ধেয়
+exchangeable,0.75,0.0,বিনিময়যোগ্য
+expendable,0.75,0.0,ব্যয় করা যয় এমন
+extricable,0.75,0.0,উদ্ধারযোগ্য
+fit,0.75,0.0,হইয়া
+pleasant-smelling,0.75,0.0,মনোরম গন্ধী
+goodish,0.75,0.0,goodish
+goody-goody,0.875,0.0,নেহাৎ ভালমানুষ
+white,0.75,0.0,সাদা
+good-natured,0.75,0.0,সত্স্বভাব
+gainly,0.875,0.0,gainly
+bouncing,0.75,0.0,প্রাণচঞ্চল
+firm,0.875,0.0,দৃঢ়
+hearty,0.75,0.0,বলিষ্ঠ
+well-preserved,0.75,0.0,ভালভাবে সংরক্ষিত
+laureate,0.75,0.0,বিজয়ী
+droll,0.75,0.0,হাস্যরসিক
+measurable,0.75,0.0,পরিমেয়
+intellectual,0.875,0.0,বুদ্ধিজীবী
+inviting,0.75,0.0,আমন্ত্রণ জানিয়ে
+gladsome,0.75,0.0,হাসিখুশি
+singable,0.75,0.0,গেয়
+moralistic,0.75,0.125,নীতি
+incorrupt,0.75,0.25,incorrupt
+licit,0.75,0.0,বিদার প্রস্তাব
+incumbent,0.875,0.0,শায়িত্ব
+unimpassioned,0.75,0.0,অনুত্তেজিত
+finished,0.75,0.0,সমাপ্ত
+microscopic,0.75,0.0,আণুবীক্ষণিক
+halal,0.75,0.0,বৈধ
+kosher,0.75,0.0,খাঁটি
+disarming,0.75,0.125,নিরস্ত্র
+white,0.75,0.125,সাদা
+ladylike,0.75,0.0,আর্যা
+unprintable,0.75,0.25,অমুদ্রণীয়
+diffident,0.875,0.0,আত্মবিশ্বাসহীন
+answerable,0.875,0.0,দায়ী
+emancipative,0.75,0.125,emancipative
+danceable,0.75,0.0,danceable
+opposite,0.75,0.125,বিপরীত
+antiseptic,0.75,0.25,বীজবারক
+shapely,0.75,0.0,সুষম
+well-proportioned,0.75,0.0,সুসমন্বিত
+sound,0.75,0.0,শব্দ
+straightarrow,0.875,0.125,straightarrow
+upper,0.75,0.0,উচ্চতর
+banner,0.875,0.0,পতাকা
+gilt-edged,0.75,0.0,শ্রেষ্ঠ শ্রেণীর
+premium,0.75,0.0,প্রিমিয়াম
+shining,0.75,0.0,জ্বলজ্বলে
+spiffing,0.875,0.0,spiffing
+choice,0.75,0.125,পছন্দ
+serviceable,0.75,0.0,কার্যোপযোগী
+sacred,0.75,0.0,পবিত্র
+constitutional,0.75,0.0,শাসনতান্ত্রিক
+deliverable,0.75,0.0,প্রেরন
+ducal,0.75,0.0,ডিউকোচিত
+masterstroke,0.75,0.0,অতিশয় নিপুণ
+pleasantry,0.75,0.0,কৌতুক
+indignity,0.75,0.0,অসম্মান
+props,0.875,0.0,সাজসরঞ্জাম
+titillation,0.75,0.0,সুড়সুড়ি
+beatification,0.75,0.0,স্বর্গসুখভোগ
+rambouillet,0.75,0.0,Rambouillet
+character,0.875,0.0,চরিত্র
+drama,0.75,0.0,নাটক
+chirpiness,0.75,0.0,chirpiness
+vivacity,0.75,0.25,চপলতা
+mettlesomeness,0.75,0.0,mettlesomeness
+bluffness,0.875,0.0,bluffness
+picturesqueness,0.875,0.0,picturesqueness
+pleasingness,0.75,0.0,pleasingness
+attractiveness,0.75,0.0,চটক
+innateness,0.75,0.25,innateness
+totality,0.75,0.0,সাকল্য
+looseness,0.75,0.25,চরিত্রহীনতা
+wholesomeness,0.875,0.0,wholesomeness
+healthfulness,0.875,0.0,healthfulness
+trueness,0.75,0.0,অবিতথ
+tastefulness,0.875,0.0,tastefulness
+urbanity,0.875,0.0,শহুরে প্রভাব
+conscientiousness,0.75,0.0,সুবুদ্ধি
+safeness,0.75,0.25,safeness
+scrupulousness,0.75,0.0,বিবেকনিষ্ঠা
+integrity,0.875,0.125,অখণ্ডতা
+probity,0.75,0.0,সাধুতা
+artfulness,0.75,0.0,চতুরতা
+dedication,0.875,0.0,উত্সর্জন
+urbanity,0.875,0.0,শহুরে প্রভাব
+crispness,0.875,0.0,কুঁচিতকরণ
+extremeness,0.75,0.25,চরমাবস্থা
+reasonableness,0.75,0.0,যুক্তিবাদিতা
+affirmativeness,0.75,0.0,affirmativeness
+importance,0.75,0.125,গুরুত্ব
+account,0.875,0.125,হিসাব
+meaningfulness,0.75,0.125,অর্থপূর্ণতা
+shrillness,0.75,0.25,shrillness
+eye,0.75,0.0,চোখ
+logic,0.75,0.0,যুক্তিবিদ্যা
+judiciousness,0.875,0.0,পারদর্শিতা
+ear,0.75,0.0,কান
+balletomania,0.75,0.0,ব্যালে-ভক্তি বা অনুরাগ
+mastering,0.75,0.0,নিয়ন্ত্রণ
+principle,0.75,0.0,নীতি
+hedonism,0.75,0.0,বিধান
+courtesy,0.75,0.0,শ্লীলতা
+topper,0.75,0.0,ভালমানুষ
+divination,0.875,0.0,ভবিষ্যৎ কথন
+moralism,0.75,0.125,স্বাভাবিক নৈতিকতা
+bonheur,0.875,0.0,সুখ
+beneficence,0.75,0.0,বদান্যতা
+criollo,0.75,0.0,ক্রেওল
+amoralist,0.75,0.0,amoralist
+brick,0.75,0.0,ইট
+first-rater,1.0,0.0,প্রথম রেট প্রদানকারী
+out-and-outer,0.75,0.0,আউট-এবং-বাইরের
+pleaser,0.75,0.0,কাছা-ধরা
+possible,0.75,0.0,সম্ভব
+serendipity,0.75,0.125,লাভজনক
+antithesis,0.75,0.0,বৈপরীত্য
+contrary,0.75,0.0,বিপরীত
+algidity,0.75,0.25,algidity
+pathology,0.75,0.125,রোগবিদ্যা
+character,0.875,0.0,চরিত্র
+fettle,0.75,0.0,খোসমেজাজে
+time,0.75,0.0,সময়
+simply,0.75,0.0,কেবল
+downright,0.75,0.0,নিতান্ত
+recuperate,0.75,0.0,পুনরূদ্ধার করা
+redound,0.75,0.0,অতিরিক্ত হত্তয়া
+enervate,0.75,0.0,শক্তিহীন করা
+delouse,0.75,0.0,গা থেকে উকুন তাড়ানো
+think,0.75,0.0,মনে
+receive,0.75,0.0,গ্রহণ করা
+consider,0.75,0.0,বিবেচনা
+give,0.75,0.125,দিতে
+filigree,0.875,0.0,তারের
+stultify,0.75,0.125,বোকা বানান
+see,0.75,0.0,দেখা
+vest,0.875,0.0,ন্যস্ত করা
+agree,0.875,0.0,একমত
+suit,0.875,0.0,মামলা
+belong,0.75,0.0,অন্তর্গত
+make,0.875,0.0,করতে
+sensation,0.9,0.0,সংবেদন
+thriving,0.9,0.0,সমৃদ্ধ
+marvels,0.9,0.0,বিস্ময়কর
+vibrant,0.9,0.0,অনুনাদশীল
+fragrant,0.9,0.0,সুগন্ধি
+enthusiast,0.9,0.0,কৌতূহলী ব্যক্তি
+successfully,0.9,0.0,সফলভাবে
+gifted,0.9,0.0,প্রতিভাধর
+unequivocal,0.9,0.0,দ্ব্যর্থহীন
+readily,0.9,0.0,ইচ্ছাপূর্বক
+solicitously,0.9,0.0,solicitously
+enchantingly,0.9,0.0,enchantingly
+gold,0.9,0.0,স্বর্ণ
+comforting,0.9,0.0,সান্ত্বনা
+portable,0.9,0.0,সুবহ
+sensations,0.9,0.0,"sensations,"
+truthful,0.9,0.0,সত্যবাদী
+notably,0.9,0.0,লক্ষণীয়ভাবে
+bonny,0.9,0.0,নাদুসনুদুস
+adulate,0.9,0.0,খোশামুদি করা
+jolly,0.9,0.0,বলিষ্ঠ
+supurb,0.9,0.0,supurb
+aspiration,0.9,0.0,আকাঙ্ক্ষা
+venerate,0.9,0.0,শ্রদ্ধা করা
+liking,0.9,0.0,পছন্দ
+sweeping,0.9,0.0,সুদূরপ্রসারিত
+flexible,0.9,0.0,নমনীয়
+liberty,0.9,0.0,স্বাধীনতা
+refresh,0.9,0.0,সতেজ করা
+vivacious,0.9,0.0,প্রাণবন্ত
+gem,0.9,0.0,মণি
+impress,0.9,0.0,ইমপ্রেস
+trumpet,0.9,0.0,ডঙ্কা
+entrust,0.9,0.0,গচ্ছিত রাখা
+catchy,0.9,0.0,প্রতারণামূলক
+talents,0.9,0.0,প্রতিভা
+retractable,0.9,0.0,সঙ্কোচনীয়
+passionate,0.9,0.0,কামুক
+triumph,0.9,0.0,জয়জয়কার
+afordable,0.9,0.0,afordable
+congratulations,0.9,0.0,অভিনন্দন
+bargain,0.9,0.0,চুক্তি
+glad,0.9,0.0,আনন্দিত
+rejuvenated,0.9,0.0,যুগে
+top,0.9,0.0,শীর্ষ
+gladden,0.9,0.0,মনোরম করা
+energize,0.9,0.0,শক্তি ভরণ করা
+humane,0.9,0.0,দয়ালু
+swank,0.9,0.0,সদম্ভ আচরণ
+insightfully,0.9,0.0,insightfully
+courageousness,0.9,0.0,courageousness
+fancinating,0.9,0.0,fancinating
+maturity,0.9,0.0,পরিপক্বতা
+energy-efficient,0.9,0.0,দক্ষ শক্তি
+calm,0.9,0.0,শান্ত
+desirable,0.9,0.0,কাম্য
+poeticize,0.9,0.0,কবিত্ব করা
+easiest,0.9,0.0,সবচেয়ে সহজ পদ্ধিতি হল
+low-price,0.9,0.0,কম মূল্য
+striving,0.9,0.0,দৌড়ানো ছাড়া
+advantage,0.9,0.0,সুবিধা
+cheerful,0.9,0.0,আনন্দিত
+ample,0.9,0.0,প্রশস্ত
+steady,0.9,0.0,অবিচলিত
+effortless,0.9,0.0,অনায়াস
+innovation,0.9,0.0,নবপ্রবর্তিত বস্তু
+fine-looking,0.9,0.0,জরিমানা সুদর্শন
+wonders,0.9,0.0,বিস্ময়ের
+cashback,0.9,0.0,নগদ ফেরত
+quicker,0.9,0.0,দ্রুততর
+gleeful,0.9,0.0,উল্লসিত
+expertly,0.9,0.0,কুশলী
+divine,0.9,0.0,ঐশ্বরিক
+miraculously,0.9,0.0,দৈবক্রমে
+daring,0.9,0.0,সাহসী
+pepped,0.9,0.0,pepped
+cooperatively,0.9,0.0,করে cooperatively
+gainful,0.9,0.0,লাভজনক
+rewarding,0.9,0.0,ফলপ্রসূ
+magnificently,0.9,0.0,চমত্কারভাবে
+captivate,0.9,0.0,Captivate
+exceeding,0.9,0.0,মাত্রাধিক
+ready,0.9,0.0,প্রস্তুত
+invaluablely,0.9,0.0,invaluablely
+modesty,0.9,0.0,বিনয়
+innovative,0.9,0.0,উদ্ভাবনী
+rapturous,0.9,0.0,উল্লাসপূর্ণ
+soulful,0.9,0.0,গভীর বা উচ্চ ভাবপূর্ন
+hard-working,0.9,0.0,কঠোর পরিশ্রম
+understandable,0.9,0.0,বোধগম্য
+resourcefulness,0.9,0.0,উর্বর মস্তিষ্ক
+illumine,0.9,0.0,দীপ্ত
+trusty,0.9,0.0,বিশ্বস্ত
+patriot,0.9,0.0,দেশপ্রেমিক
+amply,0.9,0.0,কানায় কানায়
+appreciate,0.9,0.0,তারিফ করা
+large-capacity,0.9,0.0,বড় ধারণক্ষমতা
+ardent,0.9,0.0,জ্বলন্ত
+inspiration,0.9,0.0,অনুপ্রেরণা
+topnotch,0.9,0.0,প্রথম শ্রেণী
+fluent,0.9,0.0,অনর্গল
+well-balanced,0.9,0.0,বিজ্ঞ
+clear-cut,0.9,0.0,সুস্পষ্ট
+lovely,0.9,0.0,সুদৃশ্য
+frugal,0.9,0.0,মিতব্যয়ী
+affirm,0.9,0.0,নিশ্চিত করা
+idealize,0.9,0.0,আদর্শায়িত করা
+great,0.9,0.0,মহান
+profoundly,0.9,0.0,অঘোরে
+gumption,0.9,0.0,কাণ্ডজ্ঞান
+elation,0.9,0.0,উল্লাস
+stability,0.9,0.0,স্থায়িত্ব
+spellbound,0.9,0.0,হতবাক
+obsessions,0.9,0.0,obsessions
+applaud,0.9,0.0,Applaud
+willing,0.9,0.0,রাজী
+well-bred,0.9,0.0,সুশিক্ষাপ্রপ্ত
+cleanly,0.9,0.0,পরিচ্ছন্ন
+graciousness,0.9,0.0,দয়া
+constructive,0.9,0.0,গঠনমূলক
+pampers,0.9,0.0,pampers
+hotcakes,0.9,0.0,তাজা খবর
+realistic,0.9,0.0,বাস্তবানুগ
+nicely,0.9,0.0,চমত্কারভাবে
+unbiased,0.9,0.0,পক্ষপাতশূন্য
+virtuously,0.9,0.0,virtuously
+free,0.9,0.0,বিনামূল্যে
+fairly,0.9,0.0,নিরপেক্ষভাবে
+cushy,0.9,0.0,আরামপ্রদ
+grand,0.9,0.0,লম্বা
+admirer,0.9,0.0,Admire
+peaceable,0.9,0.0,শান্তিপ্রবণ
+laud,0.9,0.0,টেবিল
+renewed,0.9,0.0,নূতন
+inspire,0.9,0.0,Inspire
+buoyant,0.9,0.0,প্রফুল্ল
+humility,0.9,0.0,নম্রতা
+stabilize,0.9,0.0,স্থির রাখা
+hopeful,0.9,0.0,আশাপূর্ণ
+staunchness,0.9,0.0,staunchness
+tenderly,0.9,0.0,সদয়ভাবে
+amiabily,0.9,0.0,amiabily
+liberation,0.9,0.0,স্বাধীনতা
+loveliness,0.9,0.0,কমনীয়তা
+stunned,0.9,0.0,স্তব্ধ
+seamless,0.9,0.0,বিজোড়
+supremely,0.9,0.0,সর্ব্বোচ্চ
+capable,0.9,0.0,সক্ষম
+firmer,0.9,0.0,শক্ত হয়ে উঠবে
+overture,0.9,0.0,প্রস্তাব
+chivalrous,0.9,0.0,সাহসী
+ingeniously,0.9,0.0,সুকৌশলে
+freedom,0.9,0.0,স্বাধীনতা
+well-positioned,0.9,0.0,ভালভাবে স্থান
+balanced,0.9,0.0,সুষম
+refunded,0.9,0.0,ফেরত
+triumphal,0.9,0.0,বিজয়ী
+angelic,0.9,0.0,দেবদূতোপম
+matchless,0.9,0.0,তুলনাহীন
+tenacious,0.9,0.0,অনমনীয়
+successful,0.9,0.0,সফল
+powerfully,0.9,0.0,জোরে
+uplifting,0.9,0.0,উৎসাহজনক
+dynamic,0.9,0.0,প্রগতিশীল
+thankful,0.9,0.0,কৃতজ্ঞ
+cuteness,0.9,0.0,বুদ্ধিসম্পন্নতা
+champ,0.9,0.0,ক্ষেত্র
+intriguingly,0.9,0.0,intriguingly
+sufficiently,0.9,0.0,পর্যাপ্ত
+pepping,0.9,0.0,pepping
+god-send,0.9,0.0,আল্লাহর পাঠান
+mature,0.9,0.0,পরিণত
+top-quality,0.9,0.0,শীর্ষ মানের
+efficient,0.9,0.0,দক্ষ
+easy-to-use,0.9,0.0,ব্যবহার করা সহজ
+peppy,0.9,0.0,প্রফুল্ল
+idol,0.9,0.0,প্রতিমা
+elegantly,0.9,0.0,এইরূপ সূচারূভাবে
+glorious,0.9,0.0,মহিমান্বিত
+insightful,0.9,0.0,অন্তর্দৃষ্টিপূর্ণ
+economical,0.9,0.0,লাভজনক
+reassurance,0.9,0.0,প্রত্যয়-উত্পাদন
+premier,0.9,0.0,প্রথম
+redeem,0.9,0.0,খালাস করা
+pain-free,0.9,0.0,ব্যথামুক্ত
+supporter,0.9,0.0,পৃষ্ঠপোষক
+rejoicingly,0.9,0.0,আনন্দভাবে
+dawn,0.9,0.0,ভোর
+gutsy,0.9,0.0,সাহসী
+terrifically,0.9,0.0,terrifically
+imaculate,0.9,0.0,imaculate
+appreciated,0.9,0.0,উপলব্ধ
+strongest,0.9,0.0,শক্তিশালী
+accomplish,0.9,0.0,সাধা
+stimulate,0.9,0.0,চেতান
+distinguished,0.9,0.0,আলাদা
+joy,0.9,0.0,আনন্দ
+enjoyed,0.9,0.0,আস্বাদিত
+elate,0.9,0.0,উত্ফুল্ল
+benefit,0.9,0.0,সুবিধা
+openness,0.9,0.0,অকপটতা
+achievement,0.9,0.0,কৃতিত্ব
+honorable,0.9,0.0,সম্মানিত
+salute,0.9,0.0,স্বাস্থ্য
+genuine,0.9,0.0,অকৃত্রিম
+unbound,0.9,0.0,শিথিল
+convienient,0.9,0.0,convienient
+enlighten,0.9,0.0,জ্বালান
+dumbfounding,0.9,0.0,dumbfounding
+unabashed,0.9,0.0,অলজ্জিত
+rapturously,0.9,0.0,rapturously
+steadiness,0.9,0.0,অটলতা
+sensationally,0.9,0.0,চমকপ্রদভাবে
+clearer,0.9,0.0,পরিষ্কার
+selective,0.9,0.0,নির্বাচক
+affirmative,0.9,0.0,হাঁ-সূচক
+dirt-cheap,0.9,0.0,পানির দরে
+trust,0.9,0.0,আস্থা
+enthusiasm,0.9,0.0,উদ্যম
+undaunted,0.9,0.0,অকুতোভয়
+courageously,0.9,0.0,সাহসে
+useful,0.9,0.0,দরকারী
+adequate,0.9,0.0,পর্যাপ্ত
+jubilation,0.9,0.0,আনন্দধ্বনি
+admirably,0.9,0.0,প্রশংসনীয়রূপে
+phenomenally,0.9,0.0,বিস্ময়কর
+decisiveness,0.9,0.0,সিদ্ধান্তহীনতার
+cozy,0.9,0.0,আরামদায়ক
+compassion,0.9,0.0,সমবেদনা
+handier,0.9,0.0,handier
+clears,0.9,0.0,মুছে ফেলা হবে
+convincingly,0.9,0.0,প্রানবন্ত
+preferring,0.9,0.0,করা উচিত ছিল
+sagely,0.9,0.0,sagely
+viewable,0.9,0.0,দর্শনীয়
+awesome,0.9,0.0,অসাধারণ
+abounds,0.9,0.0,প্রচুর
+keenness,0.9,0.0,প্রখরা
+awards,0.9,0.0,পুরষ্কার
+supportive,0.9,0.0,সহায়ক
+fine,0.9,0.0,জরিমানা
+pamperedness,0.9,0.0,pamperedness
+unrivaled,0.9,0.0,অতুলনীয়
+best-selling,0.9,0.0,সেরা বিক্রয়
+hearten,0.9,0.0,উত্সাহ দেত্তয়া
+sturdier,0.9,0.0,sturdier
+advantages,0.9,0.0,সুবিধাদি
+panoramic,0.9,0.0,প্যানরোমিক
+enhanced,0.9,0.0,বর্ধিত
+eulogize,0.9,0.0,প্রশংসা
+lighter,0.9,0.0,লাইটার
+won,0.9,0.0,ওঁন
+comprehensive,0.9,0.0,ব্যাপক
+revival,0.9,0.0,রেনেসাঁ
+skilled,0.9,0.0,দক্ষ
+enticing,0.9,0.0,প্রলুব্ধকর
+tenacity,0.9,0.0,তানতা
+supporting,0.9,0.0,সমর্থন
+greatest,0.9,0.0,সর্বাধিক
+fabulously,0.9,0.0,অবিশ্বাস্য রকমের
+altruistic,0.9,0.0,কল্যাণময়
+enticingly,0.9,0.0,enticingly
+silent,0.9,0.0,নীরব
+pleasant,0.9,0.0,মনোরম
+fondness,0.9,0.0,অনুরাগ
+upgradeable,0.9,0.0,আপগ্রেড
+phenomenal,0.9,0.0,বিষ্ময়কর
+fans,0.9,0.0,ভক্ত
+state-of-the-art,0.9,0.0,রাষ্ট্র-এর-শিল্প
+noble,0.9,0.0,উন্নতচরিত্র
+fast-growing,0.9,0.0,দ্রুত বর্ধনশীল
+serene,0.9,0.0,নির্মেঘ
+handsomely,0.9,0.0,উত্তম পন্থায় বিদায়
+nourish,0.9,0.0,পুষা
+usable,0.9,0.0,উপভোগ্য
+spotless,0.9,0.0,নিষ্কলুষ
+bless,0.9,0.0,আশীর্বাদ করা
+exemplar,0.9,0.0,আদর্শ
+poignant,0.9,0.0,কটু
+ambitious,0.9,0.0,উচ্চাকাঙ্ক্ষী
+worked,0.9,0.0,কাজ করছে
+proud,0.9,0.0,গর্বিত
+enrich,0.9,0.0,সমৃদ্ধ
+kindness,0.9,0.0,উদারতা
+warmth,0.9,0.0,উত্তাপ
+excitement,0.9,0.0,হুজুগ
+sweetly,0.9,0.0,দেহটা মিষ্টি লাগবে
+blithe,0.9,0.0,ফূর্তিবাজ
+contribution,0.9,0.0,অবদান
+rejuvenating,0.9,0.0,আয়ুষ্কর
+intimacy,0.9,0.0,অন্তরঙ্গতা
+effectively,0.9,0.0,কার্যকরীভাবে
+wholesome,0.9,0.0,পথ্য
+approve,0.9,0.0,অনুমোদন করা
+truthfulness,0.9,0.0,সত্যবাদিতা
+handily,0.9,0.0,handily
+staunchly,0.9,0.0,অবিচলিতভাবে
+prominence,0.9,0.0,অভিক্ষিপ্তাবস্থা
+merciful,0.9,0.0,দয়ালু
+stirringly,0.9,0.0,stirringly
+outdone,0.9,0.0,অতিক্রান্ত
+overtake,0.9,0.0,নাগাল ধরা
+unbeatable,0.9,0.0,অপরাজেয়
+sufficient,0.9,0.0,যথেষ্ট
+ardently,0.9,0.0,প্রখরভাবে
+classic,0.9,0.0,সর্বোত্তম
+civility,0.9,0.0,ভদ্রতা
+ingenuity,0.9,0.0,অকপটতা
+masterpiece,0.9,0.0,মাষ্টারপিস
+fidelity,0.9,0.0,বিশ্বস্ততা
+reliable,0.9,0.0,বিশ্বাসযোগ্য
+charisma,0.9,0.0,অনন্যসাধারণ প্রতিভা
+readable,0.9,0.0,সুপাঠ্য
+compatible,0.9,0.0,উপযুক্ত
+fulfillment,0.9,0.0,সিদ্ধি
+skillfully,0.9,0.0,দক্ষতার সঙ্গে
+tingle,0.9,0.0,শিহরণ
+excel,0.9,0.0,সীমা অতিক্রম করা
+enviously,0.9,0.0,enviously
+swanky,0.9,0.0,চট্পটে
+celebration,0.9,0.0,অনুষ্ঠান
+progress,0.9,0.0,উন্নতি
+empowerment,0.9,0.0,ক্ষমতায়ন
+tranquility,0.9,0.0,প্রশান্তি
+led,0.9,0.0,এলইডি
+achievible,0.9,0.0,achievible
+bright,0.9,0.0,উজ্জ্বল
+appreciatively,0.9,0.0,কৃতজ্ঞতার সঙ্গে
+inspirational,0.9,0.0,অনুপ্রেরণীয়
+accessible,0.9,0.0,প্রবেশযোগ্য
+lionhearted,0.9,0.0,lionhearted
+refreshing,0.9,0.0,সতেজকারক
+splendidly,0.9,0.0,splendidly
+marvelous,0.9,0.0,অবিশ্বাস্য
+illustrious,0.9,0.0,প্রসিদ্ধ
+revives,0.9,0.0,পুনর্জীবন
+originality,0.9,0.0,মৌলিকত্ব
+gratification,0.9,0.0,পরিতৃপ্তি
+motivated,0.9,0.0,উদ্দেশ্যমূলক
+playfully,0.9,0.0,খেলাচ্ছলে
+awe,0.9,0.0,সম্ভ্রম
+overtakes,0.9,0.0,পতিত
+eloquent,0.9,0.0,বাকপটু
+proficient,0.9,0.0,দক্ষ
+cheapest,0.9,0.0,প্রসঙ্গ
+intelligible,0.9,0.0,বুদ্ধিগম্য
+luxuriant,0.9,0.0,প্রাচুর্যপূর্ণ
+adaptable,0.9,0.0,অভিযোজ্য
+enraptured,0.9,0.0,খাড়া করা
+luckiest,0.9,0.0,ভাগ্যবান
+healthy,0.9,0.0,সুস্থ
+luster,0.9,0.0,দীপ্তি
+brotherly,0.9,0.0,ভ্রাতৃভাবে
+compliment,0.9,0.0,শংসা
+leading,0.9,0.0,নেতৃত্ব
+fortunately,0.9,0.0,ভাগ্যক্রমে
+resplendent,0.9,0.0,প্রভাময়
+obtainable,0.9,0.0,গম্য
+inventive,0.9,0.0,উদ্ভাবক
+ardor,0.9,0.0,জ্বলন্ত
+propitiously,0.9,0.0,propitiously
+cost-effective,0.9,0.0,সাশ্রয়ের
+charismatic,0.9,0.0,সহজাত দক্ষতা সম্পন্ন
+merit,0.9,0.0,যোগ্যতা
+gusto,0.9,0.0,ঔত্সুক্য
+stimulates,0.9,0.0,উদ্দীপকের
+coherent,0.9,0.0,সুসঙ্গত
+providence,0.9,0.0,দূরদর্শিতা
+exaltedly,0.9,0.0,exaltedly
+neatly,0.9,0.0,সুন্দরভাবে
+affordable,0.9,0.0,সাশ্রয়ী মূল্যের
+effectiveness,0.9,0.0,কার্যকারিতা
+monumental,0.9,0.0,স্মারক
+pleased,0.9,0.0,খুশি
+righteousness,0.9,0.0,ন্যায়পরায়ণতা
+miracle,0.9,0.0,অলৌকিক ঘটনা
+respectable,0.9,0.0,শ্রদ্ধেয়
+upbeat,0.9,0.0,আশাবাদী
+winner,0.9,0.0,বিজয়ী
+laudably,0.9,0.0,laudably
+luckiness,0.9,0.0,luckiness
+assurance,0.9,0.0,বীমা
+prestige,0.9,0.0,প্রতিপত্তি
+qualified,0.9,0.0,যোগ্যতাসম্পন্ন
+fruitful,0.9,0.0,ফলপ্রসূ
+ilu,0.9,0.0,সৌন্দর্য
+vivid,0.9,0.0,প্রাণবন্ত
+spirited,0.9,0.0,সজীব
+godsend,0.9,0.0,সফলতা
+mesmerizes,0.9,0.0,mesmerizes
+satisfying,0.9,0.0,পরিতৃপ্ত
+masterful,0.9,0.0,উদ্ধত
+sublime,0.9,0.0,মহিমান্বিত
+mercy,0.9,0.0,করুণা
+brilliantly,0.9,0.0,বুদ্ধিদীপ্তভাবে
+loving,0.9,0.0,স্নেহময়
+entertaining,0.9,0.0,রসাল
+earnest,0.9,0.0,আন্তরিক
+ergonomical,0.9,0.0,ergonomical
+refinement,0.9,0.0,পরিশোধন
+complementary,0.9,0.0,পরিপূরক
+patient,0.9,0.0,রোগী
+inviolate,0.9,0.0,অলঙ্ঘিত
+eagerness,0.9,0.0,আগ্রহ
+civilize,0.9,0.0,সভ্য করা
+well-mannered,0.9,0.0,আচারপরায়ণ
+dignity,0.9,0.0,সম্মান
+steadiest,0.9,0.0,steadiest
+favorite,0.9,0.0,প্রিয়
+astutely,0.9,0.0,বলেছ
+splendid,0.9,0.0,চমত্কার
+subsidizing,0.9,0.0,ভর্তুকি
+plush,0.9,0.0,প্লাশ্
+marvelously,0.9,0.0,এমে
+adorer,0.9,0.0,ভালবাসা
+happier,0.9,0.0,সুখী
+perseverance,0.9,0.0,অধ্যবসায়
+sensational,0.9,0.0,উত্তেজনাপূর্ণ
+nimble,0.9,0.0,দ্রুতগামী
+multi-purpose,0.9,0.0,মাল্টি উদ্দেশ্য
+affably,0.9,0.0,অমায়িকভাবে
+astonish,0.9,0.0,চমত্কৃত করা
+lover,0.9,0.0,প্রেমিকা
+nourishing,0.9,0.0,পুষ্টিকর
+upheld,0.9,0.0,upheld
+exalt,0.9,0.0,উল্লসিত করা
+happy,0.9,0.0,খুশি
+prodigiously,0.9,0.0,prodigiously
+humble,0.9,0.0,নম্র
+proven,0.9,0.0,প্রমাণিত
+resounding,0.9,0.0,অনুনাদী
+cashbacks,0.9,0.0,cashbacks
+visionary,0.9,0.0,স্বপ্নদর্শী
+thoughtful,0.9,0.0,চিন্তাশীল
+smarter,0.9,0.0,দক্ষতা সহকারে
+conciliate,0.9,0.0,শান্ত করা
+credible,0.9,0.0,বিশ্বাসযোগ্য
+dependable,0.9,0.0,নির্ভরযোগ্য
+saint,0.9,0.0,সাধু
+fairness,0.9,0.0,সততা
+victorious,0.9,0.0,বিজয়ী
+excels,0.9,0.0,excels
+celebrated,0.9,0.0,সুপ্রসিদ্ধ
+keenly,0.9,0.0,গভীরভাবে
+humorously,0.9,0.0,খিটখিটি
+effectual,0.9,0.0,সফল
+enchanting,0.9,0.0,আকর্ষণীয়
+favour,0.9,0.0,আনুকূল্য
+titillate,0.9,0.0,ধীরে ধীরে উদ্দীপ্ত করা
+flexibility,0.9,0.0,নমনীয়তা
+mesmerize,0.9,0.0,মোহিত করা
+favorable,0.9,0.0,অনুকূল
+unwavering,0.9,0.0,অটল
+neat,0.9,0.0,ঝরঝরে
+generous,0.9,0.0,উদার
+satisfies,0.9,0.0,সন্তুষ্ট
+consummate,0.9,0.0,সুসম্পূর্ণ
+marvellous,0.9,0.0,অবিশ্বাস্য
+tempting,0.9,0.0,প্রলুব্ধকর
+mastery,0.9,0.0,আধিপত্য
+peacefully,0.9,0.0,শান্তিপূর্ণভাবে
+improvements,0.9,0.0,উন্নতি
+amicability,0.9,0.0,অদ্রোহ
+indebted,0.9,0.0,ঋণী
+high-quality,0.9,0.0,উচ্চ গুনসম্পন্ন
+unfettered,0.9,0.0,কারামুক্ত
+easing,0.9,0.0,টুকটাক
+exonerate,0.9,0.0,ক্ষালন করা
+enhance,0.9,0.0,বাড়ান
+evaluative,0.9,0.0,evaluative
+fabulous,0.9,0.0,কল্পিত
+mind-blowing,0.9,0.0,অভূতপূর্ব
+well-educated,0.9,0.0,সুশিক্ষিত
+heroine,0.9,0.0,বীরাঙ্গনা
+daringly,0.9,0.0,daringly
+lavish,0.9,0.0,ঢের
+luxuriously,0.9,0.0,luxuriously
+marvelousness,0.9,0.0,চমত্কারিত্ব
+classy,0.9,0.0,উত্কৃষ্ট
+tickle,0.9,0.0,সুড়সুড়ি
+woo,0.9,0.0,পাণিপ্রার্থনা করা
+low-cost,0.9,0.0,কম খরচে
+restored,0.9,0.0,পুনরুদ্ধার
+romanticize,0.9,0.0,রোমান্টিক করে তোলা
+rejoice,0.9,0.0,আনন্দিত
+wholeheartedly,0.9,0.0,মনপ্রাণ
+smitten,0.9,0.0,প্রহৃত
+illuminating,0.9,0.0,আলোকজ্জ্বল
+diligent,0.9,0.0,পরিশ্রমী
+amazed,0.9,0.0,বিস্মিত
+levity,0.9,0.0,চপলতা
+reverently,0.9,0.0,সশ্রদ্ধ চিত্তে
+courageous,0.9,0.0,সাহসী
+tantalizingly,0.9,0.0,tantalizingly
+aver,0.9,0.0,জমিদারি
+congenial,0.9,0.0,অনুকূল
+pleases,0.9,0.0,সন্তুষ্ট
+toughest,0.9,0.0,কঠিন
+tender,0.9,0.0,কোমল
+permissible,0.9,0.0,অনুমোদনযোগ্য
+alluringly,0.9,0.0,alluringly
+astonishment,0.9,0.0,আশ্চর্য
+quiet,0.9,0.0,শান্ত
+commitment,0.9,0.0,প্রতিশ্রুতি
+indulgence,0.9,0.0,ইচ্ছাপূরণ
+endorse,0.9,0.0,অনুমোদন করা
+glowingly,0.9,0.0,glowingly
+congratulate,0.9,0.0,অভিনন্দন
+peace,0.9,0.0,শান্তি
+keen,0.9,0.0,উত্সাহী
+breathlessness,0.9,0.0,ঊর্ধ্বশ্বাস
+sufficed,0.9,0.0,যথেষ্ট
+humourous,0.9,0.0,humourous
+unreal,0.9,0.0,অবাস্তব
+delicate,0.9,0.0,উপাদেয়
+flourish,0.9,0.0,ঝঙ্কার
+purify,0.9,0.0,শোধন করা
+user-friendly,0.9,0.0,ব্যবহারকারী বান্ধব
+intricate,0.9,0.0,জটিল
+enjoyably,0.9,0.0,আনন্দ নিয়ে
+well-managed,0.9,0.0,ভালভাবে পরিচালিত
+perfectly,0.9,0.0,ঠিকভাবে
+worthy,0.9,0.0,সুযোগ্য
+rightful,0.9,0.0,ধর্মসম্মত
+fastest,0.9,0.0,দ্রুততম
+extoll,0.9,0.0,অত্যধিক প্রশংসা করা
+defeated,0.9,0.0,পরাজিত
+radiance,0.9,0.0,ভা
+flashy,0.9,0.0,চটকদার
+generosity,0.9,0.0,দাক্ষিণ্য
+merry,0.9,0.0,সুচেতা
+groundbreaking,0.9,0.0,যুগান্তকারী
+decisive,0.9,0.0,নিষ্পত্তিমূলক
+protection,0.9,0.0,সুরক্ষা
+interesting,0.9,0.0,মজাদার
+satisfactory,0.9,0.0,সন্তোষজনক
+ecenomical,0.9,0.0,ecenomical
+prowess,0.9,0.0,পরাক্রম
+adorable,0.9,0.0,আরাধ্য
+mesmerizing,0.9,0.0,সম্মোহিত
+uncomplicated,0.9,0.0,সহজ
+entice,0.9,0.0,বিপথে চালিত করা
+fun,0.9,0.0,মজা
+best,0.9,0.0,সেরা
+godlike,0.9,0.0,দেবতুল্য
+attune,0.9,0.0,সুর মেলান
+toll-free,0.9,0.0,কর মুক্ত
+regard,0.9,0.0,বিবেচনা
+ameliorate,0.9,0.0,উন্নয়নসাধন করা
+useable,0.9,0.0,ব্যবহারযোগ্য
+top-notch,0.9,0.0,উপরের খাঁজ
+astoundingly,0.9,0.0,astoundingly
+celebrate,0.9,0.0,উদযাপন
+affable,0.9,0.0,ভদ্র
+flourishing,0.9,0.0,সফল
+easiness,0.9,0.0,অনায়াস
+well-behaved,0.9,0.0,শিষ্টাচারপূর্ণ
+enjoyment,0.9,0.0,রমণ
+exultingly,0.9,0.0,exultingly
+popular,0.9,0.0,জনপ্রিয়
+cornerstone,0.9,0.0,ভিত্তি
+remedy,0.9,0.0,প্রতিকার
+greatness,0.9,0.0,মহিমা
+effusiveness,0.9,0.0,effusiveness
+cool,0.9,0.0,শীতল
+raptureously,0.9,0.0,raptureously
+bolster,0.9,0.0,তাকিয়া
+erudite,0.9,0.0,জ্ঞানী
+smoothest,0.9,0.0,smoothest
+examplar,0.9,0.0,examplar
+exciting,0.9,0.0,উত্তেজনাপূর্ণ
+apotheosis,0.9,0.0,নাটকের শেষ
+convenience,0.9,0.0,সুবিধা
+impeccably,0.9,0.0,impeccably
+kindliness,0.9,0.0,সহৃদয়তা
+recover,0.9,0.0,পুনরুদ্ধার
+standout,0.9,0.0,standout
+halcyon,0.9,0.0,মাছরাঙা
+satisfactorily,0.9,0.0,সন্তোষজনকভাবে
+worth-while,0.9,0.0,সময় খরচের যোগ্য
+well-being,0.9,0.0,মঙ্গল
+thrill,0.9,0.0,শিহরিত করা
+rightly,0.9,0.0,ন্যায়ত
+entrancing,0.9,0.0,মুগ্ধকর
+victory,0.9,0.0,বিজয়
+survivor,0.9,0.0,জীবিত
+dreamland,0.9,0.0,স্বপ্নরাজ্য
+renaissance,0.9,0.0,রেনেসাঁ
+radiant,0.9,0.0,প্রভাশালী
+delicacy,0.9,0.0,কৃশতা
+innocuous,0.9,0.0,নির্দোষ
+enthral,0.9,0.0,দাসত্বে আবদ্ধ করা
+comfort,0.9,0.0,সান্ত্বনা
+sexy,0.9,0.0,সেক্সি
+champion,0.9,0.0,রক্ষক
+amazes,0.9,0.0,amazes
+enough,0.9,0.0,যথেষ্ট
+effusively,0.9,0.0,অকপটে
+unquestionably,0.9,0.0,নিঃসন্দেহে
+regally,0.9,0.0,রাজমত
+tough,0.9,0.0,শক্ত
+terrific,0.9,0.0,ভয়ঙ্কর
+envious,0.9,0.0,পরশ্রীকাতর
+soothe,0.9,0.0,প্রশমিত করা
+astound,0.9,0.0,অবাক করা
+pleasingly,0.9,0.0,pleasingly
+agreeableness,0.9,0.0,agreeableness
+marveled,0.9,0.0,আশ্চর্য
+assuredly,0.9,0.0,নিশ্চয়
+chivalry,0.9,0.0,সৌজন্য
+pleasurably,0.9,0.0,pleasurably
+hug,0.9,0.0,আলিঙ্গন
+sincere,0.9,0.0,আন্তরিক
+affectation,0.9,0.0,নিয়োগ
+exquisitely,0.9,0.0,অত্যন্ত সুন্দরভাবে
+amaze,0.9,0.0,স্তম্ভিত করা
+fortuitous,0.9,0.0,আকস্মিক
+god-given,0.9,0.0,ভগবদ্দত্ত
+shiny,0.9,0.0,চকচকে
+tolerable,0.9,0.0,সহনীয়
+stunning,0.9,0.0,অত্যাশ্চর্য
+preeminent,0.9,0.0,সর্বশ্রেষ্ঠ
+protect,0.9,0.0,রক্ষা করা
+masterpieces,0.9,0.0,শ্রেষ্ঠ
+merriness,0.9,0.0,merriness
+sumptuousness,0.9,0.0,sumptuousness
+exellent,0.9,0.0,exellent
+defender,0.9,0.0,প্রতিবাদী
+responsibly,0.9,0.0,দায়িত্বের
+warmer,0.9,0.0,উষ্ণতর
+self-sufficiency,0.9,0.0,স্বয়ংসম্পূর্ণতা
+snazzy,0.9,0.0,Snazzy
+brighten,0.9,0.0,আলোকজ্জ্বল
+cleanliness,0.9,0.0,পরিচ্ছন্নতা
+saintliness,0.9,0.0,পোপের আখ্যা
+heartwarming,0.9,0.0,হৃদয়গ্রাহী
+polished,0.9,0.0,পালিশ
+superiority,0.9,0.0,টেক্কা
+goodly,0.9,0.0,সুদর্শন
+inexpensive,0.9,0.0,সস্তা
+pluses,0.9,0.0,pluses
+valuable,0.9,0.0,দামি
+straightforward,0.9,0.0,অকপট
+rewardingly,0.9,0.0,rewardingly
+chaste,0.9,0.0,সতী
+counter-attacks,0.9,0.0,পাল্টা আক্রমণ
+posh,0.9,0.0,সর্বোত্কৃষ্ট
+meticulous,0.9,0.0,অতিসতর্ক
+empower,0.9,0.0,ক্ষমতায়ন
+gained,0.9,0.0,অর্জন
+modern,0.9,0.0,আধুনিক
+handy,0.9,0.0,কুশলী
+heartfelt,0.9,0.0,হৃদয়গ্রাহী
+encouraging,0.9,0.0,উত্সাহিত
+ecstatic,0.9,0.0,ভাবাবেশকর
+creative,0.9,0.0,সৃজনী
+respectfully,0.9,0.0,সম্মানার্হ ভাবে
+avid,0.9,0.0,ক্ষুধিত
+legendary,0.9,0.0,কাল্পনিক
+veritable,0.9,0.0,যথার্থ
+exceeded,0.9,0.0,ছাড়িয়ে
+supple,0.9,0.0,নমনীয়
+tremendously,0.9,0.0,ভীষণভাবে
+cherub,0.9,0.0,স্বর্গীয় দূত
+winners,0.9,0.0,বিজয়ীদের
+rockstars,0.9,0.0,Rockstars
+serenity,0.9,0.0,প্রশান্তি
+profound,0.9,0.0,গভীর
+light-hearted,0.9,0.0,হাসিখুশি
+enthusiastic,0.9,0.0,উদ্যমী
+joyous,0.9,0.0,আহ্লাদিত
+recommendations,0.9,0.0,সুপারিশ
+consistent,0.9,0.0,সঙ্গত
+exaltation,0.9,0.0,উচ্চপদ
+sweetness,0.9,0.0,মাধুরী
+winning,0.9,0.0,জয়লাভ
+peps,0.9,0.0,peps
+razor-sharp,0.9,0.0,সুতীক্ষ্ণ
+boom,0.9,0.0,গম্ভীর গর্জন
+enticed,0.9,0.0,আকৃষ্ট
+revolutionary,0.9,0.0,বৈপ্লবিক
+wonderful,0.9,0.0,বিস্ময়কর
+cure,0.9,0.0,আরোগ্য
+devout,0.9,0.0,ধর্মপ্রাণ
+diligence,0.9,0.0,অধ্যবসায়
+worthiness,0.9,0.0,অর্হণ
+twinkly,0.9,0.0,twinkly
+cheaper,0.9,0.0,সস্তা
+exceled,0.9,0.0,exceled
+abound,0.9,0.0,উড়া
+opulent,0.9,0.0,ঐশ্বর্যশালী
+wealthy,0.9,0.0,ধনী
+blossom,0.9,0.0,পুষ্প
+optimism,0.9,0.0,আশাবাদ
+gladness,0.9,0.0,আনন্দ
+roomier,0.9,0.0,roomier
+saintly,0.9,0.0,পবিত্র
+favored,0.9,0.0,বিশেষ সুবিধাপ্রাপ্ত
+lovable,0.9,0.0,স্নেহের যোগ্য
+unforgettable,0.9,0.0,অবিস্মরণীয়
+outshine,0.9,0.0,ঔজ্বল্যে ছাপাইয়া যাত্তয়া
+restructuring,0.9,0.0,পুনর্গঠন
+prominent,0.9,0.0,বিশিষ্ট
+altruistically,0.9,0.0,altruistically
+simpler,0.9,0.0,সহজ
+cute,0.9,0.0,চতুর
+well-run,0.9,0.0,ভাল রানের
+bountiful,0.9,0.0,উদার
+speedily,0.9,0.0,দ্রুত
+commendable,0.9,0.0,প্রশংসনীয়
+restful,0.9,0.0,বিশ্রামরত
+captivating,0.9,0.0,চিত্তাকর্ষক
+lovably,0.9,0.0,lovably
+energetic,0.9,0.0,অনলস
+freedoms,0.9,0.0,স্বাধীনতা
+sleek,0.9,0.0,মসৃণ
+lawful,0.9,0.0,বৈধ
+crisp,0.9,0.0,বাকরখানির
+foolproof,0.9,0.0,অব্যর্থ
+truthfully,0.9,0.0,বিশ্বস্ততার
+sparkling,0.9,0.0,ঝিলিমিলি
+beckoned,0.9,0.0,ইশারা
+resilient,0.9,0.0,স্থিতিস্থাপক
+faithful,0.9,0.0,বিশ্বস্ত
+rejoicing,0.9,0.0,আনন্দ
+helping,0.9,0.0,সাহায্য
+dazzling,0.9,0.0,ঝলসানি
+capability,0.9,0.0,সামর্থ্য
+affluent,0.9,0.0,ধনী
+exceed,0.9,0.0,অতিক্রম করা
+hero,0.9,0.0,বীর
+steadfast,0.9,0.0,অপলক
+a+,0.9,0.0,একটি +
+irreproachable,0.9,0.0,নির্দোষ
+sociable,0.9,0.0,মিশুক
+plusses,0.9,0.0,plusses
+praiseworthy,0.9,0.0,প্রশংসনীয়
+self-satisfaction,0.9,0.0,আত্মতৃপ্তি
+likable,0.9,0.0,মনোরম
+rightfully,0.9,0.0,আইনসঙ্গতভাবে
+wins,0.9,0.0,জয়ী
+refined,0.9,0.0,পরিশ্রুত
+charitable,0.9,0.0,দাতব্য
+poise,0.9,0.0,ভার চাপান
+gooood,0.9,0.0,gooood
+agreeable,0.9,0.0,অমায়িক
+dexterous,0.9,0.0,পারক
+well-established,0.9,0.0,সুপ্রতিষ্ঠিত
+amiable,0.9,0.0,বন্ধুত্বপূর্ণ
+brisk,0.9,0.0,প্রাণবন্ত
+sincerity,0.9,0.0,আন্তরিকতা
+beauty,0.9,0.0,সৌন্দর্য
+advocates,0.9,0.0,সমর্থনকারীরা
+concise,0.9,0.0,সংক্ষিপ্ত
+prudently,0.9,0.0,বিবেচনাপূর্বক
+revelation,0.9,0.0,উদ্ঘাটন
+ultra-crisp,0.9,0.0,অতি খাস্তা
+revitalize,0.9,0.0,পুনরুজ্জীবিত
+talent,0.9,0.0,প্রতিভা
+wondrous,0.9,0.0,বিস্ময়কর
+helpful,0.9,0.0,সহায়ক
+fervor,0.9,0.0,উত্সাহ
+swankier,0.9,0.0,swankier
+graceful,0.9,0.0,সুতনু
+trustingly,0.9,0.0,সরল বিশ্বাসে
+extraordinarily,0.9,0.0,স্মার্ট
+deginified,0.9,0.0,deginified
+attractive,0.9,0.0,আকর্ষণীয়
+powerful,0.9,0.0,ক্ষমতাশালী
+stimulating,0.9,0.0,উৎসাহী
+empathy,0.9,0.0,সহানুভূতি
+suitable,0.9,0.0,উপযুক্ত
+eye-catch,0.9,0.0,চোখের ধরা
+tempt,0.9,0.0,প্রলুব্ধ করা
+auspicious,0.9,0.0,সুপ্রসন্ন
+enthralled,0.9,0.0,মুগ্ধ
+triumphantly,0.9,0.0,জয়সূচকভাবে
+beneficent,0.9,0.0,কল্যাণময়
+good,0.9,0.0,ভাল
+exceptionally,0.9,0.0,অত্যন্ত
+dexterously,0.9,0.0,নিপুণভাবে
+survival,0.9,0.0,উদ্বর্তন
+maturely,0.9,0.0,পরিপক্কভাবে
+impartiality,0.9,0.0,ন্যায়
+relief,0.9,0.0,মুক্তি
+earnestness,0.9,0.0,ব্যগ্রতা
+trusted,0.9,0.0,বিশ্বস্ত
+peacekeepers,0.9,0.0,শান্তিরক্ষীদের
+endorsed,0.9,0.0,অনুমোদন
+diligently,0.9,0.0,সযত্নে
+accomplished,0.9,0.0,সম্পন্ন
+entertain,0.9,0.0,পোষণ করা
+tougher,0.9,0.0,কঠোর
+reforms,0.9,0.0,সংস্কারের
+wellbeing,0.9,0.0,সুস্থতা
+guiltless,0.9,0.0,নিরপরাধ
+stimulative,0.9,0.0,উদ্দীপক
+flawless,0.9,0.0,নিশ্ছিদ্র
+spacious,0.9,0.0,প্রশস্ত
+gracefully,0.9,0.0,অত্যন্ত শৃঙ্খলার
+surmount,0.9,0.0,শীর্ষদেশে থাকা
+poetic,0.9,0.0,কবিসুলভ
+reaffirm,0.9,0.0,পুনর্নিশ্চিত করা
+productive,0.9,0.0,উত্পাদনক্ষম
+advantageously,0.9,0.0,advantageously
+better,0.9,0.0,উত্তম
+temptingly,0.9,0.0,temptingly
+passionately,0.9,0.0,মনেপ্রাণে
+rational,0.9,0.0,যুক্তিসঙ্গত
+breathtakingly,0.9,0.0,breathtakingly
+unquestionable,0.9,0.0,অবিসন্বাদিত
+fashionable,0.9,0.0,কেতাদুরস্ত
+uplift,0.9,0.0,উন্নয়ন
+sharpest,0.9,0.0,তীক্ষ্ণ
+charming,0.9,0.0,কমনীয়
+agile,0.9,0.0,কর্মতত্পর
+elated,0.9,0.0,গর্বিত
+enrichment,0.9,0.0,সমৃদ্ধি
+considerate,0.9,0.0,বিবেচিত
+cleverly,0.9,0.0,চালাকি করে
+prefer,0.9,0.0,পছন্দ করা
+privilege,0.9,0.0,সুবিধা
+astounded,0.9,0.0,স্তম্ভিত
+trophy,0.9,0.0,ট্রফি
+exceeds,0.9,0.0,অতিক্রম করে
+cheery,0.9,0.0,প্রফুল্ল
+acclaimed,0.9,0.0,প্রশংসিত
+geekier,0.9,0.0,geekier
+charm,0.9,0.0,কবজ
+smiling,0.9,0.0,স্মিত
+glitter,0.9,0.0,চিক্চিক
+admiring,0.9,0.0,উপাসক
+invaluable,0.9,0.0,অমুল্য
+magic,0.9,0.0,জাদু
+fastest-growing,0.9,0.0,দ্রুততম বর্ধমান
+easier,0.9,0.0,সহজ
+revive,0.9,0.0,পুনরায় জীবত করা
+commend,0.9,0.0,প্রশংসা করা
+prodigy,0.9,0.0,দৈত্য
+fearless,0.9,0.0,নির্ভীক
+convient,0.9,0.0,উপযুক্ত
+savings,0.9,0.0,জমা
+appreciates,0.9,0.0,প্রশংসা
+hardier,0.9,0.0,hardier
+zippy,0.9,0.0,ফ্যাস্
+ebullient,0.9,0.0,অত্যুত্সাহী
+examplary,0.9,0.0,examplary
+prolific,0.9,0.0,উর্বর
+gallantly,0.9,0.0,প্রাণপনে
+manageable,0.9,0.0,পরিচালনীয়
+protective,0.9,0.0,প্রতিরক্ষামূলক
+politeness,0.9,0.0,ভদ্রতা
+optimistic,0.9,0.0,আশাবাদী
+sane,0.9,0.0,সুস্থ
+fortunate,0.9,0.0,ঋদ্ধ
+doubtless,0.9,0.0,দ্বিধাহীন
+conscientious,0.9,0.0,ন্যায়বান
+invincible,0.9,0.0,অপরাজেয়
+restructured,0.9,0.0,পুনর্গঠিত
+fiery,0.9,0.0,অগ্নিসদৃশ
+irresistibly,0.9,0.0,দুর্নিবার
+welcome,0.9,0.0,স্বাগত
+smilingly,0.9,0.0,সহাস্যমুখে
+rapture,0.9,0.0,পরমানন্দ
+tantalizing,0.9,0.0,tantalizing
+inspiring,0.9,0.0,দীপক
+luminous,0.9,0.0,ভাস্বর
+luck,0.9,0.0,ভাগ্য
+efficiently,0.9,0.0,দক্ষতার
+recomend,0.9,0.0,recomend
+beneficial,0.9,0.0,উপকারী
+spontaneous,0.9,0.0,স্বতঃস্ফূর্ত
+feasible,0.9,0.0,সম্ভাব্য
+cheer,0.9,0.0,উল্লাস
+strong,0.9,0.0,শক্তিশালী
+variety,0.9,0.0,বৈচিত্র্য
+prudence,0.9,0.0,সতর্ক করা
+romantic,0.9,0.0,রোমান্টিক
+marvel,0.9,0.0,অদ্ভুত ব্যাপার
+upgradable,0.9,0.0,upgradable
+likes,0.9,0.0,পছন্দ
+cooperative,0.9,0.0,সমবায়
+idolized,0.9,0.0,উপাসনা-বন্দেগী করনি
+positively,0.9,0.0,সুনিশ্চিত
+gain,0.9,0.0,লাভ করা
+eyecatch,0.9,0.0,eyecatch
+flatteringly,0.9,0.0,flatteringly
+heroic,0.9,0.0,বীরত্বপূর্ণ
+zest,0.9,0.0,রূচি
+attentive,0.9,0.0,অতন্দ্র
+glorify,0.9,0.0,কীর্তন করা
+prosperity,0.9,0.0,সমৃদ্ধি
+smoothly,0.9,0.0,সহজে
+authoritative,0.9,0.0,প্রামাণিক
+meticulously,0.9,0.0,খুঁটিয়া
+principled,0.9,0.0,নীতির
+dignify,0.9,0.0,মর্যাদা দান করা
+eyecatching,0.9,0.0,eyecatching
+excelent,0.9,0.0,চমত্কার
+vibrantly,0.9,0.0,vibrantly
+advocated,0.9,0.0,শিল্পমন্ত্রী
+desirous,0.9,0.0,অভিলাষী
+excite,0.9,0.0,এক্সাইট
+proves,0.9,0.0,প্রমাণ
+trouble-free,0.9,0.0,অবিরাম
+exuberant,0.9,0.0,সমৃদ্ধ
+promised,0.9,0.0,প্রতিশ্রুত
+noteworthy,0.9,0.0,লক্ষণীয়
+upliftment,0.9,0.0,উন্নয়ন
+wisdom,0.9,0.0,জ্ঞান
+judicious,0.9,0.0,বিচক্ষণ
+personages,0.9,0.0,চরিত্র
+blissful,0.9,0.0,সুখী
+rosy,0.9,0.0,গোলাপী
+stately,0.9,0.0,মহিমান্বিত
+fancier,0.9,0.0,কল্পনাকারী
+finely,0.9,0.0,"finely,"
+intelligent,0.9,0.0,বুদ্ধিমান
+lush,0.9,0.0,মদ্যপ
+thoughtfulness,0.9,0.0,ভাবুকতা
+feature-rich,0.9,0.0,বৈশিষ্ট্য সমৃদ্ধ
+rock-stars,0.9,0.0,শিলা -তারা
+morality,0.9,0.0,নৈতিকতা
+qualify,0.9,0.0,যোগ্যতা
+durable,0.9,0.0,টেকসই
+realizable,0.9,0.0,আদায়-যোগ্য
+glistening,0.9,0.0,হড়হড়ে
+upscale,0.9,0.0,", upscale"
+well-regarded,0.9,0.0,ভালভাবে গণ্য
+fantastically,0.9,0.0,fantastically
+thinner,0.9,0.0,পাতলা
+lead,0.9,0.0,নেতৃত্ব
+profuse,0.9,0.0,প্রচুর
+jaw-droping,0.9,0.0,চোয়ালের droping
+reliably,0.9,0.0,নিশ্বাস ভাবে
+clarity,0.9,0.0,নির্মলতা
+award,0.9,0.0,পুরস্কার
+relish,0.9,0.0,সুস্বাদ
+wonderously,0.9,0.0,wonderously
+faithfulness,0.9,0.0,বিশ্বস্ততা
+invigorating,0.9,0.0,বলদায়ক
+believeable,0.9,0.0,believeable
+breakthrough,0.9,0.0,শত্রুবূহ্যভেদ
+master,0.9,0.0,মনিব
+boost,0.9,0.0,প্রচার করা
+flutter,0.9,0.0,ঝাপটানি
+illuminati,0.9,0.0,Illuminati
+dominated,0.9,0.0,অধীন
+inviolable,0.9,0.0,অলঙ্ঘনীয়
+delightfully,0.9,0.0,delightfully
+ethical,0.9,0.0,নৈতিক
+precious,0.9,0.0,মূল্যবান
+dazzled,0.9,0.0,ঝলসিত
+fast,0.9,0.0,দ্রুত
+tantalize,0.9,0.0,বিশ্বাস জাগাইয়া প্রতারণা করা
+respect,0.9,0.0,সম্মান
+reputation,0.9,0.0,খ্যাতি
+precise,0.9,0.0,যথাযথ
+credence,0.9,0.0,প্রত্যয়
+divinely,0.9,0.0,ঈশ্বর
+benefits,0.9,0.0,সুবিধা
+eye-catching,0.9,0.0,আকর্ষণীয়
+adventuresome,0.9,0.0,দু: সাহসিক
+impressive,0.9,0.0,চিত্তাকর্ষক
+facilitate,0.9,0.0,সহজতর করা
+well,0.9,0.0,আমরা হব
+immense,0.9,0.0,অপরিমেয়
+inestimably,0.9,0.0,inestimably
+well-connected,0.9,0.0,সুসম্বদ্ধ
+convenient,0.9,0.0,সুবিধাজনক
+solidarity,0.9,0.0,সংহতি
+affirmation,0.9,0.0,কথন
+hospitable,0.9,0.0,অতিথিসেবাপরায়ণ
+commendably,0.9,0.0,commendably
+exemplary,0.9,0.0,আদর্শ
+thumb-up,0.9,0.0,সাবাস
+thrifty,0.9,0.0,মিতব্যয়ী
+patience,0.9,0.0,ধৈর্য
+pep,0.9,0.0,বীর্য
+defeat,0.9,0.0,পরাজয়
+trustworthy,0.9,0.0,বিশ্বস্ত
+affability,0.9,0.0,শিষ্টতা
+prosper,0.9,0.0,Prosper
+sharp,0.9,0.0,তীব্র
+traction,0.9,0.0,আকর্ষণ
+elevate,0.9,0.0,চড়ান
+festive,0.9,0.0,উল্লসিত
+superbly,0.9,0.0,দারুণ
+upgraded,0.9,0.0,আপগ্রেড
+glamorous,0.9,0.0,মুগ্ধকর
+lively,0.9,0.0,জীবন্ত
+peerless,0.9,0.0,অনুপম
+bliss,0.9,0.0,সুখ
+revere,0.9,0.0,পূজা করা
+affectionate,0.9,0.0,অনুরক্ত
+brilliant,0.9,0.0,উজ্জ্বল
+shine,0.9,0.0,চকমক
+idolize,0.9,0.0,পূজা করা
+self-respect,0.9,0.0,আত্মমর্যাদা
+suffice,0.9,0.0,পর্যাপ্ত
+exhilaration,0.9,0.0,উল্লাস
+fancy,0.9,0.0,অভিনব
+purposeful,0.9,0.0,সকাম
+wow,0.9,0.0,কি দারুন
+diversified,0.9,0.0,বিচিত্র
+famous,0.9,0.0,বিখ্যাত
+assurances,0.9,0.0,বীমা
+slammin,0.9,0.0,slammin
+love,0.9,0.0,ভালবাসা
+unlimited,0.9,0.0,সীমাহীন
+benefactor,0.9,0.0,হিতকারী
+navigable,0.9,0.0,নাব্য
+satisfied,0.9,0.0,সন্তুষ্ট
+gush,0.9,0.0,প্রবাহ
+delightfulness,0.9,0.0,delightfulness
+fascinatingly,0.9,0.0,fascinatingly
+leads,0.9,0.0,বিশালাকার
+expeditiously,0.9,0.0,দ্রুততার
+humour,0.9,0.0,মেজাজ
+reputable,0.9,0.0,সম্মানজনক
+shimmeringly,0.9,0.0,shimmeringly
+genius,0.9,0.0,প্রতিভা
+streamlined,0.9,0.0,মসৃণ
+unmatched,0.9,0.0,প্রতিদ্বন্দ্বিহীন
+boundless,0.9,0.0,অপার
+effortlessly,0.9,0.0,অনায়াসে
+lyrical,0.9,0.0,গীতধর্মী
+reconciliation,0.9,0.0,পুনর্মিলন
+proper,0.9,0.0,সঠিক
+amuse,0.9,0.0,আমোদিত
+infallible,0.9,0.0,অব্যর্থ
+immaculately,0.9,0.0,immaculately
+spellbindingly,0.9,0.0,spellbindingly
+cohesive,0.9,0.0,সংযোজক
+sweet,0.9,0.0,মিষ্টি
+dominates,0.9,0.0,প্রাধান্য
+exceptional,0.9,0.0,ব্যতিক্রমী
+productively,0.9,0.0,লাভজনকভাবে
+successes,0.9,0.0,সফলতা
+pampered,0.9,0.0,আদুরে
+beneficiary,0.9,0.0,মৃত ব্যক্তির সম্পত্তির উত্তরাধিকারী
+supreme,0.9,0.0,সর্বোচ্চ
+foresight,0.9,0.0,দূরদর্শিতা
+pleasantly,0.9,0.0,"pleasantly,"
+conciliatory,0.9,0.0,বন্ধুত্বপূর্ণ
+endorsement,0.9,0.0,অনুমোদন
+outperforming,0.9,0.0,হারকেও ছাপিয়ে
+assure,0.9,0.0,নিশ্চিত করা
+mighty,0.9,0.0,মহৎ
+deserving,0.9,0.0,অর্হ
+colorful,0.9,0.0,রঙিন
+enjoys,0.9,0.0,ভোগ
+sustainability,0.9,0.0,ধারণক্ষমতা
+everlasting,0.9,0.0,অনন্ত
+mesmerized,0.9,0.0,সংবেশিত
+praise,0.9,0.0,প্রশংসা
+togetherness,0.9,0.0,togetherness
+delight,0.9,0.0,আমোদ
+vigilance,0.9,0.0,সতর্ক প্রহরা
+adjustable,0.9,0.0,নিয়মিত
+extraordinary,0.9,0.0,অসাধারণ
+memorable,0.9,0.0,স্মরণীয়
+enlightenment,0.9,0.0,জ্ঞানদান
+swiftness,0.9,0.0,দ্রুততা
+enchanted,0.9,0.0,পুলকিত
+acumen,0.9,0.0,সূক্ষ্ম বিচারশক্তি
+unabashedly,0.9,0.0,আসার কারণ এগুলো
+fresher,0.9,0.0,নবীন
+joyously,0.9,0.0,আনন্দের
+adroit,0.9,0.0,দক্ষ
+receptive,0.9,0.0,ধারণক্ষম
+calming,0.9,0.0,প্রশান্ত ভাব
+gallant,0.9,0.0,প্রেমপূর্ণ
+renowned,0.9,0.0,প্রখ্যাত
+fervent,0.9,0.0,তপ্ত
+painless,0.9,0.0,যন্ত্রণাহীন
+rapport,0.9,0.0,প্রতিবেদন
+expansive,0.9,0.0,অকপট
+raptureous,0.9,0.0,raptureous
+optimal,0.9,0.0,অনুকূল
+heroize,0.9,0.0,heroize
+thrillingly,0.9,0.0,thrillingly
+remarkably,0.9,0.0,সাতিশয়
+eases,0.9,0.0,হওয়া সত্ত্বেও
+smart,0.9,0.0,স্মার্ট
+amenable,0.9,0.0,এক্তিয়ারভুক্ত
+dummy-proof,0.9,0.0,ডামি রোধক
+overtook,0.9,0.0,ছাড়িয়ে
+astounding,0.9,0.0,স্তম্ভিত করে এমন
+congratulatory,0.9,0.0,অভিনঁদনসূচক
+glowing,0.9,0.0,প্রদীপ্ত
+simplified,0.9,0.0,সরলীকৃত
+honor,0.9,0.0,সম্মান
+detachable,0.9,0.0,অপসৃতপূর্ণ
+evocative,0.9,0.0,শিল্পানুগ
+secure,0.9,0.0,নিরাপদ
+envy,0.9,0.0,দ্বেষ
+darling,0.9,0.0,ধন
+playful,0.9,0.0,কৌতুকপূর্ণ
+wonderous,0.9,0.0,wonderous
+paradise,0.9,0.0,নন্দনকানন
+lucid,0.9,0.0,স্বচ্ছ
+reachable,0.9,0.0,পৌঁছানো
+gratifies,0.9,0.0,gratifies
+exult,0.9,0.0,উল্লাস করা
+splendor,0.9,0.0,জাঁকজমক
+outshone,0.9,0.0,outshone
+refreshed,0.9,0.0,ঝরঝরে
+revel,0.9,0.0,Revel
+revolutionize,0.9,0.0,বৈপ্লবিক
+brighter,0.9,0.0,উজ্জ্বল
+celebratory,0.9,0.0,উদযাপনী অনুষ্ঠানে
+crisper,0.9,0.0,crisper
+consistently,0.9,0.0,ধারাবাহিকভাবে
+encouragement,0.9,0.0,অনুপ্রেরণা
+workable,0.9,0.0,কার্যকর
+pleasure,0.9,0.0,পরিতোষ
+uphold,0.9,0.0,তুলে
+decency,0.9,0.0,উপযুক্ততা
+trendy,0.9,0.0,হাল-ফ্যাসন দোরস্ত
+exaltingly,0.9,0.0,exaltingly
+preferable,0.9,0.0,বাঞ্ছনীয়
+problem-free,0.9,0.0,সমস্যা-মুক্ত
+accurate,0.9,0.0,সঠিক
+ingenuously,0.9,0.0,অকপটে
+jovial,0.9,0.0,প্রফুল্ল
+enthusiastically,0.9,0.0,উৎসাহের
+positive,0.9,0.0,ধনাত্মক
+dumbfounded,0.9,0.0,বলিহারি
+immaculate,0.9,0.0,অনিন্দ্য
+gratefully,0.9,0.0,কৃতজ্ঞচিত্তে
+pure,0.9,0.0,বিশুদ্ধ
+benevolence,0.9,0.0,দয়াশীলতা
+grateful,0.9,0.0,কৃতজ্ঞ
+magnanimous,0.9,0.0,মহানুভব
+audible,0.9,0.0,শ্রবণযোগ্য
+fantastic,0.9,0.0,চমত্কার
+honoring,0.9,0.0,অনারিং
+exhilarate,0.9,0.0,উল্লসিত করা
+savvy,0.9,0.0,কাণ্ডজ্ঞান
+well-rounded,0.9,0.0,ভাল ভিডিও
+luxuriate,0.9,0.0,বিলাসী হত্তয়া
+long-lasting,0.9,0.0,টেকসই
+straighten,0.9,0.0,সোজা
+friendliness,0.9,0.0,বন্ধুভাবাপন্নতা
+courage,0.9,0.0,সাহস
+ennoble,0.9,0.0,মর্যাদা-সম্পন্ন করা
+agilely,0.9,0.0,agilely
+authentic,0.9,0.0,খাঁটি
+smoother,0.9,0.0,বাধামুক্ত
+miracles,0.9,0.0,অলৌকিক
+destiny,0.9,0.0,নিয়তি
+influential,0.9,0.0,প্রভাবশালী
+reconcile,0.9,0.0,পুনর্মিলিত করা
+fav,0.9,0.0,পছন্দের
+enrapture,0.9,0.0,আহ্লাদিত করা
+eager,0.9,0.0,আগ্রহী
+entertains,0.9,0.0,আনন্দ
+integral,0.9,0.0,অখণ্ড
+majesty,0.9,0.0,মহিমা
+comfortably,0.9,0.0,সুখে
+vouch,0.9,0.0,সাক্ষী হত্তয়া
+precisely,0.9,0.0,অবিকল
+excitedness,0.9,0.0,excitedness
+personalized,0.9,0.0,ব্যক্তিগতকৃত
+faultless,0.9,0.0,ত্রুটিহীন
+better-than-expected,0.9,0.0,আশাতিরিক্ত
+faster,0.9,0.0,দ্রুত
+trusting,0.9,0.0,বিশ্বাস
+comfortable,0.9,0.0,আরামপ্রদ
+respite,0.9,0.0,অবকাশ
+elite,0.9,0.0,অভিজাত
+respectful,0.9,0.0,শ্রদ্ধাশীল
+rock-star,0.9,0.0,সঙ্গীত তারকা
+stylish,0.9,0.0,আড়ম্বরপূর্ণ
+endorses,0.9,0.0,উপস্থাপনা করেন
+whooa,0.9,0.0,whooa
+modest,0.9,0.0,বিনয়ী
+gentlest,0.9,0.0,gentlest
+swift,0.9,0.0,দ্রুতগতি
+skillful,0.9,0.0,দক্ষ
+individualized,0.9,0.0,স্বতন্ত্র
+remunerate,0.9,0.0,পুরস্কৃত করা
+advanced,0.9,0.0,অগ্রসর
+contentment,0.9,0.0,তৃপ্তি
+feisty,0.9,0.0,কুস্বভাব
+clear,0.9,0.0,স্পষ্ট
+problem-solver,0.9,0.0,সমস্যা সমাধানকারী
+cleared,0.9,0.0,সাফ
+solace,0.9,0.0,সান্ত্বনা
+abundance,0.9,0.0,প্রাচুর্য
+bullish,0.9,0.0,বুলিশ
+fascinate,0.9,0.0,Fascinate
+positives,0.9,0.0,পজিটিভ
+plentiful,0.9,0.0,প্রচুর
+effusive,0.9,0.0,নির্গমনশীল
+loved,0.9,0.0,পছন্দ
+entranced,0.9,0.0,ভীষনভাবে
+gentle,0.9,0.0,মৃদু
+brilliance,0.9,0.0,প্রতিভা
+stupendously,0.9,0.0,stupendously
+intelligence,0.9,0.0,বুদ্ধিমত্তা
+rockstar,0.9,0.0,সঙ্গীত তারকা
+proficiently,0.9,0.0,দক্ষতার
+enthuse,0.9,0.0,কৌতূহলী করান
+luxurious,0.9,0.0,বিলাসী
+adaptive,0.9,0.0,অভিযোজিত
+complement,0.9,0.0,পরিপূর্ণ
+mercifully,0.9,0.0,করুণার
+lean,0.9,0.0,রোগা
+intimate,0.9,0.0,অন্তরঙ্গ
+beutifully,0.9,0.0,beutifully
+cleaner,0.9,0.0,পরিষ্কারক
+freed,0.9,0.0,বিমুক্ত
+gratified,0.9,0.0,তৃপ্ত
+ideal,0.9,0.0,আদর্শ
+vouchsafe,0.9,0.0,স্বেচ্ছায় রাজী হত্তয়া
+ebulliently,0.9,0.0,ebulliently
+redemption,0.9,0.0,মুক্তি
+cherish,0.9,0.0,Cherish
+whoooa,0.9,0.0,whoooa
+stunningly,0.9,0.0,অসম্ভব
+gladly,0.9,0.0,সানন্দে
+triumphant,0.9,0.0,জয়যুক্ত
+dead-cheap,0.9,0.0,মৃত সস্তা
+illuminate,0.9,0.0,জ্বালান
+promising,0.9,0.0,প্রতিশ্রুতি
+abundant,0.9,0.0,প্রচুর
+rejuvenate,0.9,0.0,পুনর্যৌবন লাভ করা
+righten,0.9,0.0,righten
+diplomatic,0.9,0.0,কূটনীতিক
+exhilaratingly,0.9,0.0,exhilaratingly
+resound,0.9,0.0,প্রতিধ্বনিত করা
+glimmer,0.9,0.0,আভাস
+hooray,0.9,0.0,হুররে
+faith,0.9,0.0,বিশ্বাস
+foremost,0.9,0.0,সর্বপ্রথম
+heros,0.9,0.0,নায়ক
+richness,0.9,0.0,ঐশ্বর্য
+sumptuous,0.9,0.0,অতীব ব্যয়বহুল
+excitedly,0.9,0.0,ব্যস্ততাসহকারে
+adulation,0.9,0.0,তোষণ
+lavishly,0.9,0.0,প্রচুর পরিমাণে
+irresistible,0.9,0.0,অনিবার্য
+valiantly,0.9,0.0,বীরের
+noiseless,0.9,0.0,চুপচাপ
+record-setting,0.9,0.0,রেকর্ড সেটিং
+openly,0.9,0.0,খোলাখুলি
+idyllic,0.9,0.0,সরল শান্ত ত্ত মনোরম
+coolest,0.9,0.0,কখনই
+justly,0.9,0.0,যথাযথরূপে
+clean,0.9,0.0,পরিষ্কার
+feat,0.9,0.0,কৃতিত্ব
+excites,0.9,0.0,উদ্দীপ্তও
+fond,0.9,0.0,পটভূমি
+harmony,0.9,0.0,সাদৃশ্য
+recommend,0.9,0.0,সুপারিশ করা
+goodwill,0.9,0.0,মঙ্গলকামনা
+excellant,0.9,0.0,excellant
+pardon,0.9,0.0,ক্ষমা
+richer,0.9,0.0,গরীয়ান
+smiles,0.9,0.0,হাসি
+indulgent,0.9,0.0,অসংযত
+suave,0.9,0.0,নরম
+progressive,0.9,0.0,প্রগতিশীল
+outsmart,0.9,0.0,ঘোল খাওয়ানো
+conveniently,0.9,0.0,সুবিধামত
+gratify,0.9,0.0,বাসনা চরিতার্থ করা
+steadfastness,0.9,0.0,দৃঢ়তা
+rectify,0.9,0.0,সংশোধন করা
+pros,0.9,0.0,অনুকূল
+trump,0.9,0.0,ভেরী
+exultation,0.9,0.0,উল্লাস
+thrive,0.9,0.0,উন্নতিলাভ করা
+generously,0.9,0.0,উদার হস্তে
+nourishment,0.9,0.0,পুষ্টি
+momentous,0.9,0.0,গুরুত্বপূর্ণ
+fortitude,0.9,0.0,মনোবল
+verifiable,0.9,0.0,প্রতিপাদ্য
+supports,0.9,0.0,সমর্থন
+happily,0.9,0.0,সুখে
+adoring,0.9,0.0,প্রেমপূর্ণ
+stainless,0.9,0.0,বেদাগ
+treasure,0.9,0.0,ধন
+endear,0.9,0.0,প্রি় করা
+enjoying,0.9,0.0,সেবন
+articulate,0.9,0.0,স্পষ্ট
+beautify,0.9,0.0,সুন্দর করুন
+palatial,0.9,0.0,প্রাসাদতুল্য
+win,0.9,0.0,জয়
+sincerely,0.9,0.0,অকপটভাবে
+loyalty,0.9,0.0,আনুগত্য
+strikingly,0.9,0.0,অদ্ভূত
+rapid,0.9,0.0,দ্রুত
+fortuitously,0.9,0.0,দৈবাৎ
+recommended,0.9,0.0,সুপারিশ করা
+sharper,0.9,0.0,খর্পর
+deft,0.9,0.0,কুশলী
+pre-eminent,0.9,0.0,অগ্রগণ্য
+reasonable,0.9,0.0,যৌক্তিক
+nifty,0.9,0.0,ছিমছাম
+warm,0.9,0.0,উষ্ণ
+counter-attack,0.9,0.0,প্রতি আক্রমণ
+cajole,0.9,0.0,ভুলান
+imaginative,0.9,0.0,কল্পনাপ্রবণ
+thrilling,0.9,0.0,রোমাঁচকর
+issue-free,0.9,0.0,ইস্যু-মুক্ত
+adore,0.9,0.0,পূজা
+improves,0.9,0.0,উন্নত
+wise,0.9,0.0,জ্ঞানী
+defeats,0.9,0.0,পরাজয়
+smartly,0.9,0.0,সুন্দর
+proactive,0.9,0.0,প্ররোচক
+yay,0.9,0.0,নম
+non-violence,0.9,0.0,অহিংসার লক্ষ্যে
+majestic,0.9,0.0,সৌম্য
+worthwhile,0.9,0.0,উপযুক্ত
+euphoria,0.9,0.0,রমরমা
+glow,0.9,0.0,ভাস
+perfection,0.9,0.0,পরিপূর্ণতা
+brightest,0.9,0.0,উজ্জ্বল
+evenly,0.9,0.0,সমান
+excellent,0.9,0.0,চমত্কার
+witty,0.9,0.0,বিদগ্ধ
+glitz,0.9,0.0,চাকচিক্য
+leverage,0.9,0.0,উদ্দেশ্যসাধনের উপায়
+prospros,0.9,0.0,prospros
+fame,0.9,0.0,খ্যাতি
+golden,0.9,0.0,সোনালী
+substantive,0.9,0.0,বাস্তব
+accurately,0.9,0.0,সঠিক
+seasoned,0.9,0.0,পাকা
+stupendous,0.9,0.0,বিস্ময়কর
+inestimable,0.9,0.0,অমুল্য
+propitious,0.9,0.0,প্রসন্ন
+fashionably,0.9,0.0,হার্ভার্ড
+regal,0.9,0.0,রাজকীয়
+persevere,0.9,0.0,সবর
+well-informed,0.9,0.0,উত্তমরুপে ত্তয়াকিবহাল
+intrigue,0.9,0.0,চক্রান্ত
+jubilant,0.9,0.0,উল্লসিত
+euphorically,0.9,0.0,euphorically
+amiability,0.9,0.0,সহৃদয়তা
+suavely,0.9,0.0,ভদ্রভাবে
+galore,0.9,0.0,প্রচুর পরিমাণে
+sturdy,0.9,0.0,বলিষ্ঠ
+transparent,0.9,0.0,স্বচ্ছ
+undamaged,0.9,0.0,অবিক্ষত
+cohere,0.9,0.0,সংলগ্ন থাকা
+danke,0.9,0.0,ধন্যবাদ
+elatedly,0.9,0.0,elatedly
+benifits,0.9,0.0,benifits
+achievements,0.9,0.0,সাফল্য
+shimmering,0.9,0.0,ধিকিধিকি
+preferes,0.9,0.0,পছন্দের
+impartial,0.9,0.0,নিরপেক্ষ
+promise,0.9,0.0,প্রতিশ্রুতি
+spectacular,0.9,0.0,দর্শনীয়
+efficacious,0.9,0.0,ফলপ্রদ
+passion,0.9,0.0,আবেগ
+enhances,0.9,0.0,বাড়ায়
+beckoning,0.9,0.0,ইশারা
+earnestly,0.9,0.0,আন্তরিকভাবে
+right,0.9,0.0,অধিকার
+mightily,0.9,0.0,জোরে
+favor,0.9,0.0,আনুকূল্য
+ingenious,0.9,0.0,প্রতিভাশালী
+exuberantly,0.9,0.0,exuberantly
+exuberance,0.9,0.0,উদ্দীপনা
+magnificence,0.9,0.0,বিশালতা
+cleanest,0.9,0.0,পরিষ্কার
+gaining,0.9,0.0,হত্তন
+fascinating,0.9,0.0,চটুল
+support,0.9,0.0,সমর্থন
+soothingly,0.9,0.0,soothingly
+flattering,0.9,0.0,চাটুকার
+orderly,0.9,0.0,সুশৃঙ্খল
+wonderfully,0.9,0.0,চমৎকার
+equitable,0.9,0.0,ন্যায়সঙ্গত
+first-class,0.9,0.0,প্রথম শ্রেণীর
+honored,0.9,0.0,সম্মানিত
+sparkle,0.9,0.0,ঝক্ঝক্
+adored,0.9,0.0,নাপোলির
+ease,0.9,0.0,আরাম
+enthrall,0.9,0.0,দাসত্বে আবদ্ধ করা
+available,0.9,0.0,সহজলভ্য
+enliven,0.9,0.0,উদ্দীপ্ত করা
+impressed,0.9,0.0,অঙ্কিত
+supported,0.9,0.0,সমর্থিত
+pleasing,0.9,0.0,আনন্দদায়ক
+versatile,0.9,0.0,বহুমুখ কর্মশক্তিসম্পন্ন
+warmly,0.9,0.0,উষ্ণভাবে
+marvelled,0.9,0.0,আশ্চর্য
+pretty,0.9,0.0,চমত্কার
+sprightly,0.9,0.0,চট্পটে
+fascination,0.9,0.0,মোহ
+fave,0.9,0.0,Fave
+reasonably,0.9,0.0,কারণপূর্ণভাবে
+ovation,0.9,0.0,জয়জয়কার
+speedy,0.9,0.0,দ্রুত
+satisfy,0.9,0.0,পরিতৃপ্ত করা
+super,0.9,0.0,সুপার
+privileged,0.9,0.0,তৈরী
+jaw-dropping,0.9,0.0,চোয়ালের বাতিল
+better-known,0.9,0.0,ভাল পরিচিত
+accomplishments,0.9,0.0,শিক্ষাদীক্ষা
+breakthroughs,0.9,0.0,ক্রমশ
+hilarious,0.9,0.0,অত্যধিক হাসিখুশি
+pride,0.9,0.0,গর্ব
+hail,0.9,0.0,শিলাবৃষ্টি
+gains,0.9,0.0,লাভ
+rectification,0.9,0.0,শুদ্ধি
+kudos,0.9,0.0,খ্যাতি
+like,0.9,0.0,মত
+masters,0.9,0.0,কর্তা
+appreciable,0.9,0.0,উপলব্ধিজনক
+nicest,0.9,0.0,সুন্দরটি
+frolic,0.9,0.0,কৌতুক
+safely,0.9,0.0,নিরাপদে
+instrumental,0.9,0.0,যান্ত্রিক
+spectacularly,0.9,0.0,দর্শনীয়ভাবেই
+harmless,0.9,0.0,নির্দোষ
+unity,0.9,0.0,ঐক্য
+fast-paced,0.9,0.0,দ্রুত বিন্যস্ত
+ecstasy,0.9,0.0,পরমানন্দ
+enjoy,0.9,0.0,উপভোগ
+enhancement,0.9,0.0,বৃদ্ধি
+assuring,0.9,0.0,আশ্বস্ত
+work,0.9,0.0,কাজ
+edify,0.9,0.0,নৈতিক করা
+formidable,0.9,0.0,দুর্দান্ত
+instantly,0.9,0.0,সঙ্গে সঙ্গে
+righteously,0.9,0.0,সততার
+painlessly,0.9,0.0,থাকুন
+comfy,0.9,0.0,আরামদায়ক
+fervidly,0.9,0.0,fervidly
+approval,0.9,0.0,অনুমোদন
+fertile,0.9,0.0,উর্বর
+easygoing,0.9,0.0,স্বচ্ছন্দ
+admiration,0.9,0.0,প্রশংসা
+reward,0.9,0.0,পুরস্কার
+promoter,0.9,0.0,প্রবর্তক
+responsive,0.9,0.0,প্রতিক্রিয়াশীল
+rapt,0.9,0.0,আবিষ্ট
+wowing,0.9,0.0,wowing
+promptly,0.9,0.0,শীঘ্র
+awestruck,0.9,0.0,দেখে বিস্মিত
+joyful,0.9,0.0,আনন্দদায়ক
+dominate,0.9,0.0,আয়ত্ত করা
+capably,0.9,0.0,দক্ষভাবে
+virtue,0.9,0.0,পুণ্য
+prompt,0.9,0.0,শীঘ্র
+willingly,0.9,0.0,স্বেচ্ছায়
+magical,0.9,0.0,ঐন্দ্রজালিক
+famed,0.9,0.0,বিখ্যাত
+angel,0.9,0.0,ফেরেশতা
+masterfully,0.9,0.0,প্রতিভার সাথে
+amazing,0.9,0.0,আশ্চর্যজনক
+convincing,0.9,0.0,বিশ্বাসী
+awsome,0.9,0.0,অসাধারণ সব
+reforming,0.9,0.0,সংস্কারের
+clever,0.9,0.0,চালাক
+fervently,0.9,0.0,ঐকান্তকভাবে
+harmoniously,0.9,0.0,harmoniously
+compact,0.9,0.0,নিবিড়
+enterprising,0.9,0.0,উদ্যমী
+intriguing,0.9,0.0,কুচুটে
+aspire,0.9,0.0,আকুলভাবে কামনা করা
+elegance,0.9,0.0,কমনীয়তা
+delightful,0.9,0.0,আনন্দদায়ক
+maneuverable,0.9,0.0,হানতে
+friendly,0.9,0.0,বন্ধুত্বপূর্ণ
+gainfully,0.9,0.0,gainfully
+ideally,0.9,0.0,আদর্শভাবে
+complements,0.9,0.0,সম্পূরক সমূহ
+hardy,0.9,0.0,কষ্টসহিষ্ণু
+unconditional,0.9,0.0,শর্তহীন
+homage,0.9,0.0,সম্মান
+talented,0.9,0.0,প্রতিভাশালী
+stellarly,0.9,0.0,stellarly
+futurestic,0.9,0.0,futurestic
+congratulation,0.9,0.0,অভিনঁদন
+soft,0.9,0.0,নরম
+glory,0.9,0.0,গরিমা
+encouragingly,0.9,0.0,উৎসাহ
+stylishly,0.9,0.0,stylishly
+afford,0.9,0.0,সামর্থ্য
+jollify,0.9,0.0,ক্রীড়াকৌতুক করা
+skill,0.9,0.0,দক্ষতা
+reasoned,0.9,0.0,কারণগত
+piety,0.9,0.0,ভক্তি
+peaceful,0.9,0.0,শান্তিপূর্ণ
+warmhearted,0.9,0.0,warmhearted
+endorsing,0.9,0.0,প্রচারে
+impressively,0.9,0.0,আকর্ষণীয়
+bravo,0.9,0.0,বলিহারি
+improvement,0.9,0.0,উন্নতি
+sumptuously,0.9,0.0,জাঁকাল
+pamper,0.9,0.0,লাই দেত্তয়া
+avidly,0.9,0.0,লোভার্তভাবে
+profusion,0.9,0.0,প্রাচুর্য
+tenaciously,0.9,0.0,নাছোড়বান্দা হইয়া
+glisten,0.9,0.0,ঝলমল করা
+famously,0.9,0.0,বিখ্যাত
+timely,0.9,0.0,সময়োপযোগী
+well-known,0.9,0.0,সুপরিচিত
+tranquil,0.9,0.0,শান্ত
+carefree,0.9,0.0,ভাবনাহীন
+healthful,0.9,0.0,স্বাস্থ্যকর
+dignified,0.9,0.0,মহৎ
+elegant,0.9,0.0,মার্জিত
+easy,0.9,0.0,সহজ
+excitingly,0.9,0.0,excitingly
+well-received,0.9,0.0,সুগৃহীত
+impressiveness,0.9,0.0,চিত্তাকর্ষক
+simplifies,0.9,0.0,সরলীকৃত
+thrift,0.9,0.0,মিতব্যয়িতা
+willingness,0.9,0.0,সম্মতি
+virtuous,0.9,0.0,ধর্মচারী
+outperforms,0.9,0.0,তূলনায়
+adroitly,0.9,0.0,নিপুণভাবে
+believable,0.9,0.0,বিশ্বাসযোগ্য
+ecstasies,0.9,0.0,Ecstasies
+glimmering,0.9,0.0,ক্ষীণ আলোক
+continuity,0.9,0.0,ধারাবাহিকতা
+unaffected,0.9,0.0,অপ্রভাবিত
+neatest,0.9,0.0,neatest
+prefered,0.9,0.0,prefered
+attraction,0.9,0.0,আকর্ষণ
+kindly,0.9,0.0,কল্যাণকামী
+breeze,0.9,0.0,মৃদুমন্দ বাতাস
+amicable,0.9,0.0,বন্ধুত্বপূর্ণ
+flatter,0.9,0.0,সমতল
+knowledgeable,0.9,0.0,বুদ্ধিমান
+first-in-class,0.9,0.0,প্রথম শ্রেণীর
+gratifyingly,0.9,0.0,দীর্ঘমেয়াদী
+windfall,0.9,0.0,দৈবধন
+nicer,0.9,0.0,সুন্দর
+dedicated,0.9,0.0,নিবেদিত
+well-intentioned,0.9,0.0,সদুদ্দেশ্যে কৃত
+autonomous,0.9,0.0,স্বায়ত্তশাসিত
+awed,0.9,0.0,তত বেশি সশ্রদ্ধ ভয়
+promises,0.9,0.0,প্রতিশ্রুতি
+lucrative,0.9,0.0,লাভজনক
+compassionate,0.9,0.0,দয়াশীল
+dependably,0.9,0.0,dependably
+handsome,0.9,0.0,সুদর্শন
+chic,0.9,0.0,চটকদার
+excited,0.9,0.0,উত্তেজিত
+infallibly,0.9,0.0,নিশ্চিতভাবে
+proving,0.9,0.0,প্রতিপাদন
+impresses,0.9,0.0,মুগ্ধ
+interests,0.9,0.0,স্বার্থ
+enviably,0.9,0.0,enviably
+dotingly,0.9,0.0,dotingly
+superior,0.9,0.0,উচ্চতর
+pleasurable,0.9,0.0,আনন্দদায়ক
+industrious,0.9,0.0,পরিশ্রমী
+polite,0.9,0.0,ভদ্র
+slick,0.9,0.0,বাক্পটুতাপূর্ণ
+compliant,0.9,0.0,অনুযোগ
+smile,0.9,0.0,হাসা
+agreeably,0.9,0.0,প্রীতিকরভাবে
+miraculousness,0.9,0.0,miraculousness
+works,0.9,0.0,কাজ
+reverent,0.9,0.0,সশ্রদ্ধ
+graciously,0.9,0.0,অনুগ্রহপূর্বক
+pinnacle,0.9,0.0,চূড়া
+risk-free,0.9,0.0,ঝুঁকিমুক্ত
+empathize,0.9,0.0,রাখেন
+righteous,0.9,0.0,ধার্মিক
+subsidize,0.9,0.0,ভর্তুকি
+effusion,0.9,0.0,কবিতা
+unfazed,0.9,0.0,unfazed
+awarded,0.9,0.0,দত্ত
+excelled,0.9,0.0,উৎকৃষ্ট
+beckon,0.9,0.0,ইশারা করা
+well-backlit,0.9,0.0,ভালভাবে ব্যাকলিট
+law-abiding,0.9,0.0,আইনানুগ
+eased,0.9,0.0,লাঘব
+amusingly,0.9,0.0,amusingly
+sensible,0.9,0.0,বিচক্ষণ
+impeccable,0.9,0.0,অনবদ্য
+awesomely,0.9,0.0,awesomely
+competitive,0.9,0.0,প্রতিযোগিতামূলক
+bravery,0.9,0.0,সাহস
+distinction,0.9,0.0,পার্থক্য
+sagacity,0.9,0.0,সদ্বিবেচনা
+goood,0.9,0.0,শুভ
+properly,0.9,0.0,সঠিকভাবে
+bloom,0.9,0.0,পুষ্প
+freshest,0.9,0.0,নবীনতম
+richly,0.9,0.0,সমৃদ্ধিসহকারে
+well-wishers,0.9,0.0,শোভাকাঙ্খ
+flawlessly,0.9,0.0,flawlessly
+quaint,0.9,0.0,উদ্ভট
+smartest,0.9,0.0,বুদ্ধিমান
+gracious,0.9,0.0,করুণাময়
+youthful,0.9,0.0,তরূণ
+revolutionizes,0.9,0.0,revolutionizes
+eloquently,0.9,0.0,অলঙ্কারপূর্ণভাবে
+beautiful,0.9,0.0,সুন্দর
+feasibly,0.9,0.0,feasibly
+relaxed,0.9,0.0,নিরুদ্বেগ
+succes,0.9,0.0,সাফল্য
+incredible,0.9,0.0,অবিশ্বাস্য
+recovery,0.9,0.0,আরোগ্য
+wisely,0.9,0.0,বিজ্ঞতার সঙ্গে
+effective,0.9,0.0,কার্যকর
+merriment,0.9,0.0,উল্লাস
+low-risk,0.9,0.0,ঝুঁকি কম
+affluence,0.9,0.0,সমৃদ্ধি
+admirable,0.9,0.0,ধন্য
+inpressed,0.9,0.0,inpressed
+wows,0.9,0.0,wows
+refine,0.9,0.0,পরিশোধন করা
+brave,0.9,0.0,সাহসী
+amity,0.9,0.0,বন্ধুত্ব
+benevolent,0.9,0.0,হিতৈষী
+securely,0.9,0.0,নিরাপদে
+improved,0.9,0.0,উন্নত
+desiring,0.9,0.0,প্রার্থীর
+reform,0.9,0.0,সংশোধন
+romantically,0.9,0.0,রোম্যান্টিক
+sporty,0.9,0.0,খেলাধুলাপ্রি়
+reverence,0.9,0.0,নিষ্ঠা
+invigorate,0.9,0.0,বলাধান করা
+outstanding,0.9,0.0,অনিষ্পন্ন
+prefers,0.9,0.0,পছন্দ
+magnificent,0.9,0.0,মহৎ
+outperformed,0.9,0.0,ছাপিয়ে গিয়েছিল
+eminence,0.9,0.0,সহত্ত্ব
+satisified,0.9,0.0,satisified
+enviousness,0.9,0.0,enviousness
+overjoyed,0.9,0.0,আনন্দে আত্মহারা
+sophisticated,0.9,0.0,বাস্তববুদ্ধিসম্পন্ন
+extol,0.9,0.0,উচ্চপ্রশংসা করা
+astonishingly,0.9,0.0,কাজে অবিশ্বাস্য
+world-famous,0.9,0.0,বিশ্ব বিখ্যাত
+gratitude,0.9,0.0,কৃতজ্ঞতা
+deservedly,0.9,0.0,সমীচীনভাবে
+mesmerizingly,0.9,0.0,mesmerizingly
+unparalleled,0.9,0.0,অনুপম
+gorgeously,0.9,0.0,দামী
+genial,0.9,0.0,মহান
+succeed,0.9,0.0,সফল
+beautifullly,0.9,0.0,beautifullly
+faithfully,0.9,0.0,নিখুঁতভাবে
+priceless,0.9,0.0,অমূল্য
+exultant,0.9,0.0,নাচতে
+thank,0.9,0.0,ধন্যবাদ
+thumbs-up,0.9,0.0,অঙ্গুষ্ঠ আপ
+titillating,0.9,0.0,titillating
+preferably,0.9,0.0,বাঞ্ছনীয়
+wonder,0.9,0.0,আশ্চর্যের কিছু নেই
+jubilate,0.9,0.0,আনন্দোত্সব করা
+finest,0.9,0.0,শেখ
+recommendation,0.9,0.0,সুপারিশ
+astonishing,0.9,0.0,বিস্ময়কর
+enrapt,0.9,0.0,enrapt
+honesty,0.9,0.0,সততা
+luxury,0.9,0.0,বিলাসিতা
+futuristic,0.9,0.0,আধুনিক
+important,0.9,0.0,গুরুত্বপূর্ণ
+gaily,0.9,0.0,ফূর্তিতে
+smooth,0.9,0.0,মসৃণ
+stronger,0.9,0.0,শক্তিশালী
+high-spirited,0.9,0.0,তেজস্বী
+succeeding,0.9,0.0,পদানুবর্তী
+beloved,0.9,0.0,দয়িত
+beautifully,0.9,0.0,সুন্দর
+sustainable,0.9,0.0,টেকসই
+staunch,0.9,0.0,বায়ুরোধী
+nice,0.9,0.0,চমৎকার
+acclamation,0.9,0.0,প্রশংসা
+stellar,0.9,0.0,নাক্ষত্রিক
+favorited,0.9,0.0,পছন্দ
+zenith,0.9,0.0,সুবিন্দু
+courteous,0.9,0.0,বিনীত
+heroically,0.9,0.0,বীরত্বের সাথে
+lucky,0.9,0.0,ভাগ্যবান
+correctly,0.9,0.0,সঠিকভাবে
+prudent,0.9,0.0,বিচক্ষণ
+success,0.9,0.0,সাফল্য
+lustrous,0.9,0.0,চিকন
+non-violent,0.9,0.0,অহিংস
+fervid,0.9,0.0,তপ্ত
+gratifying,0.9,0.0,সন্তোষজনক
+statuesque,0.9,0.0,শিলারুপী
+heartening,0.9,0.0,উৎসাহজনক
+unequivocally,0.9,0.0,দ্ব্যর্থহীনভাবে
+brand-new,0.9,0.0,আনকোরা
+blockbuster,0.9,0.0,ব্লকবাস্টার
+breathtaking,0.9,0.0,উত্তেজনাপূর্ণ
+remission,0.9,0.0,উপশম
+heal,0.9,0.0,আরোগ্য করা
+accomodative,0.9,0.0,accomodative
+ebullience,0.9,0.0,স্ফুটন
+rightness,0.9,0.0,ন্যায্যতা
+nobly,0.9,0.0,অভিজাত বংশে
+finer,0.9,0.0,তীক্ষ্ণ স্বরূপ
+gaiety,0.9,0.0,হর্ষ
+eagerly,0.9,0.0,সাগ্রহে
+accessable,0.9,0.0,accessable
+acclaim,0.9,0.0,জয়ধ্বনি
+self-sufficient,0.9,0.0,স্বয়ংসম্পূর্ণ
+adulatory,0.9,0.0,সংপ্রশংসনীয়
+roomy,0.9,0.0,প্রশস্ত
+harmonious,0.9,0.0,সুরেলা
+ecstatically,0.9,0.0,ecstatically
+relent,0.9,0.0,নরম হত্তয়া
+impassioned,0.9,0.0,আবেগপূর্ণ
+rectifying,0.9,0.0,শোধক
+prize,0.9,0.0,পুরস্কার
+beauteous,0.9,0.0,সুন্দর
+confidence,0.9,0.0,বিশ্বাস
+cherished,0.9,0.0,লালিত
+outstrip,0.9,0.0,বেরিয়ে যাত্তয়া
+wieldy,0.9,0.0,wieldy
+picturesque,0.9,0.0,চিত্রানুগ
+educated,0.9,0.0,শিক্ষিত
+dauntless,0.9,0.0,অভী
+embolden,0.9,0.0,সাহসী করা
+reaffirmation,0.9,0.0,পুনর্বাচন
+cost-saving,0.9,0.0,খরচ বাঁচান
+brainy,0.9,0.0,মাথাল
+unencumbered,0.9,0.0,ভারমুক্ত
+amenity,0.9,0.0,শিষ্টতা
+valor,0.9,0.0,মান
+convience,0.9,0.0,convience
+err-free,0.9,0.0,মাত্রই ভুল করে-মুক্ত
+hotcake,0.9,0.0,্রভগ
+delighted,0.9,0.0,খুশি
+prestigious,0.9,0.0,মর্যাদাপূর্ণ
+amazingly,0.9,0.0,বিস্ময়করভাবে
+encourage,0.9,0.0,উত্সাহিত করা
+liked,0.9,0.0,পছন্দ
+correct,0.9,0.0,ঠিক
+outdo,0.9,0.0,অতিক্রম করা
+helped,0.9,0.0,সাহায্য
+accolade,0.9,0.0,প্রশংসা
+invulnerable,0.9,0.0,অভেদ্য
+defeating,0.9,0.0,ক্ষয়কারক
+gems,0.9,0.0,রত্ন
+low-priced,0.9,0.0,কম দামি
+patiently,0.9,0.0,অকাতরে
+dazzle,0.9,0.0,ঝলসানি
+enviable,0.9,0.0,বাঁছনীয়
+engaging,0.9,0.0,আকর্ষক
+ingenuous,0.9,0.0,মনখোলা
+peach,0.9,0.0,পীচ
+gleefully,0.9,0.0,উল্লাসিতভাবে
+supurbly,0.9,0.0,supurbly
+refund,0.9,0.0,প্রত্যর্পণ
+lower-priced,0.9,0.0,কম দামের
+patriotic,0.9,0.0,স্বদেশপ্রেমী
+calmness,0.9,0.0,নিস্তব্ধতা
+irreplaceable,0.9,0.0,অপূরণীয়
+fearlessly,0.9,0.0,নির্ভয়ে
+steadfastly,0.9,0.0,অবিচলিতভাবে
+exalting,0.9,0.0,exalting
+trustworthiness,0.9,0.0,বিশ্বাসযোগ্যতা
+accommodative,0.9,0.0,accommodative
+unrestricted,0.9,0.0,অবাধ
+affordably,0.9,0.0,সামর্থ্য অনুযায়ী
+appeal,0.9,0.0,আবেদন
+integrated,0.9,0.0,সমন্বিত
+dead-on,0.9,0.0,মারা খাঁ
+remarkable,0.9,0.0,অসাধারণ
+brainiest,0.9,0.0,brainiest
+time-honored,0.9,0.0,প্রাচিনতার দরূন সম্মানিত
+savior,0.9,0.0,ত্রাণকর্তা
+backbone,0.9,0.0,মেরুদন্ড
+outstandingly,0.9,0.0,লক্ষণীয়ভাবে
+amazement,0.9,0.0,আশ্চর্য
+replaceable,0.9,0.0,প্রতিস্থাপনের যোগ্য
+swankiest,0.9,0.0,swankiest
+energy-saving,0.9,0.0,শক্তি সঞ্চয়
+prodigious,0.9,0.0,বিস্ময়কর
+amicably,0.9,0.0,আপসে
+guarantee,0.9,0.0,জামিন
+simplifying,0.9,0.0,সরল
+supremacy,0.9,0.0,আধিপত্য
+softer,0.9,0.0,নরম
+honest,0.9,0.0,সত্
+covenant,0.9,0.0,চুক্তি
+striking,0.9,0.0,আকর্ষণীয়
+sensitive,0.9,0.0,সংবেদনশীল
+attractively,0.9,0.0,আকর্ষণীয়
+electrify,0.9,0.0,বৈদ্যুতীকরণ করা
+best-performing,0.9,0.0,সেরা-পারফর্মিং
+simplify,0.9,0.0,সহজতর করা
+spellbinding,0.9,0.0,spellbinding
+cure-all,0.9,0.0,প্রতিকারও সব
+hands-down,0.9,0.0,হাত নামাও
+soundly,0.9,0.0,রীতিমত
+snappy,0.9,0.0,আকস্মিক
+exquisite,0.9,0.0,সূক্ষ্ম
+reassure,0.9,0.0,প্রত্যয় জন্মান
+brilliances,0.9,0.0,brilliances
+paramount,0.9,0.0,সর্বোচ্চ
+dextrous,0.9,0.0,ক্ষেত্রজ্ঞ
+lucidly,0.9,0.0,স্বচ্ছভাবে
+contrasty,0.9,0.0,contrasty
+accomplishment,0.9,0.0,সংসাধন
+humorous,0.9,0.0,রসাত্মক
+appropriate,0.9,0.0,যথাযথ
+undisputably,0.9,0.0,undisputably
+clearly,0.9,0.0,পরিষ্কারভাবে
+admiringly,0.9,0.0,admiringly
+eventful,0.9,0.0,ঘটনাবহুল
+guidance,0.9,0.0,পথপ্রদর্শন
+hallowed,0.9,0.0,পবিত্র
+liberate,0.9,0.0,মুক্ত করা
+reclaim,0.9,0.0,সংশোধনের
+outperform,0.9,0.0,ছাড়িয়া যাত্তয়া
+valiant,0.9,0.0,বীর
+magnanimously,0.9,0.0,magnanimously
+upliftingly,0.9,0.0,upliftingly
+heaven,0.9,0.0,স্বর্গ
+robust,0.9,0.0,বলিষ্ঠ
+blameless,0.9,0.0,নিখুঁত
+spellbind,0.9,0.0,spellbind
+meritorious,0.9,0.0,গুণী
+self-determination,0.9,0.0,আত্মনির্ধারণ
+happiness,0.9,0.0,সুখ
+enjoyable,0.9,0.0,উপভোগ্য
+subsidizes,0.9,0.0,ভর্তুকি দিয়ে
+nurturing,0.9,0.0,এবং- xid
+eminent,0.9,0.0,বিশিষ্ট
+heavenly,0.9,0.0,স্বর্গীয়
+engrossing,0.9,0.0,চিত্তাকর্ষক
+rich,0.9,0.0,সমৃদ্ধ
+humor,0.9,0.0,মেজাজ
+first-rate,0.9,0.0,প্রথমশ্রেণীভুক্ত
+unselfish,0.9,0.0,স্বার্থপরতাশূন্য
+oasis,0.9,0.0,মরুদ্যান
+poised,0.9,0.0,পয়েজড
+kid-friendly,0.9,0.0,ছাগলছানা বান্ধব
+harmonize,0.9,0.0,একত্রিত
+vigilant,0.9,0.0,সজাগ
+outwit,0.9,0.0,ঠকান
+adoringly,0.9,0.0,adoringly
+quieter,0.9,0.0,নীরব
+fondly,0.9,0.0,কোমলভাবে
+instructive,0.9,0.0,শিক্ষামূলক
+complemented,0.9,0.0,অনুপূরক
+all-around,0.9,0.0,চারদিকে
+hallmarks,0.9,0.0,ছাপ
+soundness,0.9,0.0,অনাময
+dashing,0.9,0.0,আড়ম্বরপ্রি়
+overtaken,0.9,0.0,পতিত
+grace,0.9,0.0,অনুগ্রহ
+advocate,0.9,0.0,উকিল
+fanfare,0.9,0.0,তূর্যনিনাদ
+jubilantly,0.9,0.0,jubilantly
+praising,0.9,0.0,গুণগান
+tops,0.9,0.0,সমাজের সারাংশ
+succeeds,0.9,0.0,সফল
+astonished,0.9,0.0,বিস্মিত
+danken,0.9,0.0,ধন্যবাদ দিতে
+affection,0.9,0.0,স্নেহ
+geeky,0.9,0.0,আরো ইউনিট
+hot,0.9,0.0,গরম
+advantageous,0.9,0.0,সুবিধাজনক
+improve,0.9,0.0,উন্নত করা
+sweetheart,0.9,0.0,প্রণয়ী
+eloquence,0.9,0.0,বাগ্মিতা
+audibly,0.9,0.0,চেঁচিয়ে
+charmingly,0.9,0.0,charmingly
+incredibly,0.9,0.0,অবিশ্বাস্যভাবে
+solicitous,0.9,0.0,একান্তভাবে কামনাকারী
+well-made,0.9,0.0,ভালো তৈরি
+logical,0.9,0.0,যৌক্তিক
+zeal,0.9,0.0,চাড়
+thoughtfully,0.9,0.0,চিন্তাকরে
+solid,0.9,0.0,কঠিন
+deference,0.9,0.0,সশ্রদ্ধ বাধ্যতা
+intuitive,0.9,0.0,স্বজ্ঞাত
+punctual,0.9,0.0,সময়নিষ্ঠ
+hallmark,0.9,0.0,ছাপ দেত্তয়া
+redeeming,0.9,0.0,ক্ষতিপূরণমূলক
+safe,0.9,0.0,নিরাপদ
+excallent,0.9,0.0,excallent
+fortune,0.9,0.0,ভাগ্য
+grin,0.9,0.0,কষ্টহাসি
+awesomeness,0.9,0.0,বিস্ময়ে
+succeeded,0.9,0.0,অনুসৃত
+beckons,0.9,0.0,beckons
+pamperedly,0.9,0.0,pamperedly
+appreciative,0.9,0.0,রসিক
+thrilled,0.9,0.0,শিহরিত
+loyal,0.9,0.0,বিশ্বস্ত
+adventurous,0.9,0.0,দু: সাহসিক
+booming,0.9,0.0,গুড়ুম
+renown,0.9,0.0,খ্যাতি
+dote,0.9,0.0,যৌতুক
+reformed,0.9,0.0,সংশোধিত
+excellently,0.9,0.0,সম্যক্
+fresh,0.9,0.0,তাজা
+exceedingly,0.9,0.0,অতীব
+undisputable,0.9,0.0,Undisputable
+distinctive,0.9,0.0,স্বাতন্ত্র্যসূচক
+hale,0.9,0.0,সুস্থ
+gloriously,0.9,0.0,মহান
+elan,0.9,0.0,ঘোষণা
+stylized,0.9,0.0,stylized
+sweeten,0.9,0.0,মধুর করা
+alluring,0.9,0.0,লোভনীয়
+fecilitous,0.9,0.0,fecilitous
+overtaking,0.9,0.0,ছাড়িয়ে
+saver,0.9,0.0,সঁচয় উপায়
+ftw,0.9,0.0,FTW
+laudable,0.9,0.0,প্রশংসনীয়
+euphoric,0.9,0.0,euphoric
+impartially,0.9,0.0,নিরপেক্ষভাবে
+lifesaver,0.9,0.0,রক্ষাকর্তা
+simplest,0.9,0.0,সহজ
+excellency,0.9,0.0,পরম কৃতিত্ব
+agility,0.9,0.0,তত্পরতা
+blessing,0.9,0.0,বর
+winnable,0.9,0.0,winnable
+fair,0.9,0.0,ন্যায্য
+monumentally,0.9,0.0,monumentally
+felicity,0.9,0.0,সুখ
+hottest,0.9,0.0,হটেস্ট
+courtly,0.9,0.0,শিষ্ট
+headway,0.9,0.0,অগ্রগতি
+bonuses,0.9,0.0,বনাস
+best-known,0.9,0.0,সেরা পরিচিত
+significant,0.9,0.0,গুরুত্বপূর্ণ
+smoothes,0.9,0.0,smoothes
+prettily,0.9,0.0,শোভনভাবে
+affinity,0.9,0.0,সম্বন্ধ
+meaningful,0.9,0.0,অর্থপূর্ণ
+prosperous,0.9,0.0,উন্নতিশীল
+ambitiously,0.9,0.0,উচ্চাকাঙ্ক্ষীভাবে
+versatility,0.9,0.0,বহুমুখতা
+lawfully,0.9,0.0,আইনত
+resourceful,0.9,0.0,সম্পদ্শালী
+endearing,0.9,0.0,স্নেহসঞ্চারক
+felicitate,0.9,0.0,শুভকামনা
+heartily,0.9,0.0,কায়মনোবাক্যে
+admire,0.9,0.0,Admire
+suffices,0.9,0.0,যথেষ্ট
+aspirations,0.9,0.0,আকাঙ্খার
+infallibility,0.9,0.0,আপ্ততা
+surpass,0.9,0.0,অতিক্রম করা
+delicious,0.9,0.0,সুস্বাদু
+complimentary,0.9,0.0,প্রশংসাসূচক
+novelty,0.9,0.0,নূতনত্ব
+coherence,0.9,0.0,সঙ্গতি
+subsidized,0.9,0.0,ভর্তুকি
+surreal,0.9,0.0,পরাবাস্তব
+spiritual,0.9,0.0,আধ্যাত্মিক
+grandeur,0.9,0.0,মহিমা
+improving,0.9,0.0,উন্নতি
+goodness,0.9,0.0,ধার্মিকতা
+bonus,0.9,0.0,বোনাস
+amusing,0.9,0.0,মজাদার
+confident,0.9,0.0,আত্মবিশ্বাসী
+felicitous,0.9,0.0,মনোরম
+compactly,0.9,0.0,অভেদ্যভাবে
+trivially,0.9,0.0,জাভাস্ক্রিপ্টে গার্বেজ
+achievable,0.9,0.0,সাধনযোগ্য
+merrily,0.9,0.0,ফূর্তিতে
+exhilarating,0.9,0.0,উল্লাসজনক
+thrills,0.9,0.0,রোমাঞ্চ
+tidy,0.9,0.0,পরিপাটি
+jubiliant,0.9,0.0,জয়ন্তী
+sensibly,0.9,0.0,বুদ্ধিমানের
+restructure,0.9,0.0,পুনর্বিন্যাস
+miraculous,0.9,0.0,অলৌকিক
+glee,0.9,0.0,উল্লাস
+whoa,0.9,0.0,থাম
+superb,0.9,0.0,চমত্কার
+obsession,0.9,0.0,ঘোর
+joyfully,0.9,0.0,সহর্ষে
+undisputed,0.9,0.0,অবিসংবাদিত
+comely,0.9,0.0,সুশ্রী
+gorgeous,0.9,0.0,টকটকে
+luckier,0.9,0.0,ভাগ্যবান
+worth,0.9,0.0,মূল্য
+beneficially,0.9,0.0,লাভজনক
+user-replaceable,0.9,0.0,ব্যবহারকারী-পরিবর্তনযোগ্য
+decent,0.9,0.0,শালীন
+blissfully,0.9,0.0,উদাসীন
+salutary,0.9,0.0,উপকারী
+commodious,0.9,0.0,প্রশস্ত
+stable,0.9,0.0,স্থিতিশীল
+scenic,0.9,0.0,নাটুকে
+unassailable,0.9,0.0,অনাক্রম্য
+holy,0.9,0.0,পবিত্র
+invincibility,0.9,0.0,অপরাজেয়তার
+enchant,0.9,0.0,পুলকিত
+appealing,0.9,0.0,মর্মস্পর্শী
+resolute,0.9,0.0,অটল
+titillatingly,0.9,0.0,titillatingly
+excellence,0.9,0.0,শ্রেষ্ঠত্ব
+perfect,0.9,0.0,নির্ভুল
+revolutionized,0.9,0.0,বৈপ্লবিক
+exalted,0.9,0.0,সমুচ্চ
+loves,0.9,0.0,ভালবাসে
+accolades,0.9,0.0,সুনাম
+delectable,0.9,0.0,আনন্দদায়ক
+wowed,0.9,0.0,wowed

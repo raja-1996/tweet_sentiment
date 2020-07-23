@@ -1,0 +1,2179 @@
+Term,PosScore,NegScore,Urdu
+direct,0.75,0.0,براہ راست
+adoptable,0.75,0.0,قابل قبول
+due,0.75,0.0,وجہ سے
+ravishing,0.75,0.0,حیرت انگیز
+benefic,0.75,0.0,فائدہ مند
+unsurpassable,1.0,0.0,بے شک
+thorough,0.75,0.0,مکمل
+cautious,0.75,0.0,محتاط
+competent,0.75,0.0,مجاز
+workmanlike,0.75,0.0,workman Like
+competent,0.75,0.0,مجاز
+full-blown,0.75,0.0,مکمل تباہ
+conspicuous,0.75,0.0,واضح
+differentiable,0.75,0.0,امتیازی
+constant,0.75,0.125,مستقل
+incorrupt,0.75,0.25,غیر متعل .ق
+corn-fed,0.75,0.0,مکئی سے کھلایا
+decorous,0.75,0.0,سجاوٹ
+definite,0.75,0.0,یقینی
+importunate,0.75,0.125,امپورٹ کریں
+plummy,0.75,0.0,پلمی
+discerning,0.875,0.0,سمجھدار
+incisive,0.75,0.0,incisive
+metal-cutting,0.75,0.0,دھات کاٹنے
+bounden,0.875,0.0,پابند
+disenchanted,0.875,0.0,مایوس کن
+exportable,0.75,0.0,قابل برآمد
+enlightened,0.75,0.0,روشن ضمیر
+estimable,1.0,0.0,اندازہ لگانا
+exchangeable,0.75,0.0,قابل تبادلہ
+expendable,0.75,0.0,قابل خرچ
+extricable,0.75,0.0,extricable
+fit,0.75,0.0,فٹ
+pleasant-smelling,0.75,0.0,خوشگوار خوشبو
+goodish,0.75,0.0,اچھ .ا
+goody-goody,0.875,0.0,goody-goody
+white,0.75,0.0,سفید
+good-natured,0.75,0.0,نیک مزاج
+gainly,0.875,0.0,فائدہ مند
+bouncing,0.75,0.0,اچھال
+firm,0.875,0.0,فرم
+hearty,0.75,0.0,دل سے
+well-preserved,0.75,0.0,اچھی طرح سے محفوظ
+laureate,0.75,0.0,انعام یافتہ
+droll,0.75,0.0,ڈرول
+measurable,0.75,0.0,پیمائش
+intellectual,0.875,0.0,دانشور
+inviting,0.75,0.0,مدعو کرنا
+gladsome,0.75,0.0,خوش کن
+singable,0.75,0.0,گانے قابل
+moralistic,0.75,0.125,اخلاقیات
+incorrupt,0.75,0.25,غیر متعل .ق
+licit,0.75,0.0,بولی
+incumbent,0.875,0.0,موجودہ
+unimpassioned,0.75,0.0,بے رحم
+finished,0.75,0.0,ختم
+microscopic,0.75,0.0,خوردبین
+halal,0.75,0.0,حلال
+kosher,0.75,0.0,کوشر
+disarming,0.75,0.125,غیر مسلح کرنا
+white,0.75,0.125,سفید
+ladylike,0.75,0.0,عورت کی طرح
+unprintable,0.75,0.25,غیر پرنٹ
+diffident,0.875,0.0,مختلف
+answerable,0.875,0.0,جوابدہ
+emancipative,0.75,0.125,emancipative
+danceable,0.75,0.0,رقص
+opposite,0.75,0.125,برعکس
+antiseptic,0.75,0.25,جراثیم کش
+shapely,0.75,0.0,سڈول
+well-proportioned,0.75,0.0,متناسب
+sound,0.75,0.0,آواز
+straightarrow,0.875,0.125,سیدھا
+upper,0.75,0.0,اوپری
+banner,0.875,0.0,بینر
+gilt-edged,0.75,0.0,گلٹ والا
+premium,0.75,0.0,پریمیم
+shining,0.75,0.0,چمک
+spiffing,0.875,0.0,سپفنگ
+choice,0.75,0.125,انتخاب
+serviceable,0.75,0.0,قابل خدمت
+sacred,0.75,0.0,مقدس
+constitutional,0.75,0.0,آئینی
+deliverable,0.75,0.0,فراہمی
+ducal,0.75,0.0,ڈوکل
+masterstroke,0.75,0.0,ماسٹرسٹروک
+pleasantry,0.75,0.0,خوشگوار
+indignity,0.75,0.0,غصہ
+props,0.875,0.0,سہارے
+titillation,0.75,0.0,عنوان
+beatification,0.75,0.0,خوبصورتی
+rambouillet,0.75,0.0,rambouillet
+character,0.875,0.0,کردار
+drama,0.75,0.0,ڈرامہ
+chirpiness,0.75,0.0,چیخ پن
+vivacity,0.75,0.25,چکرا پن
+mettlesomeness,0.75,0.0,mettlesomeness
+bluffness,0.875,0.0,bluffness
+picturesqueness,0.875,0.0,فرحت
+pleasingness,0.75,0.0,خوشنودی
+attractiveness,0.75,0.0,کشش
+innateness,0.75,0.25,فطرت
+totality,0.75,0.0,کلیت
+looseness,0.75,0.25,ڈھیلا پن
+wholesomeness,0.875,0.0,تندرستی
+healthfulness,0.875,0.0,صحت مند
+trueness,0.75,0.0,سچائی
+tastefulness,0.875,0.0,ذائقہ
+urbanity,0.875,0.0,شہریت
+conscientiousness,0.75,0.0,دیانتداری
+safeness,0.75,0.25,صافی
+scrupulousness,0.75,0.0,بےچینی
+integrity,0.875,0.125,سالمیت
+probity,0.75,0.0,امکان
+artfulness,0.75,0.0,artfulness
+dedication,0.875,0.0,سرشار. لگن
+urbanity,0.875,0.0,شہریت
+crispness,0.875,0.0,کرکرا پن
+extremeness,0.75,0.25,شدت
+reasonableness,0.75,0.0,معقولیت
+affirmativeness,0.75,0.0,اثبات
+importance,0.75,0.125,اہمیت
+account,0.875,0.125,کھاتہ
+meaningfulness,0.75,0.125,معنی خیزی
+shrillness,0.75,0.25,چمک پن
+eye,0.75,0.0,آنکھ
+logic,0.75,0.0,منطق
+judiciousness,0.875,0.0,انصاف پسندی
+ear,0.75,0.0,کان
+balletomania,0.75,0.0,بیلٹومینیا
+mastering,0.75,0.0,ماسٹرنگ
+principle,0.75,0.0,اصول
+hedonism,0.75,0.0,ہیڈونزم
+courtesy,0.75,0.0,بشکریہ
+topper,0.75,0.0,ٹاپر
+divination,0.875,0.0,تقدیر
+moralism,0.75,0.125,اخلاقیات
+bonheur,0.875,0.0,خوشی
+beneficence,0.75,0.0,فائدہ
+criollo,0.75,0.0,کریول
+amoralist,0.75,0.0,amoralist
+brick,0.75,0.0,اینٹ
+first-rater,1.0,0.0,پہلا ریسٹر
+out-and-outer,0.75,0.0,باہر اور بیرونی
+pleaser,0.75,0.0,براہ کرم
+possible,0.75,0.0,ممکن
+serendipity,0.75,0.125,Serendipity
+antithesis,0.75,0.0,عداوت
+contrary,0.75,0.0,برعکس
+algidity,0.75,0.25,لجطیت
+pathology,0.75,0.125,پیتھالوجی
+character,0.875,0.0,کردار
+fettle,0.75,0.0,بازیافت
+time,0.75,0.0,وقت
+simply,0.75,0.0,سیدھے
+downright,0.75,0.0,سیدھے
+recuperate,0.75,0.0,صحت یاب ہونا
+redound,0.75,0.0,سرخ
+enervate,0.75,0.0,مشتعل کرنا
+delouse,0.75,0.0,ڈیلائوز
+think,0.75,0.0,سوچنا
+receive,0.75,0.0,وصول کریں
+consider,0.75,0.0,غور کریں
+give,0.75,0.125,دینا
+filigree,0.875,0.0,فلیگری
+stultify,0.75,0.125,stirtyfy
+see,0.75,0.0,دیکھیں
+vest,0.875,0.0,بنیان
+agree,0.875,0.0,متفق ہوں
+suit,0.875,0.0,سوٹ
+belong,0.75,0.0,تعلق
+make,0.875,0.0,بنائیں
+sensation,0.9,0.0,احساس
+thriving,0.9,0.0,فروغ پزیر
+marvels,0.9,0.0,چمتکار
+vibrant,0.9,0.0,متحرک
+fragrant,0.9,0.0,خوشبودار
+enthusiast,0.9,0.0,حوصلہ افزائی
+successfully,0.9,0.0,کامیابی سے
+gifted,0.9,0.0,تحفے
+unequivocal,0.9,0.0,غیر واضح
+readily,0.9,0.0,آسانی سے
+solicitously,0.9,0.0,خلوص سے
+enchantingly,0.9,0.0,پرفتن سے
+gold,0.9,0.0,سونا
+comforting,0.9,0.0,آرام دہ
+portable,0.9,0.0,پورٹیبل
+sensations,0.9,0.0,احساسات
+truthful,0.9,0.0,سچا
+notably,0.9,0.0,خاص طور پر
+bonny,0.9,0.0,بونی
+adulate,0.9,0.0,ایڈولٹ کرنا
+jolly,0.9,0.0,بہت خوش
+supurb,0.9,0.0,supurb
+aspiration,0.9,0.0,آرزو
+venerate,0.9,0.0,پوجا
+liking,0.9,0.0,پسند ہے
+sweeping,0.9,0.0,جھاڑو
+flexible,0.9,0.0,لچکدار
+liberty,0.9,0.0,آزادی
+refresh,0.9,0.0,ریفریش
+vivacious,0.9,0.0,زندہ باد
+gem,0.9,0.0,جواہر
+impress,0.9,0.0,متاثر کرنا
+trumpet,0.9,0.0,ترہی
+entrust,0.9,0.0,سپرد کرنا
+catchy,0.9,0.0,کشش
+talents,0.9,0.0,پرتیبھا
+retractable,0.9,0.0,واپس لینے کے قابل
+passionate,0.9,0.0,پرجوش
+triumph,0.9,0.0,فتح
+afordable,0.9,0.0,افورڈبل
+congratulations,0.9,0.0,مبارک ہو
+bargain,0.9,0.0,سودے بازی
+glad,0.9,0.0,خوشی
+rejuvenated,0.9,0.0,پھر سے جوان ہوا
+top,0.9,0.0,سب سے اوپر
+gladden,0.9,0.0,خوشی
+energize,0.9,0.0,حوصلہ افزائی
+humane,0.9,0.0,انسانی
+swank,0.9,0.0,ڈوب گیا
+insightfully,0.9,0.0,بصیرت سے
+courageousness,0.9,0.0,ہمت
+fancinating,0.9,0.0,fancinating
+maturity,0.9,0.0,پختگی
+energy-efficient,0.9,0.0,موثر توانائی
+calm,0.9,0.0,پرسکون
+desirable,0.9,0.0,مطلوبہ
+poeticize,0.9,0.0,شاعرانہ کرنا
+easiest,0.9,0.0,سب سے آسان
+low-price,0.9,0.0,کم قیمت
+striving,0.9,0.0,جدوجہد کرنا
+advantage,0.9,0.0,فائدہ
+cheerful,0.9,0.0,خوشگوار
+ample,0.9,0.0,کافی
+steady,0.9,0.0,مستحکم
+effortless,0.9,0.0,بے سہل
+innovation,0.9,0.0,جدت
+fine-looking,0.9,0.0,ٹھیک ہے
+wonders,0.9,0.0,حیرت
+cashback,0.9,0.0,پیسے واپس
+quicker,0.9,0.0,تیز
+gleeful,0.9,0.0,انتہا پسندی کی خوشی
+expertly,0.9,0.0,مہارت سے
+divine,0.9,0.0,الہی
+miraculously,0.9,0.0,معجزانہ طور پر
+daring,0.9,0.0,ہمت
+pepped,0.9,0.0,چھلکا
+cooperatively,0.9,0.0,تعاون سے
+gainful,0.9,0.0,فائدہ مند
+rewarding,0.9,0.0,فائدہ مند
+magnificently,0.9,0.0,شاندار
+captivate,0.9,0.0,موہ لینا
+exceeding,0.9,0.0,حد سے زیادہ
+ready,0.9,0.0,تیار
+invaluablely,0.9,0.0,انمول
+modesty,0.9,0.0,شائستگی
+innovative,0.9,0.0,جدید
+rapturous,0.9,0.0,بے خودی
+soulful,0.9,0.0,روحانی
+hard-working,0.9,0.0,محنتی
+understandable,0.9,0.0,قابل فہم
+resourcefulness,0.9,0.0,وسائل
+illumine,0.9,0.0,روشن
+trusty,0.9,0.0,قابل اعتماد
+patriot,0.9,0.0,محب وطن
+amply,0.9,0.0,کافی
+appreciate,0.9,0.0,کی تعریف
+large-capacity,0.9,0.0,بڑی صلاحیت
+ardent,0.9,0.0,پرجوش
+inspiration,0.9,0.0,پریرتا
+topnotch,0.9,0.0,اعلی مرتبہ
+fluent,0.9,0.0,روانی
+well-balanced,0.9,0.0,اچھی طرح سے متوازن
+clear-cut,0.9,0.0,صاف کٹ
+lovely,0.9,0.0,خوبصورت
+frugal,0.9,0.0,میعاد
+affirm,0.9,0.0,تصدیق
+idealize,0.9,0.0,مثالی بنانا
+great,0.9,0.0,زبردست
+profoundly,0.9,0.0,گہرا
+gumption,0.9,0.0,gumption
+elation,0.9,0.0,خوشی
+stability,0.9,0.0,استحکام
+spellbound,0.9,0.0,جادو
+obsessions,0.9,0.0,جنون
+applaud,0.9,0.0,تالیاں
+willing,0.9,0.0,تیار
+well-bred,0.9,0.0,اچھی نسل
+cleanly,0.9,0.0,صاف ستھرا
+graciousness,0.9,0.0,احسان
+constructive,0.9,0.0,تعمیری
+pampers,0.9,0.0,لاڈ
+hotcakes,0.9,0.0,گرم کیک
+realistic,0.9,0.0,حقیقت پسندانہ
+nicely,0.9,0.0,اچھی طرح سے
+unbiased,0.9,0.0,غیر جانبدار
+virtuously,0.9,0.0,فضیلت سے
+free,0.9,0.0,مفت
+fairly,0.9,0.0,منصفانہ
+cushy,0.9,0.0,cushy
+grand,0.9,0.0,لمبا
+admirer,0.9,0.0,تعریف کرنا
+peaceable,0.9,0.0,پر امن
+laud,0.9,0.0,ٹیبل
+renewed,0.9,0.0,تجدید
+inspire,0.9,0.0,حوصلہ افزائی
+buoyant,0.9,0.0,خوشگوار
+humility,0.9,0.0,عاجزی
+stabilize,0.9,0.0,مستحکم کرنا
+hopeful,0.9,0.0,امید مند
+staunchness,0.9,0.0,سختی
+tenderly,0.9,0.0,نرمی سے
+amiabily,0.9,0.0,amiabily
+liberation,0.9,0.0,آزادی
+loveliness,0.9,0.0,محبت
+stunned,0.9,0.0,دنگ رہ گئے
+seamless,0.9,0.0,ہموار
+supremely,0.9,0.0,عظمت سے
+capable,0.9,0.0,قابل
+firmer,0.9,0.0,مضبوط
+overture,0.9,0.0,غالب
+chivalrous,0.9,0.0,حریف
+ingeniously,0.9,0.0,آسانی سے
+freedom,0.9,0.0,آزادی
+well-positioned,0.9,0.0,اچھی طرح سے پوزیشن میں ہے
+balanced,0.9,0.0,متوازن
+refunded,0.9,0.0,رقم کی واپسی
+triumphal,0.9,0.0,فاتح
+angelic,0.9,0.0,فرشتہ
+matchless,0.9,0.0,بے مثال
+tenacious,0.9,0.0,سخت
+successful,0.9,0.0,کامیاب
+powerfully,0.9,0.0,طاقتور
+uplifting,0.9,0.0,ترقی
+dynamic,0.9,0.0,متحرک
+thankful,0.9,0.0,شکر گزار
+cuteness,0.9,0.0,cuteness
+champ,0.9,0.0,فیلڈ
+intriguingly,0.9,0.0,دلچسپی سے
+sufficiently,0.9,0.0,کافی
+pepping,0.9,0.0,چھلکا
+god-send,0.9,0.0,خدا بھیجیں
+mature,0.9,0.0,بالغ
+top-quality,0.9,0.0,بہترین معیار کا
+efficient,0.9,0.0,موثر
+easy-to-use,0.9,0.0,استعمال میں آسان
+peppy,0.9,0.0,پیپی
+idol,0.9,0.0,بت
+elegantly,0.9,0.0,خوبصورتی سے
+glorious,0.9,0.0,شاندار
+insightful,0.9,0.0,بصیرت انگیز
+economical,0.9,0.0,کم خرچ
+reassurance,0.9,0.0,یقین دہانی
+premier,0.9,0.0,پہلا
+redeem,0.9,0.0,چھڑانا
+pain-free,0.9,0.0,درد سے پاک
+supporter,0.9,0.0,حامی
+rejoicingly,0.9,0.0,خوشی سے
+dawn,0.9,0.0,ڈان کی
+gutsy,0.9,0.0,ہمت
+terrifically,0.9,0.0,خوفناک طور پر
+imaculate,0.9,0.0,تقلید کرنا
+appreciated,0.9,0.0,تعریف
+strongest,0.9,0.0,سب سے مضبوط
+accomplish,0.9,0.0,پورا
+stimulate,0.9,0.0,حوصلہ افزائی
+distinguished,0.9,0.0,ممتاز
+joy,0.9,0.0,خوشی
+enjoyed,0.9,0.0,لطف اٹھایا
+elate,0.9,0.0,خوشی
+benefit,0.9,0.0,فائدہ
+openness,0.9,0.0,کشادگی
+achievement,0.9,0.0,کامیابی
+honorable,0.9,0.0,معزز
+salute,0.9,0.0,صحت
+genuine,0.9,0.0,حقیقی
+unbound,0.9,0.0,ان باؤنڈ
+convienient,0.9,0.0,آسان
+enlighten,0.9,0.0,روشن کرنا
+dumbfounding,0.9,0.0,dumbfounding
+unabashed,0.9,0.0,بے شک
+rapturously,0.9,0.0,بے خودی سے
+steadiness,0.9,0.0,استحکام
+sensationally,0.9,0.0,سنسنی خیز
+clearer,0.9,0.0,واضح
+selective,0.9,0.0,منتخب
+affirmative,0.9,0.0,مثبت
+dirt-cheap,0.9,0.0,سستا
+trust,0.9,0.0,اعتماد
+enthusiasm,0.9,0.0,جوش و خروش
+undaunted,0.9,0.0,بے شک
+courageously,0.9,0.0,بہادری سے
+useful,0.9,0.0,مفید
+adequate,0.9,0.0,مناسب
+jubilation,0.9,0.0,خوشی
+admirably,0.9,0.0,قابل ستائش
+phenomenally,0.9,0.0,غیر معمولی طور پر
+decisiveness,0.9,0.0,فیصلہ کن ہونا
+cozy,0.9,0.0,آرام دہ
+compassion,0.9,0.0,شفقت
+handier,0.9,0.0,ہینڈیئر
+clears,0.9,0.0,کلیئرز
+convincingly,0.9,0.0,یقین سے
+preferring,0.9,0.0,ترجیح دیتے ہیں
+sagely,0.9,0.0,sagely
+viewable,0.9,0.0,دیکھنے لائق
+awesome,0.9,0.0,خوفناک
+abounds,0.9,0.0,کثرت
+keenness,0.9,0.0,شوق
+awards,0.9,0.0,ایوارڈ
+supportive,0.9,0.0,معاون
+fine,0.9,0.0,ٹھیک
+pamperedness,0.9,0.0,لاڈال
+unrivaled,0.9,0.0,بے مثال
+best-selling,0.9,0.0,بہترین فروخت ہونے والا
+hearten,0.9,0.0,دل سے
+sturdier,0.9,0.0,sturdier
+advantages,0.9,0.0,فوائد
+panoramic,0.9,0.0,Panoramic
+enhanced,0.9,0.0,بڑھا ہوا
+eulogize,0.9,0.0,eulogize
+lighter,0.9,0.0,ہلکا
+won,0.9,0.0,جیت لیا
+comprehensive,0.9,0.0,وسیع
+revival,0.9,0.0,حیات نو
+skilled,0.9,0.0,ہنر مند
+enticing,0.9,0.0,دلکش
+tenacity,0.9,0.0,سختی
+supporting,0.9,0.0,کی حمایت
+greatest,0.9,0.0,سب سے بڑا
+fabulously,0.9,0.0,بھرپور طریقے سے
+altruistic,0.9,0.0,پرہیزگار
+enticingly,0.9,0.0,دلکشی سے
+silent,0.9,0.0,خاموش
+pleasant,0.9,0.0,خوشگوار
+fondness,0.9,0.0,شوق
+upgradeable,0.9,0.0,اپ گریڈ
+phenomenal,0.9,0.0,غیر معمولی
+fans,0.9,0.0,پرستار
+state-of-the-art,0.9,0.0,جدید ترین
+noble,0.9,0.0,نوبل
+fast-growing,0.9,0.0,تیزی سےبڑھتاہوا
+serene,0.9,0.0,پر سکون
+handsomely,0.9,0.0,خوبصورت
+nourish,0.9,0.0,پرورش
+usable,0.9,0.0,قابل استعمال
+spotless,0.9,0.0,بے داغ
+bless,0.9,0.0,برکت
+exemplar,0.9,0.0,مثالی
+poignant,0.9,0.0,متشدد
+ambitious,0.9,0.0,بلند نظر
+worked,0.9,0.0,کام کیا
+proud,0.9,0.0,فخر ہے
+enrich,0.9,0.0,افزودگی
+kindness,0.9,0.0,مہربانی
+warmth,0.9,0.0,گرمجوشی
+excitement,0.9,0.0,جوش و خروش
+sweetly,0.9,0.0,میٹھا
+blithe,0.9,0.0,blithe
+contribution,0.9,0.0,شراکت
+rejuvenating,0.9,0.0,پھر سے جوان ہونا
+intimacy,0.9,0.0,قربت
+effectively,0.9,0.0,مؤثر طریقے سے
+wholesome,0.9,0.0,صحت مند
+approve,0.9,0.0,منظور کریں
+truthfulness,0.9,0.0,سچائی
+handily,0.9,0.0,آسانی سے
+staunchly,0.9,0.0,سختی سے
+prominence,0.9,0.0,اہمیت
+merciful,0.9,0.0,مہربان
+stirringly,0.9,0.0,ہلچل سے
+outdone,0.9,0.0,ختم
+overtake,0.9,0.0,آ پڑے
+unbeatable,0.9,0.0,ناقابل شکست
+sufficient,0.9,0.0,کافی
+ardently,0.9,0.0,جوش و خروش سے
+classic,0.9,0.0,کلاسک
+civility,0.9,0.0,تہذیب
+ingenuity,0.9,0.0,آسانی
+masterpiece,0.9,0.0,شاہکار
+fidelity,0.9,0.0,مخلص
+reliable,0.9,0.0,قابل اعتماد
+charisma,0.9,0.0,کرشمہ
+readable,0.9,0.0,پڑھنے کے قابل
+compatible,0.9,0.0,ہم آہنگ
+fulfillment,0.9,0.0,تکمیل
+skillfully,0.9,0.0,مہارت سے
+tingle,0.9,0.0,ٹنگل
+excel,0.9,0.0,ایکسل
+enviously,0.9,0.0,حسد سے
+swanky,0.9,0.0,swanky
+celebration,0.9,0.0,جشن
+progress,0.9,0.0,ترقی
+empowerment,0.9,0.0,بااختیار بنانا
+tranquility,0.9,0.0,سکون
+led,0.9,0.0,ایل. ای. ڈی
+achievible,0.9,0.0,قابل حصول
+bright,0.9,0.0,روشن
+appreciatively,0.9,0.0,تعریف کے ساتھ
+inspirational,0.9,0.0,متاثر کن
+accessible,0.9,0.0,قابل رسائی
+lionhearted,0.9,0.0,شیر دل
+refreshing,0.9,0.0,تازگی
+splendidly,0.9,0.0,بہت خوبصورتی سے
+marvelous,0.9,0.0,حیرت انگیز
+illustrious,0.9,0.0,نامور
+revives,0.9,0.0,زندہ
+originality,0.9,0.0,اصلیت
+gratification,0.9,0.0,خوشی
+motivated,0.9,0.0,حوصلہ افزائی
+playfully,0.9,0.0,چالاکی سے
+awe,0.9,0.0,خوف
+overtakes,0.9,0.0,آکر
+eloquent,0.9,0.0,فصاحت والا
+proficient,0.9,0.0,ہنر مند
+cheapest,0.9,0.0,سب سے سستا
+intelligible,0.9,0.0,قابل فہم
+luxuriant,0.9,0.0,پرتعیش
+adaptable,0.9,0.0,ملنسار
+enraptured,0.9,0.0,enraptured
+luckiest,0.9,0.0,خوش قسمت
+healthy,0.9,0.0,صحت مند
+luster,0.9,0.0,چمک
+brotherly,0.9,0.0,برادر
+compliment,0.9,0.0,تعریف
+leading,0.9,0.0,معروف
+fortunately,0.9,0.0,خوش قسمتی سے
+resplendent,0.9,0.0,مہذب
+obtainable,0.9,0.0,قابل حصول
+inventive,0.9,0.0,اختراعی
+ardor,0.9,0.0,جل رہا ہے
+propitiously,0.9,0.0,بہت ساری بات ہے
+cost-effective,0.9,0.0,مؤثر لاگت
+charismatic,0.9,0.0,دلکش
+merit,0.9,0.0,میرٹ
+gusto,0.9,0.0,اشارہ
+stimulates,0.9,0.0,حوصلہ افزائی کرتا ہے
+coherent,0.9,0.0,مربوط
+providence,0.9,0.0,پروویژن
+exaltedly,0.9,0.0,بلند
+neatly,0.9,0.0,صفائی سے
+affordable,0.9,0.0,سستی
+effectiveness,0.9,0.0,تاثیر
+monumental,0.9,0.0,یادگار
+pleased,0.9,0.0,خوش
+righteousness,0.9,0.0,صداقت
+miracle,0.9,0.0,معجزہ
+respectable,0.9,0.0,قابل احترام
+upbeat,0.9,0.0,اونچا سر
+winner,0.9,0.0,فاتح
+laudably,0.9,0.0,قابل ستائش
+luckiness,0.9,0.0,خوش قسمتی
+assurance,0.9,0.0,انشورنس
+prestige,0.9,0.0,وقار
+qualified,0.9,0.0,تعلیم یافتہ
+fruitful,0.9,0.0,نتیجہ خیز
+ilu,0.9,0.0,خوبصورتی
+vivid,0.9,0.0,وشد
+spirited,0.9,0.0,حوصلہ افزائی
+godsend,0.9,0.0,گاڈ سینڈ
+mesmerizes,0.9,0.0,میسریز
+satisfying,0.9,0.0,اطمینان بخش
+masterful,0.9,0.0,ماسٹر
+sublime,0.9,0.0,عظمت
+mercy,0.9,0.0,رحم
+brilliantly,0.9,0.0,بہت خوب
+loving,0.9,0.0,محبت
+entertaining,0.9,0.0,دل لگی
+earnest,0.9,0.0,بیعانہ
+ergonomical,0.9,0.0,ergonomical
+refinement,0.9,0.0,ادائیگی
+complementary,0.9,0.0,تکمیلی
+patient,0.9,0.0,صبر
+inviolate,0.9,0.0,انویلیٹ
+eagerness,0.9,0.0,بے تابی
+civilize,0.9,0.0,مہذب کریں
+well-mannered,0.9,0.0,اچھی طرح سے سلوک
+dignity,0.9,0.0,وقار
+steadiest,0.9,0.0,ثابت قدم
+favorite,0.9,0.0,پسندیدہ
+astutely,0.9,0.0,حیرت سے
+splendid,0.9,0.0,عمدہ
+subsidizing,0.9,0.0,سبسڈی دینا
+plush,0.9,0.0,آلیشان
+marvelously,0.9,0.0,حیرت سے
+adorer,0.9,0.0,محبت
+happier,0.9,0.0,زیادہ خوش
+perseverance,0.9,0.0,استقامت
+sensational,0.9,0.0,سنسنی خیز
+nimble,0.9,0.0,فرتیلا
+multi-purpose,0.9,0.0,کثیر مقصدی
+affably,0.9,0.0,پیار سے
+astonish,0.9,0.0,چکت کرنا
+lover,0.9,0.0,عاشق
+nourishing,0.9,0.0,پرورش
+upheld,0.9,0.0,برقرار
+exalt,0.9,0.0,بلند کرنا
+happy,0.9,0.0,خوش
+prodigiously,0.9,0.0,اچھ .ا
+humble,0.9,0.0,عاجز
+proven,0.9,0.0,ثابت
+resounding,0.9,0.0,بھرپور
+cashbacks,0.9,0.0,کیش بیکس
+visionary,0.9,0.0,بصیرت
+thoughtful,0.9,0.0,سوچے سمجھے
+smarter,0.9,0.0,ہوشیار
+conciliate,0.9,0.0,صلح کرنا
+credible,0.9,0.0,معتبر
+dependable,0.9,0.0,قابل اعتماد
+saint,0.9,0.0,سنت
+fairness,0.9,0.0,صداقت
+victorious,0.9,0.0,فاتح
+excels,0.9,0.0,ایکسل
+celebrated,0.9,0.0,منایا گیا
+keenly,0.9,0.0,گہری
+humorously,0.9,0.0,مزاحیہ انداز میں
+effectual,0.9,0.0,نتیجہ خیز
+enchanting,0.9,0.0,پرفتن
+favour,0.9,0.0,احسان
+titillate,0.9,0.0,ٹائٹلائٹ
+flexibility,0.9,0.0,لچک
+mesmerize,0.9,0.0,مسمار کرنا
+favorable,0.9,0.0,سازگار
+unwavering,0.9,0.0,اٹل
+neat,0.9,0.0,صاف
+generous,0.9,0.0,بے لوث
+satisfies,0.9,0.0,مطمئن
+consummate,0.9,0.0,کسمپٹ
+marvellous,0.9,0.0,حیرت انگیز
+tempting,0.9,0.0,کشش
+mastery,0.9,0.0,مہارت
+peacefully,0.9,0.0,پرامن طریقے سے
+improvements,0.9,0.0,بہتری
+amicability,0.9,0.0,فرحت بخش
+indebted,0.9,0.0,مقروض
+high-quality,0.9,0.0,اعلی معیار
+unfettered,0.9,0.0,بے محل
+easing,0.9,0.0,نرمی
+exonerate,0.9,0.0,exonerate
+enhance,0.9,0.0,بڑھانا
+evaluative,0.9,0.0,تشخیصی
+fabulous,0.9,0.0,شاندار
+mind-blowing,0.9,0.0,ذہن اڑانے والا
+well-educated,0.9,0.0,اعلی تعلیم یافتہ
+heroine,0.9,0.0,نایکا
+daringly,0.9,0.0,بہادر
+lavish,0.9,0.0,شاہانہ
+luxuriously,0.9,0.0,آسائش سے
+marvelousness,0.9,0.0,حیرت
+classy,0.9,0.0,بہترین
+tickle,0.9,0.0,گدگدی
+woo,0.9,0.0,وو
+low-cost,0.9,0.0,کم قیمت
+restored,0.9,0.0,بحال
+romanticize,0.9,0.0,رومانٹک کرنا
+rejoice,0.9,0.0,خوشی
+wholeheartedly,0.9,0.0,پورے دل سے
+smitten,0.9,0.0,مارا
+illuminating,0.9,0.0,روشن کرنا
+diligent,0.9,0.0,میہنتی
+amazed,0.9,0.0,حیرت زدہ
+levity,0.9,0.0,لیویٹی
+reverently,0.9,0.0,عقیدت سے
+courageous,0.9,0.0,بہادر
+tantalizingly,0.9,0.0,tantalizingly
+aver,0.9,0.0,ہونے
+congenial,0.9,0.0,پیدائشی
+pleases,0.9,0.0,خوش
+toughest,0.9,0.0,سب سے مشکل
+tender,0.9,0.0,ٹینڈر
+permissible,0.9,0.0,جائز
+alluringly,0.9,0.0,دلکش
+astonishment,0.9,0.0,حیرت
+quiet,0.9,0.0,خاموش
+commitment,0.9,0.0,عزم
+indulgence,0.9,0.0,لالچ
+endorse,0.9,0.0,توثیق
+glowingly,0.9,0.0,چمک سے
+congratulate,0.9,0.0,مبارک باد
+peace,0.9,0.0,امن
+keen,0.9,0.0,گہری
+breathlessness,0.9,0.0,سانس
+sufficed,0.9,0.0,کافی
+humourous,0.9,0.0,مضحکہ خیز
+unreal,0.9,0.0,غیر حقیقی
+delicate,0.9,0.0,نازک
+flourish,0.9,0.0,پنپنا
+purify,0.9,0.0,پاک کرنا
+user-friendly,0.9,0.0,صارف دوست
+intricate,0.9,0.0,پیچیدہ
+enjoyably,0.9,0.0,خوشی سے
+well-managed,0.9,0.0,اچھی طرح سے منظم
+perfectly,0.9,0.0,بالکل
+worthy,0.9,0.0,قابل
+rightful,0.9,0.0,حق بجانب
+fastest,0.9,0.0,سب سے تیز
+extoll,0.9,0.0,پذیرائی
+defeated,0.9,0.0,شکست خوردہ
+radiance,0.9,0.0,چمک
+flashy,0.9,0.0,چمکدار
+generosity,0.9,0.0,سخاوت
+merry,0.9,0.0,میری
+groundbreaking,0.9,0.0,زمینی
+decisive,0.9,0.0,فیصلہ کن
+protection,0.9,0.0,تحفظ
+interesting,0.9,0.0,دلچسپ
+satisfactory,0.9,0.0,اطمینان بخش
+ecenomical,0.9,0.0,ecenomical
+prowess,0.9,0.0,طاقت
+adorable,0.9,0.0,پیارا
+mesmerizing,0.9,0.0,مسمار کرنے والا
+uncomplicated,0.9,0.0,غیر پیچیدہ
+entice,0.9,0.0,آمادہ کرنا
+fun,0.9,0.0,مزہ
+best,0.9,0.0,بہترین
+godlike,0.9,0.0,خدا کی طرح
+attune,0.9,0.0,اٹان
+toll-free,0.9,0.0,ٹول فری
+regard,0.9,0.0,حوالے
+ameliorate,0.9,0.0,بہتر کرنا
+useable,0.9,0.0,قابل استعمال
+top-notch,0.9,0.0,اعلی مرتبہ
+astoundingly,0.9,0.0,حیرت سے
+celebrate,0.9,0.0,منانا
+affable,0.9,0.0,قابل
+flourishing,0.9,0.0,پھل پھول رہا ہے
+easiness,0.9,0.0,نرمی
+well-behaved,0.9,0.0,اچھا سلوک
+enjoyment,0.9,0.0,لطف اندوز
+exultingly,0.9,0.0,خوشی سے
+popular,0.9,0.0,مقبول
+cornerstone,0.9,0.0,سنگ بنیاد
+remedy,0.9,0.0,علاج
+greatness,0.9,0.0,عظمت
+effusiveness,0.9,0.0,اثر انگیزی
+cool,0.9,0.0,ٹھنڈا
+raptureously,0.9,0.0,بے خودی سے
+bolster,0.9,0.0,بلسٹر
+erudite,0.9,0.0,غلط
+smoothest,0.9,0.0,سب سے تیز
+examplar,0.9,0.0,نمونے والا
+exciting,0.9,0.0,دلچسپ
+apotheosis,0.9,0.0,apotheosis
+convenience,0.9,0.0,سہولت
+impeccably,0.9,0.0,بے عیب
+kindliness,0.9,0.0,حسن سلوک
+recover,0.9,0.0,بازیافت
+standout,0.9,0.0,کھڑے ہونا
+halcyon,0.9,0.0,halcyon
+satisfactorily,0.9,0.0,اطمینان بخش
+worth-while,0.9,0.0,قابل قدر
+well-being,0.9,0.0,خیریت
+thrill,0.9,0.0,سنسنی
+rightly,0.9,0.0,بجا طور پر
+entrancing,0.9,0.0,داخل ہونا
+victory,0.9,0.0,فتح
+survivor,0.9,0.0,زندہ بچ جانے والا
+dreamland,0.9,0.0,خوابوں کی دنیا
+renaissance,0.9,0.0,پنرجہرن
+radiant,0.9,0.0,منور
+delicacy,0.9,0.0,نزاکت
+innocuous,0.9,0.0,معصوم
+enthral,0.9,0.0,سحر انگیز
+comfort,0.9,0.0,آرام
+sexy,0.9,0.0,سیکسی
+champion,0.9,0.0,چیمپیئن
+amazes,0.9,0.0,حیرت
+enough,0.9,0.0,کافی
+effusively,0.9,0.0,اثر انداز سے
+unquestionably,0.9,0.0,بلاشبہ
+regally,0.9,0.0,باقاعدگی سے
+tough,0.9,0.0,مشکل
+terrific,0.9,0.0,لاجواب
+envious,0.9,0.0,حسد کرنا
+soothe,0.9,0.0,آرام
+astound,0.9,0.0,حیرت زدہ
+pleasingly,0.9,0.0,خوشی سے
+agreeableness,0.9,0.0,متفق ہونا
+marveled,0.9,0.0,حیرت زدہ
+assuredly,0.9,0.0,یقینی طور پر
+chivalry,0.9,0.0,دشمنی
+pleasurably,0.9,0.0,خوشگوار
+hug,0.9,0.0,گلے
+sincere,0.9,0.0,مخلص
+affectation,0.9,0.0,تفویض
+exquisitely,0.9,0.0,شاندار طریقے سے
+amaze,0.9,0.0,حیرت زدہ
+fortuitous,0.9,0.0,پختہ
+god-given,0.9,0.0,خدا عطا کردہ
+shiny,0.9,0.0,چمکدار
+tolerable,0.9,0.0,قابل برداشت
+stunning,0.9,0.0,حیرت انگیز
+preeminent,0.9,0.0,اہم
+protect,0.9,0.0,حفاظت
+masterpieces,0.9,0.0,شاہکار
+merriness,0.9,0.0,خوشی
+sumptuousness,0.9,0.0,عظمت
+exellent,0.9,0.0,شاندار
+defender,0.9,0.0,محافظ
+responsibly,0.9,0.0,ذمہ داری سے
+warmer,0.9,0.0,گرم
+self-sufficiency,0.9,0.0,خود کفالت
+snazzy,0.9,0.0,چکنا
+brighten,0.9,0.0,روشن کرنا
+cleanliness,0.9,0.0,صفائی
+saintliness,0.9,0.0,سنتوں
+heartwarming,0.9,0.0,دل دہلا دینے والا
+polished,0.9,0.0,پالش
+superiority,0.9,0.0,برتری
+goodly,0.9,0.0,اچھی طرح سے
+inexpensive,0.9,0.0,سستا
+pluses,0.9,0.0,pluses
+valuable,0.9,0.0,قیمتی
+straightforward,0.9,0.0,سیدھے
+rewardingly,0.9,0.0,فائدہ مند
+chaste,0.9,0.0,پاکیزہ
+counter-attacks,0.9,0.0,جوابی حملے
+posh,0.9,0.0,پوش
+meticulous,0.9,0.0,پیچیدہ
+empower,0.9,0.0,بااختیار بنانا
+gained,0.9,0.0,حاصل
+modern,0.9,0.0,جدید
+handy,0.9,0.0,آسان
+heartfelt,0.9,0.0,دلی
+encouraging,0.9,0.0,حوصلہ افزا
+ecstatic,0.9,0.0,پرجوش
+creative,0.9,0.0,تخلیقی
+respectfully,0.9,0.0,احترام سے
+avid,0.9,0.0,بخیل
+legendary,0.9,0.0,افسانوی
+veritable,0.9,0.0,سچا
+exceeded,0.9,0.0,تجاوز کر گئی
+supple,0.9,0.0,کومل
+tremendously,0.9,0.0,زبردست
+cherub,0.9,0.0,کروبی
+winners,0.9,0.0,فاتح
+rockstars,0.9,0.0,راک اسٹارز
+serenity,0.9,0.0,نرمی
+profound,0.9,0.0,گہرا
+light-hearted,0.9,0.0,ہلکے پھلکے
+enthusiastic,0.9,0.0,پرجوش
+joyous,0.9,0.0,خوشی
+recommendations,0.9,0.0,سفارشات
+consistent,0.9,0.0,متواتر
+exaltation,0.9,0.0,افزائش
+sweetness,0.9,0.0,مٹھاس
+winning,0.9,0.0,جیتنا
+peps,0.9,0.0,peps
+razor-sharp,0.9,0.0,استرا تیز
+boom,0.9,0.0,بوم
+enticed,0.9,0.0,لالچ میں آیا
+revolutionary,0.9,0.0,انقلابی
+wonderful,0.9,0.0,حیرت انگیز
+cure,0.9,0.0,علاج
+devout,0.9,0.0,متقی
+diligence,0.9,0.0,محنتی
+worthiness,0.9,0.0,قابلیت
+twinkly,0.9,0.0,پلک جھپکتے
+cheaper,0.9,0.0,سستا
+exceled,0.9,0.0,بلند
+abound,0.9,0.0,بہتات ہونا
+opulent,0.9,0.0,خوشحال
+wealthy,0.9,0.0,دولت مند
+blossom,0.9,0.0,پھول
+optimism,0.9,0.0,امید ہے
+gladness,0.9,0.0,خوشی
+roomier,0.9,0.0,رومیئر
+saintly,0.9,0.0,سنت
+favored,0.9,0.0,پسندیدہ
+lovable,0.9,0.0,پیاری
+unforgettable,0.9,0.0,ناقابل فراموش
+outshine,0.9,0.0,آؤٹ شائن
+restructuring,0.9,0.0,تنظیم نو
+prominent,0.9,0.0,ممتاز
+altruistically,0.9,0.0,حد سے زیادہ
+simpler,0.9,0.0,آسان
+cute,0.9,0.0,پیارا
+well-run,0.9,0.0,اچھی طرح سے چلانے
+bountiful,0.9,0.0,متعدد
+speedily,0.9,0.0,تیزی سے
+commendable,0.9,0.0,قابل ستائش
+restful,0.9,0.0,آرام دہ
+captivating,0.9,0.0,سحر انگیز
+lovably,0.9,0.0,پیار سے
+energetic,0.9,0.0,ؤرجاوان
+freedoms,0.9,0.0,آزادیاں
+sleek,0.9,0.0,چیکنا
+lawful,0.9,0.0,حلال
+crisp,0.9,0.0,کرکرا
+foolproof,0.9,0.0,فول پروف
+truthfully,0.9,0.0,سچائی سے
+sparkling,0.9,0.0,چمک
+beckoned,0.9,0.0,اشارہ کیا
+resilient,0.9,0.0,لچکدار
+faithful,0.9,0.0,وفادار
+rejoicing,0.9,0.0,خوشی
+helping,0.9,0.0,مدد کرنا
+dazzling,0.9,0.0,حیرت انگیز
+capability,0.9,0.0,قابلیت
+affluent,0.9,0.0,متمول
+exceed,0.9,0.0,سے زیادہ
+hero,0.9,0.0,ہیرو
+steadfast,0.9,0.0,ثابت قدم
+a+,0.9,0.0,a +
+irreproachable,0.9,0.0,ناقابل تلافی
+sociable,0.9,0.0,ملنسار
+plusses,0.9,0.0,جمع
+praiseworthy,0.9,0.0,قابل ستائش
+self-satisfaction,0.9,0.0,خود اطمینان
+likable,0.9,0.0,پسند ہے
+rightfully,0.9,0.0,بجا طور پر
+wins,0.9,0.0,جیت
+refined,0.9,0.0,بہتر
+charitable,0.9,0.0,خیراتی
+poise,0.9,0.0,پرسکون
+gooood,0.9,0.0,اچھ .ا
+agreeable,0.9,0.0,متفق
+dexterous,0.9,0.0,مہذب
+well-established,0.9,0.0,اچھی طرح سے قائم
+amiable,0.9,0.0,خوش مزاج
+brisk,0.9,0.0,تیز
+sincerity,0.9,0.0,اخلاص
+beauty,0.9,0.0,خوبصورتی
+advocates,0.9,0.0,وکالت
+concise,0.9,0.0,جامع
+prudently,0.9,0.0,سمجھداری سے
+revelation,0.9,0.0,وحی
+ultra-crisp,0.9,0.0,انتہائی کرکرا
+revitalize,0.9,0.0,زندہ کرنا
+talent,0.9,0.0,پرتیبھا
+wondrous,0.9,0.0,حیرت انگیز
+helpful,0.9,0.0,مددگار
+fervor,0.9,0.0,جوش
+swankier,0.9,0.0,swankier
+graceful,0.9,0.0,مکرم
+trustingly,0.9,0.0,اعتماد سے
+extraordinarily,0.9,0.0,غیر معمولی طور پر
+deginified,0.9,0.0,deginified
+attractive,0.9,0.0,پر کشش
+powerful,0.9,0.0,طاقتور
+stimulating,0.9,0.0,محرک
+empathy,0.9,0.0,ہمدردی
+suitable,0.9,0.0,مناسب
+eye-catch,0.9,0.0,آنکھ کو پکڑنے
+tempt,0.9,0.0,لالچ
+auspicious,0.9,0.0,اچھ .ا
+enthralled,0.9,0.0,منحرف
+triumphantly,0.9,0.0,فاتحانہ انداز میں
+beneficent,0.9,0.0,فائدہ مند
+good,0.9,0.0,اچھی
+exceptionally,0.9,0.0,غیر معمولی طور پر
+dexterously,0.9,0.0,مہارت سے
+survival,0.9,0.0,بقا
+maturely,0.9,0.0,سمجھدار
+impartiality,0.9,0.0,غیر جانبداری
+relief,0.9,0.0,ریلیف
+earnestness,0.9,0.0,خلوص
+trusted,0.9,0.0,قابل اعتماد
+peacekeepers,0.9,0.0,امن پسند
+endorsed,0.9,0.0,کی توثیق
+diligently,0.9,0.0,تندہی سے
+accomplished,0.9,0.0,تکمیل شدہ
+entertain,0.9,0.0,تفریح کرنا
+tougher,0.9,0.0,سخت
+reforms,0.9,0.0,اصلاحات
+wellbeing,0.9,0.0,خیریت
+guiltless,0.9,0.0,بے قصور
+stimulative,0.9,0.0,محرک
+flawless,0.9,0.0,بے عیب
+spacious,0.9,0.0,کشادہ
+gracefully,0.9,0.0,فضل سے
+surmount,0.9,0.0,مشكلات پر قابو پانا
+poetic,0.9,0.0,شاعرانہ
+reaffirm,0.9,0.0,دوبارہ تصدیق
+productive,0.9,0.0,نتیجہ خیز
+advantageously,0.9,0.0,فائدہ مند
+better,0.9,0.0,بہتر
+temptingly,0.9,0.0,لالچ میں
+passionately,0.9,0.0,شوق سے
+rational,0.9,0.0,عقلی
+breathtakingly,0.9,0.0,دم توڑ کر
+unquestionable,0.9,0.0,بلاشبہ
+fashionable,0.9,0.0,فیشن
+uplift,0.9,0.0,ترقی
+sharpest,0.9,0.0,سب سے تیز
+charming,0.9,0.0,دلکش
+agile,0.9,0.0,پھرتیلی
+elated,0.9,0.0,خوشی ہوئی
+enrichment,0.9,0.0,افزودگی
+considerate,0.9,0.0,سمجھا جاتا ہے
+cleverly,0.9,0.0,چالاکی سے
+prefer,0.9,0.0,ترجیح دیں
+privilege,0.9,0.0,استحقاق
+astounded,0.9,0.0,ششدر رہ جانا
+trophy,0.9,0.0,ٹرافی
+exceeds,0.9,0.0,تجاوز کر گیا
+cheery,0.9,0.0,خوشگوار
+acclaimed,0.9,0.0,سراہا گیا
+geekier,0.9,0.0,geekier
+charm,0.9,0.0,توجہ
+smiling,0.9,0.0,مسکراتے ہوئے
+glitter,0.9,0.0,چمک
+admiring,0.9,0.0,تعریف
+invaluable,0.9,0.0,انمول
+magic,0.9,0.0,جادو
+fastest-growing,0.9,0.0,تیزی سے بڑھتی ہوئی
+easier,0.9,0.0,آسان
+revive,0.9,0.0,زندہ کرنا
+commend,0.9,0.0,تعریف کریں
+prodigy,0.9,0.0,اچھ .ا
+fearless,0.9,0.0,بے خوف
+convient,0.9,0.0,مناسب
+savings,0.9,0.0,بچت
+appreciates,0.9,0.0,تعریف کرتا ہے
+hardier,0.9,0.0,سخت
+zippy,0.9,0.0,زپی
+ebullient,0.9,0.0,ایبلینٹ
+examplary,0.9,0.0,مثال
+prolific,0.9,0.0,قابل عمل
+gallantly,0.9,0.0,بہادری سے
+manageable,0.9,0.0,قابل انتظام
+protective,0.9,0.0,حفاظتی
+politeness,0.9,0.0,شائستگی
+optimistic,0.9,0.0,پر امید
+sane,0.9,0.0,سمجھدار
+fortunate,0.9,0.0,خوش قسمت
+doubtless,0.9,0.0,بلا شبہ
+conscientious,0.9,0.0,باضمیر
+invincible,0.9,0.0,ناقابل تسخیر
+restructured,0.9,0.0,تنظیم نو
+fiery,0.9,0.0,آگ
+irresistibly,0.9,0.0,irresistibly
+welcome,0.9,0.0,خوش آمدید
+smilingly,0.9,0.0,مسکراتے ہوئے
+rapture,0.9,0.0,بے خودی
+tantalizing,0.9,0.0,tantalizing
+inspiring,0.9,0.0,متاثر کن
+luminous,0.9,0.0,برائٹ
+luck,0.9,0.0,قسمت
+efficiently,0.9,0.0,موثر طریقے سے
+recomend,0.9,0.0,بازیافت
+beneficial,0.9,0.0,فائدہ مند
+spontaneous,0.9,0.0,اچانک
+feasible,0.9,0.0,ممکن
+cheer,0.9,0.0,خوشی
+strong,0.9,0.0,مضبوط
+variety,0.9,0.0,قسم
+prudence,0.9,0.0,احتیاط
+romantic,0.9,0.0,رومانوی
+marvel,0.9,0.0,حیرت
+upgradable,0.9,0.0,اپ گریڈ
+likes,0.9,0.0,پسند کرتا ہے
+cooperative,0.9,0.0,تعاون
+idolized,0.9,0.0,مجسمہ ساز
+positively,0.9,0.0,مثبت طور پر
+gain,0.9,0.0,حاصل کرنا
+eyecatch,0.9,0.0,eyecatch
+flatteringly,0.9,0.0,چاپلوسی
+heroic,0.9,0.0,بہادر
+zest,0.9,0.0,حوصلہ افزائی
+attentive,0.9,0.0,دھیان سے
+glorify,0.9,0.0,تسبیح کرنا
+prosperity,0.9,0.0,خوشحالی
+smoothly,0.9,0.0,آسانی سے
+authoritative,0.9,0.0,مستند
+meticulously,0.9,0.0,احتیاط سے
+principled,0.9,0.0,اصولی
+dignify,0.9,0.0,وقار
+eyecatching,0.9,0.0,eyecatching
+excelent,0.9,0.0,بہترین
+vibrantly,0.9,0.0,متحرک
+advocated,0.9,0.0,وکالت کی
+desirous,0.9,0.0,خواہش مند
+excite,0.9,0.0,پرجوش
+proves,0.9,0.0,ثابت کرتا ہے
+trouble-free,0.9,0.0,پریشانی سے پاک
+exuberant,0.9,0.0,خوشحال
+promised,0.9,0.0,وعدہ
+noteworthy,0.9,0.0,قابل ذکر
+upliftment,0.9,0.0,ترقی
+wisdom,0.9,0.0,حکمت
+judicious,0.9,0.0,انصاف پسند
+personages,0.9,0.0,حروف
+blissful,0.9,0.0,خوشگوار
+rosy,0.9,0.0,گلابی
+stately,0.9,0.0,واضح طور پر
+fancier,0.9,0.0,fancier
+finely,0.9,0.0,باریک
+intelligent,0.9,0.0,ذہین
+lush,0.9,0.0,سرسبز
+thoughtfulness,0.9,0.0,فکرمندی
+feature-rich,0.9,0.0,خصوصیت سے مالا مال
+rock-stars,0.9,0.0,راک ستارے
+morality,0.9,0.0,اخلاقیات
+qualify,0.9,0.0,کوالیفائی کرنا
+durable,0.9,0.0,پائیدار
+realizable,0.9,0.0,وصولی
+glistening,0.9,0.0,چمکنا
+upscale,0.9,0.0,اعلی درجے کی
+well-regarded,0.9,0.0,اچھی طرح سے
+fantastically,0.9,0.0,حیرت انگیز طور پر
+thinner,0.9,0.0,پتلا
+lead,0.9,0.0,لیڈ
+profuse,0.9,0.0,منافع
+jaw-droping,0.9,0.0,جبڑے گرنے
+reliably,0.9,0.0,اعتماد سے
+clarity,0.9,0.0,وضاحت
+award,0.9,0.0,ایوارڈ
+relish,0.9,0.0,ذائقہ
+wonderously,0.9,0.0,حیرت سے
+faithfulness,0.9,0.0,وفاداری
+invigorating,0.9,0.0,متحرک
+believeable,0.9,0.0,قابل اعتماد
+breakthrough,0.9,0.0,پیش رفت
+master,0.9,0.0,ماسٹر
+boost,0.9,0.0,فروغ دینا
+flutter,0.9,0.0,لہرانا
+illuminati,0.9,0.0,الیومینیٹی
+dominated,0.9,0.0,غلبہ
+inviolable,0.9,0.0,ناقابل تسخیر
+delightfully,0.9,0.0,خوشی سے
+ethical,0.9,0.0,اخلاقی
+precious,0.9,0.0,قیمتی
+dazzled,0.9,0.0,چکرا
+fast,0.9,0.0,تیز
+tantalize,0.9,0.0,tantalize
+respect,0.9,0.0,احترام
+reputation,0.9,0.0,ساکھ
+precise,0.9,0.0,عین مطابق
+credence,0.9,0.0,ساکھ
+divinely,0.9,0.0,خدائی طور پر
+benefits,0.9,0.0,فوائد
+eye-catching,0.9,0.0,چشم کشا
+adventuresome,0.9,0.0,مہم جوئی
+impressive,0.9,0.0,متاثر کن
+facilitate,0.9,0.0,سہولت
+well,0.9,0.0,ٹھیک ہے
+immense,0.9,0.0,بے پناہ
+inestimably,0.9,0.0,insertmably
+well-connected,0.9,0.0,اچھی طرح سے منسلک
+convenient,0.9,0.0,آسان
+solidarity,0.9,0.0,یکجہتی
+affirmation,0.9,0.0,تصدیق
+hospitable,0.9,0.0,مہمان نواز
+commendably,0.9,0.0,قابل ستائش
+exemplary,0.9,0.0,مثالی
+thumb-up,0.9,0.0,انگوٹھا
+thrifty,0.9,0.0,کنجوس. کفایت شعار
+patience,0.9,0.0,صبر
+pep,0.9,0.0,پیپ
+defeat,0.9,0.0,شکست
+trustworthy,0.9,0.0,امانتدار
+affability,0.9,0.0,افادیت
+prosper,0.9,0.0,خوشحالی
+sharp,0.9,0.0,تیز
+traction,0.9,0.0,کرشن
+elevate,0.9,0.0,بلند کرنا
+festive,0.9,0.0,تہوار
+superbly,0.9,0.0,بہت عمدہ
+upgraded,0.9,0.0,اپ گریڈ
+glamorous,0.9,0.0,مسحور کن
+lively,0.9,0.0,زندہ دل
+peerless,0.9,0.0,بے محل
+bliss,0.9,0.0,نعمتوں
+revere,0.9,0.0,احترام کرنا
+affectionate,0.9,0.0,پیار
+brilliant,0.9,0.0,شاندار
+shine,0.9,0.0,چمکنا
+idolize,0.9,0.0,بت بنانا
+self-respect,0.9,0.0,عزت نفس
+suffice,0.9,0.0,کافی
+exhilaration,0.9,0.0,خوشی
+fancy,0.9,0.0,پسند ہیں
+purposeful,0.9,0.0,بامقصد
+wow,0.9,0.0,زبردست
+diversified,0.9,0.0,متنوع
+famous,0.9,0.0,مشہور
+assurances,0.9,0.0,انشورنس
+slammin,0.9,0.0,سلیمین
+love,0.9,0.0,محبت
+unlimited,0.9,0.0,لامحدود
+benefactor,0.9,0.0,فائدہ اٹھانے والا
+navigable,0.9,0.0,بحری
+satisfied,0.9,0.0,مطمئن
+gush,0.9,0.0,گش
+delightfulness,0.9,0.0,لذت
+fascinatingly,0.9,0.0,دلچسپ
+leads,0.9,0.0,لیڈز
+expeditiously,0.9,0.0,جلدی سے
+humour,0.9,0.0,مزاح
+reputable,0.9,0.0,معروف
+shimmeringly,0.9,0.0,چمک سے
+genius,0.9,0.0,عقلمند
+streamlined,0.9,0.0,ہموار
+unmatched,0.9,0.0,بے مثال
+boundless,0.9,0.0,بے حد
+effortlessly,0.9,0.0,آسانی سے
+lyrical,0.9,0.0,گیت
+reconciliation,0.9,0.0,مفاہمت
+proper,0.9,0.0,مناسب
+amuse,0.9,0.0,خوش
+infallible,0.9,0.0,عیب
+immaculately,0.9,0.0,بے حساب
+spellbindingly,0.9,0.0,ہجوں کی پابندی سے
+cohesive,0.9,0.0,ہم آہنگ
+sweet,0.9,0.0,میٹھا
+dominates,0.9,0.0,غلبہ
+exceptional,0.9,0.0,غیر معمولی
+productively,0.9,0.0,نتیجہ خیز
+successes,0.9,0.0,کامیابیاں
+pampered,0.9,0.0,لاڈ
+beneficiary,0.9,0.0,فائدہ اٹھانے والا
+supreme,0.9,0.0,سپریم
+foresight,0.9,0.0,دور اندیشی
+pleasantly,0.9,0.0,خوشی سے
+conciliatory,0.9,0.0,صلح آمیز
+endorsement,0.9,0.0,توثیق
+outperforming,0.9,0.0,کارکردگی کا مظاہرہ
+assure,0.9,0.0,یقین دہانی کرو
+mighty,0.9,0.0,طاقتور
+deserving,0.9,0.0,مستحق
+colorful,0.9,0.0,رنگین
+enjoys,0.9,0.0,لطف اٹھاتا ہے
+sustainability,0.9,0.0,استحکام
+everlasting,0.9,0.0,لازوال
+mesmerized,0.9,0.0,منقسم
+praise,0.9,0.0,تعریف
+togetherness,0.9,0.0,یکسانیت
+delight,0.9,0.0,خوشی
+vigilance,0.9,0.0,نگرانی
+adjustable,0.9,0.0,سایڈست
+extraordinary,0.9,0.0,غیر معمولی
+memorable,0.9,0.0,یادگار
+enlightenment,0.9,0.0,روشن خیالی
+swiftness,0.9,0.0,تیزی
+enchanted,0.9,0.0,جادو
+acumen,0.9,0.0,دانت
+unabashedly,0.9,0.0,بے رحمی سے
+fresher,0.9,0.0,fresher
+joyously,0.9,0.0,خوشی سے
+adroit,0.9,0.0,ہنرمند
+receptive,0.9,0.0,قبول کرنے والا
+calming,0.9,0.0,پرسکون
+gallant,0.9,0.0,بہادر
+renowned,0.9,0.0,مشہور
+fervent,0.9,0.0,پرجوش
+painless,0.9,0.0,بے درد
+rapport,0.9,0.0,رپورٹ
+expansive,0.9,0.0,وسیع
+raptureous,0.9,0.0,بے خودی
+optimal,0.9,0.0,زیادہ سے زیادہ
+heroize,0.9,0.0,ہیروائز
+thrillingly,0.9,0.0,سنسنی خیز
+remarkably,0.9,0.0,قابل ذکر
+eases,0.9,0.0,آسانی
+smart,0.9,0.0,ہوشیار
+amenable,0.9,0.0,تیار
+dummy-proof,0.9,0.0,جعلی پروف
+overtook,0.9,0.0,آگے نکل گیا
+astounding,0.9,0.0,حیرت زدہ
+congratulatory,0.9,0.0,مبارک ہو
+glowing,0.9,0.0,چمک رہا ہے
+simplified,0.9,0.0,آسان
+honor,0.9,0.0,عزت
+detachable,0.9,0.0,علیحدگی
+evocative,0.9,0.0,اشتعال انگیز
+secure,0.9,0.0,محفوظ
+envy,0.9,0.0,حسد
+darling,0.9,0.0,پیارے
+playful,0.9,0.0,زندہ دل
+wonderous,0.9,0.0,حیرت انگیز
+paradise,0.9,0.0,جنت
+lucid,0.9,0.0,اجاگر
+reachable,0.9,0.0,قابل رسائ
+gratifies,0.9,0.0,gratifies
+exult,0.9,0.0,خوشی
+splendor,0.9,0.0,شان و شوکت
+outshone,0.9,0.0,آؤٹ فون
+refreshed,0.9,0.0,تازگی
+revel,0.9,0.0,حیرت
+revolutionize,0.9,0.0,انقلاب لانا
+brighter,0.9,0.0,روشن
+celebratory,0.9,0.0,جشن منانا
+crisper,0.9,0.0,کرسپر
+consistently,0.9,0.0,مستقل طور پر
+encouragement,0.9,0.0,حوصلہ افزائی
+workable,0.9,0.0,قابل عمل
+pleasure,0.9,0.0,خوشی
+uphold,0.9,0.0,حمایت
+decency,0.9,0.0,شائستگی
+trendy,0.9,0.0,جدید
+exaltingly,0.9,0.0,بلکل
+preferable,0.9,0.0,افضل
+problem-free,0.9,0.0,مسئلہ سے پاک
+accurate,0.9,0.0,درست
+ingenuously,0.9,0.0,آسانی سے
+jovial,0.9,0.0,خوشگوار
+enthusiastically,0.9,0.0,جوش و خروش سے
+positive,0.9,0.0,مثبت
+dumbfounded,0.9,0.0,گونگا
+immaculate,0.9,0.0,پاکیزہ ہونا
+gratefully,0.9,0.0,شکر ہے
+pure,0.9,0.0,خالص
+benevolence,0.9,0.0,احسان
+grateful,0.9,0.0,شکر گزار
+magnanimous,0.9,0.0,میگنانیموس
+audible,0.9,0.0,سنائی دیتی
+fantastic,0.9,0.0,لاجواب
+honoring,0.9,0.0,عزت دینا
+exhilarate,0.9,0.0,خوشی کرنا
+savvy,0.9,0.0,پریمی
+well-rounded,0.9,0.0,اچھی طرح سے گول
+luxuriate,0.9,0.0,آسائش
+long-lasting,0.9,0.0,دیرپا
+straighten,0.9,0.0,سیدھا کریں
+friendliness,0.9,0.0,دوستی
+courage,0.9,0.0,ہمت
+ennoble,0.9,0.0,ennoble
+agilely,0.9,0.0,فرتیلی سے
+authentic,0.9,0.0,مستند
+smoother,0.9,0.0,ہموار
+miracles,0.9,0.0,معجزے
+destiny,0.9,0.0,تقدیر
+influential,0.9,0.0,بااثر
+reconcile,0.9,0.0,صلح کرو
+fav,0.9,0.0,fav
+enrapture,0.9,0.0,enrapture
+eager,0.9,0.0,بے چین
+entertains,0.9,0.0,تفریح
+integral,0.9,0.0,لازمی
+majesty,0.9,0.0,عظمت
+comfortably,0.9,0.0,آرام سے
+vouch,0.9,0.0,واؤچ
+precisely,0.9,0.0,بالکل
+excitedness,0.9,0.0,جوش و خروش
+personalized,0.9,0.0,مشخص
+faultless,0.9,0.0,بے عیب
+better-than-expected,0.9,0.0,توقع سے بہتر
+faster,0.9,0.0,تیز
+trusting,0.9,0.0,اعتماد کرنا
+comfortable,0.9,0.0,آرام دہ
+respite,0.9,0.0,مہلت
+elite,0.9,0.0,اشرافیہ
+respectful,0.9,0.0,احترام
+rock-star,0.9,0.0,راک سٹار
+stylish,0.9,0.0,سجیلا
+endorses,0.9,0.0,توثیق
+whooa,0.9,0.0,واہوا
+modest,0.9,0.0,معمولی
+gentlest,0.9,0.0,شریف آدمی
+swift,0.9,0.0,تیز رو
+skillful,0.9,0.0,ہنرمند
+individualized,0.9,0.0,انفرادی
+remunerate,0.9,0.0,معاوضہ
+advanced,0.9,0.0,اعلی درجے کی
+contentment,0.9,0.0,قناعت
+feisty,0.9,0.0,feisty
+clear,0.9,0.0,صاف
+problem-solver,0.9,0.0,مسئلہ حل کرنے والا
+cleared,0.9,0.0,صاف
+solace,0.9,0.0,سکون
+abundance,0.9,0.0,کثرت
+bullish,0.9,0.0,تیزی
+fascinate,0.9,0.0,گرویدہ کرنا
+positives,0.9,0.0,مثبت
+plentiful,0.9,0.0,بھرپور
+effusive,0.9,0.0,اثر انگیز
+loved,0.9,0.0,محبت کرتا تھا
+entranced,0.9,0.0,داخل
+gentle,0.9,0.0,نرم
+brilliance,0.9,0.0,چمک
+stupendously,0.9,0.0,stupendously
+intelligence,0.9,0.0,ذہانت
+rockstar,0.9,0.0,راک سٹار
+proficiently,0.9,0.0,مہارت سے
+enthuse,0.9,0.0,enthuse
+luxurious,0.9,0.0,پرتعیش
+adaptive,0.9,0.0,حسب منشا
+complement,0.9,0.0,تکمیل
+mercifully,0.9,0.0,رحمدلی سے
+lean,0.9,0.0,دبلی پتلی
+intimate,0.9,0.0,مباشرت
+beutifully,0.9,0.0,خوبصورتی سے
+cleaner,0.9,0.0,کلینر
+freed,0.9,0.0,آزاد
+gratified,0.9,0.0,راضی
+ideal,0.9,0.0,مثالی
+vouchsafe,0.9,0.0,ووچسیف
+ebulliently,0.9,0.0,مضبوطی سے
+redemption,0.9,0.0,رہائی
+cherish,0.9,0.0,پسند کرتے ہیں
+whoooa,0.9,0.0,وہووا
+stunningly,0.9,0.0,حیرت انگیز طور پر
+gladly,0.9,0.0,خوشی سے
+triumphant,0.9,0.0,فاتح
+dead-cheap,0.9,0.0,مردہ سستا
+illuminate,0.9,0.0,روشن کرنا
+promising,0.9,0.0,وعدہ مند
+abundant,0.9,0.0,پرچر
+rejuvenate,0.9,0.0,جوان ہونا
+righten,0.9,0.0,رائٹ کرنا
+diplomatic,0.9,0.0,سفارتی
+exhilaratingly,0.9,0.0,خوشی سے
+resound,0.9,0.0,گونج
+glimmer,0.9,0.0,چمک
+hooray,0.9,0.0,ہورے
+faith,0.9,0.0,ایمان
+foremost,0.9,0.0,سب سے اہم
+heros,0.9,0.0,ہیروس
+richness,0.9,0.0,دولت
+sumptuous,0.9,0.0,عمدہ
+excitedly,0.9,0.0,خوشی سے
+adulation,0.9,0.0,مشق
+lavishly,0.9,0.0,شوق سے
+irresistible,0.9,0.0,ناقابل تلافی
+valiantly,0.9,0.0,بہادری سے
+noiseless,0.9,0.0,بے آواز
+record-setting,0.9,0.0,ریکارڈ ترتیب
+openly,0.9,0.0,کھلم کھلا
+idyllic,0.9,0.0,idyllic
+coolest,0.9,0.0,بہترین
+justly,0.9,0.0,صرف
+clean,0.9,0.0,صاف
+feat,0.9,0.0,کارنامہ
+excites,0.9,0.0,حوصلہ افزائی
+fond,0.9,0.0,پس منظر
+harmony,0.9,0.0,ہم آہنگی
+recommend,0.9,0.0,تجویز کریں
+goodwill,0.9,0.0,نیک نیتی
+excellant,0.9,0.0,ایکیلینٹ
+pardon,0.9,0.0,معافی
+richer,0.9,0.0,زیادہ امیر
+smiles,0.9,0.0,مسکراہٹیں
+indulgent,0.9,0.0,دل لگی
+suave,0.9,0.0,نرم
+progressive,0.9,0.0,ترقی پسند
+outsmart,0.9,0.0,آؤٹ مارٹ
+conveniently,0.9,0.0,آسانی سے
+gratify,0.9,0.0,خوش کرنا
+steadfastness,0.9,0.0,ثابت قدمی
+rectify,0.9,0.0,اصلاح کرنا
+pros,0.9,0.0,پیشہ
+trump,0.9,0.0,ٹرمپ
+exultation,0.9,0.0,مسرت
+thrive,0.9,0.0,ترقی کی منازل طے کرنا
+generously,0.9,0.0,دل کھول کر
+nourishment,0.9,0.0,پرورش
+momentous,0.9,0.0,لمحاتی
+fortitude,0.9,0.0,صبر
+verifiable,0.9,0.0,تصدیق شدہ
+supports,0.9,0.0,کی حمایت کرتا ہے
+happily,0.9,0.0,خوشی سے
+adoring,0.9,0.0,پیار
+stainless,0.9,0.0,بے داغ
+treasure,0.9,0.0,خزانہ
+endear,0.9,0.0,پیارے
+enjoying,0.9,0.0,لطف اندوز
+articulate,0.9,0.0,بیان کرنا
+beautify,0.9,0.0,خوبصورت کرنا
+palatial,0.9,0.0,محلاتی
+win,0.9,0.0,جیت
+sincerely,0.9,0.0,مخلص
+loyalty,0.9,0.0,وفاداری
+strikingly,0.9,0.0,حیرت انگیز طور پر
+rapid,0.9,0.0,تیز
+fortuitously,0.9,0.0,خوش قسمتی سے
+recommended,0.9,0.0,تجویز کردہ
+sharper,0.9,0.0,تیز
+deft,0.9,0.0,مہارت
+pre-eminent,0.9,0.0,پہلے سے مشہور
+reasonable,0.9,0.0,معقول
+nifty,0.9,0.0,نفٹی
+warm,0.9,0.0,گرم
+counter-attack,0.9,0.0,جوابی حملہ
+cajole,0.9,0.0,کجول
+imaginative,0.9,0.0,تخیلاتی
+thrilling,0.9,0.0,سنسنی خیز
+issue-free,0.9,0.0,مسئلے سے پاک
+adore,0.9,0.0,پسند ہے
+improves,0.9,0.0,بہتر
+wise,0.9,0.0,عقل مند
+defeats,0.9,0.0,شکست
+smartly,0.9,0.0,ہوشیاری سے
+proactive,0.9,0.0,فعال
+yay,0.9,0.0,رکوع
+non-violence,0.9,0.0,عدم تشدد
+majestic,0.9,0.0,شکوہ
+worthwhile,0.9,0.0,قابل قدر
+euphoria,0.9,0.0,جوش و خروش
+glow,0.9,0.0,چمک
+perfection,0.9,0.0,کمال
+brightest,0.9,0.0,سب سے روشن
+evenly,0.9,0.0,یکساں طور پر
+excellent,0.9,0.0,بہترین
+witty,0.9,0.0,دلچسپ
+glitz,0.9,0.0,گلٹز
+leverage,0.9,0.0,بیعانہ
+prospros,0.9,0.0,پروسروس
+fame,0.9,0.0,شہرت
+golden,0.9,0.0,سنہری
+substantive,0.9,0.0,بنیادی
+accurately,0.9,0.0,درست طریقے سے
+seasoned,0.9,0.0,تجربہ کار
+stupendous,0.9,0.0,stupendous
+inestimable,0.9,0.0,انمول
+propitious,0.9,0.0,متناسب
+fashionably,0.9,0.0,فیشن کے ساتھ
+regal,0.9,0.0,ریگل
+persevere,0.9,0.0,ثابت قدم رہنا
+well-informed,0.9,0.0,باخبر
+intrigue,0.9,0.0,سازش
+jubilant,0.9,0.0,خوشی
+euphorically,0.9,0.0,خوشی سے
+amiability,0.9,0.0,اہلیت
+suavely,0.9,0.0,بڑے پیمانے پر
+galore,0.9,0.0,بہادر
+sturdy,0.9,0.0,مضبوط
+transparent,0.9,0.0,شفاف
+undamaged,0.9,0.0,undamaged
+cohere,0.9,0.0,ہم آہنگی
+danke,0.9,0.0,آپ کا شکریہ
+elatedly,0.9,0.0,خوشی سے
+benifits,0.9,0.0,benifits
+achievements,0.9,0.0,کامیابیوں
+shimmering,0.9,0.0,چمکتی ہوئی
+preferes,0.9,0.0,ترجیحی
+impartial,0.9,0.0,غیر جانبدار
+promise,0.9,0.0,وعدہ
+spectacular,0.9,0.0,شاندار
+efficacious,0.9,0.0,موثر
+passion,0.9,0.0,جذبہ
+enhances,0.9,0.0,بڑھاتا ہے
+beckoning,0.9,0.0,اشارہ کرنا
+earnestly,0.9,0.0,دل کھول کر
+right,0.9,0.0,ٹھیک ہے
+mightily,0.9,0.0,شدت سے
+favor,0.9,0.0,احسان
+ingenious,0.9,0.0,ہوشیار
+exuberantly,0.9,0.0,خوشی سے
+exuberance,0.9,0.0,خوشی
+magnificence,0.9,0.0,عظمت
+cleanest,0.9,0.0,صاف ستھرا
+gaining,0.9,0.0,حاصل کرنا
+fascinating,0.9,0.0,دلچسپ
+support,0.9,0.0,کی حمایت
+soothingly,0.9,0.0,آرام سے
+flattering,0.9,0.0,چاپلوسی
+orderly,0.9,0.0,منظم
+wonderfully,0.9,0.0,حیرت سے
+equitable,0.9,0.0,مساوی
+first-class,0.9,0.0,پہلا درجہ
+honored,0.9,0.0,اعزاز
+sparkle,0.9,0.0,چمک
+adored,0.9,0.0,پیار
+ease,0.9,0.0,آسانی
+enthrall,0.9,0.0,سحر انگیز
+available,0.9,0.0,دستیاب
+enliven,0.9,0.0,enliven
+impressed,0.9,0.0,متاثر
+supported,0.9,0.0,تعاون یافتہ
+pleasing,0.9,0.0,خوش کرنا
+versatile,0.9,0.0,بہمھی
+warmly,0.9,0.0,گرمجوشی سے
+marvelled,0.9,0.0,حیرت زدہ
+pretty,0.9,0.0,خوبصورت
+sprightly,0.9,0.0,صاف ستھرا
+fascination,0.9,0.0,دلکشی
+fave,0.9,0.0,fave
+reasonably,0.9,0.0,معقول طور پر
+ovation,0.9,0.0,oवेश
+speedy,0.9,0.0,تیز
+satisfy,0.9,0.0,مطمئن کرنا
+super,0.9,0.0,سپر
+privileged,0.9,0.0,مراعات یافتہ
+jaw-dropping,0.9,0.0,ہمت ہارنا، پنچہ ڈھیلا کرنا، مات کھانا، بہت تھک جانا
+better-known,0.9,0.0,بہتر جانا جاتا ہے
+accomplishments,0.9,0.0,کارنامے
+breakthroughs,0.9,0.0,کامیابیاں
+hilarious,0.9,0.0,مزاحیہ
+pride,0.9,0.0,فخر
+hail,0.9,0.0,اولے
+gains,0.9,0.0,فوائد
+rectification,0.9,0.0,اصلاح
+kudos,0.9,0.0,kudos
+like,0.9,0.0,جیسے
+masters,0.9,0.0,ماسٹرز
+appreciable,0.9,0.0,قابل تعریف
+nicest,0.9,0.0,سب سے اچھے
+frolic,0.9,0.0,پھول
+safely,0.9,0.0,محفوظ طریقے سے
+instrumental,0.9,0.0,آلہ کار
+spectacularly,0.9,0.0,حیرت انگیز طور پر
+harmless,0.9,0.0,بے ضرر
+unity,0.9,0.0,اتحاد
+fast-paced,0.9,0.0,تیز رفتار
+ecstasy,0.9,0.0,خوشی
+enjoy,0.9,0.0,لطف اٹھائیں
+enhancement,0.9,0.0,اضافہ
+assuring,0.9,0.0,یقین دہانی کرانا
+work,0.9,0.0,کام
+edify,0.9,0.0,تدوین کرنا
+formidable,0.9,0.0,مضبوط
+instantly,0.9,0.0,فوری طور پر
+righteously,0.9,0.0,راستبازی سے
+painlessly,0.9,0.0,بے تکلیف
+comfy,0.9,0.0,آرام دہ
+fervidly,0.9,0.0,پوری طرح سے
+approval,0.9,0.0,منظوری
+fertile,0.9,0.0,زرخیز
+easygoing,0.9,0.0,اسانی سے
+admiration,0.9,0.0,تعریف
+reward,0.9,0.0,انعام
+promoter,0.9,0.0,فروغ دینے والا
+responsive,0.9,0.0,ذمہ دار
+rapt,0.9,0.0,rapt
+wowing,0.9,0.0,wOW
+promptly,0.9,0.0,فوری طور پر
+awestruck,0.9,0.0,اچھال
+joyful,0.9,0.0,خوشگوار
+dominate,0.9,0.0,غلبہ
+capably,0.9,0.0,قابل طور پر
+virtue,0.9,0.0,فضیلت
+prompt,0.9,0.0,فوری طور پر
+willingly,0.9,0.0,خوشی سے
+magical,0.9,0.0,جادوئی
+famed,0.9,0.0,مشہور
+angel,0.9,0.0,فرشتہ
+masterfully,0.9,0.0,مہارت سے
+amazing,0.9,0.0,حیرت انگیز
+convincing,0.9,0.0,قائل
+awsome,0.9,0.0,awsome
+reforming,0.9,0.0,اصلاح کرنا
+clever,0.9,0.0,ہوشیار
+fervently,0.9,0.0,شدت سے
+harmoniously,0.9,0.0,ہم آہنگی سے
+compact,0.9,0.0,کمپیکٹ
+enterprising,0.9,0.0,کاروباری
+intriguing,0.9,0.0,دلچسپ
+aspire,0.9,0.0,خواہش
+elegance,0.9,0.0,خوبصورتی
+delightful,0.9,0.0,لذت بخش
+maneuverable,0.9,0.0,تدبیر
+friendly,0.9,0.0,دوستانہ
+gainfully,0.9,0.0,فائدہ مند
+ideally,0.9,0.0,مثالی طور پر
+complements,0.9,0.0,تکمیلات
+hardy,0.9,0.0,ہارڈی
+unconditional,0.9,0.0,غیر مشروط
+homage,0.9,0.0,خراج عقیدت پیش
+talented,0.9,0.0,باصلاحیت
+stellarly,0.9,0.0,واضح طور پر
+futurestic,0.9,0.0,مستقبل کا
+congratulation,0.9,0.0,مبارکباد
+soft,0.9,0.0,نرم
+glory,0.9,0.0,عظمت
+encouragingly,0.9,0.0,حوصلہ افزائی سے
+stylishly,0.9,0.0,سجاوٹ کے ساتھ
+afford,0.9,0.0,برداشت کرنا
+jollify,0.9,0.0,جولیفائ کرنا
+skill,0.9,0.0,مہارت
+reasoned,0.9,0.0,استدلال
+piety,0.9,0.0,تقویٰ
+peaceful,0.9,0.0,پرامن
+warmhearted,0.9,0.0,گرمجوشی سے
+endorsing,0.9,0.0,کی توثیق
+impressively,0.9,0.0,متاثر کن
+bravo,0.9,0.0,براوو
+improvement,0.9,0.0,بہتری
+sumptuously,0.9,0.0,سختی سے
+pamper,0.9,0.0,لاڈ
+avidly,0.9,0.0,بے چین
+profusion,0.9,0.0,منافع
+tenaciously,0.9,0.0,سختی سے
+glisten,0.9,0.0,چمکنا
+famously,0.9,0.0,مشہور
+timely,0.9,0.0,بروقت
+well-known,0.9,0.0,اچھی طرح سے جانا جاتا ہے
+tranquil,0.9,0.0,سکون
+carefree,0.9,0.0,لاپرواہ
+healthful,0.9,0.0,صحت مند
+dignified,0.9,0.0,وقار
+elegant,0.9,0.0,خوبصورت
+easy,0.9,0.0,آسان
+excitingly,0.9,0.0,دلچسپی سے
+well-received,0.9,0.0,اچھی طرح موصول
+impressiveness,0.9,0.0,تاثیر
+simplifies,0.9,0.0,آسان بناتا ہے
+thrift,0.9,0.0,کفایت
+willingness,0.9,0.0,خواہش
+virtuous,0.9,0.0,نیک
+outperforms,0.9,0.0,آؤٹفارفارمز
+adroitly,0.9,0.0,adroitly
+believable,0.9,0.0,قابل اعتماد
+ecstasies,0.9,0.0,خوشی
+glimmering,0.9,0.0,چمکتی ہوئی
+continuity,0.9,0.0,تسلسل
+unaffected,0.9,0.0,متاثر نہیں
+neatest,0.9,0.0,قریب ترین
+prefered,0.9,0.0,ترجیح دی
+attraction,0.9,0.0,کشش
+kindly,0.9,0.0,برائے مہربانی
+breeze,0.9,0.0,ہوا
+amicable,0.9,0.0,خوش مزاج
+flatter,0.9,0.0,چاپلوسی
+knowledgeable,0.9,0.0,علم والا
+first-in-class,0.9,0.0,پہلی جماعت میں
+gratifyingly,0.9,0.0,خوشی سے
+windfall,0.9,0.0,ہوا کا گرنا
+nicer,0.9,0.0,اچھا
+dedicated,0.9,0.0,سرشار
+well-intentioned,0.9,0.0,اچھی نیت سے
+autonomous,0.9,0.0,خود مختار
+awed,0.9,0.0,عجیب
+promises,0.9,0.0,وعدے
+lucrative,0.9,0.0,منافع بخش
+compassionate,0.9,0.0,شفقت مند
+dependably,0.9,0.0,انحصار سے
+handsome,0.9,0.0,خوبصورت
+chic,0.9,0.0,وضع دار
+excited,0.9,0.0,بہت پرجوش
+infallibly,0.9,0.0,عصمت دری سے
+proving,0.9,0.0,ثابت کرنا
+impresses,0.9,0.0,متاثر کرتا ہے
+interests,0.9,0.0,مفادات
+enviably,0.9,0.0,حسد سے
+dotingly,0.9,0.0,dotfully
+superior,0.9,0.0,اعلی
+pleasurable,0.9,0.0,خوشگوار
+industrious,0.9,0.0,محنتی
+polite,0.9,0.0,شائستہ
+slick,0.9,0.0,ہوشیار
+compliant,0.9,0.0,شکایت
+smile,0.9,0.0,مسکراہٹ
+agreeably,0.9,0.0,اتفاق سے
+miraculousness,0.9,0.0,چمتکاری
+works,0.9,0.0,کام کرتا ہے
+reverent,0.9,0.0,احترام کرنا
+graciously,0.9,0.0,مہربانی سے
+pinnacle,0.9,0.0,چوٹی
+risk-free,0.9,0.0,خطرے سے پاک
+empathize,0.9,0.0,ہمدردی
+righteous,0.9,0.0,راستباز
+subsidize,0.9,0.0,سبسڈی دینا
+effusion,0.9,0.0,بہاو
+unfazed,0.9,0.0,بے نقاب
+awarded,0.9,0.0,نوازا
+excelled,0.9,0.0,عمدہ
+beckon,0.9,0.0,اشارہ
+well-backlit,0.9,0.0,اچھی طرح سے backlit
+law-abiding,0.9,0.0,قانون کی پاسداری
+eased,0.9,0.0,نرمی
+amusingly,0.9,0.0,دل لگی
+sensible,0.9,0.0,سمجھدار
+impeccable,0.9,0.0,معصوم
+awesomely,0.9,0.0,بہت اچھ .ا
+competitive,0.9,0.0,مسابقتی
+bravery,0.9,0.0,بہادری
+distinction,0.9,0.0,امتیاز
+sagacity,0.9,0.0,بداخلاقی
+goood,0.9,0.0,اچھ .ا
+properly,0.9,0.0,مناسب طریقے سے
+bloom,0.9,0.0,کھلنا
+freshest,0.9,0.0,تازہ ترین
+richly,0.9,0.0,بھرپور طریقے سے
+well-wishers,0.9,0.0,خیر خواہ
+flawlessly,0.9,0.0,بے عیب
+quaint,0.9,0.0,پرانا
+smartest,0.9,0.0,ہوشیار
+gracious,0.9,0.0,مہربان
+youthful,0.9,0.0,جوانی
+revolutionizes,0.9,0.0,انقلاب لاتا ہے
+eloquently,0.9,0.0,فصاحت
+beautiful,0.9,0.0,خوبصورت
+feasibly,0.9,0.0,ممکنہ طور پر
+relaxed,0.9,0.0,آرام دہ
+succes,0.9,0.0,کامیابی
+incredible,0.9,0.0,ناقابل یقین
+recovery,0.9,0.0,بحالی
+wisely,0.9,0.0,دانشمندی سے
+effective,0.9,0.0,موثر
+merriment,0.9,0.0,خوشی
+low-risk,0.9,0.0,کم خطرہ
+affluence,0.9,0.0,فراوانی
+admirable,0.9,0.0,قابل ستائش
+inpressed,0.9,0.0,دبے ہوئے
+wows,0.9,0.0,واہ
+refine,0.9,0.0,صاف کرنا
+brave,0.9,0.0,بہادر
+amity,0.9,0.0,ہم آہنگی
+benevolent,0.9,0.0,مہربان
+securely,0.9,0.0,محفوظ طریقے سے
+improved,0.9,0.0,بہتر ہوا
+desiring,0.9,0.0,خواہش
+reform,0.9,0.0,اصلاح
+romantically,0.9,0.0,رومانٹک طور پر
+sporty,0.9,0.0,اسپورٹی
+reverence,0.9,0.0,عقیدت
+invigorate,0.9,0.0,متحرک کرنا
+outstanding,0.9,0.0,شاندار
+prefers,0.9,0.0,ترجیحات
+magnificent,0.9,0.0,شاندار
+outperformed,0.9,0.0,کارکردگی کا مظاہرہ
+eminence,0.9,0.0,اہمیت
+satisified,0.9,0.0,مطمئن
+enviousness,0.9,0.0,حسد
+overjoyed,0.9,0.0,بہت خوش
+sophisticated,0.9,0.0,نفیس
+extol,0.9,0.0,ایکسل
+astonishingly,0.9,0.0,حیرت سے
+world-famous,0.9,0.0,دنیا بھر میں مشہور
+gratitude,0.9,0.0,شکرگزاری
+deservedly,0.9,0.0,مستحق
+mesmerizingly,0.9,0.0,مسماری سے
+unparalleled,0.9,0.0,بے مثال
+gorgeously,0.9,0.0,خوبصورتی سے
+genial,0.9,0.0,زبردست
+succeed,0.9,0.0,کامیاب
+beautifullly,0.9,0.0,خوبصورتی سے
+faithfully,0.9,0.0,وفاداری سے
+priceless,0.9,0.0,انمول
+exultant,0.9,0.0,رقص
+thank,0.9,0.0,شکریہ
+thumbs-up,0.9,0.0,بہت خوب
+titillating,0.9,0.0,ٹائٹلٹنگ
+preferably,0.9,0.0,ترجیحا
+wonder,0.9,0.0,حیرت
+jubilate,0.9,0.0,خوشی
+finest,0.9,0.0,بہترین
+recommendation,0.9,0.0,سفارش
+astonishing,0.9,0.0,حیرت زدہ
+enrapt,0.9,0.0,enrapt
+honesty,0.9,0.0,ایمانداری
+luxury,0.9,0.0,عیش و آرام کی
+futuristic,0.9,0.0,مستقبل
+important,0.9,0.0,اہم
+gaily,0.9,0.0,گیلی
+smooth,0.9,0.0,ہموار
+stronger,0.9,0.0,مضبوط
+high-spirited,0.9,0.0,بلند حوصلہ افزائی
+succeeding,0.9,0.0,کامیاب
+beloved,0.9,0.0,محبوب
+beautifully,0.9,0.0,خوبصورتی سے
+sustainable,0.9,0.0,پائیدار
+staunch,0.9,0.0,سخت
+nice,0.9,0.0,اچھا
+acclamation,0.9,0.0,تعریف
+stellar,0.9,0.0,تارکیی
+favorited,0.9,0.0,پسندیدہ
+zenith,0.9,0.0,زینتھ
+courteous,0.9,0.0,شائستہ
+heroically,0.9,0.0,بہادری سے
+lucky,0.9,0.0,خوش قسمت
+correctly,0.9,0.0,صحیح طریقے سے
+prudent,0.9,0.0,محتاط
+success,0.9,0.0,کامیابی
+lustrous,0.9,0.0,فحش
+non-violent,0.9,0.0,غیر متشدد
+fervid,0.9,0.0,fervid
+gratifying,0.9,0.0,خوش کرنے والا
+statuesque,0.9,0.0,مجسمہ
+heartening,0.9,0.0,خوش کرنے والا
+unequivocally,0.9,0.0,غیر واضح
+brand-new,0.9,0.0,بالکل نیا
+blockbuster,0.9,0.0,بلاک بسٹر
+breathtaking,0.9,0.0,سانس لینے والا
+remission,0.9,0.0,معافی
+heal,0.9,0.0,چنگا کرنا
+accomodative,0.9,0.0,رہائشی
+ebullience,0.9,0.0,ایبلینسی
+rightness,0.9,0.0,صداقت
+nobly,0.9,0.0,nobly
+finer,0.9,0.0,بہتر
+gaiety,0.9,0.0,خوشی
+eagerly,0.9,0.0,بے تابی سے
+accessable,0.9,0.0,قابل رسائی
+acclaim,0.9,0.0,تعریف
+self-sufficient,0.9,0.0,خود کفیل
+adulatory,0.9,0.0,مشق
+roomy,0.9,0.0,کمرا
+harmonious,0.9,0.0,ہم آہنگی
+ecstatically,0.9,0.0,خوشی سے
+relent,0.9,0.0,پرجوش
+impassioned,0.9,0.0,بے چین
+rectifying,0.9,0.0,اصلاح کرنا
+prize,0.9,0.0,انعام
+beauteous,0.9,0.0,خوبصورت
+confidence,0.9,0.0,اعتماد
+cherished,0.9,0.0,پسند ہے
+outstrip,0.9,0.0,آؤٹ ٹریپ
+wieldy,0.9,0.0,چال
+picturesque,0.9,0.0,سرمی
+educated,0.9,0.0,تعلیم یافتہ
+dauntless,0.9,0.0,بے باک
+embolden,0.9,0.0,حوصلہ افزائی
+reaffirmation,0.9,0.0,دوبارہ تصدیق
+cost-saving,0.9,0.0,لاگت کی بچت
+brainy,0.9,0.0,دماغی
+unencumbered,0.9,0.0,بے حساب
+amenity,0.9,0.0,سہولت
+valor,0.9,0.0,قدر
+convience,0.9,0.0,یقین
+err-free,0.9,0.0,غلطی سے پاک
+hotcake,0.9,0.0,گرم کیک
+delighted,0.9,0.0,خوش
+prestigious,0.9,0.0,معتبر
+amazingly,0.9,0.0,حیرت سے
+encourage,0.9,0.0,حوصلہ افزائی
+liked,0.9,0.0,پسند کیا
+correct,0.9,0.0,درست
+outdo,0.9,0.0,outdo
+helped,0.9,0.0,مدد کی
+accolade,0.9,0.0,تعریف
+invulnerable,0.9,0.0,ناقابل شکست
+defeating,0.9,0.0,شکست دینا
+gems,0.9,0.0,جواہرات
+low-priced,0.9,0.0,کم قیمت والی
+patiently,0.9,0.0,صبر سے
+dazzle,0.9,0.0,چکرا
+enviable,0.9,0.0,قابل رشک
+engaging,0.9,0.0,مشغول
+ingenuous,0.9,0.0,ہوشیار
+peach,0.9,0.0,آڑو
+gleefully,0.9,0.0,خوشی سے
+supurbly,0.9,0.0,supurbly
+refund,0.9,0.0,واپس کرنا
+lower-priced,0.9,0.0,کم قیمت
+patriotic,0.9,0.0,محب وطن
+calmness,0.9,0.0,سکون
+irreplaceable,0.9,0.0,ناقابل جگہ
+fearlessly,0.9,0.0,بے خوف
+steadfastly,0.9,0.0,ثابت قدمی سے
+exalting,0.9,0.0,بلند کرنا
+trustworthiness,0.9,0.0,اعتماد
+accommodative,0.9,0.0,سازگار
+unrestricted,0.9,0.0,بلاضرورت
+affordably,0.9,0.0,سستی سے
+appeal,0.9,0.0,اپیل
+integrated,0.9,0.0,ضم
+dead-on,0.9,0.0,مردہ پر
+remarkable,0.9,0.0,قابل ذکر
+brainiest,0.9,0.0,ذہین
+time-honored,0.9,0.0,وقت سے اعزاز
+savior,0.9,0.0,نجات دہندہ
+backbone,0.9,0.0,ریڑھ کی ہڈی
+outstandingly,0.9,0.0,بقایا
+amazement,0.9,0.0,حیرت
+replaceable,0.9,0.0,قابل بدلا
+swankiest,0.9,0.0,swankiest
+energy-saving,0.9,0.0,توانائی کی بچت
+prodigious,0.9,0.0,اچھ .ا
+amicably,0.9,0.0,خوش قسمتی سے
+guarantee,0.9,0.0,گارنٹی
+simplifying,0.9,0.0,آسان کرنا
+supremacy,0.9,0.0,بالادستی
+softer,0.9,0.0,نرم
+honest,0.9,0.0,ایماندار
+covenant,0.9,0.0,عہد
+striking,0.9,0.0,حیرت انگیز
+sensitive,0.9,0.0,حساس
+attractively,0.9,0.0,دلکش
+electrify,0.9,0.0,بجلی بنانا
+best-performing,0.9,0.0,بہترین کارکردگی
+simplify,0.9,0.0,آسان بنائیں
+spellbinding,0.9,0.0,ہجے پابند
+cure-all,0.9,0.0,سب کا علاج
+hands-down,0.9,0.0,ہاتھ نیچے کرنا
+soundly,0.9,0.0,اچھی طرح سے
+snappy,0.9,0.0,تیز
+exquisite,0.9,0.0,شاندار
+reassure,0.9,0.0,یقین دہانی
+brilliances,0.9,0.0,چمک
+paramount,0.9,0.0,سب سے اہم
+dextrous,0.9,0.0,مکروہ
+lucidly,0.9,0.0,lucidly
+contrasty,0.9,0.0,متضاد
+accomplishment,0.9,0.0,کامیابی
+humorous,0.9,0.0,مزاحیہ
+appropriate,0.9,0.0,مناسب
+undisputably,0.9,0.0,بلا شبہ
+clearly,0.9,0.0,واضح طور پر
+admiringly,0.9,0.0,تعریف
+eventful,0.9,0.0,واقعاتی
+guidance,0.9,0.0,رہنمائی
+hallowed,0.9,0.0,تقدیس
+liberate,0.9,0.0,آزاد کریں
+reclaim,0.9,0.0,دوبارہ دعوی کرنا
+outperform,0.9,0.0,آؤٹفارفارم
+valiant,0.9,0.0,بہادر
+magnanimously,0.9,0.0,بڑے پیمانے پر
+upliftingly,0.9,0.0,upliftly
+heaven,0.9,0.0,جنت
+robust,0.9,0.0,مضبوط
+blameless,0.9,0.0,بے قصور
+spellbind,0.9,0.0,ہجے
+meritorious,0.9,0.0,قابل تحسین
+self-determination,0.9,0.0,خود ارادیت
+happiness,0.9,0.0,خوشی
+enjoyable,0.9,0.0,قابل لطف
+subsidizes,0.9,0.0,سبسڈی
+nurturing,0.9,0.0,پرورش
+eminent,0.9,0.0,نامور
+heavenly,0.9,0.0,آسمانی
+engrossing,0.9,0.0,حیرت انگیز
+rich,0.9,0.0,امیر
+humor,0.9,0.0,مزاح
+first-rate,0.9,0.0,پہلی قیمت
+unselfish,0.9,0.0,بے غرض
+oasis,0.9,0.0,نخلستان
+poised,0.9,0.0,تیار
+kid-friendly,0.9,0.0,بچ kidہ دوستانہ
+harmonize,0.9,0.0,ہم آہنگی
+vigilant,0.9,0.0,چوکنا
+outwit,0.9,0.0,outwit
+adoringly,0.9,0.0,پیار سے
+quieter,0.9,0.0,پرسکون
+fondly,0.9,0.0,شوق سے
+instructive,0.9,0.0,تعلیم دینے والا
+complemented,0.9,0.0,تکمیل شدہ
+all-around,0.9,0.0,چاروں طرف
+hallmarks,0.9,0.0,پہچان
+soundness,0.9,0.0,تندرستی
+dashing,0.9,0.0,تیز
+overtaken,0.9,0.0,آ پڑے
+grace,0.9,0.0,فضل
+advocate,0.9,0.0,وکیل
+fanfare,0.9,0.0,دھوم دھام
+jubilantly,0.9,0.0,خوشی سے
+praising,0.9,0.0,تعریف کرنا
+tops,0.9,0.0,سب سے اوپر
+succeeds,0.9,0.0,کامیاب ہوتا ہے
+astonished,0.9,0.0,حیران
+danken,0.9,0.0,شکریہ
+affection,0.9,0.0,پیار
+geeky,0.9,0.0,geeky
+hot,0.9,0.0,گرم
+advantageous,0.9,0.0,فائدہ مند
+improve,0.9,0.0,بہتر بنائیں
+sweetheart,0.9,0.0,پیاری
+eloquence,0.9,0.0,فصاحت
+audibly,0.9,0.0,سمعی طور پر
+charmingly,0.9,0.0,دلکش
+incredibly,0.9,0.0,ناقابل یقین حد تک
+solicitous,0.9,0.0,اکیلا
+well-made,0.9,0.0,اچھی طرح سے بنایا
+logical,0.9,0.0,منطقی
+zeal,0.9,0.0,جوش
+thoughtfully,0.9,0.0,سوچ سمجھ کر
+solid,0.9,0.0,ٹھوس
+deference,0.9,0.0,احترام
+intuitive,0.9,0.0,بدیہی
+punctual,0.9,0.0,وقت کی پابند
+hallmark,0.9,0.0,ہال مارک
+redeeming,0.9,0.0,چھڑانا
+safe,0.9,0.0,محفوظ
+excallent,0.9,0.0,شاندار
+fortune,0.9,0.0,خوش قسمتی
+grin,0.9,0.0,مسکراہٹ
+awesomeness,0.9,0.0,بہتری
+succeeded,0.9,0.0,کامیاب
+beckons,0.9,0.0,اشارہ
+pamperedly,0.9,0.0,لاڈ سے
+appreciative,0.9,0.0,قابل ستائش
+thrilled,0.9,0.0,بہت خوش ہوئے
+loyal,0.9,0.0,وفادار
+adventurous,0.9,0.0,بہادر
+booming,0.9,0.0,عروج پر
+renown,0.9,0.0,شہرت
+dote,0.9,0.0,جہیز
+reformed,0.9,0.0,اصلاح شدہ
+excellently,0.9,0.0,عمدہ طور پر
+fresh,0.9,0.0,تازه
+exceedingly,0.9,0.0,بہت زیادہ
+undisputable,0.9,0.0,غیر متنازعہ
+distinctive,0.9,0.0,مخصوص
+hale,0.9,0.0,ہال
+gloriously,0.9,0.0,عما کے ساتھ
+elan,0.9,0.0,اعلان
+stylized,0.9,0.0,سٹائلائزڈ
+sweeten,0.9,0.0,میٹھا
+alluring,0.9,0.0,کشش
+fecilitous,0.9,0.0,fecilitous
+overtaking,0.9,0.0,اوورٹیکٹنگ
+saver,0.9,0.0,سیور
+ftw,0.9,0.0,ftw
+laudable,0.9,0.0,قابل ستائش
+euphoric,0.9,0.0,جوش و خروش
+impartially,0.9,0.0,غیرجانبداری سے
+lifesaver,0.9,0.0,زندگی بچانے والا
+simplest,0.9,0.0,سب سے آسان
+excellency,0.9,0.0,مہارت
+agility,0.9,0.0,چپلتا
+blessing,0.9,0.0,برکت
+winnable,0.9,0.0,winnable
+fair,0.9,0.0,منصفانہ
+monumentally,0.9,0.0,یادگار طور پر
+felicity,0.9,0.0,فیلیسیٹی
+hottest,0.9,0.0,سب سے زیادہ گرم
+courtly,0.9,0.0,عدالت سے
+headway,0.9,0.0,پیش قدمی
+bonuses,0.9,0.0,بونس
+best-known,0.9,0.0,سب سے معروف
+significant,0.9,0.0,اہم
+smoothes,0.9,0.0,ہموار
+prettily,0.9,0.0,خوبصورت طور پر
+affinity,0.9,0.0,تعلق
+meaningful,0.9,0.0,بامعنی
+prosperous,0.9,0.0,خوشحال
+ambitiously,0.9,0.0,مہتواکانکشی سے
+versatility,0.9,0.0,استرتا
+lawfully,0.9,0.0,حلال
+resourceful,0.9,0.0,وسائل
+endearing,0.9,0.0,پیارے
+felicitate,0.9,0.0,اچھی قسمت
+heartily,0.9,0.0,دل سے
+admire,0.9,0.0,تعریف کرنا
+suffices,0.9,0.0,کافی
+aspirations,0.9,0.0,خواہشات
+infallibility,0.9,0.0,عدم استحکام
+surpass,0.9,0.0,پیچھے چھوڑ دیں
+delicious,0.9,0.0,مزیدار
+complimentary,0.9,0.0,مانارت
+novelty,0.9,0.0,نیاپن
+coherence,0.9,0.0,ہم آہنگی
+subsidized,0.9,0.0,سبسڈی دی گئی
+surreal,0.9,0.0,غیر حقیقی
+spiritual,0.9,0.0,روحانی
+grandeur,0.9,0.0,عظمت
+improving,0.9,0.0,بہتری
+goodness,0.9,0.0,نیکی
+bonus,0.9,0.0,اضافی انعام
+amusing,0.9,0.0,دل لگی
+confident,0.9,0.0,پر اعتماد
+felicitous,0.9,0.0,مبارک
+compactly,0.9,0.0,کومپیکٹ
+trivially,0.9,0.0,چھوٹی سی
+achievable,0.9,0.0,قابل حصول
+merrily,0.9,0.0,خوشی سے
+exhilarating,0.9,0.0,خوش کن
+thrills,0.9,0.0,سنسنی
+tidy,0.9,0.0,صاف
+jubiliant,0.9,0.0,جوبلی
+sensibly,0.9,0.0,سمجھداری سے
+restructure,0.9,0.0,تنظیم نو
+miraculous,0.9,0.0,معجزہ
+glee,0.9,0.0,خوشی
+whoa,0.9,0.0,واہ
+superb,0.9,0.0,بہت اچھا
+obsession,0.9,0.0,جنون
+joyfully,0.9,0.0,خوشی سے
+undisputed,0.9,0.0,غیر متنازعہ
+comely,0.9,0.0,خوبصورت
+gorgeous,0.9,0.0,خوبصورت
+luckier,0.9,0.0,خوش قسمت
+worth,0.9,0.0,قابل
+beneficially,0.9,0.0,فائدہ مند
+user-replaceable,0.9,0.0,صارف سے بدلا جا سکتا ہے
+decent,0.9,0.0,مہذب
+blissfully,0.9,0.0,خوشی سے
+salutary,0.9,0.0,سلام
+commodious,0.9,0.0,کماڈٹی
+stable,0.9,0.0,مستحکم
+scenic,0.9,0.0,قدرتی
+unassailable,0.9,0.0,غیر دستیاب
+holy,0.9,0.0,مقدس
+invincibility,0.9,0.0,ناقابل تسخیر
+enchant,0.9,0.0,پرفتن
+appealing,0.9,0.0,اپیل
+resolute,0.9,0.0,عزم کرنا
+titillatingly,0.9,0.0,عنوان سے
+excellence,0.9,0.0,اتکرجتا
+perfect,0.9,0.0,کامل
+revolutionized,0.9,0.0,انقلاب آگیا
+exalted,0.9,0.0,بلند
+loves,0.9,0.0,محبت کرتا ہے
+accolades,0.9,0.0,تعریف
+delectable,0.9,0.0,قابل قابل
+wowed,0.9,0.0,واہ واہ
