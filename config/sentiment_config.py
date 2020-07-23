@@ -5,10 +5,10 @@
 HINDI_STOPWORDS = "resource_management/hindi_stopwords.txt"
 
 # Location where all the polar words files of all different languages are stored
-LANGUAGE_RESOURCES = "language_resources/"
+LANGUAGE_RESOURCES = "data/language_resources/"
 
 # Location where all the FastText Language models are stored
-LANGUAGE_MODELS = "language_models/"
+LANGUAGE_MODELS = "data/language_models/"
 
 
 # list of all the languages that the current code can support

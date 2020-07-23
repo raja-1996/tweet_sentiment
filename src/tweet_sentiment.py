@@ -1,10 +1,10 @@
-from article_preprocessing import *
-from sentiment_config import *
-from model import *
+from src.article_preprocessing import *
+from config.sentiment_config import *
+from src.model import *
 
-from tweet_clean import clean_tweet
+from modules.tweet_clean import clean_tweet
 from langdetect import detect
-from spacy_nlp import get_entities
+from modules.spacy_nlp import get_entities
 
 polarity_map = {0: "neutral", 1: "positive", -1: "negative"}
 

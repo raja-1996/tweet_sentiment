@@ -1,6 +1,6 @@
-from article_preprocessing import *
-from sentiment_config import *
-from model import *
+from src.article_preprocessing import *
+from config.sentiment_config import *
+from src.model import *
 
 headlines = ["camera is awesome"]
 
@@ -15,4 +15,16 @@ for article_eng in headlines:
 
 
 print(sentis)
+
+
+# output = {
+#     "aspect_polarity": [
+#         {
+#             {"aspect": "jio", "sentiment": "positive", "score": 0.98},
+#             {"aspect": "jiomeet", "sentiment": "negative", "score": 0.98},
+#             {"aspect": "jiomart", "sentiment": "positive", "score": 0.68},
+#         }
+#     ],
+#     "entities": ["jio", "jiomeet", "reliance", "ambani"],
+# }
 

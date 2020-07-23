@@ -1,4 +1,4 @@
-from patterns import Patterns
+from modules.patterns import Patterns
 import re
 import string
 

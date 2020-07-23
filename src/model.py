@@ -4,8 +4,8 @@ import numpy as np
 from gensim.models.fasttext import FastText
 import nltk
 from nltk.stem import WordNetLemmatizer
-from sentiment_config import *
-from article_preprocessing import load_dicts
+from config.sentiment_config import *
+from src.article_preprocessing import load_dicts
 import spacy
 
 
@@ -173,8 +173,8 @@ def get_polar_words(filename):
     return words
 
 
-pos_words = get_polar_words("resources/pos_lemm.txt")
-neg_words = get_polar_words("resources/neg_lemm.txt")
+pos_words = get_polar_words("data/resources/pos_lemm.txt")
+neg_words = get_polar_words("data/resources/neg_lemm.txt")
 
 
 # retrieving the sentiment vector

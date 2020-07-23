@@ -1,5 +1,5 @@
 from flask import Flask, request
-from tweet_sentiment import get_tweet_sentiment
+from src.tweet_sentiment import get_tweet_sentiment
 
 app = Flask(__name__)
 
