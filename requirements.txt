@@ -1,0 +1,9 @@
+numpy==1.17.4
+spacy==2.2.3
+textblob==0.15.3
+nltk==3.4.5
+gensim==3.4.0
+pandas==0.25.3
+Flask==1.1.1
+protobuf==3.12.2
+google-cloud-translate==2.0.1

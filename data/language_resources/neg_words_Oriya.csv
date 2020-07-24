@@ -1,0 +1,5227 @@
+Term,PosScore,NegScore,Oriya
+rare,0.0,0.875,ବିରଳ
+avirulent,0.0,0.875,avirulent
+nonadhesive,0.0,0.75,nonadhesive
+ungummed,0.0,0.75,ସେ ଗର୍ଭବତୀ ଅଛନ୍ତି
+acrophobic,0.0,0.75,ଆକ୍ରୋଫୋବିକ୍ |
+agoraphobic,0.0,0.75,ଆଗୋରୋଫୋବିକ୍ |
+algophobic,0.0,0.875,ଆଲଗୋଫୋବିକ୍ |
+claustrophobic,0.0,0.75,କ୍ଲାଷ୍ଟ୍ରୋଫୋବିକ୍ |
+mysophobic,0.0,0.75,ମାଇସୋଫୋବିକ୍ |
+xenophobic,0.0,0.75,ଜେନୋଫୋବିକ୍ |
+unagitated,0.0,0.75,ଅଣସଂଗଠିତ |
+malapropos,0.25,0.75,ମାଲାପ୍ରୋପୋସ୍ |
+aphasic,0.0,0.75,ଆପାସିକ୍ |
+thunderous,0.125,0.875,ବଜ୍ରପାତ
+unconscious,0.0,0.75,ଚେତାଶୂନ୍ୟ
+unstratified,0.0,0.75,ଅଣସଂଗଠିତ |
+fugly,0.0,0.75,fugly
+unbanded,0.0,0.75,ବନ୍ଧନ
+maleficent,0.0,0.75,ପୁରୁଷୋତ୍ତମ |
+venomed,0.125,0.75,ବିଷାକ୍ତ
+vixenish,0.0,0.875,vixenish
+uncompartmented,0.0,0.75,ଅବିଭକ୍ତ
+slate-black,0.0,0.75,ସ୍ଲେଟ୍-କଳା
+augean,0.222,0.778,augean
+dirty-faced,0.0,0.75,ମଇଳା ମୁଖ
+smudgy,0.0,0.75,ଦୁର୍ଗନ୍ଧ
+unswept,0.0,0.75,ଅଣସଂରକ୍ଷିତ |
+unwashed,0.0,0.75,ଧୋଇବା
+uncousinly,0.0,0.75,ଅଜାଣତରେ |
+fogbound,0.0,0.75,କୁହୁଡି |
+unpublishable,0.25,0.75,ପ୍ରକାଶିତ ନୁହେଁ |
+comfortless,0.0,0.875,ଆରାମଦାୟକ |
+uncommercial,0.0,0.75,ଅସାଧାରଣ
+unworkmanlike,0.25,0.75,କାର୍ଯ୍ୟହୀନ ପରି |
+noncompetitive,0.0,0.75,ଅସଂପୂର୍ଣ୍ଣ
+uncommitted,0.0,0.75,ଅଣସଂଗଠିତ |
+unconquerable,0.125,0.75,ଅସମର୍ଥ |
+ravaging,0.0,0.75,କ୍ଷତିକାରକ |
+unchallengeable,0.0,0.75,ଅବିସ୍ମରଣୀୟ |
+unargumentative,0.0,0.75,ଯୁକ୍ତିହୀନ |
+noncontentious,0.0,0.75,ଅସନ୍ତୁଷ୍ଟ
+inconvenient,0.125,0.75,ଅସୁବିଧାଜନକ
+unconventional,0.0,0.75,ଅସାଧାରଣ
+conformist,0.0,0.75,କନଫର୍ମର୍
+unpersuasive,0.0,0.75,ଅଣସଂରକ୍ଷିତ |
+raw,0.0,0.75,କଞ୍ଚା |
+untoasted,0.0,0.75,ଟୋଷ୍ଟେଡ୍ |
+putrid,0.3,0.7,ପୁଟ୍ରିଡ୍ |
+antiphlogistic,0.0,0.75,ଆଣ୍ଟିଫ୍ଲୋଗିଷ୍ଟିକ୍ |
+wrongheaded,0.25,0.75,ଭୁଲ୍
+uncorrected,0.0,0.75,ସଂଶୋଧିତ
+unremedied,0.0,0.75,ଅଣସଂରକ୍ଷିତ |
+constipated,0.0,0.75,କୋଷ୍ଠକାଠିନ୍ୟ
+overcredulous,0.0,0.75,ଅତ୍ୟଧିକ
+censorious,0.0,0.875,ସେନ୍ସର
+uncritical,0.0,0.75,ଅପ୍ରାକୃତିକ |
+noncurrent,0.0,0.75,ଅଣସଂରକ୍ଷିତ |
+knocked-out,0.0,0.875,ନକ୍ ଆଉଟ୍ |
+storm-beaten,0.0,0.75,storm ଡ଼ତୋଫାନ
+undatable,0.0,0.75,ଅବହେଳିତ |
+undeclared,0.0,0.75,ଅଘୋଷିତ |
+indefeasible,0.0,0.75,ଅବିସ୍ମରଣୀୟ |
+nonresistant,0.0,0.75,ଅସହିଷ୍ଣୁ |
+infrangible,0.0,0.75,ଅକ୍ଷୟ
+peremptory,0.0,0.75,peremptory
+undemonstrative,0.0,0.75,ଅଜ୍ଞାତ
+undeniable,0.0,0.875,ଅସ୍ୱୀକାରଯୋଗ୍ୟ |
+dependent,0.0,0.75,ନିର୍ଭରଶୀଳ |
+undescriptive,0.125,0.75,ଅନାବଶ୍ୟକ |
+undiplomatic,0.0,0.75,ଅଜ୍ଞାତ
+alienating,0.0,0.75,ବିଚ୍ଛିନ୍ନ
+indirect,0.0,0.75,ପରୋକ୍ଷ |
+promiscuous,0.0,0.75,ବ୍ୟଭିଚାର
+unselective,0.125,0.75,ଅଣସଂଗଠିତ |
+indistinct,0.25,0.75,ନିର୍ଦ୍ଦିଷ୍ଟ |
+indiscrete,0.0,0.75,ଉଦାସୀନ ଭାବରେ |
+untheatrical,0.0,0.75,ଅସ୍ୱାଭାବିକ |
+uneducated,0.25,0.75,ଅଶିକ୍ଷିତ |
+sisyphean,0.0,0.75,ସିସିଫାନ୍ |
+unemployable,0.0,0.75,ବେକାର
+unburdened,0.0,0.75,ଭାରହୀନ
+unexportable,0.25,0.75,ଅବିସ୍ମରଣୀୟ |
+remittent,0.125,0.75,ଟଙ୍କା
+nostalgic,0.0,0.75,ନାଷ୍ଟାଲଜିକ୍ |
+homesick,0.0,0.75,ଘରକୁ ଘୋର
+unquestionable,0.0,0.75,ପ୍ରଶ୍ନ
+patchy,0.0,0.75,ପ୍ୟାଚି
+unparallel,0.0,0.875,ଅନୁପଯୁକ୍ତ
+unexchangeable,0.25,0.75,ଅଦଳବଦଳ
+nonextant,0.0,0.75,nonextant
+unexpendable,0.25,0.75,ଅପ୍ରତ୍ୟାଶିତ |
+fingerless,0.0,0.75,ଆଙ୍ଗୁଠିହୀନ |
+inextinguishable,0.0,0.875,ଅବିସ୍ମରଣୀୟ |
+unfastidious,0.0,0.75,ଅବିଶ୍ୱାସନୀୟ |
+blubbery,0.125,0.75,ଅସ୍ପଷ୍ଟ
+infelicitous,0.0,0.75,ଅବିଶ୍ୱାସୀ |
+unhewn,0.0,0.75,ଅନାବୃତ
+unsuitable,0.0,0.75,ଅନୁପଯୁକ୍ତ
+adventive,0.0,0.75,ସାହସିକ
+abject,0.0,1.0,ଅବଜେକ୍ଟ
+niffy,0.0,0.75,ନିଫି
+putrid-smelling,0.3,0.7,ପୁଟ୍ରିଡ୍-ଗନ୍ଧ
+unfree,0.0,0.75,ଅସନ୍ତୁଷ୍ଟ
+addled,0.0,0.75,ଯୋଗ କରାଯାଇଛି |
+day-old,0.0,0.875,ଦିନ-ପୁରୁଣା
+unfruitful,0.0,0.75,ଫଳହୀନ
+sperm-filled,0.0,0.75,ଶୁକ୍ରାଣୁ ଭର୍ତି |
+nonfunctional,0.0,0.75,କାର୍ଯ୍ୟକ୍ଷମ ନୁହେଁ |
+nonproprietary,0.0,0.75,ଅଣ-ମାଲିକାନା |
+base,0.0,0.875,ଆଧାର
+pseudo,0.0,0.75,ଛଉ
+synthetic,0.125,0.875,ସିନ୍ଥେଟିକ୍ |
+no-go,0.0,0.75,ନା-ଯାଅ |
+ill,0.0,0.875,ଅସୁସ୍ଥ
+swingeing,0.0,0.875,ସୁଇଙ୍ଗ୍
+uncool,0.0,0.875,uncool
+unsuitable,0.222,0.778,ଅନୁପଯୁକ୍ତ
+evil-minded,0.0,0.75,ମନ୍ଦ ଚିନ୍ତାଧାରା
+churlish,0.0,0.875,ଚୁର୍ଲିସ୍ |
+churlish,0.25,0.75,ଚୁର୍ଲିସ୍ |
+fulminant,0.0,0.75,ପୂର୍ଣ୍ଣ
+appreciative,0.25,0.75,କୃତଜ୍ଞ
+unappreciative,0.0,0.75,ଅମୂଲ୍ୟ
+ill,0.0,0.75,ଅସୁସ୍ଥ
+bloodshot,0.0,0.75,ରକ୍ତପାତ
+caseous,0.0,0.75,କେସ୍
+inflamed,0.0,0.875,ପ୍ରଦାହ
+sore-eyed,0.0,0.75,ଆଖିରେ ଘା ’
+varicose,0.0,0.875,varicose
+light-duty,0.0,0.75,ହାଲୁକା କର୍ତ୍ତବ୍ୟ |
+low-level,0.0,0.75,ନିମ୍ନ ସ୍ତର
+nonimitative,0.0,0.75,ଅଣ-ଗୁଣାତ୍ମକ
+yellow,0.0,0.75,ହଳଦିଆ
+insoluble,0.0,0.75,ଅବିସ୍ମରଣୀୟ |
+torrid,0.0,0.75,torrid
+stygian,0.0,0.75,stygian
+undesigned,0.0,0.75,ଅଜ୍ଞାତ |
+unsmoothed,0.0,0.75,ଅଣସଂରକ୍ଷିତ |
+anisotropic,0.0,0.75,ଆନିସୋଟ୍ରୋପିକ୍ |
+bittersweet,0.0,0.75,ବିଟର୍ସ୍ୱିଟ୍ |
+joyless,0.125,0.75,ଆନନ୍ଦହୀନ |
+unsmiling,0.0,0.75,ଅସନ୍ତୁଷ୍ଟ
+watertight,0.0,0.75,ୱାଟରାଇଟ୍ |
+unlisted,0.0,0.75,ତାଲିକାଭୁକ୍ତ ନୁହେଁ |
+unextended,0.0,0.75,ଅନାବଶ୍ୟକ |
+stray,0.0,0.75,ଭ୍ରମଣ
+straying,0.0,0.75,ଭ୍ରମଣ
+apotropaic,0.0,0.75,ଆପୋଟ୍ରୋପିକ୍ |
+unbranded,0.0,0.75,ଅବ୍ୟବହୃତ
+unfeminine,0.25,0.75,ଅବିସ୍ମରଣୀୟ |
+unconcerned,0.0,0.75,ଅବହେଳିତ |
+unsoldierly,0.0,0.75,ଅସନ୍ତୁଷ୍ଟ
+immobile,0.0,0.75,ଗତିହୀନ |
+unmodified,0.0,0.75,ଅଣମୋଦିତ |
+unadapted,0.0,0.75,ଅନାବଶ୍ୟକ |
+univalent,0.0,0.75,ଅସନ୍ତୁଷ୍ଟ
+factitious,0.0,0.75,ସତ୍ୟବାଦୀ
+supernatural,0.0,0.75,ଅଲ ern କିକ
+grotty,0.0,0.875,ଘୃଣ୍ୟ
+subnormal,0.0,0.75,ଅସାଧାରଣ
+paranormal,0.0,0.875,ପରମାନନ୍ଦ
+innocuous,0.0,0.75,ନିର୍ଦ୍ଦୋଷ |
+unoccupied,0.0,0.75,ଅଣସଂଗଠିତ |
+scrimy,0.0,1.0,ଘୃଣ୍ୟ
+verminous,0.0,0.875,ଶବ୍ଦ
+odoriferous,0.222,0.778,ଦୁର୍ଗନ୍ଧଯୁକ୍ତ
+unofficial,0.0,0.75,ଅଣଅନୁଷ୍ଠାନିକ |
+unestablished,0.0,0.75,ଅସ୍ଥିର
+off-street,0.0,0.75,ରାସ୍ତା
+off-line,0.0,0.75,ଅଫ୍ ଲାଇନ୍ |
+off,0.0,0.75,ବନ୍ଦ
+inconvenient,0.0,0.75,ଅସୁବିଧାଜନକ
+unopposed,0.0,0.75,ଅବିଭକ୍ତ
+unmethodical,0.0,0.75,ଅସଂଖ୍ୟ |
+artificial,0.0,0.75,କୃତ୍ରିମ
+stunning,0.0,0.75,ଚମତ୍କାର |
+underivative,0.0,0.875,ଅନ୍ତର୍ନିହିତ
+unoriginal,0.0,0.75,ଆଦିବାସୀ
+slavish,0.0,0.75,ସ୍ଲାଭିଶ୍
+painless,0.0,0.75,ଯନ୍ତ୍ରଣାହୀନ |
+unpainted,0.0,0.875,ଅଙ୍କିତ |
+unoiled,0.0,0.75,ଅନାବୃତ
+unpaintable,0.0,0.75,ଅବିସ୍ମରଣୀୟ |
+unpalatable,0.125,0.75,ଅପ୍ରୀତିକର |
+unforbearing,0.0,0.875,ଅସହ୍ୟ
+unpaved,0.0,0.75,ଅନାବଶ୍ୟକ
+unpeaceful,0.0,0.75,ଅଶାନ୍ତ
+unpeaceable,0.0,0.875,ଅବିସ୍ମରଣୀୟ |
+inadmissible,0.0,0.75,ଗ୍ରହଣଯୋଗ୍ୟ ନୁହେଁ
+unpermissive,0.125,0.75,ଅବିସ୍ମରଣୀୟ |
+unperplexed,0.0,0.75,ଅସନ୍ତୁଷ୍ଟ
+impenetrable,0.0,0.75,ଅସମ୍ଭବ
+rot-resistant,0.0,0.75,ଘୂର୍ଣ୍ଣନ ପ୍ରତିରୋଧକ |
+nonpsychoactive,0.0,0.75,ଅଣ-ସାଇକୋଆକ୍ଟିଭ୍ |
+off-putting,0.0,0.75,ବନ୍ଦ କରିବା
+raw,0.0,0.75,କଞ୍ଚା |
+imponderable,0.0,0.875,ଅପରିହାର୍ଯ୍ୟ |
+neutral,0.125,0.75,ନିରପେକ୍ଷ |
+out,0.0,0.875,ବାହାରେ
+unfunctional,0.0,0.75,କାର୍ଯ୍ୟକ୍ଷମ ନୁହେଁ |
+cretinous,0.0,0.875,କ୍ରେଟିନସ୍
+secondary,0.0,0.75,ଦ୍ secondary ିତୀୟ
+nonpublic,0.0,0.75,ଅଣ-ଜନସାଧାରଣ |
+lay,0.0,0.75,ଶଯ୍ୟା
+lean,0.125,0.75,ପତଳା |
+unremunerative,0.0,0.75,ଅପ୍ରାକୃତିକ |
+out-of-the-way,0.0,0.75,ବାହାଘର
+unimpeachable,0.0,0.75,ଅବିସ୍ମରଣୀୟ |
+unquiet,0.0,0.75,ଅଶାନ୍ତ
+flat-footed,0.0,0.75,ସମତଳ
+unprocessed,0.0,0.75,ପ୍ରକ୍ରିୟାକରଣ
+untreated,0.0,0.75,ଚିକିତ୍ସା କରାଯାଇ ନାହିଁ
+raw,0.0,0.75,କଞ୍ଚା |
+untreated,0.0,0.875,ଚିକିତ୍ସା କରାଯାଇ ନାହିଁ
+assimilative,0.0,0.75,ଆସ୍ମିଲେଟିଭ୍ |
+unexpansive,0.0,0.75,ଅବିସ୍ମରଣୀୟ |
+moneyless,0.0,0.75,ଅର୍ଥହୀନ |
+out,0.0,0.75,ବାହାରେ
+manic-depressive,0.0,0.75,ମାଣିକ-ଉଦାସୀନ |
+psychotic,0.0,0.75,ମନସ୍ତାତ୍ତ୍ୱିକ
+saturnine,0.125,0.75,ଶନି
+unconscientious,0.0,0.75,ଅଜ୍ଞ
+fail-safe,0.0,0.75,ବିଫଳ-ନିରାପଦ |
+junior,0.0,0.75,କନିଷ୍ଠ
+frivolous,0.0,0.75,ଅମୂଲ୍ୟ
+broken-down,0.0,0.875,ଭଙ୍ଗା
+nonresident,0.0,0.75,ଅଣ-ରାଷ୍ଟ୍ରପତି
+nonnomadic,0.0,0.75,ଅଣନୋମାଡିକ୍ |
+unformed,0.0,0.75,ଅସଂଗଠିତ |
+FALSE,0.125,0.75,ମିଥ୍ୟା
+feigned,0.125,0.875,ଚିତ୍ରିତ |
+unsized,0.0,0.75,ଅଣ ଆକାରର |
+unsorted,0.0,0.75,ଅଣସଂରକ୍ଷିତ
+unshuttered,0.0,0.75,ଅଣସଂରକ୍ଷିତ |
+unsociable,0.0,0.75,ଅବିଭକ୍ତ
+ungregarious,0.0,0.75,ଅବହେଳିତ |
+unsold,0.0,0.75,ବିକ୍ରି ହୋଇନାହିଁ |
+nonstandard,0.125,0.75,ଷ୍ଟାଣ୍ଡାର୍ଡ
+nonstandard,0.125,0.875,ଷ୍ଟାଣ୍ଡାର୍ଡ
+nonnormative,0.0,0.75,ଅସାଧାରଣ
+nonstandard,0.0,0.75,ଷ୍ଟାଣ୍ଡାର୍ଡ
+unstressed,0.0,0.75,ଅନାବଶ୍ୟକ |
+low-grade,0.222,0.778,ନିମ୍ନ-ଗ୍ରେଡ୍
+unimpressionable,0.0,0.75,ଅପ୍ରତ୍ୟାଶିତ |
+soured,0.0,0.75,ଖରାପ
+unsuspected,0.125,0.75,ଅପ୍ରତ୍ୟାଶିତ |
+unswept,0.0,0.75,ଅଣସଂରକ୍ଷିତ |
+unsympathetic,0.0,0.875,ଅସନ୍ତୁଷ୍ଟ
+temperate,0.125,0.75,ସ୍ୱଭାବିକ
+unkempt,0.0,0.75,ଅବହେଳିତ |
+ungroomed,0.125,0.75,ଅଣସଂଗଠିତ |
+intolerant,0.125,0.75,ଅସହିଷ୍ଣୁ |
+intestate,0.0,0.75,ଅନ୍ତନଳୀ
+tough,0.0,0.75,କଠିନ
+unmalleable,0.0,0.75,ଅବିସ୍ମରଣୀୟ |
+FALSE,0.0,0.75,ମିଥ୍ୟା
+undivided,0.0,0.875,ଅବିଭାଜିତ |
+dystopian,0.0,0.75,ଡିଷ୍ଟୋପିଆନ୍
+FALSE,0.0,0.75,ମିଥ୍ୟା
+manky,0.3,0.7,ମାନକି
+occult,0.0,0.875,ଜ୍ୟୋତିଷ
+consumptive,0.0,0.75,ଗ୍ରାହକ
+dyspeptic,0.0,0.75,ଡିସପେପ୍ଟିକ୍ |
+palsied,0.0,0.75,ପକ୍ଷାଘାତ
+scrofulous,0.0,0.875,ଘୃଣ୍ୟ
+unwholesome,0.125,0.75,ଅସ୍ୱାସ୍ଥ୍ୟକର |
+benign,0.0,0.75,ଉତ୍ତମ
+immunodeficient,0.0,0.75,ପ୍ରତିରୋପଣ
+anasarcous,0.0,0.75,ଅନାସର୍କସ୍ |
+immunocompromised,0.0,0.75,ପ୍ରତିରୋପଣ
+aversive,0.125,0.75,ଘୃଣ୍ୟ
+nonenzymatic,0.0,0.75,nonenzymatic
+tetanic,0.0,0.75,ଟିଟାନିକ୍ |
+tetanic,0.0,0.75,ଟିଟାନିକ୍ |
+unposed,0.0,0.75,ଅନାବଶ୍ୟକ |
+conquest,0.0,0.75,ଜୟ
+hyperemesis,0.0,0.75,ହାଇପରମେସିସ୍
+bronchospasm,0.0,0.75,ବ୍ରୋଙ୍କୋସ୍ପାସ୍ |
+palliation,0.0,0.75,ପଲ୍ଲିଏସନ୍ |
+overexertion,0.0,0.875,ଅତ୍ୟଧିକ ପରିଶ୍ରମ
+abduction,0.0,1.0,ଅପହରଣ
+scatophagy,0.0,0.75,ସ୍କାଟୋଫାଗି |
+underproduction,0.0,0.75,ଉତ୍ପାଦନ
+armageddon,0.0,0.75,ଆର୍ମାଗେଡନ୍ |
+misdeal,0.0,0.75,ଭୁଲ
+rotavirus,0.0,0.75,ରୋଟାଭାଇରସ୍ |
+rockweed,0.0,0.75,ରକ୍ୱିଡ୍ |
+kitsch,0.125,0.75,କିଟ୍
+lenitive,0.0,0.875,lenitive
+stinker,0.0,0.75,ଗନ୍ଧ
+disagreeableness,0.0,0.875,ମତଭେଦ
+levity,0.125,0.875,ଲେଭିଟି
+unapproachability,0.125,0.75,ଅନୁପଯୁକ୍ତତା |
+unfriendliness,0.0,0.875,ବନ୍ଧୁତା
+uncongeniality,0.25,0.75,ଅସଙ୍ଗତି
+unneighborliness,0.0,0.875,ଅନାବଶ୍ୟକତା |
+unpleasingness,0.125,0.75,ଅସନ୍ତୁଷ୍ଟ
+shiftiness,0.125,0.75,ପରିବର୍ତ୍ତନ
+granite,0.0,0.75,ଗ୍ରାନାଇଟ୍ |
+disagreeableness,0.125,0.875,ମତଭେଦ
+beastliness,0.0,0.75,ପଶୁ
+unnaturalness,0.0,0.875,ଅପ୍ରାକୃତିକତା |
+inadmissibility,0.125,0.75,ଅଯୋଗ୍ୟତା
+usualness,0.125,0.75,ସାଧାରଣତା
+nonconformity,0.0,0.75,ଅସଙ୍ଗତି
+illegitimacy,0.0,0.875,ଅବ il ଧତା |
+illicitness,0.0,0.75,ଅବ icit ଧତା |
+elusiveness,0.125,0.75,ଅପବ୍ୟବହାର
+wrongness,0.125,0.75,ଭୁଲ
+incorruptibility,0.25,0.75,ଅକ୍ଷୟ
+lightheadedness,0.0,0.75,ହାଲୁକା
+indelicacy,0.125,0.75,ଅପାରଗତା |
+staleness,0.0,0.75,ସ୍ଥିରତା
+hardness,0.0,0.875,କଠିନତା
+vulnerability,0.0,0.875,ଦୁର୍ବଳତା
+tardiness,0.125,0.75,tardiness
+inessentiality,0.125,0.75,ଅନାବଶ୍ୟକତା |
+defensibility,0.25,0.75,ପ୍ରତିରକ୍ଷା ଯୋଗ୍ୟତା |
+snootiness,0.125,0.75,ଗୁପ୍ତଚର |
+cholecystokinin,0.0,0.75,କୋଲେସିଷ୍ଟୋକିନିନ୍ |
+feeblemindedness,0.0,0.75,ଦୁର୍ବଳତା
+insensibility,0.0,0.75,ସମ୍ବେଦନଶୀଳତା |
+hydra,0.0,0.75,ହାଇଡ୍ରା
+pisser,0.0,0.75,ପିସ୍
+pruritus,0.0,0.75,pruritus
+pill,0.0,0.875,ବଟିକା
+kink,0.0,0.75,କିଙ୍କ୍
+casuistry,0.0,0.75,କାଜୁଷ୍ଟ୍ରି
+reprobation,0.0,0.75,ପ୍ରତିବାଦ
+unfairness,0.125,0.75,ଅନ୍ୟାୟ
+stricture,0.0,0.75,କଠୋରତା |
+canard,0.0,0.875,ବତକ
+excoriation,0.0,0.875,ଉତ୍ତେଜନା
+accident,0.0,0.75,ଦୁର୍ଘଟଣା
+resolution,0.0,0.75,ରେଜୋଲୁସନ
+fire,0.0,0.75,ଅଗ୍ନି
+wistfulness,0.0,0.75,ଚତୁରତା
+mysophilia,0.0,0.75,ମାଇସୋଫିଲିଆ |
+creepy-crawlies,0.125,0.75,କ୍ରପି-କ୍ରଲ୍
+unconcern,0.0,0.75,ଅସାବଧାନତା |
+conscience,0.125,0.75,ଚେତନା
+levity,0.125,0.875,ଲେଭିଟି
+sensibility,0.25,0.75,ସମ୍ବେଦନଶୀଳତା |
+dolefulness,0.0,0.875,dolefulness
+heavyheartedness,0.125,0.75,ଭାରି ହୃଦୟ
+self-pity,0.125,0.75,ଆତ୍ମ-ଦୟା
+dysphoria,0.0,0.75,ଡିସଫୋରିଆ |
+moodiness,0.125,0.875,ମନୋବଳ
+plonk,0.0,0.875,plonk
+gridlock,0.0,0.75,ଗ୍ରୀଡ୍ଲକ୍ |
+aphasic,0.0,0.75,ଆପାସିକ୍ |
+asthmatic,0.0,0.75,ଶ୍ୱାସରୋଗ
+choker,0.0,0.75,ଚକର୍
+hobbledehoy,0.0,0.875,ହବ୍ଲେଡେହୋଇ |
+jerry-builder,0.0,0.75,ଜେରୀ-ବିଲଡର୍ |
+motormouth,0.0,1.0,ମୋଟର ମୁଖ
+patzer,0.0,0.875,ତ୍ରୁଟି
+seducer,0.0,0.75,ପ୍ରଲୋଭନକାରୀ |
+third-rater,0.0,0.75,ତୃତୀୟ-ରେଟର
+torturer,0.0,0.75,ନିର୍ଯାତନା
+yenta,0.0,0.75,ୟେଣ୍ଟା
+accumulation,0.0,0.75,ଜମା
+earthquake,0.0,0.875,ଭୂକମ୍ପ
+insomnia,0.0,0.75,ଅନିଦ୍ରା
+anoxia,0.0,0.75,ଆନାକ୍ସିଆ |
+dysphagia,0.125,0.75,ଡିସଫାଗିଆ |
+dysuria,0.0,0.875,ଡିସୁରିଆ
+dystrophy,0.0,0.75,ଡିଷ୍ଟ୍ରୋଫି
+invalidism,0.0,0.875,ଅବ alid ଧତା |
+amyloidosis,0.0,0.75,ଆମିଲୋଏଡୋସିସ୍ |
+neurasthenia,0.0,0.75,ନ୍ୟୁରାଷ୍ଟେନିଆ
+gingivitis,0.0,0.75,ଜିଙ୍ଗିଭାଇଟିସ୍
+glomerulonephritis,0.0,0.75,ଗ୍ଲୋମେରୁଲୋନେଫ୍ରାଇଟିସ୍ |
+hypothyroidism,0.0,0.75,ହାଇପୋଥାଇରଏଡିଜିମ୍ |
+diphtheria,0.0,0.75,ଡିଫଥେରିଆ |
+pneumonia,0.0,0.75,ନିମୋନିଆ
+abetalipoproteinemia,0.0,0.75,abetalipoproteinemia
+hypobetalipoproteinemia,0.0,0.75,ହାଇପୋବେଟାଲିପୋପ୍ରୋଟେନେମିଆ |
+lysinemia,0.0,0.75,ଲାଇସେନେମିଆ
+thrombasthenia,0.0,0.75,ଥ୍ରୋମାଷ୍ଟେନିଆ |
+tyrosinemia,0.125,0.75,ଟାଇରୋସିନେମିଆ
+angina,0.0,0.75,ଆଞ୍ଜିନା |
+blain,0.0,0.875,ବ୍ଲେନ୍
+cystitis,0.0,0.75,ସିଷ୍ଟାଇଟିସ୍
+malnutrition,0.0,0.75,ପୁଷ୍ଟିହୀନତା
+kwashiorkor,0.0,0.75,kwashiorkor
+myopathy,0.125,0.75,ମାୟୋପାଥି
+erythema,0.0,0.75,ଏରିଥେମା
+livedo,0.0,0.75,livedo
+granuloma,0.0,0.75,ଗ୍ରାନୁଲୋମା |
+arteritis,0.0,0.75,ଧମନୀ
+blepharitis,0.0,0.875,ବ୍ଲେଫାରାଇଟିସ୍
+sprain,0.0,0.75,ସ୍ପ୍ରେନ୍
+bubo,0.0,0.875,ବୁବୋ |
+throe,0.0,0.875,ଗଳା
+dysmenorrhea,0.0,0.75,ଡିସମେନୋରିଆ
+odynophagia,0.125,0.75,ଓଡିନୋଫାଗିଆ |
+ulalgia,0.0,0.75,ulalgia
+cholangitis,0.0,0.75,କୋଲାଙ୍ଗାଇଟିସ୍
+cholecystitis,0.0,0.75,କୋଲେସିଷ୍ଟାଇଟିସ୍
+diverticulitis,0.0,0.875,ଡାଇଭର୍ଟିକୁଲାଇଟିସ୍ |
+endarteritis,0.0,0.75,ଏଣ୍ଡାର୍ଟେରାଇଟିସ୍ |
+epididymitis,0.0,0.75,epididymitis
+gastritis,0.0,0.75,ଗ୍ୟାଷ୍ଟ୍ରାଇଟିସ୍
+keratitis,0.0,0.75,କିରାଟାଇଟିସ୍ |
+oophoritis,0.0,0.75,ଓଫୋରିଟିସ୍ |
+orchitis,0.0,0.875,ଅର୍କାଇଟିସ୍ |
+pancreatitis,0.0,0.75,ଅଗ୍ନାଶୟ ରୋଗ
+prostatitis,0.0,0.875,ପ୍ରୋଷ୍ଟାଟାଇଟିସ୍ |
+spondylitis,0.0,0.75,ସ୍ପଣ୍ଡିଲାଇଟିସ୍ |
+ulitis,0.0,0.75,ଅଲାଇଟିସ୍
+ureteritis,0.0,0.75,ୟୁରେଟେରାଇଟିସ୍
+vesiculitis,0.0,0.75,ଭେସିକୁଲାଇଟିସ୍ |
+automysophobia,0.0,0.75,ଅଟୋମୋସୋଫୋବିୟା |
+encopresis,0.0,0.75,ଏନକୋପ୍ରେସିସ୍ |
+melancholia,0.125,0.75,ମେଲାନକୋଲିଆ |
+throe,0.0,0.875,ଗଳା
+cleanness,0.125,0.75,ପରିଷ୍କାରତା
+porphyria,0.125,0.75,ପୋର୍ଫିରିଆ |
+ergotism,0.0,0.75,ergotism
+astasia,0.125,0.75,ଆଷ୍ଟାସିଆ |
+sequela,0.0,0.75,ଶିଷ୍ୟତା
+analgesia,0.0,0.75,ଆନାଲେଜିଆ |
+urethritis,0.0,0.75,ମୂତ୍ରାଶୟ
+oligospermia,0.0,0.75,ଅଲିଗୋସ୍ପର୍ମିଆ |
+tenesmus,0.0,0.75,ଟେନେସମସ୍ |
+gum-lac,0.0,0.75,gum-lac
+negatively,0.0,0.75,ନକାରାତ୍ମକ
+indirectly,0.0,0.75,ପରୋକ୍ଷରେ |
+have,0.0,0.75,ଅଛି
+obstipate,0.0,0.75,ବାଧା
+bloat,0.0,0.75,ଫୁଲ
+putrefy,0.0,0.75,putrefy
+curdle,0.0,0.875,କଦଳୀ
+cleanse,0.0,0.75,ସଫା କର |
+whoop,0.25,0.75,ହଉ
+speculate,0.0,0.75,ଅନୁମାନ କର
+out-herod,0.0,0.875,ବାହାଘର
+invade,0.0,0.75,ଆକ୍ରମଣ
+lacerate,0.125,0.75,ଲେସେରେଟ୍ |
+tribulate,0.0,0.75,ଶ୍ରଦ୍ଧାଳୁ
+abreact,0.0,0.875,ଅବକ୍ଷୟ
+humbug,0.0,0.875,ହମ୍ବୁଗ୍
+moot,0.0,-0.9,ମଟ୍
+stingingly,0.0,-0.9,କଳଙ୍କିତ ଭାବରେ |
+ire,0.0,-0.9,କ୍ରୋଧ
+unlawful,0.0,-0.9,ବେଆଇନ୍ |
+overstates,0.0,-0.9,ଓଭରଷ୍ଟେଟ୍ |
+sloow,0.0,-0.9,ସ୍ଲୋ
+pervasive,0.0,-0.9,ବିସ୍ତାର
+tangles,0.0,-0.9,ଟାଙ୍ଗଲ୍ସ |
+distressingly,0.0,-0.9,ଦୁ distress ଖଦାୟକ |
+outrageousness,0.0,-0.9,ଅସନ୍ତୋଷ
+prejudices,0.0,-0.9,କୁସଂସ୍କାର
+retaliatory,0.0,-0.9,ପ୍ରତିଶୋଧ
+insufficient,0.0,-0.9,ପର୍ଯ୍ୟାପ୍ତ ନୁହେଁ
+grudging,0.0,-0.9,ଦୁ ud ଖ
+unfeeling,0.0,-0.9,ଅନୁଭବ
+desert,0.0,-0.9,ମରୁଭୂମି
+damnation,0.0,-0.9,ଅଭିଶାପ
+despairingly,0.0,-0.9,ନିରାଶାରେ
+frightening,0.0,-0.9,ଭୟାବହ
+unethical,0.0,-0.9,ଅନ eth ତିକ |
+dent,0.0,-0.9,ଦନ୍ତ
+bores,0.0,-0.9,ବୋରସ୍
+unexpected,0.0,-0.9,ଅପ୍ରତ୍ୟାଶିତ |
+contemptible,0.0,-0.9,ଅବମାନନା
+drab,0.0,-0.9,ହତ୍ୟା
+adulterate,0.0,-0.9,ବ୍ୟଭିଚାର
+martyrdom-seeking,0.0,-0.9,ଶହୀଦ-ସନ୍ଧାନ
+spade,0.0,-0.9,ସ୍ପେଡ୍
+downside,0.0,-0.9,ଖରାପ
+prohibitively,0.0,-0.9,ନିଷେଧ ଭାବରେ |
+unwell,0.0,-0.9,ଅସୁସ୍ଥ
+vicious,0.0,-0.9,ଦୁଷ୍ଟ
+unsupportive,0.0,-0.9,ଅସମର୍ଥିତ |
+frigid,0.0,-0.9,ଫ୍ରିଜିଡ୍
+brainless,0.0,-0.9,ମସ୍ତିଷ୍କହୀନ |
+obnoxiously,0.0,-0.9,ଅଜ୍ଞାତ ଭାବରେ |
+bullshit,0.0,-0.9,ଷଣ୍
+bedlamite,0.0,-0.9,ବେଡଲାମାଇଟ୍ |
+painful,0.0,-0.9,ଯନ୍ତ୍ରଣାଦାୟକ |
+illness,0.0,-0.9,ରୋଗ
+bombard,0.0,-0.9,ବୋମା ବିସ୍ଫୋରଣ |
+sneakily,0.0,-0.9,ଚତୁରତାର ସହିତ |
+hustler,0.0,-0.9,ହଷ୍ଟଲର୍ |
+fallacy,0.0,-0.9,ଖରାପ
+spoils,0.0,-0.9,ଲୁଣ୍ଠନ
+twist,0.0,-0.9,ମୋଡ଼
+misunderstood,0.0,-0.9,ଭୁଲ ବୁ stood ିଗଲା
+sluts,0.0,-0.9,ସ୍ଲଟ୍
+ghastly,0.0,-0.9,ଭୟଙ୍କର
+destitution,0.0,-0.9,ଦରିଦ୍ରତା
+imminently,0.0,-0.9,ଶୀଘ୍ର
+mope,0.0,-0.9,ମୋପ୍
+complication,0.0,-0.9,ଜଟିଳତା
+heathen,0.0,-0.9,ଜାତିଗଣ
+rip,0.0,-0.9,ରିପ୍
+scandal,0.0,-0.9,ଦୁର୍ନୀତି
+anguish,0.0,-0.9,ଦୁ ish ଖ
+fruitless,0.0,-0.9,ଫଳହୀନ
+cash-strapped,0.0,-0.9,ନଗଦ ଅର୍ଥ
+sarcastically,0.0,-0.9,ବ୍ୟଙ୍ଗାତ୍ମକ
+steal,0.0,-0.9,ଚୋରି
+admonition,0.0,-0.9,ଉପଦେଶ
+ill-fated,0.0,-0.9,ଦୁର୍ଭାଗ୍ୟ
+longing,0.0,-0.9,ଲାଳସା
+dreadfully,0.0,-0.9,ଭୟଭୀତ
+mournful,0.0,-0.9,ଶୋକ
+weakening,0.0,-0.9,ଦୁର୍ବଳ
+stew,0.0,-0.9,ଷ୍ଟି
+amiss,0.0,-0.9,ଆମିସ୍
+annihilate,0.0,-0.9,ବିନାଶ କର |
+destructive,0.0,-0.9,ବିନାଶକାରୀ |
+dullard,0.0,-0.9,ଦୁଲାର୍ଡ
+itching,0.0,-0.9,କୁଞ୍ଚନ
+oblivious,0.0,-0.9,ବିସ୍ମୃତ
+incessant,0.0,-0.9,ନିରନ୍ତର |
+idle,0.0,-0.9,ନିଷ୍କ୍ରିୟ
+scratches,0.0,-0.9,ସ୍କ୍ରାଚ୍
+shockingly,0.0,-0.9,ଆଶ୍ଚର୍ଯ୍ୟଜନକ
+miserly,0.0,-0.9,ଦୁ iser ଖ
+bias,0.0,-0.9,ପକ୍ଷପାତ
+loose,0.0,-0.9,ଖାଲି
+bull----,0.0,-0.9,ଷଣ୍ - ----
+dense,0.0,-0.9,ଘନ
+austere,0.0,-0.9,austere
+fusty,0.0,-0.9,ଧୂଳି
+ghetto,0.0,-0.9,ଘେଟୋ |
+jumpy,0.0,-0.9,ଜମ୍ପ
+crushed,0.0,-0.9,ଚୂର୍ଣ୍ଣ
+destains,0.0,-0.9,ଭାଗ୍ୟ
+assault,0.0,-0.9,ଆକ୍ରମଣ
+ferociously,0.0,-0.9,ଭୟଙ୍କର
+hard,0.0,-0.9,କଠିନ
+prate,0.0,-0.9,ଅନୁସରଣ କର
+fat-cat,0.0,-0.9,ମୋଟା-ବିଲେଇ |
+exorbitantance,0.0,-0.9,ଅତ୍ୟଧିକ
+hassles,0.0,-0.9,ଅସୁବିଧା
+abysmally,0.0,-0.9,ଅବକ୍ଷୟ
+demeaning,0.0,-0.9,ଅପମାନ
+immodest,0.0,-0.9,ଅପାରଗତା |
+harms,0.0,-0.9,କ୍ଷତି
+irresolvable,0.0,-0.9,ସମାଧାନଯୋଗ୍ୟ
+limitations,0.0,-0.9,ସୀମିତତା |
+dawdle,0.0,-0.9,ପ୍ରଭାତ
+shrouded,0.0,-0.9,ଆଚ୍ଛାଦିତ
+smuttiest,0.0,-0.9,smuttiest
+passe,0.0,-0.9,ଅତୀତ
+mistake,0.0,-0.9,ଭୁଲ
+clunky,0.0,-0.9,clunky
+abuse,0.0,-0.9,ଅପବ୍ୟବହାର |
+sink,0.0,-0.9,ବୁଡ଼ିଯିବା |
+floundering,0.0,-0.9,ଫ୍ଲାଉଣ୍ଡରିଂ |
+harrow,0.0,-0.9,harrow
+deceiving,0.0,-0.9,ପ୍ରତାରଣା
+hellion,0.0,-0.9,ନର୍କ
+noise,0.0,-0.9,ଶବ୍ଦ
+bother,0.0,-0.9,ବ୍ୟସ୍ତ ହୁଅ |
+perfidious,0.0,-0.9,ସୁଗନ୍ଧିତ
+opportunistic,0.0,-0.9,ସୁବିଧାବାଦୀ |
+irately,0.0,-0.9,କ୍ରୋଧିତ ଭାବରେ |
+perturbed,0.0,-0.9,ବିଚଳିତ |
+belligerence,0.0,-0.9,ଯୁକ୍ତିତର୍କ |
+rebuke,0.0,-0.9,ଭର୍ତ୍ସନା
+unbelievably,0.0,-0.9,ଅବିଶ୍ୱାସନୀୟ
+catastrophically,0.0,-0.9,ବିପର୍ଯ୍ୟସ୍ତ ଭାବରେ |
+cuss,0.0,-0.9,କସ୍
+prohibit,0.0,-0.9,ନିଷେଧ |
+disclaim,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ କରନ୍ତୁ |
+bullyingly,0.0,-0.9,ଗାଳିଗୁଲଜ
+enraging,0.0,-0.9,କ୍ରୋଧ
+dud,0.0,-0.9,dud
+admonish,0.0,-0.9,ଉପଦେଶ ଦିଅ
+bravado,0.0,-0.9,bravado
+disappointed,0.0,-0.9,ନିରାଶ
+unsure,0.0,-0.9,ଅନିଶ୍ଚିତ
+repress,0.0,-0.9,ଦମନ
+impudence,0.0,-0.9,ଅପାରଗତା |
+ruin,0.0,-0.9,ଧ୍ୱଂସ
+banal,0.0,-0.9,ପବିତ୍ର
+lagging,0.0,-0.9,ପଛରେ
+discontent,0.0,-0.9,ଅସନ୍ତୋଷ |
+shunned,0.0,-0.9,ପରିତ୍ୟାଗ
+cold,0.0,-0.9,ଥଣ୍ଡା
+creak,0.0,-0.9,କ୍ରିକ୍
+untruthful,0.0,-0.9,ଅସତ୍ୟ
+dehumanize,0.0,-0.9,ମାନବିକତା
+thug,0.0,-0.9,ଥଗ୍
+worthlessly,0.0,-0.9,ମୂଲ୍ୟହୀନ
+vagrant,0.0,-0.9,vagrant
+accursed,0.0,-0.9,ଅଭିଶାପିତ
+bum,0.0,-0.9,ବମ୍
+loathly,0.0,-0.9,ଘୃଣ୍ୟ
+chunky,0.0,-0.9,ଚୁଙ୍କି |
+sputter,0.0,-0.9,sputter
+eviscerate,0.0,-0.9,eviscerate
+limp,0.0,-0.9,ଅଙ୍ଗ
+loneliness,0.0,-0.9,ଏକାକୀ
+self-interest,0.0,-0.9,ସ୍ୱାର୍ଥ
+picketed,0.0,-0.9,ପିକେଟିଂ
+squash,0.0,-0.9,ସ୍କ୍ୱାସ୍ |
+disorder,0.0,-0.9,ବିଶୃଙ୍ଖଳା |
+strange,0.0,-0.9,ଅଜବ |
+struck,0.0,-0.9,ଆଘାତ
+betrayal,0.0,-0.9,ବିଶ୍ୱାସଘାତକତା
+disturb,0.0,-0.9,ବିଚଳିତ |
+unrealistic,0.0,-0.9,ଅବାସ୍ତବ |
+antagonist,0.0,-0.9,ବିରୋଧୀ
+questionable,0.0,-0.9,ସନ୍ଦେହଜନକ |
+inactive,0.0,-0.9,ନିଷ୍କ୍ରିୟ |
+cheapen,0.0,-0.9,ଶସ୍ତା କର |
+lame,0.0,-0.9,ଛୋଟା
+irregular,0.0,-0.9,ଅନିୟମିତ |
+corrupting,0.0,-0.9,ଦୁର୍ନୀତି
+heavy-handed,0.0,-0.9,ଭାରୀ
+pertinaciously,0.0,-0.9,ପ୍ରଯୁଜ୍ୟ
+adverse,0.0,-0.9,ପ୍ରତିକୂଳ
+hubris,0.0,-0.9,ହବ୍ରିସ୍ |
+refused,0.0,-0.9,ମନା କରିଦେଲେ
+ill-conceived,0.0,-0.9,ଅସତ୍ୟ
+layoff-happy,0.0,-0.9,ଛୁଟିରେ ଖୁସି |
+unnerve,0.0,-0.9,unnerve
+overwhelmingly,0.0,-0.9,ଅତ୍ୟଧିକ
+scorching,0.0,-0.9,ଜ୍ୱଳନ୍ତ
+revile,0.0,-0.9,ଅପମାନ
+fissures,0.0,-0.9,ଫିସର୍
+unlamentable,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+gimmicky,0.0,-0.9,gimmicky
+blameworthy,0.0,-0.9,ଦୋଷୀ
+crabby,0.0,-0.9,କ୍ରାବୀ |
+stampede,0.0,-0.9,ଷ୍ଟାମ୍ପଡେ |
+hegemonism,0.0,-0.9,ହେଗୋନିଜିମ୍ |
+alarmingly,0.0,-0.9,ଭୟାବହ
+authoritarian,0.0,-0.9,କ୍ଷମତାସୀନ
+reprove,0.0,-0.9,ଭର୍ତ୍ସନା କରନ୍ତୁ |
+bemused,0.0,-0.9,ବିସ୍ମିତ |
+imposing,0.0,-0.9,ଲଗାଇବା
+fidgety,0.0,-0.9,fidgety
+discourteous,0.0,-0.9,ନିନ୍ଦନୀୟ |
+suffocate,0.0,-0.9,ଶ୍ୱାସରୁଦ୍ଧ
+irrationalities,0.0,-0.9,ଅଯ irr କ୍ତିକତା |
+attacks,0.0,-0.9,ଆକ୍ରମଣ
+ill-treatment,0.0,-0.9,ଅସଦାଚରଣ
+desititute,0.0,-0.9,ଯୋଗ୍ୟ
+bent,0.0,-0.9,ହେଉଛି |
+unequal,0.0,-0.9,ଅସମାନ
+sagging,0.0,-0.9,ସାଗିଙ୍ଗ୍ |
+nettle,0.0,-0.9,ନଟଲ୍ |
+murderously,0.0,-0.9,ହତ୍ୟାକାରୀ
+severity,0.0,-0.9,ଗମ୍ଭୀରତା
+trashed,0.0,-0.9,ଆବର୍ଜନା
+repulsively,0.0,-0.9,ଘୃଣ୍ୟ
+chaos,0.0,-0.9,ବିଶୃଙ୍ଖଳା
+hung,0.0,-0.9,hung ୁଲାଗଲା |
+despairing,0.0,-0.9,ହତାଶ
+lifeless,0.0,-0.9,ଜୀବନ୍ତ
+nauseatingly,0.0,-0.9,ବାନ୍ତି
+haggard,0.0,-0.9,ହାଗାର୍ଡ |
+inglorious,0.0,-0.9,ଅନୁକୂଳ
+delirium,0.0,-0.9,delirium
+inaction,0.0,-0.9,ନିଷ୍କ୍ରିୟତା |
+incessantly,0.0,-0.9,ନିରନ୍ତର
+misses,0.0,-0.9,ମିସ୍
+reject,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ କର |
+dejection,0.0,-0.9,ନିରାଶା
+distrust,0.0,-0.9,ଅବିଶ୍ୱାସ
+bruised,0.0,-0.9,କ୍ଷତବିକ୍ଷତ
+spoil,0.0,-0.9,ଲୁଟ
+fractiously,0.0,-0.9,ଭଙ୍ଗା
+queer,0.0,-0.9,କୁଇର୍
+crowded,0.0,-0.9,ଭିଡ଼
+fastuous,0.0,-0.9,ଦ୍ରୁତଗାମୀ
+torment,0.0,-0.9,ଯନ୍ତ୍ରଣା
+spewing,0.0,-0.9,ସ୍ପିଙ୍ଗ୍
+atrophy,0.0,-0.9,atrophy
+inaccuracy,0.0,-0.9,ଭୁଲ
+viciousness,0.0,-0.9,ଦୁଷ୍ଟତା
+unwilling,0.0,-0.9,ଅନିଚ୍ଛା |
+injustice,0.0,-0.9,ଅନ୍ୟାୟ
+sty,0.0,-0.9,ଜାନୁଆରୀ
+importune,0.0,-0.9,season ତୁ
+hum,0.0,-0.9,ହମ୍
+declines,0.0,-0.9,ହ୍ରାସ ହୁଏ |
+deteriorate,0.0,-0.9,ଖରାପ
+fatique,0.0,-0.9,ଫ୍ୟାଟିକ୍ |
+gloomy,0.0,-0.9,ଉଦାସ
+beg,0.0,-0.9,ଭିକ ମାଗ
+domineer,0.0,-0.9,ପ୍ରାଧାନ୍ୟ ଦିଅନ୍ତୁ |
+inappropriate,0.0,-0.9,ଅନୁପଯୁକ୍ତ
+outlaw,0.0,-0.9,outlaw
+irk,0.0,-0.9,ଜାତି
+perilously,0.0,-0.9,ବିପଦପୂର୍ଣ୍ଣ
+grievances,0.0,-0.9,ଅଭିଯୋଗ
+shiver,0.0,-0.9,କମ୍ପନ
+tyrant,0.0,-0.9,ଅତ୍ୟାଚାରୀ
+idiocies,0.0,-0.9,ମୂର୍ଖତା
+notoriously,0.0,-0.9,କୁଖ୍ୟାତ
+incorrigibly,0.0,-0.9,ଭୁଲ୍ ଭାବରେ |
+rival,0.0,-0.9,ପ୍ରତିଦ୍ୱନ୍ଦ୍ୱୀ |
+vibrates,0.0,-0.9,କମ୍ପିତ ହୁଏ |
+downbeat,0.0,-0.9,ଡାଉନବିଟ୍ |
+dismaying,0.0,-0.9,ହତାଶ
+smug,0.0,-0.9,ସ୍ମଗ୍
+blinding,0.0,-0.9,ଅନ୍ଧ
+dissemble,0.0,-0.9,ବିଚ୍ଛିନ୍ନ କର |
+mortified,0.0,-0.9,ବନ୍ଧକ
+heedless,0.0,-0.9,ଅବହେଳା
+scandalized,0.0,-0.9,ଘୋଟାଲା
+disaster,0.0,-0.9,ବିପର୍ଯ୍ୟୟ |
+hawkish,0.0,-0.9,ହକିଶ୍
+inveigle,0.0,-0.9,ଅନୁସନ୍ଧାନ
+wiles,0.0,-0.9,ୱାଇଲ୍
+overdone,0.0,-0.9,ଅତିକ୍ରମ କରିସାରିଛି |
+incomparable,0.0,-0.9,ତୁଳନାତ୍ମକ
+foulness,0.0,-0.9,ଦୁଷ୍କର୍ମ
+bumpy,0.0,-0.9,ଅସ୍ପଷ୍ଟ |
+collapse,0.0,-0.9,ଭୁଶୁଡ଼ିବା
+contradictory,0.0,-0.9,ପରସ୍ପର ବିରୋଧୀ |
+absence,0.0,-0.9,ଅନୁପସ୍ଥିତି
+implication,0.0,-0.9,ପ୍ରଭାବ
+dwindling,0.0,-0.9,କମିବା
+weary,0.0,-0.9,କ୍ଳାନ୍ତ
+avariciously,0.0,-0.9,ଅଶୁଭ ଭାବରେ |
+crashing,0.0,-0.9,କ୍ରାସ୍
+wretched,0.0,-0.9,ଦୁର୍ଭାଗ୍ୟ
+protesting,0.0,-0.9,ବିରୋଧ
+pathetically,0.0,-0.9,ଦୁ het ଖଦାୟକ |
+procrastinate,0.0,-0.9,ବିଳମ୍ବ
+hairloss,0.0,-0.9,କେଶ
+villify,0.0,-0.9,villify
+daunting,0.0,-0.9,ଦୁ da ଖଦାୟକ |
+threat,0.0,-0.9,ଧମକ
+inadvisable,0.0,-0.9,ଅନୁପଯୁକ୍ତ
+halfheartedly,0.0,-0.9,ହୃଦୟରୁ
+revengeful,0.0,-0.9,ପ୍ରତିଶୋଧପରାୟଣ
+ruts,0.0,-0.9,ବାଦାମ |
+inconsiderately,0.0,-0.9,ଅଜ୍ଞାତ ଭାବରେ |
+aggressive,0.0,-0.9,ଆକ୍ରମଣାତ୍ମକ
+slanderously,0.0,-0.9,ନିନ୍ଦା
+infamy,0.0,-0.9,କୁଖ୍ୟାତ
+downturn,0.0,-0.9,ଅବନତି
+fevers,0.0,-0.9,ଜ୍ୱର
+haughty,0.0,-0.9,ଅହଂକାରୀ
+anomaly,0.0,-0.9,ଅନୋମାଲିୟା |
+impoverish,0.0,-0.9,ଦରିଦ୍ର
+inimical,0.0,-0.9,ଅଜ୍ଞାତ |
+nasty,0.0,-0.9,ଖରାପ
+sob,0.0,-0.9,ତଳେ |
+spoilled,0.0,-0.9,ନଷ୍ଟ
+conspiratorial,0.0,-0.9,ଷଡଯନ୍ତ୍ରକାରୀ
+crisis,0.0,-0.9,ସଙ୍କଟ
+dismissive,0.0,-0.9,ବହିଷ୍କାର
+arbitrary,0.0,-0.9,ଇଚ୍ଛାଧୀନ |
+recant,0.0,-0.9,ପରିତ୍ୟାଗ
+topple,0.0,-0.9,ଟପଲ୍ |
+discord,0.0,-0.9,ମତଭେଦ |
+brainwash,0.0,-0.9,ମସ୍ତିଷ୍କ ଧୋଇବା |
+indoctrination,0.0,-0.9,ଅନୁପ୍ରବେଶ
+grievously,0.0,-0.9,ଦୁ iev ଖରେ
+sloppily,0.0,-0.9,ଧିରେ ଧିରେ
+tramp,0.0,-0.9,ଟ୍ରମ୍ପ
+obstinately,0.0,-0.9,ଜବରଦସ୍ତ
+succumb,0.0,-0.9,ପରାସ୍ତ
+unrelentingly,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+strenuous,0.0,-0.9,ଶକ୍ତିଶାଳୀ
+water-down,0.0,-0.9,ଜଳ-ତଳ
+dissapointed,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+scummy,0.0,-0.9,ଘୃଣ୍ୟ
+skeptic,0.0,-0.9,ଅନ୍ଧବିଶ୍ୱାସୀ |
+aches,0.0,-0.9,ଯନ୍ତ୍ରଣା
+fleer,0.0,-0.9,ପଳାୟନ
+insatiable,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+tumultuous,0.0,-0.9,ଉତ୍ତେଜନା
+falsify,0.0,-0.9,ମିଥ୍ୟା
+turbulent,0.0,-0.9,ଅଶାନ୍ତ
+uneasy,0.0,-0.9,ଅଶାନ୍ତ
+instigator,0.0,-0.9,ପ୍ରବର୍ତ୍ତକ
+jeer,0.0,-0.9,ସମୟ
+lousy,0.0,-0.9,lousy
+sickly,0.0,-0.9,ଅସୁସ୍ଥ
+symptoms,0.0,-0.9,ଲକ୍ଷଣ
+despondent,0.0,-0.9,ନିରାଶ
+inoperable,0.0,-0.9,କାର୍ଯ୍ୟକ୍ଷମ ନୁହେଁ
+lecherous,0.0,-0.9,lecherous
+compulsive,0.0,-0.9,ବାଧ୍ୟତାମୂଳକ
+disgust,0.0,-0.9,ଘୃଣ୍ୟ
+regreted,0.0,-0.9,ଦୁ ret ଖିତ
+stalls,0.0,-0.9,ଷ୍ଟଲ୍ |
+unacceptablely,0.0,-0.9,ଗ୍ରହଣଯୋଗ୍ୟ ନୁହେଁ
+rattled,0.0,-0.9,ଗର୍ଜନ
+ostracize,0.0,-0.9,ostracize
+swelling,0.0,-0.9,ଫୁଲା
+impulsively,0.0,-0.9,ଇମ୍ପୁଲ୍ସିଭ୍ |
+pains,0.0,-0.9,ଯନ୍ତ୍ରଣା
+squeaky,0.0,-0.9,ଚିତ୍କାର
+wretch,0.0,-0.9,ଦୁ ret ଖ
+polluters,0.0,-0.9,ପ୍ରଦୂଷକ
+depressing,0.0,-0.9,ଉଦାସୀନ
+upheaval,0.0,-0.9,ଉତ୍ତେଜନା |
+undercut,0.0,-0.9,ଅଣ୍ଡର୍କଟ୍ |
+uproar,0.0,-0.9,ଉତ୍ତେଜନା
+bulkier,0.0,-0.9,ବଲ୍କିଅର୍ |
+impose,0.0,-0.9,ଲଗାନ୍ତୁ |
+overplay,0.0,-0.9,ଓଭରପ୍ଲେ |
+guiltily,0.0,-0.9,ଦୋଷରେ
+nightmare,0.0,-0.9,ଦୁସ୍ଵପ୍ନ
+confront,0.0,-0.9,ମୁହାଁମୁହିଁ |
+malevolence,0.0,-0.9,ଦୁଷ୍କର୍ମ
+disdainful,0.0,-0.9,ଘୃଣ୍ୟ
+midget,0.0,-0.9,midget
+allegations,0.0,-0.9,ଅଭିଯୋଗ
+bellicose,0.0,-0.9,ବେଲିକୋଜ୍ |
+hissing,0.0,-0.9,ଶବ୍ଦ
+disruptive,0.0,-0.9,ବ୍ୟାଘାତକାରୀ |
+emphatically,0.0,-0.9,ଜୋରରେ
+imprecision,0.0,-0.9,ଅସ୍ପଷ୍ଟତା |
+brat,0.0,-0.9,brat
+immorally,0.0,-0.9,ଅନ ally ତିକ ଭାବରେ |
+conservative,0.0,-0.9,ରକ୍ଷଣଶୀଳ |
+concerned,0.0,-0.9,ଚିନ୍ତିତ
+devastates,0.0,-0.9,ବିନାଶ
+limitation,0.0,-0.9,ସୀମା
+poverty,0.0,-0.9,ଦାରିଦ୍ର୍ୟ
+expired,0.0,-0.9,ମିଆଦ ପୂର୍ଣ୍ଣ ହୋଇଛି
+dishonorable,0.0,-0.9,ଅପମାନଜନକ |
+controversy,0.0,-0.9,ବିବାଦ |
+slog,0.0,-0.9,beat
+atrocity,0.0,-0.9,ଅତ୍ୟାଚାର
+dislocated,0.0,-0.9,ସ୍ଥାନାନ୍ତରିତ |
+belligerent,0.0,-0.9,ଯୁକ୍ତିତର୍କ |
+insouciance,0.0,-0.9,ନିରାଶ୍ରୟ |
+sidetracked,0.0,-0.9,ବିପଥଗାମୀ
+embroil,0.0,-0.9,ଭ୍ରୁଣ
+ill-mannered,0.0,-0.9,ଅସଦାଚରଣ
+insolence,0.0,-0.9,ଅପମାନ
+tumbles,0.0,-0.9,tumbles
+worthlessness,0.0,-0.9,ମୂଲ୍ୟହୀନତା |
+flighty,0.0,-0.9,ଉଡ଼ାଣ
+quibbles,0.0,-0.9,କ୍ୱିବଲ୍ସ |
+runaway,0.0,-0.9,ପଳାୟନ
+servitude,0.0,-0.9,ସେବା
+chatterbox,0.0,-0.9,ଚାଟର୍ବାକ୍ସ
+miserable,0.0,-0.9,ଦୁଃଖୀ
+tacky,0.0,-0.9,ଟ୍ୟାକ୍ସି
+malignant,0.0,-0.9,କ୍ଷତିକାରକ
+rebellious,0.0,-0.9,ବିଦ୍ରୋହୀ
+subdued,0.0,-0.9,ବଶୀଭୂତ |
+fanatic,0.0,-0.9,ପ୍ରଶଂସକ
+stole,0.0,-0.9,ଚୋରି କଲା |
+ail,0.0,-0.9,ପୁନ
+drop-out,0.0,-0.9,ଛାଡିଦେବା
+misjudgment,0.0,-0.9,ଭୁଲ ବିଚାର
+garish,0.0,-0.9,garish
+inessential,0.0,-0.9,ଅନାବଶ୍ୟକ |
+regrettable,0.0,-0.9,ଦୁ regret ଖଦାୟକ
+bitch,0.0,-0.9,ବିଚ୍
+blaspheme,0.0,-0.9,ନିନ୍ଦା
+obscenely,0.0,-0.9,ଅଶ୍ଳୀଳ
+faltered,0.0,-0.9,ଖସିଗଲା
+quitter,0.0,-0.9,ଯିବାକୁ
+rife,0.0,-0.9,ବିବାଦ
+disgracefully,0.0,-0.9,ଅପମାନଜନକ
+exagerated,0.0,-0.9,ଅତ୍ୟଧିକ
+reluctantly,0.0,-0.9,ଅନିଚ୍ଛାରେ |
+blasphemous,0.0,-0.9,ନିନ୍ଦା
+hedonistic,0.0,-0.9,ହେଡୋନିଷ୍ଟିକ୍ |
+contradiction,0.0,-0.9,ପ୍ରତିବାଦ
+astray,0.0,-0.9,ଭ୍ରାନ୍ତ ହୁଅ
+rail,0.0,-0.9,ରେଳ
+goon,0.0,-0.9,ଆଗେଇ ଚାଲ
+regrettably,0.0,-0.9,ଦୁ rett ଖର ବିଷୟ
+smudged,0.0,-0.9,କଳଙ୍କିତ |
+spitefulness,0.0,-0.9,ଖରାପ
+blister,0.0,-0.9,ଫୁଲା
+chasten,0.0,-0.9,ଶାସ୍ତି ଦିଅ
+disapointed,0.0,-0.9,ନିରାଶ
+disillusioned,0.0,-0.9,ନିରାଶ
+flat-out,0.0,-0.9,ଫ୍ଲାଟ-ଆଉଟ୍ |
+murderer,0.0,-0.9,ହତ୍ୟାକାରୀ
+ridiculously,0.0,-0.9,ହାସ୍ୟାସ୍ପଦ ଭାବରେ
+hatred,0.0,-0.9,ଘୃଣା
+threatening,0.0,-0.9,ଧମକ
+lags,0.0,-0.9,ପଛରେ ଅଛି
+raving,0.0,-0.9,raving
+top-heavy,0.0,-0.9,ଶୀର୍ଷ-ଭାରୀ
+abnormal,0.0,-0.9,ଅସ୍ୱାଭାବିକ |
+unfounded,0.0,-0.9,ଭିତ୍ତିହୀନ |
+uncomfy,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ |
+spilling,0.0,-0.9,illing ାଳ
+hothead,0.0,-0.9,ହଟହେଡ୍ |
+donside,0.0,-0.9,ଡନ୍ସାଇଡ୍ |
+wince,0.0,-0.9,ୱିନ୍ସ
+cruelness,0.0,-0.9,ନିଷ୍ଠୁରତା
+apprehension,0.0,-0.9,ଭୟ
+smudges,0.0,-0.9,ଦୁର୍ଗନ୍ଧ
+impedance,0.0,-0.9,ପ୍ରତିରୋଧ
+coerce,0.0,-0.9,ବାଧ୍ୟ କର |
+deviously,0.0,-0.9,ଭ୍ରାନ୍ତ ଭାବରେ |
+inept,0.0,-0.9,ନିଷ୍କ୍ରିୟ
+bashing,0.0,-0.9,ଲଜ୍ଜା |
+rash,0.0,-0.9,ଦାଗ
+glut,0.0,-0.9,ଗ୍ଲୁଟ୍ |
+vestiges,0.0,-0.9,ରହିଥାଏ |
+concerns,0.0,-0.9,ଚିନ୍ତା
+contentious,0.0,-0.9,ବିବାଦୀୟ
+conspirator,0.0,-0.9,ଷଡଯନ୍ତ୍ରକାରୀ
+glibly,0.0,-0.9,ଚମତ୍କାର ଭାବରେ |
+shrew,0.0,-0.9,ଚତୁର
+illegal,0.0,-0.9,ବେଆଇନ |
+incredulously,0.0,-0.9,ଅବିଶ୍ୱାସନୀୟ ଭାବରେ |
+viper,0.0,-0.9,ସାପ
+obscenity,0.0,-0.9,ଅଶ୍ଳୀଳତା |
+antiquated,0.0,-0.9,ପ୍ରାଚୀନ
+reluctant,0.0,-0.9,ଅନିଛୁକ
+quash,0.0,-0.9,କ୍ୱାସ୍
+murder,0.0,-0.9,ହତ୍ୟା
+powerless,0.0,-0.9,ଶକ୍ତିହୀନ
+fascism,0.0,-0.9,ଫାସିଜିମ୍ |
+timidness,0.0,-0.9,ଭୟଭୀତତା
+regression,0.0,-0.9,ରିଗ୍ରେସନ୍
+vibration,0.0,-0.9,କମ୍ପନ
+miff,0.0,-0.9,ମିଫ୍
+inequalities,0.0,-0.9,ଅସମାନତା |
+showdown,0.0,-0.9,ଶୋଡାଉନ୍ |
+bombardment,0.0,-0.9,ବୋମା ବିସ୍ଫୋରଣ |
+startle,0.0,-0.9,ଚମକ
+vengeance,0.0,-0.9,ପ୍ରତିଶୋଧ
+creeping,0.0,-0.9,କ୍ରନ୍ଦନ
+stymied,0.0,-0.9,stymied
+insults,0.0,-0.9,ଅପମାନ
+zealously,0.0,-0.9,ଉତ୍ସାହର ସହିତ |
+impeach,0.0,-0.9,ଅପରାଜିତା
+violent,0.0,-0.9,ହିଂସାତ୍ମକ
+protests,0.0,-0.9,ବିରୋଧ
+savagery,0.0,-0.9,ସାଂଘାତିକତା |
+anti-,0.0,-0.9,ଆଣ୍ଟି-
+cheaply,0.0,-0.9,ଶସ୍ତା
+glib,0.0,-0.9,ଗ୍ଲିବ୍
+insurmountable,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+agonize,0.0,-0.9,ଯନ୍ତ୍ରଣା ଦିଅ
+fruitlessly,0.0,-0.9,ଫଳହୀନ
+stiflingly,0.0,-0.9,ଦୃ if ଭାବରେ
+hardship,0.0,-0.9,କଷ୍ଟ
+wasted,0.0,-0.9,ନଷ୍ଟ
+inconveniently,0.0,-0.9,ଅସୁବିଧା
+divisively,0.0,-0.9,ବିଭାଜନ ଭାବରେ |
+writhe,0.0,-0.9,ଲେଖ
+anti-us,0.0,-0.9,ଆମ ବିରୋଧୀ |
+gallingly,0.0,-0.9,ଗାଳିଗୁଲଜ
+inconceivably,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+grouchy,0.0,-0.9,ଗ୍ରୁଚି
+crooks,0.0,-0.9,କ୍ରୋକ୍
+insolent,0.0,-0.9,ଅସମ୍ମାନ |
+wound,0.0,-0.9,କ୍ଷତ
+conflict,0.0,-0.9,ବିବାଦ |
+unprove,0.0,-0.9,ଅନୁମୋଦନ
+flaunt,0.0,-0.9,ଚମତ୍କାର |
+miser,0.0,-0.9,ବେଟ୍
+two-faced,0.0,-0.9,ଦୁଇମୁଖୀ |
+mocked,0.0,-0.9,ପରିହାସ
+inordinate,0.0,-0.9,ଅଯଥା
+panick,0.0,-0.9,ଭୟ
+smell,0.0,-0.9,ଗନ୍ଧ
+thoughtless,0.0,-0.9,ଚିନ୍ତାହୀନ |
+indecently,0.0,-0.9,ଅଶ୍ଳୀଳ
+craftly,0.0,-0.9,ଚତୁରତାର ସହିତ |
+rot,0.0,-0.9,ନାଲି
+stuffy,0.0,-0.9,ଷ୍ଟଫ୍
+infidels,0.0,-0.9,ଅବିଶ୍ୱାସୀ
+inhuman,0.0,-0.9,ଅମାନୁଷିକ |
+despair,0.0,-0.9,ନିରାଶା
+dubitable,0.0,-0.9,ସନ୍ଦେହଜନକ |
+explode,0.0,-0.9,ବିସ୍ଫୋରଣ |
+objectionable,0.0,-0.9,ଆପତ୍ତିଜନକ
+crass,0.0,-0.9,କ୍ରାସ
+hallucinate,0.0,-0.9,ହାଲୁସିନାଟ୍ |
+failure,0.0,-0.9,ବିଫଳତା
+fumes,0.0,-0.9,ଧୂଆଁ
+warily,0.0,-0.9,ଯୁଦ୍ଧରେ |
+displeased,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+shortsighted,0.0,-0.9,ଦୂରଦର୍ଶନ
+unspeakablely,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+uncompromising,0.0,-0.9,ଆପୋଷ ବୁ .ାମଣା |
+distastefully,0.0,-0.9,ଘୃଣ୍ୟ
+liability,0.0,-0.9,ଦାୟିତ୍। |
+raked,0.0,-0.9,ରାକେଡ୍ |
+barren,0.0,-0.9,ବନ୍ଧ୍ୟା
+presumptuously,0.0,-0.9,ଅହଂକାର
+burning,0.0,-0.9,ଜଳିବା
+stranger,0.0,-0.9,ଅପରିଚିତ
+anxiety,0.0,-0.9,ଚିନ୍ତା
+craziness,0.0,-0.9,ପାଗଳ
+mispronounces,0.0,-0.9,ଭୁଲ ଭୁଲ
+pollute,0.0,-0.9,ପ୍ରଦୂଷଣ
+devastating,0.0,-0.9,ବିନାଶକାରୀ |
+dropout,0.0,-0.9,ଛାଡିଦେବା
+rampage,0.0,-0.9,ରାମ୍ପେଜ୍
+bereavement,0.0,-0.9,ଶୋକ
+suffering,0.0,-0.9,ଦୁ suffering ଖ
+killjoy,0.0,-0.9,killjoy
+hatefulness,0.0,-0.9,ଘୃଣା
+overpriced,0.0,-0.9,ଅତ୍ୟଧିକ ମୂଲ୍ୟ
+senseless,0.0,-0.9,ଅଜ୍ଞାନ |
+shemale,0.0,-0.9,shemale
+capitulate,0.0,-0.9,କ୍ୟାପିଟାଲ୍ କରନ୍ତୁ |
+flaw,0.0,-0.9,ତ୍ରୁଟି
+imbroglio,0.0,-0.9,imbroglio
+boil,0.0,-0.9,ଫୁଟାନ୍ତୁ
+sleazy,0.0,-0.9,ଶୋଇବା
+morbid,0.0,-0.9,ଅସୁସ୍ଥ
+disrespecting,0.0,-0.9,ଅସମ୍ମାନ
+superficiality,0.0,-0.9,ଅତ୍ୟାଧୁନିକତା |
+obsolete,0.0,-0.9,ପୁରୁଣା
+disreputable,0.0,-0.9,ଅପମାନଜନକ |
+enrage,0.0,-0.9,କ୍ରୋଧ
+wreak,0.0,-0.9,wreak
+revert,0.0,-0.9,ଓଲଟା
+overacted,0.0,-0.9,ଅତ୍ୟଧିକ
+letch,0.0,-0.9,ଲେଚ୍
+torturous,0.0,-0.9,ନିର୍ଯାତନା
+droop,0.0,-0.9,ଡ୍ରପ୍
+suffered,0.0,-0.9,ଦୁ suffered ଖ ଭୋଗିଲେ |
+reviled,0.0,-0.9,ଅପମାନିତ |
+delirious,0.0,-0.9,ବିଭ୍ରାନ୍ତିକର |
+aspersions,0.0,-0.9,ଆକାଂକ୍ଷା
+foolishness,0.0,-0.9,ମୂର୍ଖତା
+ailment,0.0,-0.9,ଅସୁସ୍ଥତା
+deceitful,0.0,-0.9,ପ୍ରତାରଣାକାରୀ
+exasperating,0.0,-0.9,କ୍ରୋଧିତ
+frighten,0.0,-0.9,ଭୟଭୀତ କର |
+grieve,0.0,-0.9,ଦୁ ieve ଖ
+convoluted,0.0,-0.9,ଏକତ୍ରିତ
+restlessness,0.0,-0.9,ଅସ୍ଥିରତା |
+reticent,0.0,-0.9,reticent
+disavowal,0.0,-0.9,ଅସ୍ୱୀକାର
+unjustifiably,0.0,-0.9,ଅଯ ust କ୍ତିକ ଭାବରେ |
+infested,0.0,-0.9,ସଂକ୍ରମିତ |
+inordinately,0.0,-0.9,ଅସାଧାରଣ ଭାବରେ |
+decadence,0.0,-0.9,ଅବନତି |
+excessive,0.0,-0.9,ଅତ୍ୟଧିକ
+dope,0.0,-0.9,ନିଶା
+exacerbate,0.0,-0.9,ବ ac ଼ାନ୍ତୁ |
+forebodingly,0.0,-0.9,ପୂର୍ବାବଲୋକନ
+pretentious,0.0,-0.9,ସୁନ୍ଦର
+thirst,0.0,-0.9,ତୃଷା
+goofy,0.0,-0.9,ଗୁପ୍ତ
+uproot,0.0,-0.9,ଉଚ୍ଛେଦ
+war-like,0.0,-0.9,ଯୁଦ୍ଧ ପରି
+despise,0.0,-0.9,ତୁଚ୍ଛ
+rascal,0.0,-0.9,rascal
+tangled,0.0,-0.9,ଟାଙ୍ଗିଆ |
+shrivel,0.0,-0.9,shrivel
+toll,0.0,-0.9,ଟୋଲ୍
+pedantic,0.0,-0.9,ପେଡାଣ୍ଟିକ୍ |
+criticized,0.0,-0.9,ସମାଲୋଚିତ
+agonies,0.0,-0.9,ଯନ୍ତ୍ରଣା
+plotters,0.0,-0.9,ଷଡଯନ୍ତ୍ରକାରୀ
+undid,0.0,-0.9,undid
+darkness,0.0,-0.9,ଅନ୍ଧକାର
+slogged,0.0,-0.9,ସ୍ଲୋଗାନ୍
+dump,0.0,-0.9,ଡମ୍ପିଂ
+laconic,0.0,-0.9,ଲାକୋନିକ୍ |
+gainsay,0.0,-0.9,ଲାଭ
+dodgey,0.0,-0.9,dodgey
+blockhead,0.0,-0.9,ବ୍ଲକହେଡ୍ |
+fathomless,0.0,-0.9,fathomless
+overpaid,0.0,-0.9,ଅଧିକ ଦେୟ
+perversely,0.0,-0.9,ବିପରୀତ
+measly,0.0,-0.9,ମାପ
+disobey,0.0,-0.9,ଅବମାନନା
+doddering,0.0,-0.9,doddering
+exhorbitant,0.0,-0.9,ଉତ୍ସାହଜନକ |
+racist,0.0,-0.9,ଜାତିପ୍ରଥା
+cruelly,0.0,-0.9,ନିଷ୍ଠୁର
+gimmicking,0.0,-0.9,gimmicking
+irresponsibly,0.0,-0.9,ଦାୟିତ୍ .ହୀନ |
+indignant,0.0,-0.9,କ୍ରୋଧିତ
+imbalance,0.0,-0.9,ଅସନ୍ତୁଳନ
+sadden,0.0,-0.9,ଦୁ den ଖିତ
+despondently,0.0,-0.9,ହତାଶ ହୋଇ |
+bleak,0.0,-0.9,ଦୁର୍ବଳ
+appall,0.0,-0.9,ଭୟଭୀତ
+critic,0.0,-0.9,ସମାଲୋଚକ
+disquieting,0.0,-0.9,ଅସନ୍ତୋଷ |
+lag,0.0,-0.9,ନିୟମ
+oddly,0.0,-0.9,ଅଦ୍ଭୁତ
+gabble,0.0,-0.9,ଗବଲ୍ |
+embarrassing,0.0,-0.9,ଲଜ୍ଜାଜନକ |
+mindless,0.0,-0.9,ମନହୀନ |
+self-criticism,0.0,-0.9,ଆତ୍ମ ସମାଲୋଚନା
+unproving,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+reluctance,0.0,-0.9,ଅନିଚ୍ଛା |
+subjected,0.0,-0.9,ଅଧୀନ
+bewilderment,0.0,-0.9,ବିସ୍ମୟ
+stubbornly,0.0,-0.9,ଜିଦ୍ଖୋର
+squander,0.0,-0.9,ନଷ୍ଟ
+anemic,0.0,-0.9,ରକ୍ତହୀନତା |
+inferiority,0.0,-0.9,ତୁଚ୍ଛତା
+travesties,0.0,-0.9,ଭ୍ରମଣ
+contention,0.0,-0.9,ବିବାଦ
+profane,0.0,-0.9,ଅପବିତ୍ର
+invasive,0.0,-0.9,ଆକ୍ରମଣକାରୀ
+cursed,0.0,-0.9,ଅଭିଶାପିତ
+strained,0.0,-0.9,ଚାପ
+low-rated,0.0,-0.9,ନିମ୍ନ ମାନ୍ୟତା
+dirtbag,0.0,-0.9,ମଇଳା ବ୍ୟାଗ୍ |
+contemptuously,0.0,-0.9,ଅବମାନନା
+denunciate,0.0,-0.9,ରିପୋର୍ଟ ହୋଇଛି |
+lurk,0.0,-0.9,ଲୁକ୍କାୟିତ |
+fractious,0.0,-0.9,ଭଙ୍ଗା
+obliterate,0.0,-0.9,ବିଲୋପ
+phobic,0.0,-0.9,ଫୋବିକ୍ |
+banalize,0.0,-0.9,banalize
+complex,0.0,-0.9,ଜଟିଳ
+pugnacity,0.0,-0.9,pugnacity
+hasseling,0.0,-0.9,ଅସୁବିଧା
+throb,0.0,-0.9,ଥ୍ରୋବ୍ |
+snare,0.0,-0.9,ଫାନ୍ଦ
+anti-semites,0.0,-0.9,ବିରୋଧୀ ଦଳ
+blindingly,0.0,-0.9,ଅନ୍ଧ ଭାବରେ
+chagrin,0.0,-0.9,ଦୁ ief ଖ
+aggravation,0.0,-0.9,ବୃଦ୍ଧି
+hindrance,0.0,-0.9,ପ୍ରତିବନ୍ଧକ
+dispensable,0.0,-0.9,ବିତରଣଯୋଗ୍ୟ |
+inculcate,0.0,-0.9,ଅନ୍ତର୍ଭୁକ୍ତ କର |
+hysteric,0.0,-0.9,ହିଷ୍ଟେରିକ୍ |
+mock,0.0,-0.9,ପରିହାସ
+ineligible,0.0,-0.9,ଅଯୋଗ୍ୟ
+prisoner,0.0,-0.9,ବନ୍ଦୀ
+pander,0.0,-0.9,ପାତ୍ର
+quibble,0.0,-0.9,କ୍ୱିବଲ୍ |
+un-viewable,0.0,-0.9,ଅଣ-ଦର୍ଶନଯୋଗ୍ୟ |
+menacing,0.0,-0.9,ବିପଦ
+despoil,0.0,-0.9,ଲୁଣ୍ଠନ
+get-rich,0.0,-0.9,ଧନୀ ହୁଅ
+omit,0.0,-0.9,ଛାଡିଦିଅ |
+weakness,0.0,-0.9,ଦୁର୍ବଳତା
+pique,0.0,-0.9,ସ୍ପେଡ୍
+death,0.0,-0.9,ମୃତ୍ୟୁ
+intimidating,0.0,-0.9,ଭୟଭୀତ
+dishonorablely,0.0,-0.9,ଅପମାନଜନକ
+unknown,0.0,-0.9,ଅଜ୍ଞାତ
+rejection,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+retract,0.0,-0.9,ପ୍ରତ୍ୟାହାର
+scam,0.0,-0.9,ଦୁର୍ନୀତି
+wripping,0.0,-0.9,ରାପିଙ୍ଗ୍
+backward,0.0,-0.9,ପଛକୁ
+escapade,0.0,-0.9,ଦୂରେଇଯାଅ
+drag,0.0,-0.9,ଡ୍ରାଗ୍
+butchery,0.0,-0.9,ବଧ
+misinformed,0.0,-0.9,ଭୁଲ ସୂଚନା
+mist,0.0,-0.9,କୁହୁଡି
+hamper,0.0,-0.9,ବାଧା
+misfit,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+moronic,0.0,-0.9,moronic
+excoriate,0.0,-0.9,ଉତ୍ତେଜିତ |
+deceitfully,0.0,-0.9,ପ୍ରତାରଣା
+distraughtly,0.0,-0.9,ବିବ୍ରତ
+partisans,0.0,-0.9,ସମର୍ଥକ
+needlessly,0.0,-0.9,ଅନାବଶ୍ୟକ |
+bleeding,0.0,-0.9,ରକ୍ତସ୍ରାବ
+dazed,0.0,-0.9,ବିସ୍ମିତ |
+delays,0.0,-0.9,ବିଳମ୍ବ
+impugn,0.0,-0.9,impugn
+weaken,0.0,-0.9,ଦୁର୍ବଳ କର |
+ramshackle,0.0,-0.9,ramshackle
+erase,0.0,-0.9,ଲିଭାନ୍ତୁ
+treachery,0.0,-0.9,ବିଶ୍ୱାସଘାତକତା
+unachievable,0.0,-0.9,ଅସମ୍ଭବ
+belittled,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+scoldingly,0.0,-0.9,ଗାଳିଗୁଲଜ
+troublemaker,0.0,-0.9,ଅସୁବିଧାକାରୀ
+incoherence,0.0,-0.9,ଅସହଯୋଗ
+vulgar,0.0,-0.9,ଅଶ୍ଳୀଳ
+conflicts,0.0,-0.9,ବିବାଦ |
+desolate,0.0,-0.9,ଜନଶୂନ୍ୟ
+dismayingly,0.0,-0.9,ହତାଶ
+discouraging,0.0,-0.9,ନିରୁତ୍ସାହଜନକ |
+ill-advised,0.0,-0.9,ଅସୁସ୍ଥ ପରାମର୍ଶ
+lanky,0.0,-0.9,ଲଙ୍କି
+pessimistically,0.0,-0.9,ନିରାଶା
+unuseably,0.0,-0.9,ଅବ୍ୟବହୃତ
+spinster,0.0,-0.9,ସ୍ପିନଷ୍ଟର
+invader,0.0,-0.9,ଆକ୍ରମଣକାରୀ
+disloyal,0.0,-0.9,ଅବିଶ୍ୱାସୀ
+inability,0.0,-0.9,ଅକ୍ଷମତା |
+oppose,0.0,-0.9,ବିରୋଧ କର |
+pillory,0.0,-0.9,ପିଲୋରୀ |
+dissonantly,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ ଭାବରେ |
+unclean,0.0,-0.9,ଅଶୁଚି
+frustrations,0.0,-0.9,ନିରାଶା
+hoodium,0.0,-0.9,ହୁଡିୟମ୍ |
+anti-occupation,0.0,-0.9,ବୃତ୍ତି ବିରୋଧୀ |
+difficult,0.0,-0.9,କଷ୍ଟକର |
+fatuously,0.0,-0.9,ସାଂଘାତିକ ଭାବରେ |
+upsets,0.0,-0.9,ଅପ୍ସେଟ୍ |
+tarnishes,0.0,-0.9,କଳଙ୍କ |
+damper,0.0,-0.9,ଡ୍ୟାମ୍ପର୍ |
+undermines,0.0,-0.9,ଦୁର୍ବଳ କରେ |
+smokescreen,0.0,-0.9,ଧୂମପାନ
+shameless,0.0,-0.9,ଲଜ୍ଜାଜନକ |
+instigate,0.0,-0.9,ପ୍ରବର୍ତ୍ତାଇବା |
+harshly,0.0,-0.9,କଠୋର
+slime,0.0,-0.9,ସ୍ଲିମ୍ |
+vainly,0.0,-0.9,ବୃଥା
+timidly,0.0,-0.9,ଭୟଭୀତ
+sarcasm,0.0,-0.9,ପରିହାସ
+arcane,0.0,-0.9,arcane
+disoobedient,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+demonizing,0.0,-0.9,ଭୂତକରଣ
+dissonant,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ |
+skinny,0.0,-0.9,ପତଳା
+stifle,0.0,-0.9,ଷ୍ଟିଫଲ୍ |
+flairs,0.0,-0.9,flairs
+downer,0.0,-0.9,ତଳ
+miserably,0.0,-0.9,ଦୁ iser ଖଦାୟକ |
+issues,0.0,-0.9,ସମସ୍ୟାଗୁଡିକ |
+precariously,0.0,-0.9,ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ
+unworthy,0.0,-0.9,ଅଯୋଗ୍ୟ
+strike,0.0,-0.9,ଧର୍ମଘଟ
+complain,0.0,-0.9,ଅଭିଯୋଗ କରନ୍ତୁ
+dissolute,0.0,-0.9,ବିଲୋପ କରନ୍ତୁ |
+contrive,0.0,-0.9,ସଂକଳ୍ପ
+stagnate,0.0,-0.9,ସ୍ଥଗିତ |
+mystify,0.0,-0.9,ରହସ୍ୟ
+belligerently,0.0,-0.9,ଯୁକ୍ତିତର୍କ |
+bull****,0.0,-0.9,ଷଣ୍ ** ****
+dupe,0.0,-0.9,ନକଲି
+fretful,0.0,-0.9,ହତାଶ
+stinging,0.0,-0.9,ଷ୍ଟିଙ୍ଗ୍
+impatient,0.0,-0.9,ଧ ati ର୍ଯ୍ୟହରା |
+disproportionate,0.0,-0.9,ଅନୁପଯୁକ୍ତ
+smoke,0.0,-0.9,ଧୂଆଁ
+trapped,0.0,-0.9,ଫାଶରେ ପଡ଼ିଛନ୍ତି |
+slogging,0.0,-0.9,ସ୍ଲୋଗିଂ
+fatcats,0.0,-0.9,ଫ୍ୟାଟ୍କାଟସ୍ |
+grievance,0.0,-0.9,ଅଭିଯୋଗ
+deceiver,0.0,-0.9,ପ୍ରତାରଣାକାରୀ |
+tanks,0.0,-0.9,ଟାଙ୍କି |
+superficial,0.0,-0.9,ଅତ୍ୟଧିକ
+urgent,0.0,-0.9,ଜରୁରୀ
+head-aches,0.0,-0.9,ମୁଣ୍ଡ ବିନ୍ଧା |
+inexplainable,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+jabber,0.0,-0.9,ଜାବର୍ |
+deadlock,0.0,-0.9,ଅବରୋଧ
+uncertain,0.0,-0.9,ଅନିଶ୍ଚିତତା |
+mischievous,0.0,-0.9,ଦୁଷ୍କର୍ମ
+offensive,0.0,-0.9,ଆପତ୍ତିଜନକ |
+autocrat,0.0,-0.9,ସ୍ ocrat ାଧୀନତାବାଦୀ
+repugnant,0.0,-0.9,ଘୃଣ୍ୟ
+scoundrel,0.0,-0.9,ଘୃଣ୍ୟ ବ୍ୟକ୍ତି |
+demoralizingly,0.0,-0.9,ବିମୁଦ୍ରୀକରଣ
+rampant,0.0,-0.9,ବିସ୍ତୃତ
+egocentric,0.0,-0.9,ଯଥା
+alarming,0.0,-0.9,ଉଦ୍ବେଗଜନକ |
+fears,0.0,-0.9,ଭୟ
+regret,0.0,-0.9,ଦୁ regret ଖ
+wastefulness,0.0,-0.9,ଅପଚୟ
+angry,0.0,-0.9,କ୍ରୋଧିତ |
+enviously,0.0,-0.9,vious ର୍ଷାପରାୟଣ
+annoying,0.0,-0.9,ବିରକ୍ତିକର
+costly,0.0,-0.9,ମହଙ୍ଗା
+wripped,0.0,-0.9,ଲିପିବଦ୍ଧ |
+creep,0.0,-0.9,କ୍ରିପ୍
+pugnacious,0.0,-0.9,pugnacious
+mordant,0.0,-0.9,କାମୁଡ଼ିବା |
+defensive,0.0,-0.9,ପ୍ରତିରକ୍ଷା
+disgustingly,0.0,-0.9,ଘୃଣ୍ୟ
+needy,0.0,-0.9,ଅଭାବୀ
+inextricably,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+maladjusted,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+spews,0.0,-0.9,spws
+gaudy,0.0,-0.9,gaudy
+unsteadily,0.0,-0.9,ଅସ୍ଥିର ଭାବରେ |
+whiny,0.0,-0.9,ଛୋଟ
+dents,0.0,-0.9,ଦାନ୍ତ
+maladjustment,0.0,-0.9,ଦୁଷ୍କର୍ମ
+dispiriting,0.0,-0.9,ବିସ୍ମୟକର |
+malcontented,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+disliking,0.0,-0.9,ନାପସନ୍ଦ
+figurehead,0.0,-0.9,ଚିତ୍ର
+dissing,0.0,-0.9,ବିଭାଜନ
+misunderstanding,0.0,-0.9,ଭୁଲ ବୁ standing ାମଣା
+lech,0.0,-0.9,lech
+nettlesome,0.0,-0.9,nettlesome
+overstatement,0.0,-0.9,ଅତ୍ୟଧିକ ଅବସ୍ଥା
+fiction,0.0,-0.9,ଗଳ୍ପ
+confuses,0.0,-0.9,ଦ୍ୱନ୍ଦ୍ୱ |
+inhibit,0.0,-0.9,ପ୍ରତିବନ୍ଧକ
+perverts,0.0,-0.9,ବିକୃତ
+retreat,0.0,-0.9,ପଛକୁ
+miscellaneous,0.0,-0.9,ବିବିଧ
+sorely,0.0,-0.9,ବହୁତ କଷ୍ଟ
+acrid,0.0,-0.9,acrid
+daze,0.0,-0.9,daze
+grate,0.0,-0.9,ଗ୍ରେଟ୍ କରନ୍ତୁ |
+bitterly,0.0,-0.9,ତିକ୍ତ ଭାବରେ
+aggravating,0.0,-0.9,ବୃଦ୍ଧି
+dragging,0.0,-0.9,ଡ୍ରାଗ୍
+engulf,0.0,-0.9,engulf
+musty,0.0,-0.9,musty
+deride,0.0,-0.9,ଚମଡା
+perverse,0.0,-0.9,ବିକୃତ
+prison,0.0,-0.9,କାରାଗାର
+torrent,0.0,-0.9,torrent
+embroiled,0.0,-0.9,ଆବଦ୍ଧ
+mindlessly,0.0,-0.9,ଚେତନାହୀନ |
+heckled,0.0,-0.9,ହକ୍
+brutally,0.0,-0.9,ନିର୍ଦ୍ଦୟ ଭାବରେ
+fatigue,0.0,-0.9,ଥକା
+doubts,0.0,-0.9,ସନ୍ଦେହ |
+incorrectly,0.0,-0.9,ଭୁଲ ଭାବରେ
+obstruction,0.0,-0.9,ବାଧା
+mishap,0.0,-0.9,ଦୁର୍ଘଟଣା
+object,0.0,-0.9,ବସ୍ତୁ
+agonizingly,0.0,-0.9,ଯନ୍ତ୍ରଣାଦାୟକ
+malevolently,0.0,-0.9,ଦୁଷ୍କର୍ମ
+onerous,0.0,-0.9,କଠିନ
+stun,0.0,-0.9,ଷ୍ଟଣ୍ଟ୍ |
+stunt,0.0,-0.9,ଷ୍ଟଣ୍ଟ |
+asininely,0.0,-0.9,asininely
+complicated,0.0,-0.9,ଜଟିଳ
+delinquent,0.0,-0.9,ଅପରାଧୀ
+reprehensibly,0.0,-0.9,ନିନ୍ଦନୀୟ
+squealing,0.0,-0.9,ଚିତ୍କାର
+overbearingly,0.0,-0.9,ଅତ୍ୟଧିକ
+smouldering,0.0,-0.9,ଗନ୍ଧ
+inexcusable,0.0,-0.9,ଅସହଯୋଗୀ |
+disappointment,0.0,-0.9,ନିରାଶା
+loot,0.0,-0.9,ଲୁଟ୍
+unclear,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+polemize,0.0,-0.9,polemize
+cheating,0.0,-0.9,ପ୍ରତାରଣା
+brutalize,0.0,-0.9,ନିର୍ଦ୍ଦୟ
+fat-cats,0.0,-0.9,ମୋଟା-ବିଲେଇ |
+condemns,0.0,-0.9,ନିନ୍ଦା
+fuzzy,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+pointlessly,0.0,-0.9,ଅର୍ଥହୀନ |
+bicker,0.0,-0.9,ବିବାଦ
+sh*t,0.0,-0.9,sh * t
+licentiously,0.0,-0.9,ଲାଇସେନ୍ସରେ |
+skulk,0.0,-0.9,ଖପୁରୀ
+anti-social,0.0,-0.9,ସାମାଜିକ ବିରୋଧୀ |
+sugar-coat,0.0,-0.9,ଚିନି-କୋଟ୍ |
+unconfirmed,0.0,-0.9,ଅଣସଂରକ୍ଷିତ
+afflictive,0.0,-0.9,ଦୁ l ଖଦାୟକ
+depravedly,0.0,-0.9,ଖରାପ
+unproves,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+sadness,0.0,-0.9,ଦୁ ness ଖ
+cave,0.0,-0.9,ଗୁମ୍ଫା
+unsavory,0.0,-0.9,ଅସୁରକ୍ଷିତ
+scaly,0.0,-0.9,ମାପଚୁପ |
+fundamentalism,0.0,-0.9,ମ fundamental ଳିକତା
+diappointed,0.0,-0.9,ଅଲଗା ହୋଇଛି |
+inaudible,0.0,-0.9,ଶୁଣାଯାଏ ନାହିଁ |
+bulky,0.0,-0.9,ବହୁଳ |
+appallingly,0.0,-0.9,ଆଶ୍ଚର୍ଯ୍ୟଜନକ
+distort,0.0,-0.9,ବିକୃତ
+failing,0.0,-0.9,ବିଫଳ
+forswear,0.0,-0.9,ପୋଷାକ
+busybody,0.0,-0.9,ବ୍ୟସ୍ତ
+menacingly,0.0,-0.9,ବିପଦପୂର୍ଣ୍ଣ
+farce,0.0,-0.9,ପ୍ରହସନ |
+lividly,0.0,-0.9,ସ୍ପଷ୍ଟ ଭାବରେ
+high-priced,0.0,-0.9,ଉଚ୍ଚ ମୂଲ୍ୟର
+massacre,0.0,-0.9,ହତ୍ୟା
+repressive,0.0,-0.9,ପ୍ରତିକ୍ରିୟାଶୀଳ |
+hostilities,0.0,-0.9,ଶତ୍ରୁତା
+exaggeration,0.0,-0.9,ଅତ୍ୟୁକ୍ତି
+imposition,0.0,-0.9,ପ୍ରତିବନ୍ଧକ
+cancerous,0.0,-0.9,କର୍କଟ ରୋଗ
+snobish,0.0,-0.9,ସ୍ନୋବିଶ୍ |
+illegally,0.0,-0.9,ବେଆଇନ ଭାବରେ |
+manipulators,0.0,-0.9,ମନିପ୍ୟୁଲେଟର
+obese,0.0,-0.9,ମୋଟାପଣ
+stunted,0.0,-0.9,ଷ୍ଟଣ୍ଟ୍ |
+discoutinous,0.0,-0.9,ବିଚକ୍ଷଣ
+oversize,0.0,-0.9,ଓଭରସାଇଜ୍ |
+bungling,0.0,-0.9,ବଙ୍ଗଳା
+inequitably,0.0,-0.9,ଅଯୋଗ୍ୟ ଭାବରେ |
+flaky,0.0,-0.9,ଫ୍ଲେକି
+ruthlessly,0.0,-0.9,ନିର୍ଦ୍ଦୟ ଭାବରେ
+slowww,0.0,-0.9,ମନ୍ଥର
+wildly,0.0,-0.9,ବନ୍ୟପ୍ରାଣୀ
+harangue,0.0,-0.9,ହରଙ୍ଗୁ
+tattered,0.0,-0.9,ଟାଟର୍
+dissent,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+madman,0.0,-0.9,ପାଗଳ
+overstatements,0.0,-0.9,ଓଭରଷ୍ଟେମେଣ୍ଟସ୍ |
+disputed,0.0,-0.9,ବିବାଦୀୟ
+irritations,0.0,-0.9,ରାଗ
+gravely,0.0,-0.9,ଗୁରୁତର
+crash,0.0,-0.9,ଦୁର୍ଘଟଣା
+limit,0.0,-0.9,ସୀମା
+deluded,0.0,-0.9,ଭ୍ରାନ୍ତ
+misguide,0.0,-0.9,ଭୁଲ୍ ମାର୍ଗ
+struggles,0.0,-0.9,ସଂଘର୍ଷ
+radicals,0.0,-0.9,ଆଂଚଳିକ
+derogatory,0.0,-0.9,ଅପମାନ
+suicidal,0.0,-0.9,ଆତ୍ମହତ୍ୟା
+lewdness,0.0,-0.9,ଅଶ୍ଳୀଳତା
+wobbled,0.0,-0.9,ହଲଚଲ |
+unwelcome,0.0,-0.9,ଅବାଞ୍ଛିତ |
+discombobulate,0.0,-0.9,discombobulate
+fatalistic,0.0,-0.9,ସାଂଘାତିକ
+malady,0.0,-0.9,ରୋଗ
+wounds,0.0,-0.9,କ୍ଷତ
+misalign,0.0,-0.9,ଭୁଲ ଭୁଲ
+jitter,0.0,-0.9,ଜିଟର୍ |
+dizzingly,0.0,-0.9,ମୁଣ୍ଡ ବୁଲାଇବା |
+vilify,0.0,-0.9,ଖରାପ
+indiscretion,0.0,-0.9,ଅଜ୍ଞତା |
+bumpping,0.0,-0.9,ump ୁଣ୍ଟିବା |
+jolt,0.0,-0.9,ଜଲ୍ଟ
+adversity,0.0,-0.9,ପ୍ରତିକୂଳ ପରିସ୍ଥିତି
+wrongful,0.0,-0.9,ଭୁଲ
+confound,0.0,-0.9,ଦ୍ୱନ୍ଦ
+awkwardness,0.0,-0.9,ଅଶୁଭତା |
+tempest,0.0,-0.9,ଘୂର୍ଣ୍ଣିବଳୟ
+overkill,0.0,-0.9,ଓଭରକିଲ୍ |
+despot,0.0,-0.9,despot
+sarcastic,0.0,-0.9,ବ୍ୟଙ୍ଗାତ୍ମକ
+maddening,0.0,-0.9,ପାଗଳ
+ordeal,0.0,-0.9,ଅସୁବିଧା
+chore,0.0,-0.9,କାମ
+stressfully,0.0,-0.9,ଚାପଗ୍ରସ୍ତ
+foully,0.0,-0.9,ଖରାପ
+back-wood,0.0,-0.9,ପଛ କାଠ |
+crush,0.0,-0.9,ଚୂର୍ଣ୍ଣ
+splatter,0.0,-0.9,ସ୍ପ୍ଲାଟର୍ |
+undue,0.0,-0.9,ଅଯଥା
+vent,0.0,-0.9,ପବନ
+full-blown,0.0,-0.9,ପୁରା ବିସ୍ଫୋରଣ |
+backwardness,0.0,-0.9,ପଛୁଆ
+maniac,0.0,-0.9,ମାନିଆକ୍ |
+insincerely,0.0,-0.9,ଆନ୍ତରିକତାର ସହିତ |
+miscalculate,0.0,-0.9,ଭୁଲ ଗଣନା
+traumatized,0.0,-0.9,ଆଘାତପ୍ରାପ୍ତ
+instigators,0.0,-0.9,ପ୍ରବର୍ତ୍ତକମାନେ |
+lawlessness,0.0,-0.9,ଅନ less ତିକତା
+corrupts,0.0,-0.9,ଦୁର୍ନୀତିଗ୍ରସ୍ତ
+jeopardy,0.0,-0.9,ବିପଦ
+stupid,0.0,-0.9,ବୋକା
+spiritless,0.0,-0.9,ଆତ୍ମାହୀନ |
+alarm,0.0,-0.9,ଆଲାର୍ମ
+inhospitality,0.0,-0.9,ଡାକ୍ତରଖାନା
+harmed,0.0,-0.9,କ୍ଷତିଗ୍ରସ୍ତ |
+franticly,0.0,-0.9,କ୍ରୋଧିତ ଭାବରେ |
+stigma,0.0,-0.9,ନିନ୍ଦା
+prosecute,0.0,-0.9,ଦୋଷୀ ସାବ୍ୟସ୍ତ
+hardships,0.0,-0.9,କଷ୍ଟ
+impulsive,0.0,-0.9,ପ୍ରେରଣାଦାୟକ |
+cliched,0.0,-0.9,କ୍ଲିଚ୍ ହୋଇଛି |
+scarce,0.0,-0.9,ଅଭାବ
+unusably,0.0,-0.9,ଅସାଧାରଣ ଭାବରେ |
+lure,0.0,-0.9,ପ୍ରଲୋଭନ
+corrupt,0.0,-0.9,ଦୁର୍ନୀତିଗ୍ରସ୍ତ
+dauntingly,0.0,-0.9,ଦୁ da ଖର ସହିତ |
+crummy,0.0,-0.9,କ୍ରୁମି
+wayward,0.0,-0.9,ପଥହୀନ
+negligence,0.0,-0.9,ଅବହେଳା
+vociferously,0.0,-0.9,ଉଚ୍ଚ ସ୍ୱରରେ
+slaughtered,0.0,-0.9,ବଧ
+complaining,0.0,-0.9,ଅଭିଯୋଗ କରୁଛି
+indulge,0.0,-0.9,ଭୋଗ କର |
+spurious,0.0,-0.9,ଭ୍ରାନ୍ତ
+missed,0.0,-0.9,ମିସ୍
+knave,0.0,-0.9,ଛୁରୀ
+tenderness,0.0,-0.9,କୋମଳତା
+wariness,0.0,-0.9,ଚେତନା
+villianous,0.0,-0.9,villianous
+odor,0.0,-0.9,ଦୁର୍ଗନ୍ଧ
+stagnation,0.0,-0.9,ସ୍ଥଗିତ
+asinininity,0.0,-0.9,ଅସୀମତା
+demon,0.0,-0.9,ଭୂତ
+caustically,0.0,-0.9,କଷ୍ଟିକ୍ ଭାବରେ |
+disinclined,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+facetious,0.0,-0.9,ଚେହେରା
+fiend,0.0,-0.9,fiend
+galling,0.0,-0.9,ଗାଲ୍
+havoc,0.0,-0.9,ବିପଦ
+nefarious,0.0,-0.9,nefarious
+grumpiest,0.0,-0.9,grumpiest
+insubstantially,0.0,-0.9,ଅବିଶ୍ୱାସନୀୟ ଭାବରେ |
+blurred,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+aching,0.0,-0.9,ଯନ୍ତ୍ରଣା
+losses,0.0,-0.9,କ୍ଷତି
+cussed,0.0,-0.9,cussed
+diss,0.0,-0.9,diss
+cloudy,0.0,-0.9,ମେଘୁଆ
+horrific,0.0,-0.9,ଭୟଙ୍କର
+raging,0.0,-0.9,କ୍ରୋଧ
+bewilder,0.0,-0.9,ବିସ୍ମିତ |
+hates,0.0,-0.9,ଘୃଣା କରେ
+vexation,0.0,-0.9,ଉଦ୍ବେଗ
+jerky,0.0,-0.9,ଖରାପ
+irascible,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+deplorably,0.0,-0.9,ଦୁ or ଖଦାୟକ
+evils,0.0,-0.9,ମନ୍ଦ
+setbacks,0.0,-0.9,ଅସୁବିଧା
+mischief,0.0,-0.9,ବଦମାସି
+reprehensible,0.0,-0.9,ନିନ୍ଦନୀୟ
+susceptible,0.0,-0.9,ସଂକ୍ରମିତ
+itchy,0.0,-0.9,କୁଞ୍ଚିତ |
+fuck,0.0,-0.9,fuck
+hassled,0.0,-0.9,ଅସୁବିଧା
+lack,0.0,-0.9,ଅଭାବ |
+apathetic,0.0,-0.9,ଉଦାସୀନ |
+overpower,0.0,-0.9,ଅତ୍ୟଧିକ ଶକ୍ତି
+backache,0.0,-0.9,ପିଠି
+disruption,0.0,-0.9,ବ୍ୟାଘାତ
+harpy,0.0,-0.9,ବୀଣା
+misunderstandings,0.0,-0.9,ଭୁଲ ବୁ stand ାମଣା
+misbecome,0.0,-0.9,ଭୁଲ୍
+misconception,0.0,-0.9,ଭୁଲ ଧାରଣା
+overblown,0.0,-0.9,ଓଭରବ୍ଲାଉନ୍ |
+symptom,0.0,-0.9,ଲକ୍ଷଣ
+trashy,0.0,-0.9,ଚମତ୍କାର
+graceless,0.0,-0.9,ଅନୁଗ୍ରହ
+obstruct,0.0,-0.9,ବାଧା
+straggler,0.0,-0.9,straggler
+dismally,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+bomb,0.0,-0.9,ବୋମା
+cranky,0.0,-0.9,ପାଗଳ
+lambaste,0.0,-0.9,lambaste
+inane,0.0,-0.9,inane
+suck,0.0,-0.9,ସ୍ତନ୍ୟପାନ କର
+absurdness,0.0,-0.9,ଅବିଶ୍ୱାସ
+headaches,0.0,-0.9,ମୁଣ୍ଡବିନ୍ଧା |
+confounding,0.0,-0.9,ଦ୍ୱନ୍ଦ୍ୱପୂର୍ଣ୍ଣ |
+pigs,0.0,-0.9,ଘୁଷୁରି
+offensiveness,0.0,-0.9,ଆପତ୍ତିଜନକ
+evade,0.0,-0.9,ପଳାୟନ କର |
+lesser-known,0.0,-0.9,କମ୍ ଜଣାଶୁଣା |
+infections,0.0,-0.9,ସଂକ୍ରମଣ
+stammer,0.0,-0.9,ଉତ୍ପତ୍ତି
+insulting,0.0,-0.9,ଅପମାନ
+victimize,0.0,-0.9,ଶିକାର
+incompatible,0.0,-0.9,ଅସଙ୍ଗତ
+derisive,0.0,-0.9,ଉପହାସ
+thoughtlessly,0.0,-0.9,ଚିନ୍ତା ନକରି |
+curses,0.0,-0.9,ଜାତି
+deadly,0.0,-0.9,ସାଂଘାତିକ
+drunkard,0.0,-0.9,ମଦ୍ୟପ
+inadverent,0.0,-0.9,ଅଜ୍ଞାତ |
+paradoxical,0.0,-0.9,ବିପରୀତ
+suicide,0.0,-0.9,ଆତ୍ମହତ୍ୟା
+downheartedly,0.0,-0.9,ହତାଶ
+discouragingly,0.0,-0.9,ନିରାଶାଜନକ
+testy,0.0,-0.9,ପରୀକ୍ଷା
+sap,0.0,-0.9,ସପ୍
+unreliability,0.0,-0.9,ଅବିଶ୍ୱାସନୀୟତା |
+mislike,0.0,-0.9,ନାପସନ୍ଦ
+incapable,0.0,-0.9,ଅସମର୍ଥ
+paranoia,0.0,-0.9,ପାରାନୋଆ |
+perilous,0.0,-0.9,ବିପଦପୂର୍ଣ୍ଣ
+guilt,0.0,-0.9,ଦୋଷ
+subservience,0.0,-0.9,ଉପାସନା |
+unjustified,0.0,-0.9,ଅଯ ified କ୍ତିକ |
+scrambling,0.0,-0.9,ସ୍କ୍ରାମଲିଂ
+belie,0.0,-0.9,ବିଶ୍ୱାସ
+mar,0.0,-0.9,ସମୁଦ୍ର
+sinking,0.0,-0.9,ବୁଡ଼ିଯିବା
+contagious,0.0,-0.9,ସଂକ୍ରାମକ
+craps,0.0,-0.9,କ୍ରାପ୍ସ |
+overbalance,0.0,-0.9,ଅତ୍ୟଧିକ ଭାରସାମ୍ୟ
+uncivilized,0.0,-0.9,ସଭ୍ୟ
+wilt,0.0,-0.9,ଇଚ୍ଛା
+headache,0.0,-0.9,ମୁଣ୍ଡବିନ୍ଧା |
+traumatize,0.0,-0.9,ଆଘାତ
+worse,0.0,-0.9,ଖରାପ
+disturbingly,0.0,-0.9,ବିବ୍ରତ
+disfavor,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+deteriorating,0.0,-0.9,ଖରାପ
+regretted,0.0,-0.9,ଦୁ regret ଖିତ
+disobedient,0.0,-0.9,ଅବାଧ୍ୟ
+dings,0.0,-0.9,ଡ଼ିଙ୍ଗସ୍
+inapt,0.0,-0.9,inapt
+snag,0.0,-0.9,ସ୍ନାଗ୍
+surrender,0.0,-0.9,ଆତ୍ମସମର୍ପଣ
+illicit,0.0,-0.9,ଅବ icit ଧ |
+obtuse,0.0,-0.9,obtuse
+defiantly,0.0,-0.9,ନିନ୍ଦନୀୟ
+flawed,0.0,-0.9,ତ୍ରୁଟିଯୁକ୍ତ
+falsely,0.0,-0.9,ମିଥ୍ୟା
+infirm,0.0,-0.9,ଦୁର୍ବଳ
+persecute,0.0,-0.9,ତାଡ଼ନା
+cataclysmic,0.0,-0.9,ସାଂଘାତିକ
+stubbornness,0.0,-0.9,ଜିଦ୍ଖୋର
+castrated,0.0,-0.9,କାଷ୍ଟ୍ରେଡ୍ |
+bleeds,0.0,-0.9,ରକ୍ତସ୍ରାବ
+stodgy,0.0,-0.9,stodgy
+absentee,0.0,-0.9,ଅନୁପସ୍ଥିତ
+slave,0.0,-0.9,ଦାସ
+deficient,0.0,-0.9,ଅଭାବ
+meddlesome,0.0,-0.9,meddlesome
+inundate,0.0,-0.9,ବନ୍ୟା ପରିସ୍ଥିତି
+cramping,0.0,-0.9,କ୍ରମ୍ପିଂ
+loathe,0.0,-0.9,ଘୃଣା
+despotic,0.0,-0.9,ଘୃଣ୍ୟ
+dick,0.0,-0.9,ଡିକ୍
+insupportable,0.0,-0.9,ଅସମର୍ଥ
+straining,0.0,-0.9,ଷ୍ଟ୍ରାଇନ୍
+defiance,0.0,-0.9,ଅବମାନନା
+bombastic,0.0,-0.9,ବୋମାଷ୍ଟିକ୍ |
+confusion,0.0,-0.9,ଦ୍ୱନ୍ଦ୍ୱ |
+disagreement,0.0,-0.9,ମତଭେଦ
+pretence,0.0,-0.9,ଛଳନା କର |
+criticisms,0.0,-0.9,ସମାଲୋଚନା
+concede,0.0,-0.9,ଅନୁଦାନ
+accusations,0.0,-0.9,ଅଭିଯୋଗ
+lackey,0.0,-0.9,ଅଭାବ |
+stricken,0.0,-0.9,ଆଘାତ
+unfamiliar,0.0,-0.9,ଅପରିଚିତ
+sceptical,0.0,-0.9,ସନ୍ଦେହଜନକ |
+chastisement,0.0,-0.9,ଦଣ୍ଡ
+choke,0.0,-0.9,ଚକ୍କର
+cruelties,0.0,-0.9,ନିଷ୍ଠୁରତା
+renounce,0.0,-0.9,ତ୍ୟାଗ
+stolen,0.0,-0.9,ଚୋରି
+unipolar,0.0,-0.9,unipolar
+spitefully,0.0,-0.9,ସତ୍ତ୍ୱେ
+humiliation,0.0,-0.9,ଅପମାନ
+die,0.0,-0.9,େଯମାେନ
+revenge,0.0,-0.9,ପ୍ରତିଶୋଧ
+underlings,0.0,-0.9,ଅଣ୍ଡରଲିଙ୍ଗ୍ |
+reactionary,0.0,-0.9,ପ୍ରତିକ୍ରିୟାଶୀଳ
+hurted,0.0,-0.9,ଆଘାତପ୍ରାପ୍ତ
+deprave,0.0,-0.9,ଖରାପ
+heartless,0.0,-0.9,ହୃଦୟହୀନ
+horrify,0.0,-0.9,ଭୟ କର
+contempt,0.0,-0.9,ଅବମାନନା
+rhetorical,0.0,-0.9,ବାକ୍ୟ
+crook,0.0,-0.9,କ୍ରୋକ୍
+less-developed,0.0,-0.9,କମ୍ ବିକଶିତ |
+brutish,0.0,-0.9,ନିଷ୍ଠୁର
+reprehensive,0.0,-0.9,ତାଗିଦ୍
+inflammation,0.0,-0.9,ପ୍ରଦାହ
+relentless,0.0,-0.9,ନିରନ୍ତର |
+corrupted,0.0,-0.9,ଭ୍ରଷ୍ଟ
+forlornly,0.0,-0.9,forlornly
+contortions,0.0,-0.9,ବିକୃତି
+loathsomely,0.0,-0.9,ଘୃଣ୍ୟ
+pitiless,0.0,-0.9,ଦୟାଳୁ
+disapprove,0.0,-0.9,ନାପସନ୍ଦ
+bastard,0.0,-0.9,ଦୁଷ୍ଟ
+ineffectiveness,0.0,-0.9,ଅପାରଗତା |
+strife,0.0,-0.9,ife ଗଡା
+chronic,0.0,-0.9,କ୍ରନିକ୍
+unthinkably,0.0,-0.9,ଅବାଞ୍ଛିତ ଭାବରେ |
+harass,0.0,-0.9,ହଇରାଣ |
+taint,0.0,-0.9,ଦୁର୍ବଳ
+haggle,0.0,-0.9,ହଗ୍
+mistaken,0.0,-0.9,ଭୁଲ୍
+denigrate,0.0,-0.9,ଅବମାନନା |
+irresolute,0.0,-0.9,irresolute
+sinister,0.0,-0.9,ପାପୀ
+clamor,0.0,-0.9,ଚିତ୍କାର
+fake,0.0,-0.9,ନକଲି
+imaginary,0.0,-0.9,କଳ୍ପନା
+cliche,0.0,-0.9,କ୍ଲିଚ୍
+insubordinate,0.0,-0.9,ଅବହେଳିତ |
+despicable,0.0,-0.9,ଘୃଣ୍ୟ
+fainthearted,0.0,-0.9,ହତାଶ
+refute,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+slower,0.0,-0.9,ଧୀର
+deceivers,0.0,-0.9,ପ୍ରତାରଣାକାରୀ |
+nagging,0.0,-0.9,ନାଗ କରିବା |
+solemn,0.0,-0.9,ସମାରୋହ
+fiendish,0.0,-0.9,fiendish
+haphazard,0.0,-0.9,ହାଫାଜାର୍ଡ |
+truant,0.0,-0.9,truant
+greed,0.0,-0.9,ଲୋଭ
+unfinished,0.0,-0.9,ଅସମାପ୍ତ
+slow-moving,0.0,-0.9,ଧୀର ଗତିଶୀଳ |
+despondency,0.0,-0.9,ନିରାଶା
+mischievously,0.0,-0.9,ଦୁଷ୍କର୍ମ
+plague,0.0,-0.9,ମହାମାରୀ
+cackle,0.0,-0.9,କାକଲ୍ |
+inhumane,0.0,-0.9,ଅମାନୁଷିକ |
+fumble,0.0,-0.9,umble ୁଣ୍ଟିବା |
+cataclysmically,0.0,-0.9,ସାଂଘାତିକ ଭାବରେ |
+disdain,0.0,-0.9,ଅବମାନନା
+overstate,0.0,-0.9,ଓଭରଷ୍ଟେଟ୍ |
+odder,0.0,-0.9,otter
+inexorably,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+rile,0.0,-0.9,ଦେଶଗୁଡିକ |
+mirage,0.0,-0.9,ମିରାଜ୍
+longingly,0.0,-0.9,ଲାଳସା
+hedge,0.0,-0.9,ହେଜ୍
+precipitate,0.0,-0.9,ବର୍ଷା
+scarily,0.0,-0.9,ଭୟଭୀତ
+uproariously,0.0,-0.9,ଉତ୍ତେଜିତ
+blurry,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+capriciously,0.0,-0.9,କ ric ତୁକିଆ |
+messy,0.0,-0.9,ବିଶୃଙ୍ଖଳିତ |
+unilateralism,0.0,-0.9,ଏକପାଖିଆ
+immovable,0.0,-0.9,ଅସ୍ଥାବର |
+roadblocks,0.0,-0.9,ରାସ୍ତା ଅବରୋଧ
+somber,0.0,-0.9,କିଛି ସମୟ
+teasingly,0.0,-0.9,ଥଟ୍ଟା
+upsetting,0.0,-0.9,ବିବ୍ରତ
+irked,0.0,-0.9,irked
+restriction,0.0,-0.9,ପ୍ରତିବନ୍ଧକ |
+inexperience,0.0,-0.9,ଅନଭିଜ୍ଞତା |
+breaking,0.0,-0.9,ଭାଙ୍ଗିବା
+illogically,0.0,-0.9,ଅଯ og କ୍ତିକ ଭାବରେ |
+infraction,0.0,-0.9,ଅପରାଧ
+flaws,0.0,-0.9,ତ୍ରୁଟି
+annihilation,0.0,-0.9,ବିନାଶ
+emptiness,0.0,-0.9,ଶୂନ୍ୟତା
+nauseate,0.0,-0.9,ବାନ୍ତି
+alarmed,0.0,-0.9,ଭୟଭୀତ
+contamination,0.0,-0.9,ପ୍ରଦୂଷଣ
+disrespect,0.0,-0.9,ଅସମ୍ମାନ |
+problems,0.0,-0.9,ସମସ୍ୟାଗୁଡିକ |
+punishable,0.0,-0.9,ଦଣ୍ଡନୀୟ
+unfaithfully,0.0,-0.9,ଅବିଶ୍ୱାସନୀୟ
+frazzled,0.0,-0.9,ଭ୍ରାନ୍ତ
+juddering,0.0,-0.9,ବିଚାର
+emasculate,0.0,-0.9,ନିର୍ମଳ
+fracture,0.0,-0.9,ଭଙ୍ଗା
+bleed,0.0,-0.9,ରକ୍ତସ୍ରାବ
+horrified,0.0,-0.9,ଭୟଭୀତ
+insensitively,0.0,-0.9,ସମ୍ବେଦନଶୀଳ ଭାବରେ |
+suspicion,0.0,-0.9,ସନ୍ଦେହ
+contend,0.0,-0.9,ପ୍ରତିଦ୍ୱନ୍ଦ୍ୱିତା କର |
+pain,0.0,-0.9,ଯନ୍ତ୍ରଣା
+rants,0.0,-0.9,ଭଡା
+dishonestly,0.0,-0.9,ଅସାଧୁ ଭାବରେ |
+ignore,0.0,-0.9,ଅବଜ୍ ignore ା କର |
+tense,0.0,-0.9,କାଳ
+dissatisfying,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+uglier,0.0,-0.9,ଅସୁନ୍ଦର
+crumble,0.0,-0.9,ଭୁଶୁଡ଼ିବା |
+apologist,0.0,-0.9,କ୍ଷମା ପ୍ରାର୍ଥନା
+narrower,0.0,-0.9,ସଂକୀର୍ଣ୍ଣ |
+flabbergast,0.0,-0.9,ଫ୍ଲାବବର୍ଗଷ୍ଟ |
+slothful,0.0,-0.9,ଅଳସୁଆ |
+woe,0.0,-0.9,ହାୟ!
+inconsistencies,0.0,-0.9,ଅସଙ୍ଗତି |
+errant,0.0,-0.9,ତ୍ରୁଟି
+rusts,0.0,-0.9,କଳଙ୍କ |
+demonize,0.0,-0.9,ଭୂତ
+wheedle,0.0,-0.9,ଚକ
+distressing,0.0,-0.9,ଦୁ ing ଖଦାୟକ
+argumentative,0.0,-0.9,ଯୁକ୍ତିଯୁକ୍ତ
+blockage,0.0,-0.9,ଅବରୋଧ
+complaints,0.0,-0.9,ଅଭିଯୋଗ
+fatigued,0.0,-0.9,କ୍ଳାନ୍ତ
+irking,0.0,-0.9,irking
+kills,0.0,-0.9,ହତ୍ୟା କରେ
+lambast,0.0,-0.9,lambast
+ineloquent,0.0,-0.9,ଅଯୋଗ୍ୟ
+scary,0.0,-0.9,ଭୟାନକ
+groundless,0.0,-0.9,ଭିତ୍ତିହୀନ |
+ignoble,0.0,-0.9,ଘୃଣ୍ୟ
+sticky,0.0,-0.9,ଷ୍ଟିକି |
+aggression,0.0,-0.9,ଆକ୍ରୋଶ
+deception,0.0,-0.9,ପ୍ରତାରଣା
+malaise,0.0,-0.9,ଅସନ୍ତୋଷ |
+aimless,0.0,-0.9,ଲକ୍ଷ୍ୟହୀନ |
+misapprehend,0.0,-0.9,ଭୁଲ ବୁ re ିବା
+nervous,0.0,-0.9,ସ୍ନାୟୁ
+commonplace,0.0,-0.9,ସାଧାରଣ ସ୍ଥାନ |
+awfully,0.0,-0.9,ଭୟଙ୍କର
+bitchy,0.0,-0.9,ଦୁ ch ଖୀ
+tingling,0.0,-0.9,tingling
+stubborn,0.0,-0.9,ଜିଦ୍ଖୋର
+gawky,0.0,-0.9,gawky
+dastardly,0.0,-0.9,ଦୁ ast ଖଦାୟକ |
+propagandize,0.0,-0.9,ପ୍ରଚାର କର
+contaminated,0.0,-0.9,ଦୂଷିତ
+shamelessly,0.0,-0.9,ଲଜ୍ଜାଜନକ ଭାବରେ |
+scathingly,0.0,-0.9,ଘୃଣ୍ୟ
+detracts,0.0,-0.9,ବିଚ୍ଛିନ୍ନ କରେ |
+discontented,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+vile,0.0,-0.9,ଭିଲ୍ଲା |
+bloated,0.0,-0.9,ଫୁଲିଲା |
+worrying,0.0,-0.9,ଚିନ୍ତିତ
+devilment,0.0,-0.9,ଶୟତାନ
+sickening,0.0,-0.9,ଅସୁସ୍ଥ
+smudge,0.0,-0.9,ଦୁର୍ଗନ୍ଧ
+repression,0.0,-0.9,ଦମନ
+joke,0.0,-0.9,ଥଟ୍ଟା
+snagged,0.0,-0.9,ସ୍ନାଗ୍
+sully,0.0,-0.9,ସୁଲି
+dearth,0.0,-0.9,ପ୍ରିୟ
+hardhearted,0.0,-0.9,ହୃଦୟ
+rebuff,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+exhausted,0.0,-0.9,କ୍ଳାନ୍ତ
+screwed,0.0,-0.9,ସ୍କ୍ରୁଡ୍
+scum,0.0,-0.9,ସ୍କାମ |
+silly,0.0,-0.9,ମୁର୍ଖ
+decrepitude,0.0,-0.9,ହ୍ରାସ
+steals,0.0,-0.9,ଚୋରି କରେ |
+lurking,0.0,-0.9,ଲୁଚି
+collude,0.0,-0.9,ଧକ୍କା |
+botch,0.0,-0.9,botch
+sunken,0.0,-0.9,ବୁଡ଼ିଗଲା
+dispiritedly,0.0,-0.9,ବିବାଦୀୟ ଭାବରେ |
+gimmick,0.0,-0.9,ଜିମିକ୍ |
+helplessness,0.0,-0.9,ଅସହାୟତା
+tedious,0.0,-0.9,କ୍ଲାନ୍ତ
+shambles,0.0,-0.9,ଶ୍ୟାମ୍ବଲ୍ସ |
+deprecate,0.0,-0.9,ନାପସନ୍ଦ
+smelly,0.0,-0.9,ଦୁର୍ଗନ୍ଧ
+illogical,0.0,-0.9,ଅଯ og କ୍ତିକ |
+stereotype,0.0,-0.9,ଷ୍ଟେରିଓଟାଇପ୍
+wane,0.0,-0.9,ହ୍ରାସ
+jeering,0.0,-0.9,ଉପହାସ
+dizzy,0.0,-0.9,ମୁଣ୍ଡ ବୁଲାଇବା |
+battering,0.0,-0.9,ବ୍ୟାଟିଂ
+fails,0.0,-0.9,ବିଫଳ ହୁଏ |
+bugs,0.0,-0.9,ତ୍ରୁଟି
+cry,0.0,-0.9,କାନ୍ଦ
+unwarranted,0.0,-0.9,ଅବାଞ୍ଛିତ |
+overbearing,0.0,-0.9,ଅତ୍ୟଧିକ ଭାର
+riled,0.0,-0.9,ଗାଳିଗୁଲଜ
+disagree,0.0,-0.9,ଏକମତ ନୁହେଁ
+remorseful,0.0,-0.9,ଅନୁତାପ
+idiots,0.0,-0.9,ମୂର୍ଖ
+scarier,0.0,-0.9,ଭୟାନକ
+unsuccessful,0.0,-0.9,ଅସଫଳ
+frenetic,0.0,-0.9,ଫ୍ରେନେଟିକ୍ |
+anti-proliferation,0.0,-0.9,ବିସ୍ତାର ବିରୋଧୀ |
+disasterous,0.0,-0.9,ବିପର୍ଯ୍ୟସ୍ତ
+adversarial,0.0,-0.9,ପ୍ରତିକୂଳ
+expropriate,0.0,-0.9,ଉପଯୁକ୍ତ
+fright,0.0,-0.9,ଭୟ
+glum,0.0,-0.9,ଗ୍ଲୁମ୍ |
+mangling,0.0,-0.9,mangling
+outraged,0.0,-0.9,କ୍ରୋଧିତ
+threesome,0.0,-0.9,ତିନି
+besmirch,0.0,-0.9,besmirch
+unsuccessfully,0.0,-0.9,ଅସଫଳ
+clique,0.0,-0.9,କ୍ଲିକ୍ କରନ୍ତୁ |
+snagging,0.0,-0.9,ସ୍ନାଗିଂ
+smugly,0.0,-0.9,ସ୍ମଗଲି
+unsettle,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+resurgent,0.0,-0.9,ପୁନର୍ଜୀବିତ |
+discriminate,0.0,-0.9,ଭେଦଭାବ
+disregard,0.0,-0.9,ଅବହେଳା
+biases,0.0,-0.9,ପକ୍ଷପାତ
+scandalously,0.0,-0.9,ଘୋଟାଲା
+unusually,0.0,-0.9,ଅସାଧାରଣ ଭାବରେ |
+slanderous,0.0,-0.9,ନିନ୍ଦା
+taboo,0.0,-0.9,ଟାବୁ |
+hypocrite,0.0,-0.9,କପଟୀ
+unnerved,0.0,-0.9,ଅସୁରକ୍ଷିତ
+addict,0.0,-0.9,ଯୋଗୀ
+crueler,0.0,-0.9,କ୍ରୁଏଲର୍
+fib,0.0,-0.9,fib
+disaffect,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+weed,0.0,-0.9,ତୃଣକ
+condescension,0.0,-0.9,ଘନଘନ
+hopelessness,0.0,-0.9,ନିରାଶା
+misguidance,0.0,-0.9,ବିଭ୍ରାନ୍ତ
+regressive,0.0,-0.9,ପ୍ରତିକ୍ରିୟାଶୀଳ |
+unlamentably,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ ଭାବରେ |
+useless,0.0,-0.9,ଅଦରକାରୀ |
+emaciated,0.0,-0.9,ଦୁର୍ବଳ
+blandish,0.0,-0.9,ନିନ୍ଦନୀୟ |
+afraid,0.0,-0.9,ଭୟ
+calumniate,0.0,-0.9,calumniate
+venomously,0.0,-0.9,ବିଷାକ୍ତ
+disown,0.0,-0.9,ଅସ୍ୱୀକାର
+womanizer,0.0,-0.9,ମହିଳା
+rifts,0.0,-0.9,rifts
+ax,0.0,-0.9,କୁରା ax ଼ି
+mangled,0.0,-0.9,ଗାଳିଗୁଲଜ
+sobering,0.0,-0.9,ସାବ୍ୟସ୍ତ
+fraudulent,0.0,-0.9,ଠକ
+inundated,0.0,-0.9,ବୁଡ଼ିଗଲା |
+jeers,0.0,-0.9,ଜିର୍ସ
+seethe,0.0,-0.9,seethe
+feckless,0.0,-0.9,ଫେକଲେସ୍ |
+bleakness,0.0,-0.9,ଦୁର୍ବଳତା
+imprison,0.0,-0.9,କାରାଗାର
+detest,0.0,-0.9,ଘୃଣା
+dishearten,0.0,-0.9,ନିରାଶ
+short-lived,0.0,-0.9,ଅଳ୍ପ ସମୟର
+disbeliever,0.0,-0.9,ଅବିଶ୍ୱାସୀ
+poisonously,0.0,-0.9,ବିଷାକ୍ତ
+disapprobation,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+negate,0.0,-0.9,ଅଗ୍ରାହ୍ୟ କରନ୍ତୁ |
+pestilent,0.0,-0.9,କୀଟନାଶକ
+recoil,0.0,-0.9,ପୁନର୍ବାର
+laughingstock,0.0,-0.9,ହସିବା
+retaliate,0.0,-0.9,ପ୍ରତିଶୋଧ
+spite,0.0,-0.9,ସତ୍ତ୍ .େ |
+dissident,0.0,-0.9,ମତଭେଦ
+spook,0.0,-0.9,ସ୍ପୋକ
+languid,0.0,-0.9,କ୍ଳାନ୍ତ
+extortion,0.0,-0.9,ନିର୍ଯାତନା
+corrode,0.0,-0.9,କରୋଡ
+dismissively,0.0,-0.9,ବରଖାସ୍ତ
+misleading,0.0,-0.9,ବିଭ୍ରାନ୍ତକାରୀ |
+insurrection,0.0,-0.9,ବିଦ୍ରୋହ
+defiler,0.0,-0.9,ଡିଫିଲର୍ |
+lackluster,0.0,-0.9,ଅଭାବ
+shroud,0.0,-0.9,କଫ
+distress,0.0,-0.9,ଦୁ distress ଖ
+shrill,0.0,-0.9,ଶ୍ରିଲ୍
+oddities,0.0,-0.9,ଅଦ୍ଭୁତତା |
+calumny,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+overloaded,0.0,-0.9,ଓଭରଲୋଡ୍ |
+detracting,0.0,-0.9,ଖରାପ
+flagrantly,0.0,-0.9,ଖୋଲାଖୋଲି ଭାବରେ |
+friggin,0.0,-0.9,ଫ୍ରିଜିନ୍
+curt,0.0,-0.9,ପରଦା
+huckster,0.0,-0.9,ହକଷ୍ଟର
+cynicism,0.0,-0.9,ନିନ୍ଦନୀୟ |
+detract,0.0,-0.9,ବିଚ୍ଛିନ୍ନ କର |
+anxieties,0.0,-0.9,ଚିନ୍ତା
+outrageously,0.0,-0.9,କ୍ରୋଧିତ
+restrict,0.0,-0.9,ପ୍ରତିବନ୍ଧକ |
+sorry,0.0,-0.9,ଦୁ sorry ଖିତ
+bribery,0.0,-0.9,ଲାଞ୍ଚ
+regress,0.0,-0.9,regress
+washed-out,0.0,-0.9,ଧୋଇବା
+meddle,0.0,-0.9,meddle
+apprehensively,0.0,-0.9,ଭୟଭୀତ
+hiss,0.0,-0.9,ଅନୁଭବ କର |
+rankle,0.0,-0.9,ର୍ୟାଙ୍କଲ୍
+cripple,0.0,-0.9,ପଙ୍ଗୁ
+self-destructive,0.0,-0.9,ଆତ୍ମ-ବିନାଶକାରୀ |
+mishandle,0.0,-0.9,ଦୁଷ୍କର୍ମ
+disconsolate,0.0,-0.9,ବିଚ୍ଛିନ୍ନ କରନ୍ତୁ |
+petrified,0.0,-0.9,ପେଟ୍ରାଇଫେଡ୍ |
+occluded,0.0,-0.9,ଅନ୍ତର୍ଭୁକ୍ତ
+debaser,0.0,-0.9,debaser
+rattles,0.0,-0.9,ଗର୍ଜନ
+evildoer,0.0,-0.9,ଦୁଷ୍କର୍ମକାରୀ
+shortchange,0.0,-0.9,ସର୍ଟଚେଞ୍ଜ୍
+boredom,0.0,-0.9,ବିରକ୍ତି
+touchy,0.0,-0.9,ସ୍ପର୍ଶକାତର |
+warning,0.0,-0.9,ଚେତାବନୀ
+languorously,0.0,-0.9,କ୍ଳାନ୍ତ ଭାବରେ
+flirty,0.0,-0.9,ଫ୍ଲର୍ଟିଂ
+unjustly,0.0,-0.9,ଅନ୍ୟାୟ
+braggart,0.0,-0.9,ଅହଂକାର
+harmful,0.0,-0.9,କ୍ଷତିକାରକ
+overawe,0.0,-0.9,ଓଭରୱେ
+mediocrity,0.0,-0.9,ମଧ୍ୟସ୍ଥତା
+overthrows,0.0,-0.9,ଧ୍ୱଂସ
+timidity,0.0,-0.9,ଭୟଭୀତତା |
+blunders,0.0,-0.9,ତ୍ରୁଟି
+conscons,0.0,-0.9,କନକସନ୍ |
+skeletons,0.0,-0.9,କଙ୍କାଳ
+sensationalize,0.0,-0.9,ସମ୍ବେଦନଶୀଳ
+balk,0.0,-0.9,ବିମ୍
+discompose,0.0,-0.9,ବିଚ୍ଛିନ୍ନ କରନ୍ତୁ |
+second-class,0.0,-0.9,ଦ୍ୱିତୀୟ ଶ୍ରେଣୀ
+discriminatory,0.0,-0.9,ଭେଦଭାବ
+degrade,0.0,-0.9,ଅବନତି
+disconcertingly,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ ଭାବରେ |
+fudge,0.0,-0.9,ud ଗଡା
+envious,0.0,-0.9,ଇର୍ଷା
+fragmented,0.0,-0.9,ଖଣ୍ଡବିଖଣ୍ଡିତ |
+annoyances,0.0,-0.9,ବିରକ୍ତିକର
+scandalize,0.0,-0.9,ଘୋଟାଲା
+squirm,0.0,-0.9,squirm
+cruelty,0.0,-0.9,ନିଷ୍ଠୁରତା
+reprehension,0.0,-0.9,ନିନ୍ଦା
+stringent,0.0,-0.9,କଠୋର
+stingy,0.0,-0.9,କଳଙ୍କିତ
+throttle,0.0,-0.9,ଥ୍ରଟଲ୍ |
+disconcerted,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+disconcerting,0.0,-0.9,ଅସନ୍ତୋଷ |
+ashamed,0.0,-0.9,ଲଜ୍ଜିତ
+declining,0.0,-0.9,ହ୍ରାସ
+plot,0.0,-0.9,ଭୂଖଣ୍ଡ
+dreadfulness,0.0,-0.9,ଭୟ
+fallout,0.0,-0.9,ପତନ
+improper,0.0,-0.9,ଅନୁପଯୁକ୍ତ
+skeptical,0.0,-0.9,ସନ୍ଦେହଜନକ |
+daunt,0.0,-0.9,ଦୁ da ଖ
+affront,0.0,-0.9,ଆଫ୍ରଣ୍ଟ୍
+bewildered,0.0,-0.9,ବିସ୍ମିତ
+distains,0.0,-0.9,ଦୂରତା
+smelled,0.0,-0.9,ଦୁର୍ଗନ୍ଧ
+flirt,0.0,-0.9,ଫ୍ଲର୍ଟ |
+boggle,0.0,-0.9,ବଗଲ୍
+hysteria,0.0,-0.9,ହିଷ୍ଟେରିଆ
+worsen,0.0,-0.9,ଖରାପ
+screech,0.0,-0.9,ଚିତ୍କାର
+orphan,0.0,-0.9,ଅନାଥ
+counter-productive,0.0,-0.9,ପ୍ରତିବାଦକାରୀ
+irksome,0.0,-0.9,irksome
+complains,0.0,-0.9,ଅଭିଯୋଗ କରେ |
+acrimony,0.0,-0.9,ତୀବ୍ରତା
+disintegrated,0.0,-0.9,ବିଚ୍ଛିନ୍ନ
+life-threatening,0.0,-0.9,ଜୀବନ ପ୍ରତି ବିପଦ
+satirize,0.0,-0.9,satirize
+unstable,0.0,-0.9,ଅସ୍ଥିର |
+berate,0.0,-0.9,ପରାମର୍ଶ ଦିଅ |
+rotten,0.0,-0.9,ପତଳା |
+declaim,0.0,-0.9,ଘୋଷଣା କର |
+illusions,0.0,-0.9,ଭ୍ରମ
+kill,0.0,-0.9,ହତ୍ୟା
+rantingly,0.0,-0.9,ରାଗିଙ୍ଗ୍ |
+hopelessly,0.0,-0.9,ନିରାଶାରେ |
+dissuasive,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ |
+berserk,0.0,-0.9,berserk
+snags,0.0,-0.9,ସ୍ନାଗ୍
+self-defeating,0.0,-0.9,ଆତ୍ମ-ପରାଜୟ |
+horrendous,0.0,-0.9,ଭୟଙ୍କର
+onslaught,0.0,-0.9,ଆକ୍ରମଣ
+broken,0.0,-0.9,ଭଙ୍ଗା
+thankless,0.0,-0.9,ଧନ୍ୟବାଦ
+imprecisely,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+bully,0.0,-0.9,ଗାଳିଗୁଲଜ
+god-awful,0.0,-0.9,ଭଗବାନ-ଭୟଙ୍କର |
+disaffirm,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+crappy,0.0,-0.9,ଅଶୁଭ
+splitting,0.0,-0.9,ବିଭାଜନ
+unconvincingly,0.0,-0.9,ଅବିଶ୍ୱାସନୀୟ |
+animosity,0.0,-0.9,ଶତ୍ରୁତା |
+inconsistency,0.0,-0.9,ଅସଙ୍ଗତି |
+jagged,0.0,-0.9,ଜାଗା
+mundane,0.0,-0.9,ସାଂପ୍ରତିକ
+inanely,0.0,-0.9,ଅଜ୍ଞାତରେ |
+broken-hearted,0.0,-0.9,ଭଗ୍ନ ହୃଦୟ
+immorality,0.0,-0.9,ଅନ mo ତିକତା
+irritation,0.0,-0.9,ରାଗ
+oppressive,0.0,-0.9,ଦଳିତ
+overrun,0.0,-0.9,ଅତିକ୍ରମ କରନ୍ତୁ |
+ironic,0.0,-0.9,ବିଡମ୍ବନା
+torturing,0.0,-0.9,ନିର୍ଯାତନା
+stupified,0.0,-0.9,stupified
+moan,0.0,-0.9,କ୍ରନ୍ଦନ
+selfishness,0.0,-0.9,ସ୍ୱାର୍ଥପରତା
+drawbacks,0.0,-0.9,ଅସୁବିଧା
+prejudge,0.0,-0.9,କୁସଂସ୍କାର
+staid,0.0,-0.9,staid
+blasphemy,0.0,-0.9,ନିନ୍ଦା
+stink,0.0,-0.9,ଦୁର୍ଗନ୍ଧ
+ache,0.0,-0.9,ଯନ୍ତ୍ରଣା
+sneeringly,0.0,-0.9,ଚତୁରତାର ସହିତ |
+blunt,0.0,-0.9,ଅସ୍ପଷ୍ଟ |
+forlorn,0.0,-0.9,ପରିତ୍ୟାଗ
+jittery,0.0,-0.9,ଜିତ
+dissatisfy,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+melodramatically,0.0,-0.9,ମେଲୋଡ୍ରାମାଟିକ୍ |
+vehement,0.0,-0.9,ଅତିଶୟ
+inaccurately,0.0,-0.9,ଭୁଲ୍
+slooow,0.0,-0.9,ସ୍ଲୋ
+temerity,0.0,-0.9,ତାପମାତ୍ରା
+irrelevant,0.0,-0.9,ଅପ୍ରାସଙ୍ଗିକ
+deceptive,0.0,-0.9,ପ୍ରତାରଣାକାରୀ |
+heretic,0.0,-0.9,ଧର୍ମବାଦୀ
+disingenuously,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ ଭାବରେ |
+ineffectually,0.0,-0.9,ପ୍ରଭାବହୀନ
+impetuously,0.0,-0.9,ଉତ୍ସାହର ସହିତ |
+insecurity,0.0,-0.9,ଅସୁରକ୍ଷିତତା |
+irritable,0.0,-0.9,ବିରକ୍ତ
+defame,0.0,-0.9,ବଦନାମ
+discredit,0.0,-0.9,ଅସମ୍ମାନ |
+furiously,0.0,-0.9,କ୍ରୋଧରେ
+inhibition,0.0,-0.9,ପ୍ରତିବନ୍ଧକ
+precarious,0.0,-0.9,ବିପଦପୂର୍ଣ୍ଣ
+disrespectablity,0.0,-0.9,ଅସମ୍ମାନ
+scandals,0.0,-0.9,ଦୁର୍ନୀତି
+difficulty,0.0,-0.9,ଅସୁବିଧା
+manic,0.0,-0.9,ମାଣିକ୍ |
+chastise,0.0,-0.9,ଶାସ୍ତି
+lonely,0.0,-0.9,ଏକାକୀ
+crack,0.0,-0.9,ଫାଟ
+jobless,0.0,-0.9,ଚାକିରୀ
+indiscriminately,0.0,-0.9,ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ |
+obnoxious,0.0,-0.9,ଅବନୋକ୍ସିୟସ୍ |
+jeopardize,0.0,-0.9,ବିପଦ
+oppositions,0.0,-0.9,ବିରୋଧୀ
+compulsion,0.0,-0.9,ବାଧ୍ୟତାମୂଳକ
+debatable,0.0,-0.9,ବିତର୍କଯୋଗ୍ୟ |
+procrastination,0.0,-0.9,ବିଳମ୍ବ
+temptation,0.0,-0.9,ପ୍ରଲୋଭନ
+opposition,0.0,-0.9,ବିରୋଧୀ
+loath,0.0,-0.9,ଘୃଣା
+rumbling,0.0,-0.9,ଗର୍ଜନ
+scare,0.0,-0.9,ଭୟ
+famished,0.0,-0.9,ଭୋକିଲା
+miscalculation,0.0,-0.9,ଭୁଲ ଗଣନା
+timid,0.0,-0.9,ଭୟଭୀତ
+infringe,0.0,-0.9,ଉଲ୍ଲଂଘନ
+flickers,0.0,-0.9,ick ଲକ
+unfavorable,0.0,-0.9,ଅନୁକୂଳ |
+relentlessness,0.0,-0.9,ନିରନ୍ତରତା |
+fastidious,0.0,-0.9,ଦ୍ରୁତଗାମୀ
+disloyalty,0.0,-0.9,ଅବିଶ୍ୱାସ
+wreck,0.0,-0.9,ଧ୍ୱଂସ
+peevish,0.0,-0.9,peevish
+ineloquently,0.0,-0.9,ଅଯଥାରେ |
+enfeeble,0.0,-0.9,enfeeble
+anomalous,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ |
+grudges,0.0,-0.9,ଦୁ ud ଖ
+impatience,0.0,-0.9,ଧ ati ର୍ଯ୍ୟହୀନତା |
+menace,0.0,-0.9,ଧମକ
+screw-up,0.0,-0.9,ଗଡ଼ବଡ଼
+boisterous,0.0,-0.9,କୋଳାହଳ
+sloth,0.0,-0.9,ଅଳସୁଆ |
+dejectedly,0.0,-0.9,ହତାଶ
+frost,0.0,-0.9,ବରଫ
+apocalypse,0.0,-0.9,ଆପୋକ୍ଲିପ୍ସ |
+leaking,0.0,-0.9,ଲିକ୍
+zaps,0.0,-0.9,ଜାପ୍ସ |
+outrageous,0.0,-0.9,କ୍ରୋଧିତ
+sickeningly,0.0,-0.9,ଅସୁସ୍ଥତାରେ
+stinks,0.0,-0.9,ଦୁର୍ଗନ୍ଧ
+self-humiliation,0.0,-0.9,ଆତ୍ମ-ଅପମାନ
+mawkishness,0.0,-0.9,mawkishness
+disappoint,0.0,-0.9,ନିରାଶ
+awful,0.0,-0.9,ଭୟଙ୍କର
+pathetic,0.0,-0.9,ଦୁ hetic ଖଦାୟକ |
+horrifying,0.0,-0.9,ଭୟଙ୍କର
+bs,0.0,-0.9,bs
+irredeemably,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+contradict,0.0,-0.9,ବିରୋଧ କରନ୍ତୁ |
+sketchy,0.0,-0.9,ସ୍କିଚି
+quarrellously,0.0,-0.9,ar ଗଡା
+loner,0.0,-0.9,ଏକାକୀ
+plunderer,0.0,-0.9,ଲୁଣ୍ଠନକାରୀ
+tin-y,0.0,-0.9,ଛୋଟ
+illegitimate,0.0,-0.9,ଅବ ille ଧ |
+nuisance,0.0,-0.9,ଉତ୍ତେଜନା
+macabre,0.0,-0.9,ମାକାବ୍ରେ |
+hothouse,0.0,-0.9,ହଟହାଉସ୍ |
+bogus,0.0,-0.9,ବୋଗସ୍
+erratic,0.0,-0.9,ତ୍ରୁଟିପୂର୍ଣ୍ଣ |
+mistakenly,0.0,-0.9,ଭୁଲରେ
+sacrificed,0.0,-0.9,ବଳିଦାନ
+maliciousness,0.0,-0.9,ଦୁଷ୍କର୍ମ
+desiccated,0.0,-0.9,ନିଷ୍କ୍ରିୟ
+ultra-hardline,0.0,-0.9,ଅଲ୍ଟ୍ରା-ହାର୍ଡଲାଇନ |
+scolding,0.0,-0.9,ଗାଳି
+mortify,0.0,-0.9,mortify
+ruthless,0.0,-0.9,ନିର୍ଦ୍ଦୟ
+whores,0.0,-0.9,ବେଶ୍ୟା
+vain,0.0,-0.9,କେବଳ
+ill-natured,0.0,-0.9,ଅସୁସ୍ଥ
+snub,0.0,-0.9,ସ୍ନବ୍ |
+indiscreet,0.0,-0.9,ଅଜ୍ଞାତ
+apprehensions,0.0,-0.9,ଆଶଙ୍କା
+flabbergasted,0.0,-0.9,ଫ୍ଲାବବର୍ଗଷ୍ଟେଡ୍ |
+disgusting,0.0,-0.9,ଘୃଣ୍ୟ
+harm,0.0,-0.9,କ୍ଷତି
+incomprehension,0.0,-0.9,ବୁ rehens ାମଣା
+grief,0.0,-0.9,ଦୁ ief ଖ
+inflationary,0.0,-0.9,ମୁଦ୍ରାସ୍ଫୀତି
+fragile,0.0,-0.9,ଭଗ୍ନ
+stereotypically,0.0,-0.9,ଷ୍ଟେରେଓଟିପିକ୍ ଭାବରେ |
+degenerate,0.0,-0.9,ଖରାପ
+disagreeably,0.0,-0.9,ଏକମତ ନୁହେଁ
+obscures,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+transgress,0.0,-0.9,ଅଧର୍ମ
+denying,0.0,-0.9,ଅସ୍ୱୀକାର
+excuses,0.0,-0.9,ବାହାନା
+cravenly,0.0,-0.9,ଲୋଭନୀୟ
+rivalry,0.0,-0.9,ପ୍ରତିଦ୍ୱନ୍ଦ୍ୱିତା |
+proprietary,0.0,-0.9,ମାଲିକାନା
+impious,0.0,-0.9,ଦୁଷ୍ଟ
+breakup,0.0,-0.9,ବିଚ୍ଛିନ୍ନ
+vibrated,0.0,-0.9,କମ୍ପିତ |
+complaint,0.0,-0.9,ଅଭିଯୋଗ
+monotonous,0.0,-0.9,ଏକଚାଟିଆ |
+wobbles,0.0,-0.9,wobbles
+diffidence,0.0,-0.9,ଭିନ୍ନତା
+hells,0.0,-0.9,ନର୍କ
+prideful,0.0,-0.9,ଗର୍ବୀ
+pretentiously,0.0,-0.9,ସୁନ୍ଦର ଭାବରେ
+explosive,0.0,-0.9,ବିସ୍ଫୋରକ |
+election-rigger,0.0,-0.9,ନିର୍ବାଚନ
+enjoin,0.0,-0.9,ଆଦେଶ ଦିଅ |
+incompatibility,0.0,-0.9,ଅସଙ୍ଗତି
+refuse,0.0,-0.9,ମନା
+unnerving,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+sporadic,0.0,-0.9,sporadic
+irony,0.0,-0.9,ବିଡ଼ମ୍ବନା
+fall,0.0,-0.9,ପତନ
+banishment,0.0,-0.9,ବହିଷ୍କାର
+refusing,0.0,-0.9,ମନା
+disobedience,0.0,-0.9,ଅମାନ୍ୟ
+stupor,0.0,-0.9,ଷ୍ଟୁପର୍ |
+hater,0.0,-0.9,ଘୃଣା
+impenitent,0.0,-0.9,ଅପରାଜିତା |
+retarded,0.0,-0.9,ଅବସରପ୍ରାପ୍ତ
+sillily,0.0,-0.9,ସିଲିଲି
+outburst,0.0,-0.9,ଉତ୍ତେଜନା
+mysteriously,0.0,-0.9,ରହସ୍ୟମୟ ଭାବରେ
+offence,0.0,-0.9,ଅପରାଧ
+comical,0.0,-0.9,ହାସ୍ୟରସ
+gullible,0.0,-0.9,ଗୁଲିବଲ୍ |
+omission,0.0,-0.9,ବାଦ
+enemies,0.0,-0.9,ଶତ୍ରୁ
+racism,0.0,-0.9,ଜାତିଭେଦ
+refutation,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+draining,0.0,-0.9,ନିଷ୍କାସନ
+officious,0.0,-0.9,ଅଫିସିଆଲ୍
+sidetrack,0.0,-0.9,ସାଇଡ୍ରାକ୍
+harassment,0.0,-0.9,ନିର୍ଯ୍ୟାତନା
+stress,0.0,-0.9,ଚାପ
+troubled,0.0,-0.9,ଅସୁବିଧା
+imprecate,0.0,-0.9,ଅନୁପଯୁକ୍ତ
+guile,0.0,-0.9,ପ୍ରତାରଣା
+viciously,0.0,-0.9,ଅତି ଭୟଙ୍କର
+uncompetitive,0.0,-0.9,ଅସମ୍ପୂର୍ଣ୍ଣ
+unsafe,0.0,-0.9,ଅସୁରକ୍ଷିତ
+deficiencies,0.0,-0.9,ଅଭାବ
+improperly,0.0,-0.9,ଭୁଲ ଭାବରେ
+injurious,0.0,-0.9,କ୍ଷତିକାରକ |
+desolately,0.0,-0.9,ନିଛାଟିଆ
+impossibly,0.0,-0.9,ଅସମ୍ଭବ
+leakage,0.0,-0.9,ଲିକେଜ୍
+oppression,0.0,-0.9,ଅତ୍ୟାଚାର
+dissocial,0.0,-0.9,ବିଚ୍ଛିନ୍ନ |
+tamper,0.0,-0.9,ଟାମ୍ପର
+rhapsodize,0.0,-0.9,ରାପ୍ସୋଡାଇଜ୍ |
+impropriety,0.0,-0.9,ଅନୁପଯୁକ୍ତ
+buggy,0.0,-0.9,ବଗି
+controversial,0.0,-0.9,ବିବାଦୀୟ |
+pertinacious,0.0,-0.9,ପ୍ରଯୁଜ୍ୟ
+grieving,0.0,-0.9,ଦୁ ving ଖ
+devastate,0.0,-0.9,ବିନାଶ
+diatribes,0.0,-0.9,diatribes
+bastards,0.0,-0.9,ଜ୍ୟୋତିଷ
+condemnable,0.0,-0.9,ନିନ୍ଦନୀୟ
+disorderly,0.0,-0.9,ବିଶୃଙ୍ଖଳିତ |
+undefined,0.0,-0.9,ଅଜ୍ଞାତ
+wrongly,0.0,-0.9,ଭୁଲ୍
+blasted,0.0,-0.9,ବିସ୍ଫୋରଣ
+reprovingly,0.0,-0.9,ତାଗିଦ୍
+starve,0.0,-0.9,ଭୋକିଲା
+uncollectible,0.0,-0.9,ଅଣସଂଗଠିତ |
+dogmatic,0.0,-0.9,ତତ୍ପରତା |
+trauma,0.0,-0.9,ଆଘାତ
+suspicions,0.0,-0.9,ସନ୍ଦେହ
+implicate,0.0,-0.9,ଜଡିତ
+overstated,0.0,-0.9,ଅତ୍ୟଧିକ
+perplexing,0.0,-0.9,ବିଚଳିତ
+frail,0.0,-0.9,ଦୁର୍ବଳ
+nemesis,0.0,-0.9,ନେମେସିସ୍
+facetiously,0.0,-0.9,ମୁହଁରେ
+bluring,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+dirtbags,0.0,-0.9,ମଇଳା ବ୍ୟାଗ୍
+incongruous,0.0,-0.9,ଅସଙ୍ଗତ |
+squeak,0.0,-0.9,ଚିପିବା |
+boiling,0.0,-0.9,ଫୁଟିବା |
+dictatorial,0.0,-0.9,ଏକଛତ୍ରବାଦୀ ଶାସନ
+rift,0.0,-0.9,rift
+mistrustful,0.0,-0.9,ଅବିଶ୍ୱାସ
+hell-bent,0.0,-0.9,ନର୍କ
+flaking,0.0,-0.9,ଫ୍ଲେକିଂ
+asperse,0.0,-0.9,ଛିଞ୍ଚିଗଲା |
+goad,0.0,-0.9,ଛେଳି
+impasse,0.0,-0.9,ମୃତ ଶେଷ
+doubt,0.0,-0.9,ସନ୍ଦେହ |
+afflict,0.0,-0.9,ଦୁ l ଖ
+complacent,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ |
+arrogant,0.0,-0.9,ଅହଂକାରୀ
+shabby,0.0,-0.9,ଶବ୍ଦ
+denunciation,0.0,-0.9,ନିନ୍ଦା
+occlude,0.0,-0.9,ଅନ୍ତର୍ଭୂକ୍ତ କରନ୍ତୁ |
+bungler,0.0,-0.9,ବଙ୍ଗଲର୍
+deign,0.0,-0.9,ଡିଜାଇନ୍
+exploit,0.0,-0.9,ଶୋଷଣ
+inflame,0.0,-0.9,ପ୍ରଦାହ
+jitters,0.0,-0.9,ଜିତର୍ସ
+wearisome,0.0,-0.9,କ୍ଳାନ୍ତ
+congestion,0.0,-0.9,ଯାତାୟାତ
+ill-defined,0.0,-0.9,ଅସଂଖ୍ୟ
+risks,0.0,-0.9,ବିପଦ
+unproven,0.0,-0.9,ପ୍ରମାଣିତ ନୁହେଁ |
+buzzing,0.0,-0.9,ଗୁଜବ
+contrariness,0.0,-0.9,ପ୍ରତିବାଦ
+disputable,0.0,-0.9,ବିବାଦୀୟ
+dirt,0.0,-0.9,ମଇଳା
+helpless,0.0,-0.9,ଅସହାୟ
+ruined,0.0,-0.9,ନଷ୍ଟ
+downhearted,0.0,-0.9,ହତାଶ
+hastily,0.0,-0.9,ଶୀଘ୍ର
+hazy,0.0,-0.9,ଦୁର୍ବଳ
+impede,0.0,-0.9,ବାଧା
+inefficacious,0.0,-0.9,ଅପାରଗ |
+lowly,0.0,-0.9,ନିମ୍ନ
+rip-off,0.0,-0.9,ରିପ୍-ଅଫ୍ |
+debt,0.0,-0.9,ରୂଣ
+lawless,0.0,-0.9,ଆଇନହୀନ |
+bothering,0.0,-0.9,କଷ୍ଟ ଦେଉଛି
+exagerates,0.0,-0.9,ଅତିରିକ୍ତ
+flagrant,0.0,-0.9,ଖରାପ
+undependable,0.0,-0.9,ନିର୍ଭରଶୀଳ |
+unimaginably,0.0,-0.9,ଅବାଞ୍ଛିତ ଭାବରେ |
+conceited,0.0,-0.9,ଅହଂକାର
+inconstant,0.0,-0.9,ଅସଙ୍ଗତ |
+gangster,0.0,-0.9,ଗ୍ୟାଙ୍ଗଷ୍ଟର
+ambush,0.0,-0.9,ଆକ୍ରମଣ
+disrepute,0.0,-0.9,ଅସମ୍ମାନ
+crude,0.0,-0.9,ଅଶୋଧିତ
+insidiously,0.0,-0.9,ଗୁପ୍ତ ଭାବରେ |
+allergic,0.0,-0.9,ଆଲର୍ଜି
+exorbitantly,0.0,-0.9,ଅତ୍ୟଧିକ ଭାବରେ
+parody,0.0,-0.9,ପାରୋଡି
+sorrow,0.0,-0.9,ଦୁ orrow ଖ
+impersonal,0.0,-0.9,ବ୍ୟକ୍ତିଗତ
+unviewable,0.0,-0.9,ଅଦୃଶ୍ୟ
+misreading,0.0,-0.9,ଭୁଲ୍ ପଠନ
+glaringly,0.0,-0.9,ଚମତ୍କାର ଭାବରେ |
+scoffingly,0.0,-0.9,ପରିହାସ
+incompetently,0.0,-0.9,ଅକ୍ଷମତା |
+aversion,0.0,-0.9,ଘୃଣା
+jerk,0.0,-0.9,ଜର୍କ
+dissonance,0.0,-0.9,ଅସନ୍ତୋଷ |
+faint,0.0,-0.9,ଦୁର୍ବଳ
+entanglement,0.0,-0.9,ଜଡିତ
+iniquity,0.0,-0.9,ଅଧର୍ମ
+bemoaning,0.0,-0.9,ବିଳାପ
+picky,0.0,-0.9,ବାଛି
+disrespectfully,0.0,-0.9,ଅସମ୍ମାନ
+felon,0.0,-0.9,ଅପରାଧୀ
+stumbles,0.0,-0.9,umb ୁଣ୍ଟି ପଡ଼େ |
+ominously,0.0,-0.9,ଅଶୁଭ ଭାବରେ |
+terror,0.0,-0.9,ଆତଙ୍କ
+subservient,0.0,-0.9,ଉପାସକ |
+displeasure,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+drunken,0.0,-0.9,ମଦ୍ୟପ
+grouse,0.0,-0.9,ଗ୍ରେସ୍
+slashing,0.0,-0.9,ସ୍ଲାଶିଂ
+unbearablely,0.0,-0.9,ଅସହ୍ୟ
+savage,0.0,-0.9,ସାଂଘାତିକ
+felonious,0.0,-0.9,ଦୁଷ୍କର୍ମ
+inconsolably,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+undercuts,0.0,-0.9,ଅଣ୍ଡର୍କଟ୍ |
+entrapment,0.0,-0.9,ଏଣ୍ଟ୍ରାପମେଣ୍ଟ |
+indiscriminating,0.0,-0.9,ନିର୍ଦ୍ଦିଷ୍ଟ
+redundant,0.0,-0.9,ଅନାବଶ୍ୟକ |
+destroyer,0.0,-0.9,ବିନାଶକାରୀ |
+sue,0.0,-0.9,ଏହାର
+vague,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+inadvisably,0.0,-0.9,ଅଯଥାରେ |
+siege,0.0,-0.9,ଅବରୋଧ
+critics,0.0,-0.9,ସମାଲୋଚକ
+falling,0.0,-0.9,ପଡିବା
+bashed,0.0,-0.9,ବାସ୍
+overwhelm,0.0,-0.9,ଅତ୍ୟଧିକ
+prick,0.0,-0.9,ପ୍ରିକ୍
+entrap,0.0,-0.9,entrap
+insurmountably,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+over-balanced,0.0,-0.9,ଅତ୍ୟଧିକ ସନ୍ତୁଳିତ |
+discontinuity,0.0,-0.9,ବନ୍ଦ
+remorsefully,0.0,-0.9,ଅନୁତାପ
+sluggish,0.0,-0.9,ଅଳସୁଆ |
+unconvincing,0.0,-0.9,ଅବିଶ୍ୱାସ
+growl,0.0,-0.9,ଗର୍ଜନ
+iniquitous,0.0,-0.9,ଅଧର୍ମ
+quarrelsome,0.0,-0.9,ar ଗଡା
+stab,0.0,-0.9,ଛୁରୀ
+cunts,0.0,-0.9,କୁଣ୍ଟ
+lier,0.0,-0.9,ବାନ୍ଧ |
+denies,0.0,-0.9,ଅସ୍ୱୀକାର କରେ |
+idiotic,0.0,-0.9,ମୂର୍ଖ
+backaching,0.0,-0.9,ବ୍ୟାଚିଂ
+interference,0.0,-0.9,ହସ୍ତକ୍ଷେପ
+sucky,0.0,-0.9,ଭାଗ୍ୟଶାଳୀ
+miscreants,0.0,-0.9,ଦୁଷ୍କର୍ମକାରୀ
+subpoena,0.0,-0.9,ଡାକରା
+avenge,0.0,-0.9,ପ୍ରତିଶୋଧ
+unhelpful,0.0,-0.9,ଅସହଯୋଗୀ |
+damning,0.0,-0.9,ନିନ୍ଦନୀୟ |
+heartbreaker,0.0,-0.9,ହୃଦୟ ବିଦାରକ
+puzzlement,0.0,-0.9,ପଜଲମେଣ୍ଟ |
+bullshyt,0.0,-0.9,ଷଣ୍
+unjust,0.0,-0.9,ଅନ୍ୟାୟ
+fallaciousness,0.0,-0.9,ଖରାପ
+extremism,0.0,-0.9,ଉଗ୍ରବାଦ
+cartoonish,0.0,-0.9,କାର୍ଟୁନିସ୍ |
+mess,0.0,-0.9,ବିଶୃଙ୍ଖଳା |
+apologists,0.0,-0.9,କ୍ଷମା ପ୍ରାର୍ଥନା
+scourge,0.0,-0.9,ଘା ’
+encroachment,0.0,-0.9,ଏନକାଉଣ୍ଟର |
+filthy,0.0,-0.9,ଅଶୁଚି
+ruffle,0.0,-0.9,ରଫଲ୍ |
+crooked,0.0,-0.9,ବଙ୍କା
+disgustedly,0.0,-0.9,ଘୃଣ୍ୟ
+mangle,0.0,-0.9,ନିଖୋଜ
+set-up,0.0,-0.9,ସେଟ୍ ଅପ୍ |
+usurper,0.0,-0.9,usurp
+innuendo,0.0,-0.9,ଅନ୍ତର୍ନିହିତ
+sabotage,0.0,-0.9,sabotage
+discomfit,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+conflicting,0.0,-0.9,ବିବାଦୀୟ |
+crumple,0.0,-0.9,crumple
+oversimplified,0.0,-0.9,ଅତିରିକ୍ତ
+madly,0.0,-0.9,ପାଗଳ
+precipitous,0.0,-0.9,ପ୍ରବଳ
+lovelorn,0.0,-0.9,ପ୍ରେମ
+cripples,0.0,-0.9,ପଙ୍ଗୁ
+beset,0.0,-0.9,beset
+contaminate,0.0,-0.9,ଦୂଷିତ କରନ୍ତୁ |
+darkened,0.0,-0.9,ଅନ୍ଧାର
+downturns,0.0,-0.9,ଅବନତି
+vexing,0.0,-0.9,ଅସନ୍ତୋଷ
+wrong,0.0,-0.9,ଭୁଲ
+pariah,0.0,-0.9,ପାରିଆ
+chaotic,0.0,-0.9,ବିଶୃଙ୍ଖଳା |
+lie,0.0,-0.9,ମିଛ
+grumpily,0.0,-0.9,ଅସନ୍ତୋଷ
+devoid,0.0,-0.9,ନିଷ୍କ୍ରିୟ |
+obsessiveness,0.0,-0.9,ଅବସେସ୍ସିଭ୍ |
+spurn,0.0,-0.9,ଚାହିଦା
+remorseless,0.0,-0.9,ଅନୁତାପ
+insufferably,0.0,-0.9,ଅସମ୍ଭବ ଭାବରେ |
+retreated,0.0,-0.9,ପଛକୁ ଫେରିଗଲା |
+tumble,0.0,-0.9,umble ୁଣ୍ଟିବା |
+mispronounce,0.0,-0.9,ଭୁଲ ଭୁଲ
+negative,0.0,-0.9,ନକାରାତ୍ମକ
+mania,0.0,-0.9,ମାନିଆ
+drought,0.0,-0.9,ମରୁଡ଼ି
+antithetical,0.0,-0.9,ଆଣ୍ଟିଟେଟିକାଲ୍ |
+worriedly,0.0,-0.9,ଚିନ୍ତିତ
+chintzy,0.0,-0.9,chintzy
+pertinacity,0.0,-0.9,ପ୍ରଯୁଜ୍ୟତା |
+screwed-up,0.0,-0.9,ସ୍କ୍ରୁଡ୍ ଅପ୍ |
+banish,0.0,-0.9,ବହିଷ୍କାର କର |
+calamities,0.0,-0.9,ବିପଦ
+jaundiced,0.0,-0.9,ଜଣ୍ଡିସ୍
+inclement,0.0,-0.9,ଅସନ୍ତୋଷ
+weariness,0.0,-0.9,କ୍ଳାନ୍ତି
+crept,0.0,-0.9,କ୍ରିପ୍ଟ
+aborts,0.0,-0.9,ଗର୍ଭପାତ
+collusion,0.0,-0.9,ମିଳନ
+glitch,0.0,-0.9,glitch
+perversity,0.0,-0.9,ବିକୃତି
+blab,0.0,-0.9,ବ୍ଲାବ୍
+decrement,0.0,-0.9,ହ୍ରାସ
+inflexible,0.0,-0.9,ନମନୀୟ
+tarnishing,0.0,-0.9,କ୍ଷତିକାରକ |
+errors,0.0,-0.9,ତ୍ରୁଟି
+hardliners,0.0,-0.9,ହାର୍ଡଲିନର୍
+unhappy,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+gloom,0.0,-0.9,ଅନ୍ଧକାର
+lacks,0.0,-0.9,ଅଭାବ |
+rough,0.0,-0.9,ରୁଗ୍
+ill-used,0.0,-0.9,ଖରାପ ବ୍ୟବହାର
+stringently,0.0,-0.9,କଠୋର ଭାବରେ
+fallacies,0.0,-0.9,ଖରାପ
+debacle,0.0,-0.9,ତ୍ରୁଟି
+nitpick,0.0,-0.9,ନାଇଟପିକ୍ |
+ugliness,0.0,-0.9,ଅଶୁଭତା
+mistrustfully,0.0,-0.9,ଅବିଶ୍ୱାସନୀୟ
+flees,0.0,-0.9,ପଳାୟନ କରେ |
+flickering,0.0,-0.9,ick ଲସି ଉଠୁଛି |
+chide,0.0,-0.9,ଚିଡ୍
+killing,0.0,-0.9,ହତ୍ୟା
+baseless,0.0,-0.9,ଭିତ୍ତିହୀନ |
+breakups,0.0,-0.9,ବ୍ରେକଅପ୍
+dumb,0.0,-0.9,ମୁକ
+humming,0.0,-0.9,humming
+deviation,0.0,-0.9,ବ୍ୟତିକ୍ରମ
+cowardly,0.0,-0.9,ଭୟଭୀତ
+intermittent,0.0,-0.9,ମଧ୍ୟବର୍ତ୍ତୀ
+tyrannical,0.0,-0.9,ଅତ୍ୟାଚାର
+dejected,0.0,-0.9,ନିରାଶ
+refuting,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+toxic,0.0,-0.9,ବିଷାକ୍ତ
+payback,0.0,-0.9,ପରିଶୋଧ
+sickness,0.0,-0.9,ଅସୁସ୍ଥତା
+brutalising,0.0,-0.9,ନିର୍ଦ୍ଦୟ
+insincerity,0.0,-0.9,ଅଜ୍ଞତା |
+setback,0.0,-0.9,ପ୍ରତିବନ୍ଧକ |
+misbecoming,0.0,-0.9,ଭୁଲ୍
+vex,0.0,-0.9,ବ ows େ |
+polarisation,0.0,-0.9,ପୋଲାରାଇଜେସନ୍
+boycott,0.0,-0.9,ବ c ଠକ
+bland,0.0,-0.9,ମଧ୍ୟରେ |
+startling,0.0,-0.9,ଚମତ୍କାର
+diabolical,0.0,-0.9,ମଧୁମେହ
+insult,0.0,-0.9,ଅପମାନ
+delay,0.0,-0.9,ବିଳମ୍ବ
+asinine,0.0,-0.9,ଆସିନାଇନ୍
+disarm,0.0,-0.9,ନିରସ୍ତ୍ରୀକରଣ
+humid,0.0,-0.9,ଆର୍ଦ୍ର
+revulsive,0.0,-0.9,ଘୃଣ୍ୟ
+despondence,0.0,-0.9,ନିରାଶା
+persecution,0.0,-0.9,ନିର୍ଯ୍ୟାତନା
+tawdry,0.0,-0.9,tawdry
+blindside,0.0,-0.9,ଅନ୍ଧ
+doubtfully,0.0,-0.9,ସନ୍ଦେହରେ |
+impolite,0.0,-0.9,ଅପାରଗତା |
+naively,0.0,-0.9,ନିର୍ବୋଧ ଭାବରେ |
+self-interested,0.0,-0.9,ଆତ୍ମ-ଆଗ୍ରହୀ |
+solicitude,0.0,-0.9,ଅନୁରୋଧ
+decrepit,0.0,-0.9,ହ୍ରାସ
+hatefully,0.0,-0.9,ଘୃଣାଭାବରେ
+aground,0.0,-0.9,ଚାରିଆଡେ
+sloooooooooooooow,0.0,-0.9,sloooooooooooooow
+unuseable,0.0,-0.9,ଅବ୍ୟବହୃତ
+venom,0.0,-0.9,ବିଷ
+pretend,0.0,-0.9,ଛଳନା କର |
+torture,0.0,-0.9,ନିର୍ଯାତନା
+pricey,0.0,-0.9,ମୂଲ୍ୟବାନ |
+vomited,0.0,-0.9,ବାନ୍ତି
+exasperated,0.0,-0.9,କ୍ରୋଧିତ |
+brutalizing,0.0,-0.9,ନିର୍ଦ୍ଦୟ
+contaminates,0.0,-0.9,ଦୂଷିତ କରେ |
+tainted,0.0,-0.9,କଳଙ୍କିତ |
+goading,0.0,-0.9,ଯିବା
+insufficiently,0.0,-0.9,ପର୍ଯ୍ୟାପ୍ତ ନୁହେଁ
+leakages,0.0,-0.9,ଲିକେଜ୍
+saggy,0.0,-0.9,saggy
+dies,0.0,-0.9,ଏହା
+unsteadiness,0.0,-0.9,ଅସ୍ଥିରତା |
+incendiary,0.0,-0.9,ଉତ୍ତେଜନା
+mistified,0.0,-0.9,ଭୁଲ୍
+obsess,0.0,-0.9,ଅବସେସ୍ |
+anti-american,0.0,-0.9,ଆମେରିକୀୟ ବିରୋଧୀ |
+destabilisation,0.0,-0.9,ଅସ୍ଥିରତା |
+terribleness,0.0,-0.9,ଭୟଙ୍କରତା
+tired,0.0,-0.9,କ୍ଳାନ୍ତ
+struggling,0.0,-0.9,ସଂଘର୍ଷ କରୁଛି |
+smear,0.0,-0.9,ସ୍ମାରକ
+miscreant,0.0,-0.9,ଦୁଷ୍କର୍ମକାରୀ
+horrid,0.0,-0.9,ଭୟଙ୍କର
+painfull,0.0,-0.9,ଯନ୍ତ୍ରଣାଦାୟକ |
+equivocal,0.0,-0.9,ସମାନ୍ତରାଳ
+trash,0.0,-0.9,ଆବର୍ଜନା
+boring,0.0,-0.9,ବିରକ୍ତିକର |
+depressingly,0.0,-0.9,ଉଦାସୀନ
+repugn,0.0,-0.9,repugn
+delinquency,0.0,-0.9,ଅପରାଧ
+fateful,0.0,-0.9,ଭାଗ୍ୟଶାଳୀ
+dictator,0.0,-0.9,ଏକଛତ୍ରବାଦୀ ଶାସକ
+leech,0.0,-0.9,ଲିକ୍
+harridan,0.0,-0.9,harridan
+perplexed,0.0,-0.9,ବିଚଳିତ
+disintegration,0.0,-0.9,ବିଚ୍ଛିନ୍ନତା
+unmoved,0.0,-0.9,ସ୍ଥାନାନ୍ତରିତ |
+gripe,0.0,-0.9,ସ୍ୱାଇନ୍ ଫ୍ଲୁ
+restless,0.0,-0.9,ଅସ୍ଥିର |
+offending,0.0,-0.9,ଅପମାନଜନକ |
+thrash,0.0,-0.9,ଥ୍ରାସ୍ |
+despotism,0.0,-0.9,ଦେଶପ୍ରେମ
+offensively,0.0,-0.9,ଆପତ୍ତିଜନକ ଭାବରେ |
+damnably,0.0,-0.9,ଅଭିଶାପ
+absurd,0.0,-0.9,ଅବ urd ଧ |
+slur,0.0,-0.9,slur
+impolitic,0.0,-0.9,ଅପାରଗତା |
+unfit,0.0,-0.9,ଅନୁପଯୁକ୍ତ
+vomits,0.0,-0.9,ବାନ୍ତି
+bid-rigging,0.0,-0.9,ବିଡ୍-ରଗିଂ |
+regrets,0.0,-0.9,ଅନୁତାପ
+destitute,0.0,-0.9,ଦରିଦ୍ର
+fool,0.0,-0.9,ମୂର୍ଖ
+misaligns,0.0,-0.9,ଭୁଲ ତଥ୍ୟ
+terrorize,0.0,-0.9,ଆତଙ୍କିତ କର |
+illiterate,0.0,-0.9,ଅଶିକ୍ଷିତ |
+villian,0.0,-0.9,ଭିଲିଆନ୍
+zealous,0.0,-0.9,ଉତ୍ସାହୀ
+sucked,0.0,-0.9,ଶୋଷିଲା |
+despoiler,0.0,-0.9,ଲୁଟେରା
+fanatically,0.0,-0.9,ପ୍ରଶଂସକ ଭାବରେ |
+swagger,0.0,-0.9,swagger
+waste,0.0,-0.9,ବର୍ଜ୍ୟବସ୍ତୁ
+mocks,0.0,-0.9,ପରିହାସ
+scar,0.0,-0.9,ଦାଗ
+provocation,0.0,-0.9,ଉତ୍ତେଜନା
+lascivious,0.0,-0.9,ଲୋଭନୀୟ |
+criticize,0.0,-0.9,ସମାଲୋଚନା କର |
+deplorable,0.0,-0.9,ଦୁ or ଖଦାୟକ
+draconian,0.0,-0.9,ଡ୍ରାକୋନିଆନ୍ |
+insignificantly,0.0,-0.9,ଅମୂଳକ
+traitorous,0.0,-0.9,ଦେଶଦ୍ରୋହୀ
+gibe,0.0,-0.9,ଗତି
+intransigence,0.0,-0.9,ଆନ୍ତରିକତା |
+mystery,0.0,-0.9,ରହସ୍ୟ
+greedy,0.0,-0.9,ଲୋଭୀ
+misdirection,0.0,-0.9,ଭୁଲ୍ ନିର୍ଦ୍ଦେଶ
+grumpish,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+revengefully,0.0,-0.9,ପ୍ରତିଶୋଧପରାୟଣ
+impediment,0.0,-0.9,ପ୍ରତିବନ୍ଧକ
+calamitously,0.0,-0.9,ବିପର୍ଯ୍ୟସ୍ତ ଭାବରେ |
+lose,0.0,-0.9,ହାରିଯାଅ |
+disquietingly,0.0,-0.9,ଅସନ୍ତୋଷ
+murderous,0.0,-0.9,ହତ୍ୟାକାରୀ
+suspiciously,0.0,-0.9,ସନ୍ଦେହରେ |
+twists,0.0,-0.9,ମୋଡ଼
+downfallen,0.0,-0.9,ଖସିବା
+spoon-feed,0.0,-0.9,ଚାମଚ-ଫିଡ୍ |
+haughtily,0.0,-0.9,ଅହଂକାର
+cancer,0.0,-0.9,କର୍କଟ
+sore,0.0,-0.9,ଘା ’
+lament,0.0,-0.9,ବିଳାପ
+blather,0.0,-0.9,ବ୍ଲାଟର୍ |
+foe,0.0,-0.9,ଶତ୍ରୁ
+counterproductive,0.0,-0.9,ପ୍ରତିକ୍ରିୟାଶୀଳ
+lied,0.0,-0.9,ମିଛ
+rollercoaster,0.0,-0.9,ରୋଲର୍ କୋଷ୍ଟର୍
+unfunded,0.0,-0.9,ଅନାବଶ୍ୟକ |
+smack,0.0,-0.9,ସ୍ମାକ୍
+unprepared,0.0,-0.9,ପ୍ରସ୍ତୁତ ନୁହେଁ
+dishonest,0.0,-0.9,ଅସାଧୁ
+extravagantly,0.0,-0.9,ଅତ୍ୟଧିକ ଭାବରେ
+foolhardy,0.0,-0.9,ମୂର୍ଖ
+obstructs,0.0,-0.9,ବାଧା
+divergent,0.0,-0.9,ବିବିଧ
+devilish,0.0,-0.9,ଶୟତାନ
+revolt,0.0,-0.9,ବିଦ୍ରୋହ
+warned,0.0,-0.9,ଚେତାବନୀ
+violator,0.0,-0.9,ଉଲ୍ଲଂଘନକାରୀ |
+pittance,0.0,-0.9,ପିଟାନ୍ସ
+debauchery,0.0,-0.9,ଦୁଷ୍କର୍ମ
+misery,0.0,-0.9,ଦୁ y ଖ
+betray,0.0,-0.9,ବିଶ୍ୱାସଘାତକତା
+impurity,0.0,-0.9,ଅଶୁଦ୍ଧତା
+farcically,0.0,-0.9,ଦୂରରୁ
+stuttering,0.0,-0.9,ut ୁଣ୍ଟିବା
+outsider,0.0,-0.9,ବାହାର ଲୋକ
+monstrosity,0.0,-0.9,ରାକ୍ଷସ
+audacity,0.0,-0.9,ଅଦମ୍ୟତା |
+delusion,0.0,-0.9,ଭ୍ରାନ୍ତି |
+uprising,0.0,-0.9,ବିଦ୍ରୋହ
+overzealously,0.0,-0.9,ଅତ୍ୟଧିକ
+worryingly,0.0,-0.9,ଚିନ୍ତାଜନକ
+dunce,0.0,-0.9,ଦୁନିଆ
+dissappointed,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+intimidatingly,0.0,-0.9,ଭୟଭୀତ
+blotchy,0.0,-0.9,blotchy
+demonizes,0.0,-0.9,ଭୂତ
+heckle,0.0,-0.9,ହେକ୍ଲେ |
+ill-usage,0.0,-0.9,ଖରାପ ବ୍ୟବହାର
+devilishly,0.0,-0.9,ଶୟତାନ
+enemy,0.0,-0.9,ଶତ୍ରୁ
+catastrophies,0.0,-0.9,ବିପର୍ଯ୍ୟୟ |
+bloodthirsty,0.0,-0.9,ରକ୍ତହୀନ
+deform,0.0,-0.9,ବିକଳାଙ୍ଗ
+distrusting,0.0,-0.9,ଅବିଶ୍ୱାସ
+fallaciously,0.0,-0.9,ଖରାପ
+shit,0.0,-0.9,ଚିଟ୍
+ineffectualness,0.0,-0.9,ଅପାରଗତା |
+grapple,0.0,-0.9,ଗ୍ରାପଲ୍ |
+censure,0.0,-0.9,ସେନ୍ସର
+disintegrate,0.0,-0.9,ବିଚ୍ଛିନ୍ନ
+lechery,0.0,-0.9,ଲେଚେରୀ |
+dissatisfactory,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+faithless,0.0,-0.9,ଅବିଶ୍ୱାସୀ
+earsplitting,0.0,-0.9,କାନଫୁଲ
+run-down,0.0,-0.9,ରନ୍-ଡାଉନ୍ |
+bored,0.0,-0.9,ବିରକ୍ତ
+bitter,0.0,-0.9,ତିକ୍ତ
+baffling,0.0,-0.9,ହତାଶ |
+loss,0.0,-0.9,କ୍ଷତି
+alienation,0.0,-0.9,ବିଚ୍ଛିନ୍ନତା
+disable,0.0,-0.9,ଅକ୍ଷମ କରନ୍ତୁ |
+aggrivation,0.0,-0.9,ବୃଦ୍ଧି
+disgruntled,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+flak,0.0,-0.9,ଫ୍ଲାକ୍
+douchbag,0.0,-0.9,ଡଚ୍ ବ୍ୟାଗ୍ |
+egomania,0.0,-0.9,egomania
+anger,0.0,-0.9,କ୍ରୋଧ
+ill-formed,0.0,-0.9,ଅସୁସ୍ଥ
+violate,0.0,-0.9,ଉଲ୍ଲଂଘନ କରନ୍ତୁ |
+funky,0.0,-0.9,କ fun ତୁକିଆ
+noisy,0.0,-0.9,କୋଳାହଳ
+costlier,0.0,-0.9,ମହଙ୍ଗା
+strangle,0.0,-0.9,ଗଳାବାଟ
+unkind,0.0,-0.9,ଦୟାଳୁ
+shortsightedness,0.0,-0.9,ଦୂରଦୃଷ୍ଟି
+twisted,0.0,-0.9,ମୋଡ଼
+feign,0.0,-0.9,feign
+retard,0.0,-0.9,ବିଳମ୍ବ
+seedy,0.0,-0.9,ବୀଜ
+violation,0.0,-0.9,ଉଲ୍ଲଂଘନ |
+whore,0.0,-0.9,ବେଶ୍ୟା
+downgrade,0.0,-0.9,ଡାଉନଗ୍ରେଡ୍
+hurt,0.0,-0.9,ଆଘାତ
+inopportune,0.0,-0.9,ଅପାରଗତା |
+retards,0.0,-0.9,ବିଳମ୍ବ
+clog,0.0,-0.9,କ୍ଲଗ୍
+unavoidably,0.0,-0.9,ଅବଶ୍ୟ
+ridicule,0.0,-0.9,ପରିହାସ
+uncivil,0.0,-0.9,ଅନିଭିଲ୍ |
+quandary,0.0,-0.9,ବିବାଦ
+subjugation,0.0,-0.9,ଅଧୀନତା |
+worthless,0.0,-0.9,ମୂଲ୍ୟହୀନ
+hysterics,0.0,-0.9,ହିଷ୍ଟେରିକ୍ସ
+negation,0.0,-0.9,ଅବନତି
+preposterously,0.0,-0.9,ପୂର୍ବାବଲୋକନ
+relentlessly,0.0,-0.9,ନିରନ୍ତର |
+infected,0.0,-0.9,ସଂକ୍ରମିତ
+stupify,0.0,-0.9,stupify
+incomplete,0.0,-0.9,ଅସମ୍ପୂର୍ଣ୍ଣ
+angrily,0.0,-0.9,କ୍ରୋଧରେ
+diabolic,0.0,-0.9,ମଧୁମେହ
+preposterous,0.0,-0.9,ପ୍ରିପୋଷ୍ଟରସ୍ |
+sermonize,0.0,-0.9,ଉପଦେଶ ଦିଅ |
+awkward,0.0,-0.9,ଅଶୁଭ
+mire,0.0,-0.9,କଣ
+startlingly,0.0,-0.9,ଆଶ୍ଚର୍ଯ୍ୟଜନକ
+sags,0.0,-0.9,କେସ୍
+shirker,0.0,-0.9,ଶିର୍କର୍
+stern,0.0,-0.9,କଠୋର
+troublingly,0.0,-0.9,ଅସୁବିଧାଜନକ
+ineffectively,0.0,-0.9,ପ୍ରଭାବହୀନ
+thicker,0.0,-0.9,ମୋଟା |
+rabid,0.0,-0.9,ରାଗି
+frown,0.0,-0.9,ଭ୍ରାନ୍ତ |
+insufferable,0.0,-0.9,ଅସହଯୋଗୀ |
+bore,0.0,-0.9,ଜନ୍ମ
+inadequacy,0.0,-0.9,ଅପାରଗତା |
+infamous,0.0,-0.9,କୁଖ୍ୟାତ
+dismalness,0.0,-0.9,ଅଶୁଭତା |
+lethargic,0.0,-0.9,ସାଂଘାତିକ |
+wickedness,0.0,-0.9,ଦୁଷ୍ଟତା
+unexplained,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+sag,0.0,-0.9,କେସ୍
+devilry,0.0,-0.9,ଶୟତାନ
+contravene,0.0,-0.9,ପ୍ରତିବାଦ
+disbelieve,0.0,-0.9,ଅବିଶ୍ୱାସ କର
+ambiguity,0.0,-0.9,ଅସ୍ପଷ୍ଟତା |
+weak,0.0,-0.9,ଦୁର୍ବଳ
+oddest,0.0,-0.9,ଅଦ୍ଭୁତ
+peeved,0.0,-0.9,peeved
+perfidity,0.0,-0.9,ସୁଗମତା
+uneconomical,0.0,-0.9,ଅର୍ଥନ ical ତିକ
+hardheaded,0.0,-0.9,କଠିନ
+upsettingly,0.0,-0.9,ଅସନ୍ତୋଷ
+bestial,0.0,-0.9,ବେଷ୍ଟିଆଲ୍ |
+brimstone,0.0,-0.9,ଗନ୍ଧକ
+misconceptions,0.0,-0.9,ଭୁଲ ଧାରଣା
+hang,0.0,-0.9,ଟାଙ୍ଗନ୍ତୁ |
+clumsy,0.0,-0.9,ଅସ୍ପଷ୍ଟ |
+combative,0.0,-0.9,ଯୁଗ୍ମ
+delayed,0.0,-0.9,ବିଳମ୍ବ
+numb,0.0,-0.9,ନିର୍ବୋଧ
+impossiblity,0.0,-0.9,ଅସମ୍ଭବତା |
+snobs,0.0,-0.9,ସ୍ନୋବସ୍ |
+unemployed,0.0,-0.9,ବେକାର
+corrosion,0.0,-0.9,କ୍ଷୟ
+trick,0.0,-0.9,କୌଶଳ
+inexpertly,0.0,-0.9,ଅଜ୍ଞାତରେ |
+acridly,0.0,-0.9,acridly
+uneven,0.0,-0.9,ଅସମାନ
+decline,0.0,-0.9,ହ୍ରାସ
+perverted,0.0,-0.9,ବିକୃତ
+puzzled,0.0,-0.9,ବିସ୍ମିତ |
+ricer,0.0,-0.9,ଅଧିକ ଧନୀ
+sardonically,0.0,-0.9,ଦୁ ard ଖରେ
+loathing,0.0,-0.9,ଘୃଣା
+shocked,0.0,-0.9,ଚକିତ
+enervate,0.0,-0.9,ସଂରକ୍ଷଣ କରନ୍ତୁ |
+intense,0.0,-0.9,ତୀବ୍ର
+incitement,0.0,-0.9,ଉତ୍ତେଜନା
+isolation,0.0,-0.9,ବିଚ୍ଛିନ୍ନତା
+sneak,0.0,-0.9,ଚୋରି
+lethal,0.0,-0.9,ସାଂଘାତିକ |
+untrustworthy,0.0,-0.9,ଅବିଶ୍ୱସନୀୟ
+languorous,0.0,-0.9,କ୍ଳାନ୍ତ
+inflict,0.0,-0.9,ଆଘାତ
+unpleasantries,0.0,-0.9,ଅପ୍ରୀତିକର
+revoke,0.0,-0.9,ପ୍ରତ୍ୟାହାର
+bonkers,0.0,-0.9,bonkers
+erodes,0.0,-0.9,କ୍ଷୟ ହୁଏ |
+unfortunately,0.0,-0.9,ଦୁର୍ଭାଗ୍ୟବଶତ। |
+baffled,0.0,-0.9,ବିସ୍ମିତ
+disprove,0.0,-0.9,ଅସ୍ୱୀକାର କର |
+over-hyped,0.0,-0.9,ଅତ୍ୟଧିକ ହାଇପେଡ୍ |
+rumors,0.0,-0.9,ଗୁଜବ
+scuffs,0.0,-0.9,scuffs
+tout,0.0,-0.9,ସମସ୍ତ
+embroilment,0.0,-0.9,ଭ୍ରୁଣ
+unacceptably,0.0,-0.9,ଗ୍ରହଣଯୋଗ୍ୟ ନୁହେଁ
+grossly,0.0,-0.9,ମୋଟାମୋଟି
+hurting,0.0,-0.9,ଆଘାତ
+debts,0.0,-0.9,ts ଣ
+falter,0.0,-0.9,ଫାଲ୍ଟର୍ |
+futilely,0.0,-0.9,ବୃଥା
+grumble,0.0,-0.9,ଅଭିଯୋଗ
+haze,0.0,-0.9,କୁହୁଡି
+split,0.0,-0.9,ବିଭାଜନ
+irrationally,0.0,-0.9,ଅଯ irr କ୍ତିକ ଭାବରେ |
+creeps,0.0,-0.9,କ୍ରିପ୍
+incorrigible,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+unsettlingly,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+din,0.0,-0.9,ଠାରୁ
+skeptically,0.0,-0.9,ସନ୍ଦେହରେ |
+greasy,0.0,-0.9,ତେଲିଆ
+uproarously,0.0,-0.9,ଉତ୍ତେଜିତ
+detestable,0.0,-0.9,ଘୃଣ୍ୟ
+murky,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+slug,0.0,-0.9,ସ୍ଲଗ୍
+crushing,0.0,-0.9,ଚୂର୍ଣ୍ଣ
+defunct,0.0,-0.9,ତ୍ରୁଟି
+massacres,0.0,-0.9,ହତ୍ୟାକାଣ୍ଡ |
+fever,0.0,-0.9,ଜ୍ୱର
+catastrophes,0.0,-0.9,ବିପର୍ଯ୍ୟୟ |
+disgrace,0.0,-0.9,ଅପମାନ
+pinch,0.0,-0.9,ଚୁନା
+undependability,0.0,-0.9,ନିର୍ଭରଶୀଳତା |
+unresolved,0.0,-0.9,ସମାଧାନ ହୋଇନାହିଁ
+beseech,0.0,-0.9,ବିନତି
+naïve,0.0,-0.9,ନାଭି
+paradoxically,0.0,-0.9,ବିସ୍ମୟକର ଭାବରେ |
+handicapped,0.0,-0.9,ଭିନ୍ନକ୍ଷମ
+tanked,0.0,-0.9,ଟ୍ୟାଙ୍କ ହୋଇଛି |
+tarnish,0.0,-0.9,କଳଙ୍କିତ |
+ugly,0.0,-0.9,ଅସୁନ୍ଦର
+idiotically,0.0,-0.9,ମୂର୍ଖ ଭାବରେ
+warped,0.0,-0.9,ଯୁଦ୍ଧ
+scream,0.0,-0.9,ଚିତ୍କାର
+propaganda,0.0,-0.9,ପ୍ରଚାର
+trap,0.0,-0.9,ଜାଲ
+trivial,0.0,-0.9,ତୁଚ୍ଛ
+indelicate,0.0,-0.9,ଅଜ୍ଞାତ |
+mockingly,0.0,-0.9,ପରିହାସ
+drained,0.0,-0.9,ନିଷ୍କାସିତ
+pettifog,0.0,-0.9,ପେଟିଫୋଗ୍ |
+sin,0.0,-0.9,ବିନା
+inequality,0.0,-0.9,ଅସମାନତା |
+assult,0.0,-0.9,assult
+upset,0.0,-0.9,ବିରକ୍ତ
+overzealous,0.0,-0.9,ଅତ୍ୟଧିକ
+malice,0.0,-0.9,ଦୁଷ୍କର୍ମ
+frustrates,0.0,-0.9,ହତାଶ |
+mediocre,0.0,-0.9,ମଧ୍ୟସ୍ଥ
+dumbfound,0.0,-0.9,ମୂକ
+overwhelmed,0.0,-0.9,ଅଭିଭୂତ
+farcical-yet-provocative,0.0,-0.9,farcical-yet-provocative |
+overtaxed,0.0,-0.9,ଓଭରଟାକ୍ସଡ୍ |
+scornfully,0.0,-0.9,ନିନ୍ଦନୀୟ
+spoilages,0.0,-0.9,ଲୁଣ୍ଠନ
+swipe,0.0,-0.9,ସ୍ୱାଇପ୍ କରନ୍ତୁ |
+intrusion,0.0,-0.9,ଅନୁପ୍ରବେଶ
+barbaric,0.0,-0.9,ବର୍ବର
+manipulation,0.0,-0.9,ମନିପୁଲେସନ୍ |
+wrought,0.0,-0.9,କାମ
+concession,0.0,-0.9,ରିହାତି
+shameful,0.0,-0.9,ଲଜ୍ଜାଜନକ
+imprudent,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+crashed,0.0,-0.9,ଦୁର୍ଘଟଣାଗ୍ରସ୍ତ
+breach,0.0,-0.9,ଉଲ୍ଲଂଘନ
+smelling,0.0,-0.9,ଗନ୍ଧ
+tardy,0.0,-0.9,tardy
+resigned,0.0,-0.9,ଇସ୍ତଫା ଦେଇଛନ୍ତି
+villainously,0.0,-0.9,ଖରାପ
+gripes,0.0,-0.9,ଗ୍ରାଇପ୍
+self-coup,0.0,-0.9,ଆତ୍ମ-ପୁଲୱାମା ଆକ୍ରମଣ |
+cunt,0.0,-0.9,କଣ୍ଟ
+hypocrites,0.0,-0.9,କପଟୀ
+shamelessness,0.0,-0.9,ଲଜ୍ଜା
+ill-treated,0.0,-0.9,ଅସଦାଚରଣ
+extremist,0.0,-0.9,ଉଗ୍ରବାଦୀ
+rubbish,0.0,-0.9,ନିରର୍ଥକ
+alienate,0.0,-0.9,ବିଚ୍ଛିନ୍ନ
+misunderstand,0.0,-0.9,ଭୁଲ ବୁ stand ାମଣା
+disaffected,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+audaciously,0.0,-0.9,ଅହେତୁକ ଭାବରେ
+indignity,0.0,-0.9,କ୍ରୋଧ
+intoxicate,0.0,-0.9,ମଦ୍ୟପାନ
+ill-favored,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+snappishly,0.0,-0.9,ସ୍ନାପିସ୍ଲି |
+fallacious,0.0,-0.9,ଖରାପ
+forsake,0.0,-0.9,ପରିତ୍ୟାଗ କର
+lugubrious,0.0,-0.9,lugubrious
+misgivings,0.0,-0.9,ଭୁଲ୍
+misinform,0.0,-0.9,ଭୁଲ ସୂଚନା
+nonsense,0.0,-0.9,ନିର୍ବୋଧ
+frightfully,0.0,-0.9,ଭୟଭୀତ
+radical,0.0,-0.9,ମ radical ଳିକ
+terribly,0.0,-0.9,ଭୟଙ୍କର
+demonic,0.0,-0.9,ଭୂତ
+vindictively,0.0,-0.9,ପ୍ରତିଶୋଧ ପରାୟଣ |
+embarrassment,0.0,-0.9,ଲଜ୍ଜା
+dimmer,0.0,-0.9,ଅନ୍ଧକାର
+allegation,0.0,-0.9,ଅଭିଯୋଗ
+scratchy,0.0,-0.9,scratchy
+warlike,0.0,-0.9,ଯୁଦ୍ଧ ଭଳି |
+lukewarm,0.0,-0.9,ଉଷ୍ମ
+disavow,0.0,-0.9,ଅସ୍ୱୀକାର
+clouding,0.0,-0.9,ମେଘୁଆ
+encroach,0.0,-0.9,ଏନକାଉଣ୍ଟର |
+exorbitant,0.0,-0.9,ଅତ୍ୟଧିକ
+lecher,0.0,-0.9,ଲିକ୍
+tiresome,0.0,-0.9,କ୍ଳାନ୍ତ
+molest,0.0,-0.9,ନିର୍ଯାତନା
+injudicious,0.0,-0.9,ଅନିଷ୍ଟକାରୀ |
+desperately,0.0,-0.9,ହତାଶ ହୋଇ |
+eyesore,0.0,-0.9,ଆଖିଦୃଶିଆ |
+plaything,0.0,-0.9,ଖେଳିବା
+thumb-down,0.0,-0.9,ଆଙ୍ଗୁଠି-ତଳ |
+frustrate,0.0,-0.9,ନିରାଶ
+remorselessly,0.0,-0.9,ଦୁ orse ଖରେ
+sues,0.0,-0.9,ମକଦ୍ଦମା ଦାୟର
+desolation,0.0,-0.9,ଧ୍ୱଂସ
+tantrum,0.0,-0.9,ଟାଣ୍ଟ୍ରମ୍ |
+delusions,0.0,-0.9,ଭ୍ରାନ୍ତି |
+forceful,0.0,-0.9,ବଳବାନ
+clamorous,0.0,-0.9,ଚିତ୍କାର
+quarrellous,0.0,-0.9,ବିବାଦୀୟ
+refuted,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+tenuously,0.0,-0.9,ଦଶହରା
+accusingly,0.0,-0.9,ଅଭିଯୋଗ
+importunate,0.0,-0.9,ଆମଦାନି କରନ୍ତୁ |
+detesting,0.0,-0.9,ଘୃଣ୍ୟ
+confession,0.0,-0.9,ସ୍ୱୀକାର
+desiccate,0.0,-0.9,ଡେସିକେଟ୍ |
+spookiest,0.0,-0.9,spookiest
+haters,0.0,-0.9,ଘୃଣାକାରୀ
+aggravate,0.0,-0.9,ବୃଦ୍ଧି କର |
+untouched,0.0,-0.9,ଅସ୍ପୃଶ୍ୟ |
+tyrannically,0.0,-0.9,ଅତ୍ୟାଚାର
+bewildering,0.0,-0.9,ବିସ୍ମିତ |
+calumniously,0.0,-0.9,ନିନ୍ଦା
+mercilessly,0.0,-0.9,ନିର୍ଦ୍ଦୟ ଭାବରେ
+disappointments,0.0,-0.9,ନିରାଶା
+disallow,0.0,-0.9,ଅନୁମତି ଦିଅନ୍ତୁ
+attack,0.0,-0.9,ଆକ୍ରମଣ
+adulterier,0.0,-0.9,ବ୍ୟଭିଚାରକାରୀ
+wobble,0.0,-0.9,wobble
+irragularity,0.0,-0.9,ଅନିୟମିତତା |
+ripoff,0.0,-0.9,ରିପଫ୍ |
+wedge,0.0,-0.9,ୱେଜ୍
+contemptuous,0.0,-0.9,ଅବମାନନା
+inevitable,0.0,-0.9,ଅପରିହାର୍ଯ୍ୟ |
+disquietude,0.0,-0.9,ଅଶାନ୍ତି |
+sugarcoated,0.0,-0.9,ଚିନି
+wretchedly,0.0,-0.9,ଦୁର୍ଭାଗ୍ୟବଶତ
+insociable,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+damages,0.0,-0.9,କ୍ଷତି
+pauper,0.0,-0.9,ପପୁର୍ |
+inefficiently,0.0,-0.9,ଅପାରଗ ଭାବରେ |
+scarcely,0.0,-0.9,କ୍ୱଚିତ୍ |
+cataclysmal,0.0,-0.9,cataclysmal
+disastrously,0.0,-0.9,ବିପର୍ଯ୍ୟସ୍ତ
+scoff,0.0,-0.9,ପରିହାସ
+hacks,0.0,-0.9,ହ୍ୟାକ୍ |
+impudently,0.0,-0.9,ଅଜ୍ଞାତ ଭାବରେ |
+bothers,0.0,-0.9,ହଇରାଣ କରେ |
+desertion,0.0,-0.9,ତ୍ୟାଗ
+meager,0.0,-0.9,ଅଳ୍ପ
+inconsequently,0.0,-0.9,ଅପ୍ରତ୍ୟାଶିତ ଭାବରେ |
+detested,0.0,-0.9,ଘୃଣିତ
+selfinterested,0.0,-0.9,ସ୍ୱାର୍ଥପର
+dissed,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+unfaithful,0.0,-0.9,ଅବିଶ୍ୱାସୀ
+falsehood,0.0,-0.9,ମିଥ୍ୟା
+slowly,0.0,-0.9,ଧୀରେ
+backbite,0.0,-0.9,ବ୍ୟାକବାଇଟ୍ |
+dusty,0.0,-0.9,ଧୂଳି
+freezes,0.0,-0.9,ଫ୍ରିଜ୍
+ominous,0.0,-0.9,ଅଶୁଭ
+unskilled,0.0,-0.9,ଅଜ୍ଞ
+unlikely,0.0,-0.9,ସମ୍ଭବ ନୁହେଁ
+sham,0.0,-0.9,ଶ୍ୟାମ
+hiliarious,0.0,-0.9,ବିଭିନ୍ନ ପ୍ରକାରର |
+tangle,0.0,-0.9,ଟାଙ୍ଗଲ୍
+molestation,0.0,-0.9,ନିର୍ଯାତନା
+ill-designed,0.0,-0.9,ଖରାପ ପରିକଳ୍ପିତ |
+undetermined,0.0,-0.9,ନିର୍ଦ୍ଦିଷ୍ଟ |
+caricature,0.0,-0.9,ବ୍ୟଙ୍ଗ
+callous,0.0,-0.9,କଲ୍
+fabricate,0.0,-0.9,ଉତ୍ପାଦିତ |
+bloody,0.0,-0.9,ରକ୍ତାକ୍ତ
+friction,0.0,-0.9,ଘର୍ଷଣ
+lacking,0.0,-0.9,ଅଭାବ |
+unwise,0.0,-0.9,ଅଜ୍ଞାନ
+wreaks,0.0,-0.9,wreaks
+debilitate,0.0,-0.9,ଦୁର୍ବଳତା
+peeve,0.0,-0.9,peeve
+mistakes,0.0,-0.9,ତ୍ରୁଟି
+abominable,0.0,-0.9,ଘୃଣ୍ୟ
+vomit,0.0,-0.9,ବାନ୍ତି
+pervert,0.0,-0.9,ବିକୃତ
+prohibitive,0.0,-0.9,ନିଷେଧ |
+disadvantaged,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+ingratitude,0.0,-0.9,କୃତଜ୍ଞତା
+bait,0.0,-0.9,ଟୋପି
+hallucination,0.0,-0.9,ହାଲୁସିନାସନ୍ |
+oversight,0.0,-0.9,ତଦାରଖ
+so-cal,0.0,-0.9,so-cal
+repetitive,0.0,-0.9,ପୁନରାବୃତ୍ତି
+stale,0.0,-0.9,ତଥାପି
+annoy,0.0,-0.9,ବିରକ୍ତ
+abusive,0.0,-0.9,ଅପମାନ
+bothersome,0.0,-0.9,କଷ୍ଟଦାୟକ
+disheartening,0.0,-0.9,ନିରାଶା
+misbehave,0.0,-0.9,ଅସଦାଚରଣ
+nastily,0.0,-0.9,ନାସ୍ତିରେ |
+unintelligible,0.0,-0.9,ଅଜ୍ଞାତ
+protest,0.0,-0.9,ବିରୋଧ
+careless,0.0,-0.9,ଅସାବଧାନତା |
+infernal,0.0,-0.9,ଅନ୍ତର୍ନିହିତ
+hardened,0.0,-0.9,କଠିନ
+mockery,0.0,-0.9,ଉପହାସ
+insidious,0.0,-0.9,ଗୁପ୍ତ
+cringed,0.0,-0.9,କ୍ରନ୍ଦନ
+disparage,0.0,-0.9,ଭେଦଭାବ
+hotbeds,0.0,-0.9,ହଟ୍ ବେଡ୍ |
+indigent,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+perish,0.0,-0.9,ବିନଷ୍ଟ ହୁଅ
+bereft,0.0,-0.9,bereft
+ridicules,0.0,-0.9,ହାସ୍ୟାସ୍ପଦ
+diabolically,0.0,-0.9,ମଧୁମେହ
+exagerate,0.0,-0.9,ଅତ୍ୟଧିକ
+inefficient,0.0,-0.9,ଅପାରଗ |
+mangles,0.0,-0.9,mangles
+evasive,0.0,-0.9,ପଳାୟନକାରୀ |
+scarred,0.0,-0.9,କ୍ଷତବିକ୍ଷତ |
+commotion,0.0,-0.9,ଉତ୍ତେଜନା |
+fell,0.0,-0.9,ପଡିଲା |
+obliterated,0.0,-0.9,ବିଲୋପ
+oppress,0.0,-0.9,ଅତ୍ୟାଚାର
+craftily,0.0,-0.9,ଚତୁରତାର ସହିତ |
+distorts,0.0,-0.9,ବିକୃତ
+grim,0.0,-0.9,ଦୁ im ଖ
+gruesomely,0.0,-0.9,ଅତି ଭୟଙ୍କର
+hype,0.0,-0.9,ହାଇପ୍ରୋଫାଇଲ୍ |
+dinky,0.0,-0.9,dinky
+senile,0.0,-0.9,ବୃଦ୍ଧ
+unlicensed,0.0,-0.9,ଲାଇସେନ୍ସପ୍ରାପ୍ତ
+vengeful,0.0,-0.9,ପ୍ରତିଶୋଧପରାୟଣ
+ambivalence,0.0,-0.9,ଅସ୍ପଷ୍ଟତା |
+invalidate,0.0,-0.9,ଅବ inv ଧ
+perturb,0.0,-0.9,ବିଚଳିତ |
+jealously,0.0,-0.9,ealous ର୍ଷାପରାୟଣ
+naive,0.0,-0.9,ନିର୍ବୋଧ
+obstructing,0.0,-0.9,ବାଧା
+irreversible,0.0,-0.9,ଅଦଳବଦଳ
+regretful,0.0,-0.9,ଦୁ regret ଖିତ
+exploitation,0.0,-0.9,ଶୋଷଣ
+impertinent,0.0,-0.9,ଅପାରଗ |
+inconsolable,0.0,-0.9,ଅସହ୍ୟ
+incompatability,0.0,-0.9,ଅସଙ୍ଗତି
+warp,0.0,-0.9,warp
+destroy,0.0,-0.9,ବିନାଶ କର |
+affliction,0.0,-0.9,ଦୁ l ଖ
+devastation,0.0,-0.9,ବିନାଶ
+extravagant,0.0,-0.9,ଅପ୍ରତ୍ୟାଶିତ |
+poor,0.0,-0.9,ଗରିବ
+stigmatize,0.0,-0.9,କଳଙ୍କିତ
+risk,0.0,-0.9,ବିପଦ
+rocky,0.0,-0.9,ପଥର
+egotism,0.0,-0.9,ଅହଂକାର
+slanderer,0.0,-0.9,ନିନ୍ଦା
+scowl,0.0,-0.9,scowl
+slumpping,0.0,-0.9,sl ୁଲା
+stumbled,0.0,-0.9,umb ୁଣ୍ଟି ପଡ଼ିଲା |
+devil,0.0,-0.9,ଶୟତାନ
+cutthroat,0.0,-0.9,କଟକ
+defamatory,0.0,-0.9,ବଦନାମ
+remorselessness,0.0,-0.9,ଅନୁତାପ
+meanness,0.0,-0.9,ଅର୍ଥ
+drones,0.0,-0.9,ଡ୍ରୋନ୍
+unworkable,0.0,-0.9,କାର୍ଯ୍ୟକ୍ଷମ ନୁହେଁ
+discomfititure,0.0,-0.9,ଅସନ୍ତୋଷ |
+fulminate,0.0,-0.9,ପୂର୍ଣ୍ଣ
+inattentive,0.0,-0.9,ଅସାବଧାନତା |
+invidiousness,0.0,-0.9,ଅଦୃଶ୍ୟତା |
+shortcomings,0.0,-0.9,ତ୍ରୁଟି
+disapointment,0.0,-0.9,ନିରାଶା
+doomsday,0.0,-0.9,ଶେଷ ଦିନ
+immobilized,0.0,-0.9,ଅସ୍ଥିର
+inconceivable,0.0,-0.9,ଅସମ୍ଭବ
+stressful,0.0,-0.9,ଚାପଗ୍ରସ୍ତ
+uncomfortable,0.0,-0.9,ଅସହଜ |
+drain,0.0,-0.9,ନାଳି
+crippled,0.0,-0.9,ପଙ୍ଗୁ
+futile,0.0,-0.9,ବୃଥା
+panicky,0.0,-0.9,ଭୟଭୀତ |
+accuse,0.0,-0.9,ଅଭିଯୋଗ
+farfetched,0.0,-0.9,ସୁଦୂରପ୍ରସାରୀ
+petrify,0.0,-0.9,ପେଟ୍ରାଇଫ୍ କରନ୍ତୁ |
+morons,0.0,-0.9,ମୋର୍ନ୍ସ
+nervously,0.0,-0.9,ସ୍ nerv ଭାବିକ ଭାବରେ |
+scandalous,0.0,-0.9,ଘୋଟାଲା
+flimflam,0.0,-0.9,flimflam
+corruption,0.0,-0.9,ଦୁର୍ନୀତି
+dirty,0.0,-0.9,ମଇଳା
+outmoded,0.0,-0.9,ବାହାଘର
+unrelenting,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+sub-par,0.0,-0.9,ଉପ-ପାର
+trample,0.0,-0.9,ପଦଦଳିତ
+martyrdom,0.0,-0.9,ଶହୀଦ
+tank,0.0,-0.9,ଟାଙ୍କି |
+outcast,0.0,-0.9,ବହିଷ୍କୃତ
+sadly,0.0,-0.9,ଦୁ sad ଖର ବିଷୟ
+liars,0.0,-0.9,ମିଥ୍ୟାବାଦୀ
+stark,0.0,-0.9,ଶକ୍ତିଶାଳୀ
+rremediable,0.0,-0.9,ମୁକ୍ତ
+latency,0.0,-0.9,ବିଳମ୍ବ
+dissatisfies,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+straggle,0.0,-0.9,ଷ୍ଟ୍ରଗଲ୍
+wrinkle,0.0,-0.9,କୁଞ୍ଚନ
+barbarously,0.0,-0.9,ବର୍ବର ଭାବରେ |
+disastrous,0.0,-0.9,ବିପର୍ଯ୍ୟସ୍ତ
+irretating,0.0,-0.9,irretating
+repudiation,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+weird,0.0,-0.9,ଅଜବ
+woeful,0.0,-0.9,ଦୁ e ଖ
+dissatisfied,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+dissidents,0.0,-0.9,ମତଭେଦ
+fuss,0.0,-0.9,uss ଗଡା |
+doubtful,0.0,-0.9,ସନ୍ଦେହଜନକ |
+expensive,0.0,-0.9,ମହଙ୍ଗା
+flimsy,0.0,-0.9,im ିଟିପିଟି |
+partisan,0.0,-0.9,ଦଳୀୟ
+pest,0.0,-0.9,ପୋକ
+superficially,0.0,-0.9,ଅତିରିକ୍ତ ଭାବରେ |
+rue,0.0,-0.9,ଗଳି
+dogged,0.0,-0.9,କୁକୁର
+impure,0.0,-0.9,ଅଶୁଦ୍ଧ
+culpable,0.0,-0.9,ଦୋଷୀ
+erode,0.0,-0.9,କ୍ଷୟ
+sued,0.0,-0.9,ମକଦ୍ଦମା ଦାୟର କରିଛି
+unauthentic,0.0,-0.9,ଅଯ hentic କ୍ତିକ |
+tingled,0.0,-0.9,ଟାଇଙ୍ଗଲ୍ |
+profanity,0.0,-0.9,ଅପମାନ
+improbably,0.0,-0.9,ଅସମ୍ଭବ
+shortage,0.0,-0.9,ଅଭାବ |
+brashly,0.0,-0.9,ଅତିଶୟ
+apprehensive,0.0,-0.9,ଭୟଭୀତ
+infiltrator,0.0,-0.9,ଅନୁପ୍ରବେଶକାରୀ |
+savages,0.0,-0.9,ସଞ୍ଜୟ
+demonized,0.0,-0.9,ଭୂତ
+incivility,0.0,-0.9,incivility
+tricky,0.0,-0.9,ଚତୁର
+recklessness,0.0,-0.9,ବେପରୁଆ
+ding,0.0,-0.9,ଜିନିଷ
+imperfection,0.0,-0.9,ଅସମ୍ପୂର୍ଣ୍ଣତା |
+cracked,0.0,-0.9,ଫାଟିଗଲା |
+paralize,0.0,-0.9,ପକ୍ଷାଘାତ
+frictions,0.0,-0.9,ଘର୍ଷଣ
+shun,0.0,-0.9,ଦୂରେଇ ରୁହ |
+calumnious,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+cheat,0.0,-0.9,ପ୍ରତାରଣା
+casualty,0.0,-0.9,ଆହତ
+haste,0.0,-0.9,ଶୀଘ୍ର
+little-known,0.0,-0.9,ଅଳ୍ପ ଜଣାଶୁଣା |
+undocumented,0.0,-0.9,ଡକ୍ୟୁମେଣ୍ଟ୍ ହୋଇନାହିଁ |
+grind,0.0,-0.9,ଗ୍ରାଇଣ୍ଡ୍ କରନ୍ତୁ |
+spotty,0.0,-0.9,ଦାଗ
+fret,0.0,-0.9,ଫ୍ରେଟ୍
+miss,0.0,-0.9,ମିସ୍
+tragic,0.0,-0.9,ଦୁ ag ଖଦ
+exasperatingly,0.0,-0.9,ଅତିଶୟ ଭାବରେ
+uneasily,0.0,-0.9,ସହଜରେ |
+strident,0.0,-0.9,strident
+irrecoverablenesses,0.0,-0.9,ପୁନରୁଦ୍ଧାରଯୋଗ୍ୟତା |
+defy,0.0,-0.9,defy
+annoyingly,0.0,-0.9,ବିରକ୍ତିକର
+madder,0.0,-0.9,ସାଣ୍ଡୱିଚ୍ |
+mistrust,0.0,-0.9,ଅବିଶ୍ୱାସ
+selfish,0.0,-0.9,ସ୍ୱାର୍ଥପର
+overwhelming,0.0,-0.9,ଅତ୍ୟଧିକ
+appal,0.0,-0.9,ଆପଲ୍
+cruelest,0.0,-0.9,ନିଷ୍ଠୁର
+penalty,0.0,-0.9,ଦଣ୍ଡ
+crime,0.0,-0.9,ଅପରାଧ
+upseting,0.0,-0.9,ବିବ୍ରତ
+beggar,0.0,-0.9,ଭିକାରୀ
+egotistical,0.0,-0.9,ଅହଂକାର
+languor,0.0,-0.9,କ୍ଳାନ୍ତି
+cumbersome,0.0,-0.9,କଷ୍ଟଦାୟକ
+implausible,0.0,-0.9,ଅସମ୍ଭବ
+quarrel,0.0,-0.9,rel ଗଡା
+unwieldy,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ |
+insanity,0.0,-0.9,ପାଗଳାମି |
+impetuous,0.0,-0.9,ଉତ୍ସାହ
+hurts,0.0,-0.9,ଯନ୍ତ୍ରଣା ଦିଏ |
+clueless,0.0,-0.9,ଅସ୍ପଷ୍ଟ |
+recalcitrant,0.0,-0.9,ପୁନ al ବିଚାର
+wail,0.0,-0.9,କ୍ରନ୍ଦନ କର
+ruffian,0.0,-0.9,ruffian
+decayed,0.0,-0.9,କ୍ଷୟ
+gibberish,0.0,-0.9,ଗିବିରିଶ୍ |
+infuriating,0.0,-0.9,କ୍ରୋଧିତ
+exasperate,0.0,-0.9,ଅତିଶୟ
+totalitarian,0.0,-0.9,ସମୁଦାୟବାଦୀ
+atrocious,0.0,-0.9,ଅତ୍ୟାଚାର
+misrepresent,0.0,-0.9,ଭୁଲ ଉପସ୍ଥାପନା
+hypocritical,0.0,-0.9,କପଟୀ
+ignorant,0.0,-0.9,ଅଜ୍ଞ
+ill-tempered,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+trivialize,0.0,-0.9,ତୁଚ୍ଛ
+depressions,0.0,-0.9,ଉଦାସୀନତା
+barbarity,0.0,-0.9,ବର୍ବରତା
+diametrically,0.0,-0.9,ହୀରାକୁଦ
+disdainfully,0.0,-0.9,ଅପମାନିତ |
+fawningly,0.0,-0.9,ଚତୁରତାର ସହିତ |
+overturn,0.0,-0.9,ଓଲଟପାଲଟ |
+broke,0.0,-0.9,ଭାଙ୍ଗିଗଲା |
+jarring,0.0,-0.9,jarring
+demolisher,0.0,-0.9,ଧ୍ୱଂସକାରୀ
+unreasonable,0.0,-0.9,ଅଯ ason କ୍ତିକ |
+peeled,0.0,-0.9,ଚୋପା
+shatter,0.0,-0.9,ଭାଙ୍ଗି ଦିଅ |
+static,0.0,-0.9,ସ୍ଥିର
+junky,0.0,-0.9,ଜଙ୍କି
+apathy,0.0,-0.9,ଉଦାସୀନତା
+sweaty,0.0,-0.9,aty ାଳ
+discordant,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ |
+abominate,0.0,-0.9,ଘୃଣ୍ୟ
+disorient,0.0,-0.9,ବିଭ୍ରାନ୍ତିକର |
+eccentric,0.0,-0.9,ବିଚିତ୍ର
+hazard,0.0,-0.9,ସଙ୍କଟ
+intimidate,0.0,-0.9,ଭୟଭୀତ କର |
+slut,0.0,-0.9,ଅନ୍ତିମ
+distraught,0.0,-0.9,ବିବ୍ରତ
+unsettling,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+reproachful,0.0,-0.9,ଅପମାନଜନକ
+crashes,0.0,-0.9,ଦୁର୍ଘଟଣା
+finicky,0.0,-0.9,ଚତୁର
+coarse,0.0,-0.9,କଠିନ
+fatty,0.0,-0.9,ଚର୍ବି
+unaccustomed,0.0,-0.9,ଅଭ୍ୟସ୍ତ
+sour,0.0,-0.9,ଖଟା
+lemon,0.0,-0.9,ଲେମ୍ବୁ |
+misinterpret,0.0,-0.9,ଭୁଲ ବ୍ୟାଖ୍ୟା
+sinfully,0.0,-0.9,ପାପପୂର୍ଣ୍ଣ ଭାବରେ
+difficulties,0.0,-0.9,ଅସୁବିଧା
+exhaustion,0.0,-0.9,କ୍ଲାନ୍ତ
+inefficacy,0.0,-0.9,ଅପାରଗତା |
+snarky,0.0,-0.9,ଅଶୁଭ
+dastard,0.0,-0.9,ଡଷ୍ଟାର୍ଡ |
+humiliating,0.0,-0.9,ଅପମାନଜନକ
+perplex,0.0,-0.9,ବିଚଳିତ
+disaccord,0.0,-0.9,disaccord
+oversights,0.0,-0.9,ତଦାରଖ
+anxiously,0.0,-0.9,ଚିନ୍ତିତ
+wallow,0.0,-0.9,କାନ୍ଥ
+matte,0.0,-0.9,ମ୍ୟାଟ୍
+concern,0.0,-0.9,ଚିନ୍ତା
+blurring,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+culprit,0.0,-0.9,ଦୋଷୀ
+stupidly,0.0,-0.9,ମୂର୍ଖ
+contort,0.0,-0.9,କଣ୍ଟର୍ଟ |
+erroneously,0.0,-0.9,ଭୁଲ ଭାବରେ
+sloww,0.0,-0.9,ଧୀର
+pitiable,0.0,-0.9,ଦୁ .ଖଦାୟକ
+inimically,0.0,-0.9,ଅନ୍ତ im କରଣରେ
+lonesome,0.0,-0.9,ଏକାକୀ
+gutter,0.0,-0.9,ପୁଅମାନେ
+recession,0.0,-0.9,ବିମୁଦ୍ରାକରଣ |
+unfairly,0.0,-0.9,ଅନ୍ୟାୟ
+indiscriminate,0.0,-0.9,ନିର୍ଦ୍ଦିଷ୍ଟ
+acrimoniously,0.0,-0.9,ଅତିଶୟ ଭାବରେ |
+inflammatory,0.0,-0.9,ପ୍ରଦାହ
+undermining,0.0,-0.9,ଦୁର୍ବଳ କରିବା |
+disturbing,0.0,-0.9,ବିଚଳିତ
+pitifully,0.0,-0.9,ଦୟାଳୁ
+faults,0.0,-0.9,ତ୍ରୁଟି
+neurotic,0.0,-0.9,ସ୍ନାୟୁଗତ
+shortcoming,0.0,-0.9,ଅଭାବ
+protested,0.0,-0.9,ବିରୋଧ କରିଥିଲେ
+burned,0.0,-0.9,ଜଳିଗଲା |
+sack,0.0,-0.9,ଅଖା
+unlucky,0.0,-0.9,ଭାଗ୍ୟଶାଳୀ
+yawn,0.0,-0.9,yawn
+assassinate,0.0,-0.9,ହତ୍ୟା
+marginally,0.0,-0.9,ସାମାନ୍ୟ
+clash,0.0,-0.9,ସଂଘର୍ଷ |
+chaff,0.0,-0.9,ଚାଉଳ |
+scars,0.0,-0.9,ଦାଗ
+whimper,0.0,-0.9,ଚିତ୍କାର
+pleas,0.0,-0.9,ନିବେଦନ
+loud,0.0,-0.9,ଉଚ୍ଚ ସ୍ୱରରେ
+freaking,0.0,-0.9,ଫ୍ରେକିଙ୍ଗ୍
+fibber,0.0,-0.9,ଫାଇବର |
+downfall,0.0,-0.9,ପତନ
+castigate,0.0,-0.9,ଜିତିଲା |
+hypocrisy,0.0,-0.9,କପଟୀ
+dehumanization,0.0,-0.9,ମାନବିକତା
+protracted,0.0,-0.9,ଦୀର୍ଘ
+seriousness,0.0,-0.9,ଗମ୍ଭୀରତା
+gross,0.0,-0.9,ମୋଟ
+coldly,0.0,-0.9,ଥଣ୍ଡା
+dumped,0.0,-0.9,ଡମ୍ପିଂ
+smoldering,0.0,-0.9,ଗନ୍ଧ
+villains,0.0,-0.9,ଭିଲେନ୍
+blur,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+deploring,0.0,-0.9,ଦୁ oring ଖ
+unwisely,0.0,-0.9,ଅଜ୍ଞାନ ଭାବରେ |
+disagreeable,0.0,-0.9,ସହମତ ନୁହେଁ
+dishonesty,0.0,-0.9,ଅସାଧୁତା |
+distract,0.0,-0.9,ବିଭ୍ରାନ୍ତ କର |
+foreboding,0.0,-0.9,ଫୋରବୋଡିଂ |
+genocide,0.0,-0.9,ଜାତିସଂଘ
+wild,0.0,-0.9,ଜଙ୍ଗଲୀ
+condescending,0.0,-0.9,ଅବନତି
+d*mn,0.0,-0.9,d * mn
+hating,0.0,-0.9,ଘୃଣା
+disconsolation,0.0,-0.9,ବିଚ୍ଛିନ୍ନତା |
+unusual,0.0,-0.9,ଅସାମାନ୍ୟ
+whips,0.0,-0.9,ଚାବୁକ
+stall,0.0,-0.9,ଷ୍ଟଲ୍
+unforgiving,0.0,-0.9,କ୍ଷମାକାରୀ |
+unscrupulous,0.0,-0.9,ଅସାଧୁ
+deformed,0.0,-0.9,ବିକଳାଙ୍ଗ
+indignantly,0.0,-0.9,କ୍ରୋଧରେ
+belittle,0.0,-0.9,ତୁଚ୍ଛ
+untested,0.0,-0.9,ପରୀକ୍ଷିତ ନୁହେଁ |
+unimaginable,0.0,-0.9,କଳ୍ପନାଯୋଗ୍ୟ |
+stiff,0.0,-0.9,କଠିନ
+zap,0.0,-0.9,zap
+laggy,0.0,-0.9,ଅଳସୁଆ |
+lapsed,0.0,-0.9,ପିଲାମାନେ
+subtract,0.0,-0.9,ବିତରଣ
+vice,0.0,-0.9,ଉପାଧ୍ୟକ୍ଷ
+extinguish,0.0,-0.9,ଲିଭାଇବା
+unhappily,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+anarchistic,0.0,-0.9,ଅରାଜକତା |
+bruising,0.0,-0.9,ଘା ’
+ironies,0.0,-0.9,ବିଡମ୍ବନା |
+exile,0.0,-0.9,ନିର୍ବାସନ
+fat,0.0,-0.9,ଚର୍ବି |
+stagnant,0.0,-0.9,ସ୍ଥିର
+thoughtlessness,0.0,-0.9,ଚିନ୍ତାହୀନତା |
+dissuade,0.0,-0.9,ତ୍ୟାଗ
+senselessly,0.0,-0.9,ଅଜ୍ଞାନ ଭାବରେ |
+obstinate,0.0,-0.9,ଜିଦ୍ଖୋର |
+inaccurate,0.0,-0.9,ଭୁଲ
+poorly,0.0,-0.9,ଖରାପ
+execrate,0.0,-0.9,ଏକଜେକ୍ୟୁଟ୍ କରନ୍ତୁ
+confined,0.0,-0.9,ସୀମିତ
+over-awe,0.0,-0.9,ଅତ୍ୟଧିକ ଭୟ
+lacked,0.0,-0.9,ଅଭାବ |
+stridently,0.0,-0.9,ଦୃ id ଭାବରେ
+unnoticed,0.0,-0.9,ଅଜ୍ଞାତ |
+dissension,0.0,-0.9,ମତଭେଦ
+ghosting,0.0,-0.9,ଭୂତ
+freakish,0.0,-0.9,freakish
+insinuate,0.0,-0.9,insinuate
+irritated,0.0,-0.9,ବିରକ୍ତ
+uneventful,0.0,-0.9,ଅସୁରକ୍ଷିତ
+insinuation,0.0,-0.9,ଇନସାଇନ୍ସନ୍
+grouch,0.0,-0.9,ଗ୍ରୁଚ୍
+parasite,0.0,-0.9,ପରଜୀବୀ
+imprecise,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+nonexistent,0.0,-0.9,ନାହିଁ
+overweight,0.0,-0.9,ଅଧିକ ଓଜନ
+spank,0.0,-0.9,ସ୍ପଙ୍କ
+mudslinging,0.0,-0.9,କାଦୁଅ
+avarice,0.0,-0.9,ଆଭାରିସ୍ |
+disagreed,0.0,-0.9,ଏଥିରେ ସହମତ ନୁହଁନ୍ତି
+garbage,0.0,-0.9,ଅଳିଆ
+fallen,0.0,-0.9,ପତିତ
+fatal,0.0,-0.9,ସାଂଘାତିକ
+isolate,0.0,-0.9,ଅଲଗା କର |
+overbalanced,0.0,-0.9,ଅତ୍ୟଧିକ ସନ୍ତୁଳିତ |
+inadverently,0.0,-0.9,ଅଜାଣତରେ |
+irrationality,0.0,-0.9,ଅଯ irr କ୍ତିକତା |
+backwoods,0.0,-0.9,ପଛପଟ
+implausibly,0.0,-0.9,ଅସମ୍ଭବ
+unobserved,0.0,-0.9,ଅଣସଂରକ୍ଷିତ |
+petty,0.0,-0.9,କ୍ଷୁଦ୍ର
+obscurity,0.0,-0.9,ଅନ୍ଧକାର
+slack,0.0,-0.9,ଅଳସୁଆ |
+decry,0.0,-0.9,decry
+loathsome,0.0,-0.9,ଘୃଣ୍ୟ
+overlook,0.0,-0.9,ଅଣଦେଖା |
+whining,0.0,-0.9,ଚିତ୍କାର
+qualm,0.0,-0.9,ଧୂଆଁ
+desultory,0.0,-0.9,desultory
+froze,0.0,-0.9,ଫ୍ରୀଜ୍
+bug,0.0,-0.9,ତ୍ରୁଟି
+dishearteningly,0.0,-0.9,ହତାଶ
+inaptitude,0.0,-0.9,ଅକ୍ଷମତା
+insular,0.0,-0.9,ଇନସୁଲାର୍ |
+leer,0.0,-0.9,ପ read ଼ନ୍ତୁ |
+discrimination,0.0,-0.9,ଭେଦଭାବ
+objections,0.0,-0.9,ଆପତ୍ତି
+exasperation,0.0,-0.9,ବହିଷ୍କାର
+sorrowfully,0.0,-0.9,ଦୁ orrow ଖରେ
+unsustainable,0.0,-0.9,ଅସ୍ଥାୟୀ
+incautious,0.0,-0.9,ଅସୁରକ୍ଷିତ
+judder,0.0,-0.9,ବିଚାରକ
+divisiveness,0.0,-0.9,ବିଭେଦ
+subjection,0.0,-0.9,ଅଧୀନତା |
+bizarre,0.0,-0.9,ବିଚିତ୍ର
+scariest,0.0,-0.9,ଭୟାନକ
+uncontrolled,0.0,-0.9,ଅନିୟନ୍ତ୍ରିତ |
+virulence,0.0,-0.9,virulence
+fictional,0.0,-0.9,କାଳ୍ପନିକ
+detracted,0.0,-0.9,ବିଚ୍ଛିନ୍ନ
+watered-down,0.0,-0.9,ଜଳସେଚନ
+betraying,0.0,-0.9,ବିଶ୍ୱାସଘାତକତା
+embarrass,0.0,-0.9,ଲଜ୍ଜାଜନକ |
+grisly,0.0,-0.9,ଦୁ is ଖରେ
+hissed,0.0,-0.9,ହସିଦେଲା |
+invalidity,0.0,-0.9,ଅବ alid ଧତା |
+paranoid,0.0,-0.9,ପରାନୋଇଡ୍ |
+fierce,0.0,-0.9,ଭୟଙ୍କର
+discourteously,0.0,-0.9,ଚତୁରତାର ସହିତ |
+dismayed,0.0,-0.9,ହତାଶ
+disappoints,0.0,-0.9,ନିରାଶ
+dumps,0.0,-0.9,ଡମ୍ପିଂ
+coercion,0.0,-0.9,ବାଧ୍ୟବାଧକତା |
+fist,0.0,-0.9,ଠେଙ୍ଗା
+inconsequentially,0.0,-0.9,ଅସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ |
+indiscreetly,0.0,-0.9,ଅଜ୍ଞାତରେ |
+pandemonium,0.0,-0.9,ପାଣ୍ଡେମୋନିୟମ୍ |
+uninsured,0.0,-0.9,ଅସୁରକ୍ଷିତ
+prickles,0.0,-0.9,ପ୍ରିକଲ୍ସ |
+prejudicial,0.0,-0.9,ପ୍ରାଧାନ୍ୟ
+antipathy,0.0,-0.9,ଆଣ୍ଟିପାଥି
+blurt,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+cuplrit,0.0,-0.9,କପଲ୍ରିଟ୍ |
+extermination,0.0,-0.9,ବିନାଶ
+indeterminate,0.0,-0.9,ଅନିର୍ଦ୍ଦିଷ୍ଟ |
+mushy,0.0,-0.9,ମୂଷା
+overzelous,0.0,-0.9,ଅତ୍ୟଧିକ
+hack,0.0,-0.9,ହ୍ୟାକ୍
+flout,0.0,-0.9,flout
+demoralizing,0.0,-0.9,ବିମୁଦ୍ରୀକରଣ |
+expel,0.0,-0.9,ବହିଷ୍କାର
+calamitous,0.0,-0.9,ବିପର୍ଯ୍ୟସ୍ତ
+radically,0.0,-0.9,ମୂଳତ। |
+barbarically,0.0,-0.9,ବର୍ବର ଭାବରେ |
+aggrieved,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+leaks,0.0,-0.9,ଲିକ୍
+err,0.0,-0.9,ତ୍ରୁଟି
+shoddy,0.0,-0.9,ଖରାପ
+infidel,0.0,-0.9,ଅବିଶ୍ୱାସୀ |
+unlawfulness,0.0,-0.9,ଅବ law ଧତା |
+defiant,0.0,-0.9,ନିନ୍ଦନୀୟ |
+nightmarish,0.0,-0.9,ରାତାରାତି
+presumptuous,0.0,-0.9,ଅହଂକାରୀ
+underpaid,0.0,-0.9,ଅଳ୍ପ ବେତନ |
+creaks,0.0,-0.9,କ୍ରିକ୍ସ
+infuriatingly,0.0,-0.9,କ୍ରୋଧିତ
+pointless,0.0,-0.9,ଅର୍ଥହୀନ |
+standstill,0.0,-0.9,ସ୍ଥିର
+itch,0.0,-0.9,କୁଞ୍ଚନ
+bumped,0.0,-0.9,ବାଡେଇଲା |
+moribund,0.0,-0.9,moribund
+fidget,0.0,-0.9,ଫିଜେଟ୍ |
+detestably,0.0,-0.9,ଘୃଣ୍ୟ
+haunt,0.0,-0.9,ହଣ୍ଟ
+invidiously,0.0,-0.9,ଅଜ୍ଞାତ ଭାବରେ |
+nebulous,0.0,-0.9,ନିବୁଲସ୍
+infamously,0.0,-0.9,କୁଖ୍ୟାତ
+rage,0.0,-0.9,ରାଗ
+gossip,0.0,-0.9,ଗପସପ
+threats,0.0,-0.9,ଧମକ
+invective,0.0,-0.9,ନିଷ୍କ୍ରିୟ
+randomly,0.0,-0.9,ଅନିୟମିତତା |
+debase,0.0,-0.9,ଖରାପ
+flounder,0.0,-0.9,ଫ୍ଲାଉଣ୍ଡର |
+incorrect,0.0,-0.9,ଭୁଲ
+indecisively,0.0,-0.9,ଅନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ |
+blind,0.0,-0.9,ଅନ୍ଧ
+leak,0.0,-0.9,ଲିକ୍
+burdensome,0.0,-0.9,ଭାରୀ
+partiality,0.0,-0.9,ଆଂଶିକତା
+unruly,0.0,-0.9,ଅନିୟମିତତା |
+aborted,0.0,-0.9,ପରିତ୍ୟାଗ
+discordance,0.0,-0.9,ମେଳ ଖାଉ ନାହିଁ |
+unorthodoxy,0.0,-0.9,ଅଣଓଡ଼ିଆ
+uncouth,0.0,-0.9,unouth
+ironically,0.0,-0.9,ବିଡମ୍ବନାର ବିଷୟ |
+distaste,0.0,-0.9,ବିଚଳିତ |
+interruption,0.0,-0.9,ବାଧା
+bugging,0.0,-0.9,ବଗିଙ୍ଗ୍
+belated,0.0,-0.9,belated
+incoherently,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ ଭାବରେ |
+imperfect,0.0,-0.9,ଅସମ୍ପୂର୍ଣ୍ଣ
+breaks,0.0,-0.9,ବ୍ରେକ୍
+accidental,0.0,-0.9,ଆକସ୍ମିକ
+losers,0.0,-0.9,ହାରିଥିବା
+geezer,0.0,-0.9,ଜିଜର୍
+debasement,0.0,-0.9,ତ୍ୟାଗ
+disorganized,0.0,-0.9,ଅସଂଗଠିତ |
+effrontery,0.0,-0.9,ଇଫ୍ରୋନେରୀ
+doldrums,0.0,-0.9,ଡଲଡ୍ରମ୍ସ |
+unsophisticated,0.0,-0.9,ଅତ୍ୟାଧୁନିକ |
+perfunctory,0.0,-0.9,ସୁଗନ୍ଧିତ
+incoherent,0.0,-0.9,ଅସଙ୍ଗତ
+shamefulness,0.0,-0.9,ଲଜ୍ଜାଜନକ
+dying,0.0,-0.9,ମରୁଥିବା
+revolting,0.0,-0.9,ବିଦ୍ରୋହ
+misjudge,0.0,-0.9,ଭୁଲ ବିଚାର
+mislead,0.0,-0.9,ବିଭ୍ରାନ୍ତ କର |
+predicament,0.0,-0.9,ଅସୁବିଧା
+strict,0.0,-0.9,କଡା
+gimmicked,0.0,-0.9,gimmicked
+tarnished,0.0,-0.9,କଳଙ୍କିତ |
+inexpiable,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+nosey,0.0,-0.9,ନାସି
+snob,0.0,-0.9,ସ୍ନୋବ୍ |
+mysterious,0.0,-0.9,ରହସ୍ୟମୟ
+detrimental,0.0,-0.9,କ୍ଷତିକାରକ |
+syndrome,0.0,-0.9,ସିଣ୍ଡ୍ରୋମ |
+dragoon,0.0,-0.9,ଡ୍ରାଗନ୍ |
+bitterness,0.0,-0.9,ତିକ୍ତତା
+contrived,0.0,-0.9,ସଂକଳ୍ପିତ |
+ignorance,0.0,-0.9,ଅଜ୍ଞତା
+bulkyness,0.0,-0.9,ବହୁଳତା |
+toil,0.0,-0.9,ପରିଶ୍ରମ
+resentful,0.0,-0.9,ବିରକ୍ତ
+vagueness,0.0,-0.9,ଅସ୍ପଷ୍ଟତା |
+confess,0.0,-0.9,ସ୍ୱୀକାର କର |
+trouble,0.0,-0.9,ଅସୁବିଧା
+oppressors,0.0,-0.9,ଦଳିତ
+volatile,0.0,-0.9,ଅସ୍ଥିର |
+harden,0.0,-0.9,କଠିନ କର |
+stuck,0.0,-0.9,ଅଟକି ଯାଇଛି |
+upbraid,0.0,-0.9,ଅପବ୍ରିଡ୍ |
+discontinued,0.0,-0.9,ବନ୍ଦ
+complained,0.0,-0.9,ଅଭିଯୋଗ କରିଛନ୍ତି
+plea,0.0,-0.9,ନିବେଦନ
+tumbled,0.0,-0.9,umb ୁଣ୍ଟିଗଲା |
+confrontation,0.0,-0.9,ମୁହାଁମୁହିଁ |
+sting,0.0,-0.9,ଷ୍ଟିଙ୍ଗ୍ |
+scared,0.0,-0.9,ଭୟଭିତ
+incite,0.0,-0.9,ଉତ୍ତେଜିତ କର
+excuse,0.0,-0.9,ବାହାନା
+abominably,0.0,-0.9,ଘୃଣ୍ୟ
+adamant,0.0,-0.9,ଜିଦ୍
+lurch,0.0,-0.9,lurch
+douchebag,0.0,-0.9,ଡାଉଚବ୍ୟାଗ୍ |
+cataclysm,0.0,-0.9,cataclysm
+liar,0.0,-0.9,ବନ୍ୟପ୍ରାଣୀ
+abruptly,0.0,-0.9,ହଠାତ୍
+bedlam,0.0,-0.9,ବେଡଲାମ |
+disagrees,0.0,-0.9,ଏଥିରେ ସହମତ ନୁହଁନ୍ତି
+unreliable,0.0,-0.9,ଅବିଶ୍ୱସନୀୟ
+abrupt,0.0,-0.9,ଆକସ୍ମିକ
+flicker,0.0,-0.9,ick ଲକ
+insecure,0.0,-0.9,ଅସୁରକ୍ଷିତ
+ineffectual,0.0,-0.9,ପ୍ରଭାବହୀନ |
+inadequate,0.0,-0.9,ଅନୁପଯୁକ୍ତ |
+isolated,0.0,-0.9,ବିଚ୍ଛିନ୍ନ
+imposers,0.0,-0.9,imposers
+stumble,0.0,-0.9,umble ୁଣ୍ଟିବା |
+condescendingly,0.0,-0.9,ଅବନତି
+droops,0.0,-0.9,ଡ୍ରପ୍
+enmity,0.0,-0.9,ଶତ୍ରୁତା
+entangle,0.0,-0.9,ଜଡିତ
+violently,0.0,-0.9,ହିଂସାତ୍ମକ ଭାବରେ
+insensitivity,0.0,-0.9,ସମ୍ବେଦନଶୀଳତା
+undissolved,0.0,-0.9,ଅବିଭାଜିତ |
+unleash,0.0,-0.9,ଉନ୍ମୋଚନ
+unsteady,0.0,-0.9,ଅସ୍ଥିର |
+backbiting,0.0,-0.9,ବ୍ୟାକବିଟିଂ |
+blackmail,0.0,-0.9,ବ୍ଲାକମେଲ୍ |
+shriek,0.0,-0.9,ଚିତ୍କାର
+perversion,0.0,-0.9,ବିକୃତି
+repulsiveness,0.0,-0.9,ଘୃଣ୍ୟ
+grumpy,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+uneasiness,0.0,-0.9,ଅଶାନ୍ତି |
+plasticky,0.0,-0.9,ପ୍ଲାଷ୍ଟିକ୍
+sanctimonious,0.0,-0.9,ପବିତ୍ର
+smutty,0.0,-0.9,smutty
+fooled,0.0,-0.9,ବୋକା
+impoverished,0.0,-0.9,ଦରିଦ୍ର
+pricier,0.0,-0.9,pricier
+spoonfed,0.0,-0.9,ଚାମଚ
+hefty,0.0,-0.9,ପ୍ରବଳ
+licentious,0.0,-0.9,ଲାଇସେନ୍ସ
+disunity,0.0,-0.9,ମତଭେଦ
+unsuspecting,0.0,-0.9,ଅସୁରକ୍ଷିତ
+malcontent,0.0,-0.9,ମାଲକଣ୍ଟେଣ୍ଟ |
+throbs,0.0,-0.9,ଗଳା
+vociferous,0.0,-0.9,ଉଚ୍ଚାରଣ
+dissenter,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+unacceptable,0.0,-0.9,ଗ୍ରହଣୀୟ ନୁହେଁ
+indecorum,0.0,-0.9,ଭୁଲ
+sinisterly,0.0,-0.9,ଦୁଷ୍କର୍ମ
+hogs,0.0,-0.9,ହଗ୍
+disadvantage,0.0,-0.9,ଅସୁବିଧା
+beleaguer,0.0,-0.9,beleaguer
+cannibalize,0.0,-0.9,କେନିବାଲାଇଜ୍ |
+harassed,0.0,-0.9,ହଇରାଣ ହରକତ |
+pale,0.0,-0.9,ଫିକା
+infest,0.0,-0.9,infest
+erroneous,0.0,-0.9,ଭୁଲ
+overdue,0.0,-0.9,ସମୟସୀମା
+squeal,0.0,-0.9,ଚିତ୍କାର
+sloppy,0.0,-0.9,ସ୍ଲିପି
+expunge,0.0,-0.9,ବହିଷ୍କାର
+feeble,0.0,-0.9,ଦୁର୍ବଳ
+imperiously,0.0,-0.9,ଅପରାଜିତା |
+negligent,0.0,-0.9,ଅବହେଳା
+unreasonably,0.0,-0.9,ଅଯ ason କ୍ତିକ ଭାବରେ |
+repulsed,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+inflated,0.0,-0.9,ଫୁଲିଲା
+stupidity,0.0,-0.9,ମୂର୍ଖତା
+beastly,0.0,-0.9,ପଶୁ
+anti-israeli,0.0,-0.9,ଇସ୍ରାଏଲ ବିରୋଧୀ |
+seething,0.0,-0.9,କିଛି
+frustrating,0.0,-0.9,ନିରାଶାଜନକ |
+sedentary,0.0,-0.9,ବସିବା
+cons,0.0,-0.9,ଖରାପ
+cheats,0.0,-0.9,ଠକ
+imbecile,0.0,-0.9,imbecile
+sullen,0.0,-0.9,ଦୁ ull ଖ
+unexpectedly,0.0,-0.9,ଅପ୍ରତ୍ୟାଶିତ ଭାବରେ |
+crap,0.0,-0.9,ଖରାପ
+drastically,0.0,-0.9,ଅତ୍ୟଧିକ ଭାବରେ
+hostility,0.0,-0.9,ଶତ୍ରୁତା |
+nervousness,0.0,-0.9,ସ୍ନାୟୁ
+obscene,0.0,-0.9,ଅଶ୍ଳୀଳ
+defrauding,0.0,-0.9,ପ୍ରତାରଣା
+bankrupt,0.0,-0.9,ଦେବାଳିଆ
+fearful,0.0,-0.9,ଭୟଭୀତ
+indeterminably,0.0,-0.9,ଅନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ |
+nauseates,0.0,-0.9,ବାନ୍ତି
+imperialist,0.0,-0.9,ସାମ୍ରାଜ୍ୟବାଦୀ
+pernicious,0.0,-0.9,କ୍ଷତିକାରକ |
+feeblely,0.0,-0.9,ଦୁର୍ବଳ
+inexpert,0.0,-0.9,ଅଜ୍ଞ
+invalid,0.0,-0.9,ଅବ alid ଧ |
+cronyism,0.0,-0.9,କ୍ରୋନିଜିମ୍ |
+bickering,0.0,-0.9,ବିବାଦ
+obsessively,0.0,-0.9,ଅବସେସ୍ସିଭ୍ |
+resistance,0.0,-0.9,ପ୍ରତିରୋଧ
+concen,0.0,-0.9,concen
+reprimand,0.0,-0.9,ଭର୍ତ୍ସନା |
+subjugate,0.0,-0.9,ଅଧୀନ କର |
+taunt,0.0,-0.9,ଅପମାନ
+lunaticism,0.0,-0.9,lunaticism
+fraught,0.0,-0.9,ଭ୍ରାନ୍ତ
+nepotism,0.0,-0.9,ଆତ୍ମୀୟତା
+obstructed,0.0,-0.9,ବାଧାପ୍ରାପ୍ତ
+damaging,0.0,-0.9,କ୍ଷତିକାରକ |
+overreach,0.0,-0.9,ଅତ୍ୟଧିକ ପରିଶ୍ରମ
+incognizant,0.0,-0.9,ଗୁପ୍ତ
+outbursts,0.0,-0.9,ଉତ୍ତେଜନା
+loses,0.0,-0.9,ହାରିଯାଏ |
+extravagance,0.0,-0.9,ଅପାରଗତା |
+distraction,0.0,-0.9,ବିଭ୍ରାଟ |
+horrifies,0.0,-0.9,ଭୟ
+impotent,0.0,-0.9,ଶକ୍ତିହୀନ
+undone,0.0,-0.9,ପୂର୍ବବତ୍
+distorted,0.0,-0.9,ବିକୃତ
+byzantine,0.0,-0.9,ବାଇଜାଣ୍ଟାଇନ୍
+rogue,0.0,-0.9,ଦୁର୍ବୃତ୍ତ
+unaccessible,0.0,-0.9,ଅସମ୍ଭବ
+touts,0.0,-0.9,touts
+worries,0.0,-0.9,ଚିନ୍ତା
+bitingly,0.0,-0.9,କଟୁ
+disinterest,0.0,-0.9,ଅସନ୍ତୋଷ |
+inconsiderate,0.0,-0.9,ଅବହେଳିତ |
+unwillingness,0.0,-0.9,ଅନିଚ୍ଛା |
+time-consuming,0.0,-0.9,ସମୟ ଗ୍ରାସକାରୀ
+preoccupy,0.0,-0.9,ପ୍ରାଧାନ୍ୟ
+hooligan,0.0,-0.9,ହୁଲିଗାନ୍
+catastrophic,0.0,-0.9,ବିପର୍ଯ୍ୟୟ |
+shortness,0.0,-0.9,କ୍ଷୁଦ୍ରତା
+aghast,0.0,-0.9,aghast
+abomination,0.0,-0.9,ଘୃଣ୍ୟ
+butcher,0.0,-0.9,ବୁଟର୍
+loopholes,0.0,-0.9,ଲୁପ୍
+elimination,0.0,-0.9,ବିଲୋପ
+corruptted,0.0,-0.9,ଦୁର୍ନୀତିଗ୍ରସ୍ତ
+depressed,0.0,-0.9,ଉଦାସ
+hard-hit,0.0,-0.9,ହାର୍ଡ-ହିଟ୍ |
+brutal,0.0,-0.9,ନିର୍ଦ୍ଦୟ
+worrisome,0.0,-0.9,ଚିନ୍ତାଜନକ |
+frantic,0.0,-0.9,ରୋମାଞ୍ଚକର |
+rumple,0.0,-0.9,rumple
+grievous,0.0,-0.9,ଦୁ iev ଖଦାୟକ
+flair,0.0,-0.9,flair
+limited,0.0,-0.9,ସୀମିତ |
+displaced,0.0,-0.9,ବିସ୍ଥାପିତ
+vomiting,0.0,-0.9,ବାନ୍ତି
+long-time,0.0,-0.9,ବହୁତ୍ ସମୟ
+over-valuation,0.0,-0.9,ଅତ୍ୟଧିକ ମୂଲ୍ୟ
+unnaturally,0.0,-0.9,ଅପ୍ରାକୃତିକ ଭାବରେ |
+wary,0.0,-0.9,ସତର୍କ ରୁହନ୍ତୁ |
+unproductive,0.0,-0.9,ଅଣ-ଉତ୍ପାଦକ
+worsening,0.0,-0.9,ଖରାପ ହେବା
+bewail,0.0,-0.9,କ୍ରନ୍ଦନ କର
+trickery,0.0,-0.9,ଚତୁରତା
+bemoan,0.0,-0.9,ବିଳାପ
+harbors,0.0,-0.9,ବନ୍ଦର
+bump,0.0,-0.9,ump ୁଣ୍ଟିବା |
+aweful,0.0,-0.9,ଭୟଭୀତ
+exterminate,0.0,-0.9,ବିନାଶ
+incapably,0.0,-0.9,ଅସମର୍ଥ
+insulted,0.0,-0.9,ଅପମାନିତ
+odd,0.0,-0.9,ଅଦ୍ଭୁତ
+noisier,0.0,-0.9,କୋଳାହଳ
+wanton,0.0,-0.9,ୱାଟନ୍
+stalemate,0.0,-0.9,ଅସ୍ଥିର
+shark,0.0,-0.9,ସାର୍କ
+interruptions,0.0,-0.9,ବାଧା
+achey,0.0,-0.9,ଯନ୍ତ୍ରଣା
+damage,0.0,-0.9,କ୍ଷତି
+obstacle,0.0,-0.9,ବାଧା
+slaughter,0.0,-0.9,ହତ୍ୟା
+disrupt,0.0,-0.9,ବ୍ୟାଘାତ
+involuntarily,0.0,-0.9,ଅନିଚ୍ଛାକୃତ ଭାବରେ |
+rancor,0.0,-0.9,ତିକ୍ତତା
+allergies,0.0,-0.9,ଆଲର୍ଜି
+passiveness,0.0,-0.9,ନିଷ୍କ୍ରିୟତା
+hard-line,0.0,-0.9,ହାର୍ଡ-ଲାଇନ
+stormy,0.0,-0.9,y ଡ
+worst,0.0,-0.9,ସବୁଠାରୁ ଖରାପ
+opinionated,0.0,-0.9,ମତାମତ
+foul,0.0,-0.9,ଖରାପ
+furor,0.0,-0.9,କ୍ରୋଧ
+malign,0.0,-0.9,କୁପ୍ରଭାବ
+miserableness,0.0,-0.9,ଦୁ iser ଖ
+doom,0.0,-0.9,ବିନାଶ
+sober,0.0,-0.9,ସାବଧାନ
+deplete,0.0,-0.9,ବିଲୋପ
+carelessness,0.0,-0.9,ଅସାବଧାନତା |
+disordered,0.0,-0.9,ବିଶୃଙ୍ଖଳିତ |
+skittish,0.0,-0.9,ସ୍କିଟିସ୍ |
+tepid,0.0,-0.9,ଟେପିଡ୍ |
+unneeded,0.0,-0.9,ଅନାବଶ୍ୟକ |
+decay,0.0,-0.9,କ୍ଷୟ
+inconvenience,0.0,-0.9,ଅସୁବିଧା
+lagged,0.0,-0.9,ପଛରେ ପଡିଛି |
+irrelevance,0.0,-0.9,ଅପ୍ରାସଙ୍ଗିକତା
+leaky,0.0,-0.9,ଲିକ୍
+swollen,0.0,-0.9,ଫୁଲି
+belittling,0.0,-0.9,ଅସମ୍ମାନ
+downsides,0.0,-0.9,ଡାଉନସାଇଡ୍ |
+objection,0.0,-0.9,ଆପତ୍ତି
+livid,0.0,-0.9,ଉଜ୍ଜ୍ୱଳ
+pugnaciously,0.0,-0.9,pugnaciously
+brute,0.0,-0.9,ନିଷ୍ଠୁର
+disconcert,0.0,-0.9,ଅସନ୍ତୋଷ
+smuttier,0.0,-0.9,smuttier
+repugnance,0.0,-0.9,ଘୃଣ୍ୟତା
+slow,0.0,-0.9,ଧୀର
+accusing,0.0,-0.9,ଅଭିଯୋଗ
+belabor,0.0,-0.9,belabor
+hampered,0.0,-0.9,ବାଧାପ୍ରାପ୍ତ
+disrespectfulness,0.0,-0.9,ଅସମ୍ମାନ
+travesty,0.0,-0.9,ଭ୍ରମଣକାରୀ
+sneer,0.0,-0.9,ନିନ୍ଦା
+spoon-fed,0.0,-0.9,ଚାମଚ-ଖାଇବାକୁ |
+frets,0.0,-0.9,ଫ୍ରେଟ୍
+uncompromisingly,0.0,-0.9,ଆପୋଷ ବୁ .ାମଣା |
+unhappiness,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+worried,0.0,-0.9,ଚିନ୍ତିତ
+creaking,0.0,-0.9,କ୍ରିକ୍
+clogged,0.0,-0.9,ବନ୍ଦ
+racy,0.0,-0.9,racy
+jam,0.0,-0.9,ଘଣ୍ଟା
+ultimatums,0.0,-0.9,ଅଲ୍ଟିମାଟମ୍ |
+deluge,0.0,-0.9,ବନ୍ୟା
+unappealing,0.0,-0.9,ଅପ୍ରୀତିକର |
+freak,0.0,-0.9,ଫ୍ରକ୍
+misgiving,0.0,-0.9,ଭୁଲ୍
+vengefully,0.0,-0.9,ପ୍ରତିଶୋଧପରାୟଣ
+scant,0.0,-0.9,କମ୍
+coercive,0.0,-0.9,ବାଧ୍ୟତାମୂଳକ
+famine,0.0,-0.9,ଦୁର୍ଭିକ୍ଷ
+manipulate,0.0,-0.9,ମନିପ୍ୟୁଲେଟ୍ କରନ୍ତୁ |
+dropouts,0.0,-0.9,ଡ୍ରପଆଉଟ୍
+cynical,0.0,-0.9,ନିନ୍ଦନୀୟ |
+poorest,0.0,-0.9,ଗରିବ
+procrastinates,0.0,-0.9,ବିଳମ୍ବ
+rape,0.0,-0.9,ବଳାତ୍କାର
+wickedly,0.0,-0.9,ଦୁଷ୍ଟ
+misuse,0.0,-0.9,ଅପବ୍ୟବହାର |
+feverish,0.0,-0.9,ଜ୍ୱର
+disbelief,0.0,-0.9,ଅବିଶ୍ୱାସ
+deadbeat,0.0,-0.9,ଡେଡବିଟ୍ |
+babble,0.0,-0.9,ବାବୁ
+sourly,0.0,-0.9,ଦୁ ly ଖରେ
+ragged,0.0,-0.9,ଚିରାଚରିତ |
+incomprehensible,0.0,-0.9,ବୁ rehens ାମଣା
+forbid,0.0,-0.9,ନିଷେଧ |
+pales,0.0,-0.9,ପାଲ୍
+desperation,0.0,-0.9,ନିରାଶା
+clogs,0.0,-0.9,ଜମାଟ ବାନ୍ଧିବା |
+fiasco,0.0,-0.9,fiasco
+worrier,0.0,-0.9,ଚିନ୍ତା
+calumniation,0.0,-0.9,ଗଣନା
+irks,0.0,-0.9,irks
+knotted,0.0,-0.9,ଗଣ୍ଠି
+rattle,0.0,-0.9,ଗର୍ଜନ
+vehemently,0.0,-0.9,ଅତିଶୟ
+eccentricity,0.0,-0.9,ବିଚିତ୍ରତା
+betrays,0.0,-0.9,ବିଶ୍ୱାସଘାତକତା
+starkly,0.0,-0.9,ଦୃ ark ଭାବରେ
+niggles,0.0,-0.9,ନିଗଲ୍ସ |
+annoys,0.0,-0.9,ବିରକ୍ତ
+abscond,0.0,-0.9,ପଳାତକ
+overthrow,0.0,-0.9,ଉଚ୍ଛେଦ
+mudslinger,0.0,-0.9,କାଦୁଅ
+non-confidence,0.0,-0.9,ଆତ୍ମବିଶ୍ୱାସ
+tenuous,0.0,-0.9,ଦଶହରା
+fleeing,0.0,-0.9,ପଳାୟନ
+traumatically,0.0,-0.9,ଆଘାତଜନକ
+underestimate,0.0,-0.9,ଅବମାନନା କରନ୍ତୁ |
+funny,0.0,-0.9,ମଜାଳିଆ
+insane,0.0,-0.9,ପାଗଳ |
+intolerable,0.0,-0.9,ଅସହିଷ୍ଣୁ |
+troubling,0.0,-0.9,ଅସୁବିଧାଜନକ
+occluding,0.0,-0.9,ଅନ୍ତର୍ଭୁକ୍ତ
+sunder,0.0,-0.9,ସୁନ୍ଦର
+inexperienced,0.0,-0.9,ଅନଭିଜ୍ଞ |
+maltreatment,0.0,-0.9,ଅସଦାଚରଣ
+crumples,0.0,-0.9,ଖଣ୍ଡ ଖଣ୍ଡ |
+revulsion,0.0,-0.9,ପ୍ରତ୍ୟାହାର
+deterrent,0.0,-0.9,ପ୍ରତିରୋଧ
+defect,0.0,-0.9,ତ୍ରୁଟି
+wasting,0.0,-0.9,ଅପଚୟ |
+cannibal,0.0,-0.9,କ୍ୟାନିବଲ୍ |
+traumatic,0.0,-0.9,ଆଘାତଜନକ
+smells,0.0,-0.9,ଗନ୍ଧ
+apocalyptic,0.0,-0.9,ଆପୋକ୍ଲିପଟିକ୍ |
+demoralize,0.0,-0.9,ବିମୁଦ୍ରୀକରଣ
+drains,0.0,-0.9,ଡ୍ରେନ୍
+lost,0.0,-0.9,ହଜିଯାଇଛି |
+hopeless,0.0,-0.9,ନିରାଶା
+imminence,0.0,-0.9,ନିକଟତର
+spooky,0.0,-0.9,spoky
+allergy,0.0,-0.9,ଆଲର୍ଜି
+defective,0.0,-0.9,ତ୍ରୁଟିଯୁକ୍ତ
+lunatic,0.0,-0.9,lunatic
+intolerance,0.0,-0.9,ଅସହିଷ୍ଣୁତା |
+ploy,0.0,-0.9,ଷଡଯନ୍ତ୍ର
+tortures,0.0,-0.9,ନିର୍ଯାତନା
+cramped,0.0,-0.9,ସଂକୀର୍ଣ୍ଣ |
+disappointing,0.0,-0.9,ନିରାଶାଜନକ |
+horrible,0.0,-0.9,ଭୟଙ୍କର
+disabled,0.0,-0.9,ଅକ୍ଷମ
+hysterically,0.0,-0.9,ହଷ୍ଟେରିକ୍
+divisive,0.0,-0.9,ବିଭାଜନକାରୀ |
+indecency,0.0,-0.9,ଅଶ୍ଳୀଳତା
+confessions,0.0,-0.9,ସ୍ୱୀକାର
+floored,0.0,-0.9,ଚଟାଣ
+hesitant,0.0,-0.9,ଦ୍ୱିଧା
+dissention,0.0,-0.9,ମତଭେଦ
+infuriated,0.0,-0.9,କ୍ରୋଧିତ
+blistering,0.0,-0.9,ଫୁଲିବା
+rusty,0.0,-0.9,କଳଙ୍କିତ |
+delaying,0.0,-0.9,ବିଳମ୍ବ
+sardonic,0.0,-0.9,ସର୍ଡୋନିକ୍ |
+taxing,0.0,-0.9,ଟିକସ
+debility,0.0,-0.9,ଦୁର୍ବଳତା |
+rant,0.0,-0.9,rant
+prik,0.0,-0.9,ପ୍ରିକ୍
+inexorable,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+undecided,0.0,-0.9,ନିଷ୍ପତ୍ତି
+worry,0.0,-0.9,ଚିନ୍ତା କର |
+anarchy,0.0,-0.9,ଅରାଜକତା |
+confrontational,0.0,-0.9,ମୁହାଁମୁହିଁ |
+nightmarishly,0.0,-0.9,ରାତାରାତି
+flare,0.0,-0.9,ଜ୍ୱଳନ୍ତ
+badly,0.0,-0.9,ଖରାପ
+denounce,0.0,-0.9,ନିନ୍ଦା
+dilapidated,0.0,-0.9,ଜରାଜୀର୍ଣ୍ଣ
+disturbed,0.0,-0.9,ବିଚଳିତ
+finagle,0.0,-0.9,finagle
+mists,0.0,-0.9,କୁହୁଡି
+salacious,0.0,-0.9,ସାଲାସିୟସ୍ |
+tease,0.0,-0.9,ଚିଡ଼େଇବା
+concens,0.0,-0.9,ସମ୍ମତି
+doomed,0.0,-0.9,ନିପାତ
+eruptions,0.0,-0.9,ଉଦ୍ଗୀରଣ
+halfhearted,0.0,-0.9,ହୃଦୟ
+liable,0.0,-0.9,ଦାୟୀ |
+rigid,0.0,-0.9,କଠିନ
+slap,0.0,-0.9,ଚାପୁଡ଼ା
+interfere,0.0,-0.9,ହସ୍ତକ୍ଷେପ କରନ୍ତୁ |
+unpredictable,0.0,-0.9,ଅପ୍ରତ୍ୟାଶିତ
+crafty,0.0,-0.9,ଚତୁର
+aggressiveness,0.0,-0.9,ଆକ୍ରମଣାତ୍ମକତା |
+grainy,0.0,-0.9,ଶସ୍ୟ
+irreplacible,0.0,-0.9,ଅପୂରଣୀୟ
+struggle,0.0,-0.9,ସଂଘର୍ଷ
+unforeseen,0.0,-0.9,ଅପ୍ରତ୍ୟାଶିତ |
+arduous,0.0,-0.9,କଷ୍ଟଦାୟକ
+slowwww,0.0,-0.9,ମନ୍ଥର
+erratically,0.0,-0.9,ଭୁଲ ଭାବରେ
+fascist,0.0,-0.9,ଫାସିଷ୍ଟ |
+antagonism,0.0,-0.9,ବିରୋଧୀ
+frantically,0.0,-0.9,କ୍ରୋଧିତ ଭାବରେ |
+giddy,0.0,-0.9,ଗିଡି
+irreconcilable,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+oppressively,0.0,-0.9,ଅତ୍ୟାଚାର
+slump,0.0,-0.9,ump ୁଲା
+thorny,0.0,-0.9,କଣ୍ଟା
+disadvantageous,0.0,-0.9,ଅସୁବିଧା
+concessions,0.0,-0.9,ରିହାତି
+malicious,0.0,-0.9,ଦୁଷ୍ଟ
+acrimonious,0.0,-0.9,ତୀବ୍ର
+simplistically,0.0,-0.9,ସରଳ ଭାବରେ
+irretrievable,0.0,-0.9,ଅପୂରଣୀୟ
+mendacity,0.0,-0.9,mendacity
+paltry,0.0,-0.9,ପାଲ୍ଟ୍ରି |
+unresponsive,0.0,-0.9,ପ୍ରତିକ୍ରିୟାଶୀଳ |
+glare,0.0,-0.9,ଚମକ
+laughable,0.0,-0.9,ହସିବା
+pimple,0.0,-0.9,ପିମ୍ପଲ୍ |
+throbbing,0.0,-0.9,ଥ୍ରୋବିଙ୍ଗ୍ |
+irrationals,0.0,-0.9,ଅଯ irr କ୍ତିକ |
+horrendously,0.0,-0.9,ଭୟଙ୍କର ଭାବରେ
+dread,0.0,-0.9,ଭୟ
+usurp,0.0,-0.9,usurp
+ugliest,0.0,-0.9,ଅଶୁଭ
+abused,0.0,-0.9,ଦୁର୍ବ୍ୟବହାର
+problem,0.0,-0.9,ସମସ୍ୟା
+zealot,0.0,-0.9,ଉତ୍ସାହ
+denied,0.0,-0.9,ଅସ୍ୱୀକାର
+ingrate,0.0,-0.9,କୃତଜ୍ଞ
+nastiness,0.0,-0.9,ନାସ୍ତି
+brusque,0.0,-0.9,ହଠାତ୍
+discontentedly,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+spoilage,0.0,-0.9,ନଷ୍ଟ
+flareups,0.0,-0.9,ଜ୍ୱଳନ୍ତ
+unravel,0.0,-0.9,ଖୋଲନ୍ତୁ
+2-faced,0.0,-0.9,2-ମୁହଁ |
+testily,0.0,-0.9,ପରୀକ୍ଷଣରେ |
+stooges,0.0,-0.9,stooges
+ignominiously,0.0,-0.9,ଅପମାନଜନକ |
+restricted,0.0,-0.9,ପ୍ରତିବନ୍ଧିତ |
+grimace,0.0,-0.9,ଦୁ im ଖ
+battered,0.0,-0.9,ପ୍ରହାର
+forgetfully,0.0,-0.9,ଭୁଲିଯାଅ
+disparaging,0.0,-0.9,ଅପମାନଜନକ |
+bashful,0.0,-0.9,ଲଜ୍ଜାଜନକ |
+phobia,0.0,-0.9,ଫୋବିୟା |
+ravage,0.0,-0.9,ବିପଦ
+ruining,0.0,-0.9,ନଷ୍ଟ
+puppet,0.0,-0.9,କୁକୁର
+abort,0.0,-0.9,ଗର୍ଭପାତ
+shipwreck,0.0,-0.9,ଜାହାଜ ଭାଙ୍ଗି
+furious,0.0,-0.9,କ୍ରୋଧିତ
+snappish,0.0,-0.9,ସ୍ନାପିସ୍ |
+disregardful,0.0,-0.9,ଅବହେଳା
+expulse,0.0,-0.9,ବାଧ୍ୟ
+ludicrously,0.0,-0.9,ludicrously
+audacious,0.0,-0.9,ଶବ୍ଦ
+fickle,0.0,-0.9,ଚତୁର
+assail,0.0,-0.9,ଆକ୍ରମଣ
+incongruously,0.0,-0.9,ଅସଙ୍ଗତ ଭାବରେ |
+bleakly,0.0,-0.9,ଦୁର୍ବଳ ଭାବରେ |
+quack,0.0,-0.9,quack
+incompliant,0.0,-0.9,ଅସମ୍ପୂର୍ଣ୍ଣ
+idiot,0.0,-0.9,ମୂର୍ଖ
+detriment,0.0,-0.9,କ୍ଷତିକାରକ |
+overpayed,0.0,-0.9,ଅଧିକ ଦେୟ
+credulous,0.0,-0.9,ବିଶ୍ୱାସନୀୟ
+irritant,0.0,-0.9,ବିରକ୍ତ
+overemphasize,0.0,-0.9,overemphasize
+ruinous,0.0,-0.9,ବିନାଶକାରୀ
+scratch,0.0,-0.9,scratch
+instability,0.0,-0.9,ଅସ୍ଥିରତା |
+cautionary,0.0,-0.9,ସତର୍କତା
+mawkish,0.0,-0.9,mawkish
+discouragement,0.0,-0.9,ନିରାଶା
+inelegance,0.0,-0.9,ଅବହେଳା |
+job-killing,0.0,-0.9,ଚାକିରି ହତ୍ୟା
+panic,0.0,-0.9,ଆତଙ୍କ
+uncomfortably,0.0,-0.9,ଅସହଜ
+grating,0.0,-0.9,ଗ୍ରେଟିଂ
+lurid,0.0,-0.9,lurid
+disservice,0.0,-0.9,ଅସନ୍ତୋଷ |
+picket,0.0,-0.9,ପିକେଟ୍
+evil,0.0,-0.9,ମନ୍ଦ
+fucking,0.0,-0.9,fucking
+impudent,0.0,-0.9,ଅଜ୍ଞ
+irritate,0.0,-0.9,ବିରକ୍ତ କର |
+unsound,0.0,-0.9,ଅସୁରକ୍ଷିତ |
+dilly-dally,0.0,-0.9,dilly-dally
+fearsome,0.0,-0.9,ଭୟଭୀତ
+tyranny,0.0,-0.9,ଅତ୍ୟାଚାର
+impending,0.0,-0.9,ଆସୁଥିବା
+unable,0.0,-0.9,ଅସମର୍ଥ
+left-leaning,0.0,-0.9,ବାମପନ୍ଥୀ
+slowed,0.0,-0.9,ଧୀର
+douchebags,0.0,-0.9,ଡାଉଚବ୍ୟାଗ୍ |
+enslave,0.0,-0.9,ଦାସ
+pokey,0.0,-0.9,ପୋକି
+morbidly,0.0,-0.9,ଅସୁସ୍ଥ
+rhetoric,0.0,-0.9,ବାକ୍ୟ
+drop-outs,0.0,-0.9,ଡ୍ରପ୍ ଆଉଟ୍
+irreformable,0.0,-0.9,ଅପୂରଣୀୟ
+multi-polarization,0.0,-0.9,ମଲ୍ଟି ପୋଲାରାଇଜେସନ୍ |
+naughty,0.0,-0.9,ଦୁଷ୍ଟ
+scarcity,0.0,-0.9,ଅଭାବ
+restrictive,0.0,-0.9,ପ୍ରତିବନ୍ଧକ |
+deter,0.0,-0.9,ପ୍ରତିରୋଧ
+severe,0.0,-0.9,ଗମ୍ଭୀର
+needless,0.0,-0.9,ଅନାବଶ୍ୟକ |
+altercation,0.0,-0.9,ter ଗଡା
+suspect,0.0,-0.9,ସନ୍ଦିଗ୍ଧ
+torturously,0.0,-0.9,ନିର୍ଯାତନା
+inaccuracies,0.0,-0.9,ଭୁଲ
+lawbreaking,0.0,-0.9,ଆଇନ ଉଲ୍ଲଂଘନ
+rigidity,0.0,-0.9,ଦୃ id ତା
+catastrophe,0.0,-0.9,ବିପର୍ଯ୍ୟୟ |
+sagged,0.0,-0.9,ସାଗ୍
+muscle-flexing,0.0,-0.9,ମାଂସପେଶୀ-ନମନୀୟ |
+indiscernible,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+indignation,0.0,-0.9,କ୍ରୋଧ
+bash,0.0,-0.9,ବାଶ୍
+die-hard,0.0,-0.9,ମର-କଠିନ
+virulent,0.0,-0.9,କୁମାରୀ
+weaker,0.0,-0.9,ଦୁର୍ବଳ |
+dismal,0.0,-0.9,ଅଶୁଭ |
+steeply,0.0,-0.9,ଦୃ ep ଭାବରେ
+ranting,0.0,-0.9,ଚିତ୍କାର
+brutalities,0.0,-0.9,ଅତ୍ୟାଚାର
+egregiously,0.0,-0.9,ଯଥାକ୍ରମେ
+licentiousness,0.0,-0.9,ଲାଇସେନ୍ସ
+muddle,0.0,-0.9,କାଦୁଅ
+oddity,0.0,-0.9,ଅଦ୍ଭୁତତା |
+deplore,0.0,-0.9,ଦୁ ore ଖ
+resignation,0.0,-0.9,ଇସ୍ତଫା
+sucks,0.0,-0.9,ଶୋଷେ |
+illogic,0.0,-0.9,ଅଯ og କ୍ତିକ |
+hegemonistic,0.0,-0.9,ହେଗୋମୋନିଷ୍ଟିକ୍ |
+deaf,0.0,-0.9,ବଧିର
+ridiculous,0.0,-0.9,ହାସ୍ୟାସ୍ପଦ
+excruciating,0.0,-0.9,ବହିଷ୍କାର
+spookily,0.0,-0.9,spokily
+browbeat,0.0,-0.9,ବ୍ରାଉବିଟ୍ |
+horrifys,0.0,-0.9,ଭୟ
+admonishment,0.0,-0.9,ଉପଦେଶ
+frustratingly,0.0,-0.9,ନିରାଶାଜନକ
+rascals,0.0,-0.9,ରାସ୍କାଲ୍ |
+blemish,0.0,-0.9,ଦୋଷ
+underdog,0.0,-0.9,ଅଣ୍ଡରଡଗ୍ |
+improbability,0.0,-0.9,ଅସମ୍ଭବତା |
+gracelessly,0.0,-0.9,ଅନୁଗ୍ରହରେ
+wimpy,0.0,-0.9,wimpy
+losing,0.0,-0.9,ହାରିବା
+punish,0.0,-0.9,ଦଣ୍ଡ ଦିଅ
+fatally,0.0,-0.9,ସାଂଘାତିକ
+abrasive,0.0,-0.9,ଘୃଣ୍ୟ
+destruction,0.0,-0.9,ବିନାଶ
+dripping,0.0,-0.9,ବୁନ୍ଦା
+gruesome,0.0,-0.9,ଭୟଙ୍କର
+negativity,0.0,-0.9,ନକାରାତ୍ମକତା
+disgusted,0.0,-0.9,ଘୃଣିତ
+occludes,0.0,-0.9,ଅନ୍ତର୍ଭୂକ୍ତ କରେ |
+infringements,0.0,-0.9,ଉଲ୍ଲଂଘନ
+bragger,0.0,-0.9,ଗର୍ବ
+erosion,0.0,-0.9,କ୍ଷୟ
+blurs,0.0,-0.9,ଅସ୍ପଷ୍ଟତା |
+unnatural,0.0,-0.9,ଅପ୍ରାକୃତିକ |
+confusing,0.0,-0.9,ଦ୍ୱନ୍ଦ୍ୱପୂର୍ଣ୍ଣ |
+depression,0.0,-0.9,ଉଦାସୀନତା
+cringe,0.0,-0.9,କ୍ରଙ୍ଗ୍
+disconsolately,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ ଭାବରେ |
+irritably,0.0,-0.9,କ୍ରୋଧିତ
+oppressiveness,0.0,-0.9,ଅତ୍ୟାଚାର
+allege,0.0,-0.9,ଅଭିଯୋଗ
+heinous,0.0,-0.9,ଘୃଣ୍ୟ
+frustrated,0.0,-0.9,ବିରକ୍ତି
+stutter,0.0,-0.9,ut ୁଣ୍ଟିବା |
+knife,0.0,-0.9,ଛୁରୀ
+crowdedness,0.0,-0.9,ଭିଡ଼
+tentative,0.0,-0.9,ପରୀକ୍ଷାମୂଳକ |
+back-woods,0.0,-0.9,ପଛ-କାଠ
+depress,0.0,-0.9,ଉଦାସ
+frozen,0.0,-0.9,ଫ୍ରିଜ୍
+failed,0.0,-0.9,ବିଫଳ ହେଲା |
+gnawing,0.0,-0.9,gnawing
+anarchist,0.0,-0.9,ଅରାଜକତାବାଦୀ |
+distasteful,0.0,-0.9,ଘୃଣ୍ୟ
+grudge,0.0,-0.9,କ୍ରୋଧ
+misguided,0.0,-0.9,ଭ୍ରମିତ |
+mourn,0.0,-0.9,ଶୋକ କର
+smother,0.0,-0.9,ଧୂମପାନ
+zapped,0.0,-0.9,ଜାପଡ୍ |
+beware,0.0,-0.9,ସାବଧାନ ରୁହ |
+confusions,0.0,-0.9,ଦ୍ୱନ୍ଦ୍ୱ
+disgruntle,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+indeterminable,0.0,-0.9,ନିର୍ଦ୍ଦିଷ୍ଟ |
+adversary,0.0,-0.9,ଶତ୍ରୁ
+ironical,0.0,-0.9,ବିଡମ୍ବନା
+unwillingly,0.0,-0.9,ଅନିଚ୍ଛାରେ |
+villainous,0.0,-0.9,ଖରାପ
+irrepressible,0.0,-0.9,ଅପୂରଣୀୟ
+hotheaded,0.0,-0.9,ହଟହଟା |
+bungle,0.0,-0.9,ବଙ୍ଗଳା
+weaknesses,0.0,-0.9,ଦୁର୍ବଳତା
+annoyance,0.0,-0.9,ବିରକ୍ତିକର
+repugnantly,0.0,-0.9,ଘୃଣ୍ୟ ଭାବରେ |
+kooky,0.0,-0.9,କୁକି
+brutality,0.0,-0.9,ଅତ୍ୟାଚାର
+futility,0.0,-0.9,ବୃଥା
+injure,0.0,-0.9,ଆଘାତ
+shadowy,0.0,-0.9,ଛାୟା
+defile,0.0,-0.9,ପରେଡ
+nonresponsive,0.0,-0.9,ପ୍ରତିକ୍ରିୟାଶୀଳ |
+smash,0.0,-0.9,ଧୂଳିସାତ୍
+gauche,0.0,-0.9,ବାମ
+stuttered,0.0,-0.9,ut ୁଣ୍ଟି ପଡ଼ିଲା |
+creepy,0.0,-0.9,ଭୀଷଣ
+dull,0.0,-0.9,କୁଣ୍ଠିତ
+failures,0.0,-0.9,ବିଫଳତା
+congested,0.0,-0.9,ଜନଗହଳିପୂର୍ଣ୍ଣ
+contaminating,0.0,-0.9,ଦୂଷିତ
+vibrate,0.0,-0.9,କମ୍ପନ
+messed,0.0,-0.9,ବିଶୃଙ୍ଖଳିତ |
+antagonize,0.0,-0.9,ବିରୋଧ କରନ୍ତୁ |
+deceit,0.0,-0.9,ପ୍ରତାରଣା
+bruises,0.0,-0.9,ଘା ’
+involuntary,0.0,-0.9,ଅନିଚ୍ଛାକୃତ |
+listless,0.0,-0.9,ତାଲିକାହୀନ |
+quarrels,0.0,-0.9,rel ଗଡା
+melodramatic,0.0,-0.9,ମେଲୋଡ୍ରାମାଟିକ୍ |
+blow,0.0,-0.9,blow ଟକା
+offend,0.0,-0.9,ଅପମାନ
+crumpled,0.0,-0.9,ଖଣ୍ଡ ଖଣ୍ଡ |
+shallow,0.0,-0.9,ଅସ୍ଥାୟୀ
+unjustifiable,0.0,-0.9,ଅଯ ust କ୍ତିକ |
+gutless,0.0,-0.9,ଗୁପ୍ତହୀନ |
+deploringly,0.0,-0.9,ଦୁ or ଖଦାୟକ
+onerously,0.0,-0.9,ଅତ୍ୟଧିକ ଭାବରେ
+painfully,0.0,-0.9,ଯନ୍ତ୍ରଣାଦାୟକ
+traitor,0.0,-0.9,ଦେଶଦ୍ରୋହୀ
+risky,0.0,-0.9,ବିପଦପୂର୍ଣ୍ଣ |
+moron,0.0,-0.9,ମୋର୍ନ୍
+irrecoverable,0.0,-0.9,ପୁନରୁଦ୍ଧାରଯୋଗ୍ୟ
+spoiled,0.0,-0.9,ନଷ୍ଟ ହୋଇଛି |
+deceitfulness,0.0,-0.9,ପ୍ରତାରଣା
+devious,0.0,-0.9,ଭ୍ରାନ୍ତ
+endanger,0.0,-0.9,ବିପଦ
+flakey,0.0,-0.9,ଫ୍ଲେକି
+irresponsible,0.0,-0.9,ଦାୟିତ୍ୱହୀନ |
+madden,0.0,-0.9,ପାଗଳ
+misbehavior,0.0,-0.9,ଅସଦାଚରଣ
+dreadful,0.0,-0.9,ଭୟଭୀତ
+acerbic,0.0,-0.9,acerbic
+boastful,0.0,-0.9,ଅହଂକାରୀ
+conspiracy,0.0,-0.9,ଷଡଯନ୍ତ୍ର
+womanizing,0.0,-0.9,ନାରୀକରଣ
+sever,0.0,-0.9,ଉତ୍ତର
+dreary,0.0,-0.9,ସ୍ୱପ୍ନ
+feint,0.0,-0.9,feint
+cheerless,0.0,-0.9,ଆନନ୍ଦହୀନ |
+rust,0.0,-0.9,କଳଙ୍କ |
+begging,0.0,-0.9,ଭିକ୍ଷା
+tauntingly,0.0,-0.9,ଅପମାନିତ
+mismanage,0.0,-0.9,ଭୁଲ ପରିଚାଳନା
+uproarous,0.0,-0.9,ଉତ୍ତେଜନା
+redundancy,0.0,-0.9,ଅନାବଶ୍ୟକତା |
+vulnerable,0.0,-0.9,ଅସୁରକ୍ଷିତ
+deceive,0.0,-0.9,ପ୍ରତାରଣା କର |
+killer,0.0,-0.9,ହତ୍ୟାକାରୀ
+sick,0.0,-0.9,ଅସୁସ୍ଥ
+agony,0.0,-0.9,ଯନ୍ତ୍ରଣା
+forsaken,0.0,-0.9,ପରିତ୍ୟାଗ
+hectic,0.0,-0.9,ବ୍ୟସ୍ତ
+accuses,0.0,-0.9,ଅଭିଯୋଗ
+injury,0.0,-0.9,କ୍ଷତ
+barbarous,0.0,-0.9,ବର୍ବର
+bust,0.0,-0.9,ବଷ୍ଟ
+monotony,0.0,-0.9,ଏକମାତ୍ର
+strictly,0.0,-0.9,କଠୋର ଭାବରେ |
+treacherous,0.0,-0.9,ବିଶ୍ୱାସଘାତକ
+indistinguishable,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+selfishly,0.0,-0.9,ସ୍ୱାର୍ଥପର
+superstition,0.0,-0.9,ଅନ୍ଧବିଶ୍ୱାସ
+abrade,0.0,-0.9,abrade
+emergency,0.0,-0.9,ଜରୁରୀକାଳୀନ ପରିସ୍ଥିତି
+sharply,0.0,-0.9,ତୀବ୍ର
+dissembler,0.0,-0.9,ବିଛିନ୍ନକାରୀ |
+pretense,0.0,-0.9,ଛଳନା
+cloud,0.0,-0.9,ମେଘ
+foolishly,0.0,-0.9,ମୂର୍ଖ
+ignominious,0.0,-0.9,ଅପମାନଜନକ |
+ill-sorted,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+inequitable,0.0,-0.9,ଅସମାନ
+peevishly,0.0,-0.9,peevishly
+unaffordable,0.0,-0.9,ଅସହଯୋଗୀ |
+displace,0.0,-0.9,ସ୍ଥାନାନ୍ତର
+distortion,0.0,-0.9,ବିକୃତି
+terrible,0.0,-0.9,ଭୟଙ୍କର
+dispirited,0.0,-0.9,ବିଚଳିତ |
+dispute,0.0,-0.9,ବିବାଦ
+impaired,0.0,-0.9,ଦୁର୍ବଳ
+disinterested,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+incompetence,0.0,-0.9,ଅକ୍ଷମତା |
+irrational,0.0,-0.9,ଅଯ irr କ୍ତିକ |
+disillusion,0.0,-0.9,ନିରାଶା
+misleadingly,0.0,-0.9,ବିଭ୍ରାନ୍ତିକର
+foolish,0.0,-0.9,ମୂର୍ଖ
+cheater,0.0,-0.9,ଠକ
+notorious,0.0,-0.9,କୁଖ୍ୟାତ
+outrage,0.0,-0.9,କ୍ରୋଧ
+sicken,0.0,-0.9,ବିଡି |
+drippy,0.0,-0.9,ତ୍ରୁଟିପୂର୍ଣ୍ଣ
+chilly,0.0,-0.9,ଥଣ୍ଡା
+lapses,0.0,-0.9,ଲାପ୍
+problematic,0.0,-0.9,ସମସ୍ୟାଜନିତ |
+absurdly,0.0,-0.9,ଅବିଶ୍ୱାସନୀୟ |
+immoderate,0.0,-0.9,ଅଯୋଧ୍ୟା |
+inefficiency,0.0,-0.9,ଅପାରଗତା |
+junkyard,0.0,-0.9,junkyard
+intransigent,0.0,-0.9,ଅନ୍ତର୍ନିହିତ
+tension,0.0,-0.9,ଟେନସନ |
+disinclination,0.0,-0.9,ବିଚ୍ଛିନ୍ନତା
+thwart,0.0,-0.9,ବାଧା
+forgetfulness,0.0,-0.9,ଭୁଲିଯିବା
+revoltingly,0.0,-0.9,ବିଦ୍ରୋହ
+hysterical,0.0,-0.9,ହଷ୍ଟେରିକାଲ୍ |
+abuses,0.0,-0.9,ଅପବ୍ୟବହାର |
+sly,0.0,-0.9,ଚତୁର
+ambiguous,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+repel,0.0,-0.9,ପ୍ରତ୍ୟାହାର
+prattle,0.0,-0.9,prattle
+awfulness,0.0,-0.9,ଭୟଙ୍କର
+layoff,0.0,-0.9,ଛଟେଇ
+conspiracies,0.0,-0.9,ଷଡଯନ୍ତ୍ର
+inescapable,0.0,-0.9,ଅସୁରକ୍ଷିତ
+caustic,0.0,-0.9,କାଉଷ୍ଟିକ୍ |
+overshadow,0.0,-0.9,ଓଭରଶ୍ୟାଡ୍ |
+adulterated,0.0,-0.9,ବ୍ୟଭିଚାର
+goof,0.0,-0.9,goof
+menial,0.0,-0.9,ମେନିଆଲ୍ |
+flakieness,0.0,-0.9,ଚମକ
+laid-off,0.0,-0.9,ଛୁଟି
+tiringly,0.0,-0.9,କ୍ଲାନ୍ତ
+downcast,0.0,-0.9,downcast
+forged,0.0,-0.9,ଜାଲ୍
+unrest,0.0,-0.9,ଅଶାନ୍ତି |
+shock,0.0,-0.9,shock ଟକା
+dissidence,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+traduce,0.0,-0.9,ଅନୁବାଦ କର
+wrip,0.0,-0.9,ଲେଖା
+offenses,0.0,-0.9,ଅପରାଧ
+choppy,0.0,-0.9,ଚପଲ
+gruff,0.0,-0.9,ଦୁ uff ଖ
+adulteration,0.0,-0.9,ବ୍ୟଭିଚାର
+immoral,0.0,-0.9,ଅନ mo ତିକ |
+ineffective,0.0,-0.9,ପ୍ରଭାବହୀନ |
+idiocy,0.0,-0.9,ମୂର୍ଖତା
+laughably,0.0,-0.9,ହସି ହସି
+vengefulness,0.0,-0.9,ପ୍ରତିଶୋଧ
+panicking,0.0,-0.9,ଭୟଭୀତ
+degrading,0.0,-0.9,ଅପମାନଜନକ
+venomous,0.0,-0.9,ବିଷାକ୍ତ
+inferior,0.0,-0.9,ନିମ୍ନ
+coward,0.0,-0.9,ଭୟଭୀତ
+nefariously,0.0,-0.9,nefariously
+embarrassingly,0.0,-0.9,ଲଜ୍ଜାଜନକ ଭାବରେ |
+extraneous,0.0,-0.9,ଅତିରିକ୍ତ
+mawkishly,0.0,-0.9,mawkishly
+intrude,0.0,-0.9,ଅନୁପ୍ରବେଶ
+polluter,0.0,-0.9,ପ୍ରଦୂଷକ
+treacherously,0.0,-0.9,ବିଶ୍ୱାସଘାତକତା
+junk,0.0,-0.9,ଜଙ୍କ
+egregious,0.0,-0.9,ଉଦାହରଣ
+humiliate,0.0,-0.9,ଅପମାନିତ କର
+lame-duck,0.0,-0.9,ଛୋଟା
+monster,0.0,-0.9,ରାକ୍ଷସ
+harboring,0.0,-0.9,ବନ୍ଦର
+dim,0.0,-0.9,ନା
+self-serving,0.0,-0.9,ଆତ୍ମ-ସେବା
+sufferer,0.0,-0.9,ପୀଡିତ
+imperil,0.0,-0.9,ଅସମର୍ଥ |
+rejecting,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+bristle,0.0,-0.9,କଣ୍ଟା
+dirts,0.0,-0.9,ମଇଳା
+shame,0.0,-0.9,ଲଜ୍ଜା
+hasty,0.0,-0.9,ଶୀଘ୍ର
+subversively,0.0,-0.9,ବିପରୀତ ଭାବରେ |
+wrestle,0.0,-0.9,କୁସ୍ତି
+mortification,0.0,-0.9,ବନ୍ଧକ
+second-tier,0.0,-0.9,ଦ୍ୱିତୀୟ ସ୍ତର
+unfortunate,0.0,-0.9,ଦୁର୍ଭାଗ୍ୟ
+error,0.0,-0.9,ତ୍ରୁଟି
+inconsequent,0.0,-0.9,ଅସଙ୍ଗତ |
+sneering,0.0,-0.9,ଅପମାନ
+paralyzed,0.0,-0.9,ପକ୍ଷାଘାତ
+miseries,0.0,-0.9,ଦୁ eries ଖ
+repulsing,0.0,-0.9,ଘୃଣ୍ୟ
+autocratic,0.0,-0.9,ସ୍ ocratic ାଧୀନତା
+undesirable,0.0,-0.9,ଅବାଞ୍ଛିତ |
+barbarian,0.0,-0.9,ବର୍ବର
+hollow,0.0,-0.9,ଫମ୍ପା
+tetchy,0.0,-0.9,ଟେଚି
+flares,0.0,-0.9,ଅଗ୍ନିକାଣ୍ଡ
+sucker,0.0,-0.9,ଶୋଷକ
+desecrate,0.0,-0.9,ଅପମାନ
+threaten,0.0,-0.9,ଧମକାଇବା
+overwhelms,0.0,-0.9,ଅତ୍ୟଧିକ
+frazzle,0.0,-0.9,frazzle
+ugh,0.0,-0.9,ugh
+batty,0.0,-0.9,ବ୍ୟାଟି
+expropriation,0.0,-0.9,ବହିଷ୍କାର
+checkered,0.0,-0.9,ପରୀକ୍ଷିତ
+condescend,0.0,-0.9,condescend
+break-ups,0.0,-0.9,ବ୍ରେକ୍ ଅପ୍
+hateful,0.0,-0.9,ଘୃଣ୍ୟ
+nebulously,0.0,-0.9,nebulously
+repudiate,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ କର |
+unsettled,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+relapse,0.0,-0.9,ପୁନର୍ବାର
+break,0.0,-0.9,ବ୍ରେକ୍
+insignificant,0.0,-0.9,ଅମୂଳକ
+cheap,0.0,-0.9,ଶସ୍ତା
+dismay,0.0,-0.9,ହତାଶ
+mockeries,0.0,-0.9,ଉପହାସ
+exhausts,0.0,-0.9,କ୍ଲାନ୍ତ
+exhort,0.0,-0.9,ଉପଦେଶ
+stereotypical,0.0,-0.9,ଷ୍ଟେରେଓଟିପିକାଲ୍ |
+gaff,0.0,-0.9,gaff
+gall,0.0,-0.9,ହେଇ ପାରିବ
+transgression,0.0,-0.9,ଅଧର୍ମ
+unseemly,0.0,-0.9,ଅଜ୍ଞାତ |
+insolently,0.0,-0.9,ଅପମାନଜନକ |
+ached,0.0,-0.9,ଯନ୍ତ୍ରଣା
+irrecoverably,0.0,-0.9,ଅପ୍ରତ୍ୟାଶିତ ଭାବରେ |
+woebegone,0.0,-0.9,woebegone
+resent,0.0,-0.9,ବିରକ୍ତ
+ignominy,0.0,-0.9,ଅପମାନ
+substandard,0.0,-0.9,ମାନ୍ୟତା
+bigotry,0.0,-0.9,କୁସଂସ୍କାର
+weirdly,0.0,-0.9,ଅଦ୍ଭୁତ
+nag,0.0,-0.9,ନାଗ
+sad,0.0,-0.9,ବର୍ତ୍ତମାନ
+frightful,0.0,-0.9,ଭୟଭୀତ
+repulsive,0.0,-0.9,ଘୃଣ୍ୟ
+unthinkable,0.0,-0.9,ଅବାଞ୍ଛିତ |
+drastic,0.0,-0.9,କଠୋର
+mourner,0.0,-0.9,ଶୋକ
+slogs,0.0,-0.9,ଯୁଦ୍ଧ କରିଥିଲେ
+implacable,0.0,-0.9,ନିରନ୍ତର |
+lazy,0.0,-0.9,ଅଳସୁଆ
+audiciously,0.0,-0.9,ଶ୍ରବଣ ଭାବରେ
+lengthy,0.0,-0.9,ଲମ୍ବା
+drowning,0.0,-0.9,ବୁଡ଼ିଯିବା
+archaic,0.0,-0.9,ପୁରାତନ
+irreparable,0.0,-0.9,ଅପୂରଣୀୟ |
+lackadaisical,0.0,-0.9,ଅଭାବନୀୟ |
+distraughtness,0.0,-0.9,ବିବ୍ରତତା |
+lumpy,0.0,-0.9,ଲମ୍ପ୍
+obsessive,0.0,-0.9,ଅବସେସିଭ୍ |
+egotistically,0.0,-0.9,ଅହଂକାର
+wrinkles,0.0,-0.9,କୁଞ୍ଚନ
+messing,0.0,-0.9,ମେସେଜ୍
+scratched,0.0,-0.9,ସ୍କ୍ରାଚ୍ ହୋଇଛି |
+thumbs-down,0.0,-0.9,ଆଙ୍ଗୁଠି-ଡାଉନ୍ |
+suppress,0.0,-0.9,ଦମନ
+brazenly,0.0,-0.9,ଅତି ନିର୍ମମ ଭାବରେ |
+breakdown,0.0,-0.9,ଭାଙ୍ଗିବା
+dubious,0.0,-0.9,ସନ୍ଦେହଜନକ |
+hapless,0.0,-0.9,ଦୁର୍ଭାଗ୍ୟ
+hassle,0.0,-0.9,ଅସୁବିଧା
+hoodwink,0.0,-0.9,ହୁଡୱିଙ୍କ୍ |
+hurtful,0.0,-0.9,କ୍ଷତିକାରକ |
+pessimism,0.0,-0.9,ନିରାଶା
+freakishly,0.0,-0.9,ଅଶୁଭ ଭାବରେ |
+embattled,0.0,-0.9,ଭର୍ତ୍ତି
+suffers,0.0,-0.9,ଯନ୍ତ୍ରଣା ଭୋଗୁଛି |
+horde,0.0,-0.9,ହୋର୍ଡ
+vindictiveness,0.0,-0.9,ପ୍ରତିଶୋଧ ପରାୟଣତା |
+unnervingly,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ ଭାବରେ |
+bondage,0.0,-0.9,ବନ୍ଧନ
+unorthodox,0.0,-0.9,ଅଣଓଡ଼ିଆ |
+nitpicking,0.0,-0.9,ନାଇଟପିକ୍
+ho-hum,0.0,-0.9,ହୋ-ହମ୍
+distrustful,0.0,-0.9,ଅବିଶ୍ୱାସ
+hestitant,0.0,-0.9,ହଷ୍ଟେଟାଣ୍ଟ |
+disintegrates,0.0,-0.9,ବିଚ୍ଛିନ୍ନ
+fatuity,0.0,-0.9,ଫ୍ୟାଟିଟି
+waning,0.0,-0.9,କ୍ଷୀଣ
+smelt,0.0,-0.9,ଦୁର୍ଗନ୍ଧ
+unnecessary,0.0,-0.9,ଅନାବଶ୍ୟକ |
+freaks,0.0,-0.9,ଫ୍ରିକ୍ସ |
+unimportant,0.0,-0.9,ଗୁରୁତ୍ୱହୀନ
+audaciousness,0.0,-0.9,ଅଦମ୍ୟତା |
+enviousness,0.0,-0.9,vious ର୍ଷା
+indecent,0.0,-0.9,ଅଶ୍ଳୀଳ
+neglect,0.0,-0.9,ଅବହେଳା
+lamentably,0.0,-0.9,ଦୁ ament ଖରେ
+dented,0.0,-0.9,ଦନ୍ତ
+loveless,0.0,-0.9,ପ୍ରେମହୀନ
+phony,0.0,-0.9,ଧୋନୀ
+soapy,0.0,-0.9,ସାବୁନ୍
+pitiful,0.0,-0.9,ଦୟାଳୁ
+demise,0.0,-0.9,ବିନାଶ
+flareup,0.0,-0.9,ଜ୍ୱଳନ୍ତ
+passive,0.0,-0.9,ନିଷ୍କ୍ରିୟ
+discontinuous,0.0,-0.9,ବନ୍ଦ
+unusable,0.0,-0.9,ଅବ୍ୟବହୃତ
+rupture,0.0,-0.9,ବ୍ରେକ୍
+direly,0.0,-0.9,ଭୟଙ୍କର ଭାବରେ |
+excessively,0.0,-0.9,ଅତ୍ୟଧିକ
+picketing,0.0,-0.9,ପିକେଟିଂ
+angriness,0.0,-0.9,କ୍ରୋଧ
+myth,0.0,-0.9,ପୁରାଣ
+faulty,0.0,-0.9,ତ୍ରୁଟିପୂର୍ଣ୍ଣ
+insupportably,0.0,-0.9,ଅସମର୍ଥ
+jeeringly,0.0,-0.9,ଉପହାସ
+renunciation,0.0,-0.9,ତ୍ୟାଗ
+imprisonment,0.0,-0.9,କାରାଗାର
+drawback,0.0,-0.9,ଅସୁବିଧା
+fear,0.0,-0.9,ଭୟ
+inarticulate,0.0,-0.9,inarticulate
+immature,0.0,-0.9,ଅପରିପକ୍ୱ |
+inescapably,0.0,-0.9,ଅସୁରକ୍ଷିତ
+indecision,0.0,-0.9,ନିର୍ଣ୍ଣୟ
+tiring,0.0,-0.9,କ୍ଲାନ୍ତ
+spewed,0.0,-0.9,ସ୍ପିଡ୍
+fugitive,0.0,-0.9,ପଳାତକ
+dishonor,0.0,-0.9,ଅପମାନ
+punitive,0.0,-0.9,ଦଣ୍ଡନୀୟ |
+poky,0.0,-0.9,ପୋକି
+epidemic,0.0,-0.9,ମହାମାରୀ
+issue,0.0,-0.9,ସମସ୍ୟା
+mad,0.0,-0.9,ପାଗଳ
+skimpy,0.0,-0.9,ଚମକ
+stains,0.0,-0.9,ଦାଗ
+glower,0.0,-0.9,ଚମକ
+curse,0.0,-0.9,ଅଭିଶାପ
+dilemma,0.0,-0.9,ଦ୍ୱନ୍ଦ୍ୱ
+disquiet,0.0,-0.9,ଅଶାନ୍ତି |
+frenzy,0.0,-0.9,ଉତ୍କଣ୍ଠା
+disvalue,0.0,-0.9,ଅବମାନନା
+haywire,0.0,-0.9,ଘାସ
+overdo,0.0,-0.9,ଓଭରଡୋ |
+taunting,0.0,-0.9,ଅପମାନ
+bulkiness,0.0,-0.9,ବହୁମୂଲ୍ୟ
+criminal,0.0,-0.9,ଅପରାଧୀ
+starvation,0.0,-0.9,ଅନାହାର
+consternation,0.0,-0.9,ନକ୍ଷତ୍ର
+detests,0.0,-0.9,ଘୃଣା
+recklessly,0.0,-0.9,ବେପରୁଆ ଭାବରେ |
+fictitious,0.0,-0.9,କାଳ୍ପନିକ
+imprudence,0.0,-0.9,ଅପାରଗତା |
+indoctrinate,0.0,-0.9,inductrinate
+one-sided,0.0,-0.9,ଏକପାଖିଆ
+qualms,0.0,-0.9,ଯୋଗ୍ୟତା
+apathetically,0.0,-0.9,ଉଦାସୀନ ଭାବରେ |
+acerbate,0.0,-0.9,ତୀବ୍ରତା
+bafflement,0.0,-0.9,ବିଚଳିତ |
+childish,0.0,-0.9,ବାଲ୍ୟବିବାହ
+merciless,0.0,-0.9,ଦୟାଳୁ
+prevaricate,0.0,-0.9,ବିସ୍ତାର
+slanders,0.0,-0.9,ଅପବାଦ
+insensible,0.0,-0.9,ସମ୍ବେଦନଶୀଳ |
+biased,0.0,-0.9,ପକ୍ଷପାତ
+hell,0.0,-0.9,ନର୍କ
+pillage,0.0,-0.9,ଲୁଣ୍ଠନ
+disrespectful,0.0,-0.9,ଅସମ୍ମାନ
+fatuous,0.0,-0.9,ଘୃଣ୍ୟ
+hardliner,0.0,-0.9,ହାର୍ଡଲିନର୍
+incomparably,0.0,-0.9,ତୁଳନାତ୍ମକ ଭାବରେ
+sueing,0.0,-0.9,ମକଦ୍ଦମା ଦାୟର
+biting,0.0,-0.9,କାମୁଡ଼ିବା
+fluster,0.0,-0.9,ଫ୍ଲୁଷ୍ଟର
+damnable,0.0,-0.9,ଦୋଷୀ
+distressed,0.0,-0.9,ଦୁ ed ଖୀ
+tentatively,0.0,-0.9,ପରୀକ୍ଷାମୂଳକ ଭାବରେ |
+derision,0.0,-0.9,ଉପହାସ
+uncaring,0.0,-0.9,ଅବହେଳା
+denial,0.0,-0.9,ଅସ୍ୱୀକାର
+capsize,0.0,-0.9,capsize
+fastidiously,0.0,-0.9,ଶୀଘ୍ର
+misbegotten,0.0,-0.9,ଭୁଲ୍
+subversion,0.0,-0.9,ବିଦ୍ରୋହ |
+blundering,0.0,-0.9,ଭୁଲ୍
+illusion,0.0,-0.9,ଭ୍ରମ
+blatantly,0.0,-0.9,ଖୋଲାଖୋଲି ଭାବରେ
+despised,0.0,-0.9,ଘୃଣିତ
+maliciously,0.0,-0.9,ଦୁଷ୍କର୍ମ
+drunk,0.0,-0.9,ମଦ୍ୟପ
+backaches,0.0,-0.9,ପିଠି
+virus,0.0,-0.9,ଜୀବାଣୁ
+shocking,0.0,-0.9,ଚକିତ
+rejected,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+inhumanity,0.0,-0.9,ଅମାନୁଷିକତା |
+impinge,0.0,-0.9,ପ୍ରତିବନ୍ଧକ
+throbbed,0.0,-0.9,ଥ୍ରୋବେଡ୍ |
+deceptively,0.0,-0.9,ପ୍ରତାରଣା
+scrambled,0.0,-0.9,ସ୍କ୍ରାମବ୍ଲେଡ୍ |
+criticism,0.0,-0.9,ସମାଲୋଚନା
+hobble,0.0,-0.9,ହବଲ୍ |
+simplistic,0.0,-0.9,ସରଳବାଦୀ |
+grotesque,0.0,-0.9,grotesque
+treasonous,0.0,-0.9,ଦେଶଦ୍ରୋହୀ
+troubles,0.0,-0.9,ଅସୁବିଧା
+dislikes,0.0,-0.9,ନାପସନ୍ଦ
+mistress,0.0,-0.9,ମାଲିକାଣୀ
+conspicuous,0.0,-0.9,ସ୍ପଷ୍ଟ
+acerbically,0.0,-0.9,acerbically
+atrocities,0.0,-0.9,ଅତ୍ୟାଚାର
+brazen,0.0,-0.9,ପିତ୍ତଳ
+calamity,0.0,-0.9,ବିପଦ
+gloatingly,0.0,-0.9,ଖୁସିରେ
+inexcusably,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+rumor,0.0,-0.9,ଗୁଜବ
+forbidden,0.0,-0.9,ନିଷେଧ |
+cheesy,0.0,-0.9,ପନିର
+slander,0.0,-0.9,ନିନ୍ଦା
+stumped,0.0,-0.9,ଷ୍ଟମ୍ପ୍ |
+corrosive,0.0,-0.9,କ୍ଷତିକାରକ |
+virulently,0.0,-0.9,କୁତ୍ସିତ ଭାବରେ
+false,0.0,-0.9,ମିଥ୍ୟା
+knock,0.0,-0.9,ନକ୍
+vexingly,0.0,-0.9,ଅସନ୍ତୋଷ
+hoard,0.0,-0.9,ହୋର୍ଡ୍ |
+untrue,0.0,-0.9,ଅସତ୍ୟ
+aloof,0.0,-0.9,aloof
+fetid,0.0,-0.9,fetid
+invisible,0.0,-0.9,ଅଦୃଶ୍ୟ |
+heavyhearted,0.0,-0.9,ଭାରି ହୃଦୟ
+conceit,0.0,-0.9,ଅହଂକାର
+hypocricy,0.0,-0.9,କପଟୀ
+infection,0.0,-0.9,ସଂକ୍ରମଣ
+shrug,0.0,-0.9,shrug
+dangerousness,0.0,-0.9,ବିପଦ
+traped,0.0,-0.9,ଫାଶରେ ପଡ଼ିଛନ୍ତି
+temper,0.0,-0.9,ସ୍ୱଭାବ
+soreness,0.0,-0.9,ଯନ୍ତ୍ରଣା
+wrest,0.0,-0.9,କୁସ୍ତି
+impractical,0.0,-0.9,ଅପ୍ରାକୃତିକ |
+punk,0.0,-0.9,ପଙ୍କ
+damaged,0.0,-0.9,କ୍ଷତିଗ୍ରସ୍ତ |
+deject,0.0,-0.9,ନିରାଶା
+immaterial,0.0,-0.9,ଅପରିଚିତ
+imperfectly,0.0,-0.9,ଅସମ୍ପୂର୍ଣ୍ଣ
+inappropriately,0.0,-0.9,ଅନୁପଯୁକ୍ତ
+lewdly,0.0,-0.9,ଅଶୁଭ
+impossible,0.0,-0.9,ଅସମ୍ଭବ
+deny,0.0,-0.9,ଅସ୍ୱୀକାର କର |
+helplessly,0.0,-0.9,ଅସହାୟ
+indifference,0.0,-0.9,ଉଦାସୀନତା |
+disgraced,0.0,-0.9,ଅପମାନିତ
+melancholy,0.0,-0.9,ଦୁ mel ଖ
+insignificance,0.0,-0.9,ଅମୂଳକ
+retardedness,0.0,-0.9,ଅବସାଦ
+discountenance,0.0,-0.9,ରିହାତି
+unspecified,0.0,-0.9,ନିର୍ଦ୍ଦିଷ୍ଟ
+diatribe,0.0,-0.9,diatribe
+hideously,0.0,-0.9,ଲୁକ୍କାୟିତ ଭାବରେ |
+flake,0.0,-0.9,ଫ୍ଲେକ୍
+pig,0.0,-0.9,ଘୁଷୁରି
+last-ditch,0.0,-0.9,ଶେଷ ଖାଲ
+repulse,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+conflicted,0.0,-0.9,ବିବାଦୀୟ |
+ruthlessness,0.0,-0.9,ନିର୍ଦ୍ଦୟତା
+obscure,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+capriciousness,0.0,-0.9,କ ric ତୁକିଆ
+grumpier,0.0,-0.9,grumpier
+mournfully,0.0,-0.9,ଶୋକରେ
+poorer,0.0,-0.9,ଗରିବ
+unqualified,0.0,-0.9,ଅଯୋଗ୍ୟ
+overact,0.0,-0.9,ଅତ୍ୟଧିକ
+subversive,0.0,-0.9,ବିପରୀତ |
+ineptly,0.0,-0.9,ଅଜ୍ଞାତରେ |
+stain,0.0,-0.9,ଦାଗ
+assassin,0.0,-0.9,ହତ୍ୟାକାରୀ
+corrosions,0.0,-0.9,କ୍ଷୟ
+fanciful,0.0,-0.9,କଳ୍ପନା
+heartbreakingly,0.0,-0.9,ହୃଦୟ ବିଦାରକ
+outrages,0.0,-0.9,କ୍ରୋଧ
+plight,0.0,-0.9,ଦୁ ight ଖ
+extremists,0.0,-0.9,ଉଗ୍ରବାଦୀ
+maledict,0.0,-0.9,maledict
+shrilly,0.0,-0.9,ସଂକୀର୍ଣ୍ଣ ଭାବରେ |
+interrupt,0.0,-0.9,ବାଧା
+exaggerate,0.0,-0.9,ଅତିରିକ୍ତ
+inevitably,0.0,-0.9,ଅବଶ୍ୟ
+challenging,0.0,-0.9,ଚ୍ୟାଲେଞ୍ଜିଂ |
+infiltrators,0.0,-0.9,ଅନୁପ୍ରବେଶକାରୀ |
+harsh,0.0,-0.9,କଠୋର
+dire,0.0,-0.9,କୁହ
+plebeian,0.0,-0.9,plebeian
+pan,0.0,-0.9,ପ୍ୟାନ |
+scams,0.0,-0.9,ଘୋଟାଲା |
+jealousness,0.0,-0.9,ealous ର୍ଷା
+arrogantly,0.0,-0.9,ଅହଂକାର
+stupidest,0.0,-0.9,ମୂର୍ଖ
+disapproving,0.0,-0.9,ନାପସନ୍ଦ
+scrap,0.0,-0.9,ସ୍କ୍ରାପ୍ |
+demolish,0.0,-0.9,ଭାଙ୍ଗିବା
+swelled,0.0,-0.9,ଫୁଲିଗଲା |
+rejects,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ କରେ |
+irksomely,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+neglected,0.0,-0.9,ଅବହେଳିତ
+hideousness,0.0,-0.9,ଘୃଣ୍ୟତା
+leery,0.0,-0.9,ଲେରି
+uncooperative,0.0,-0.9,ଅସହଯୋଗୀ |
+blame,0.0,-0.9,ଦୋଷ
+impermissible,0.0,-0.9,ଅସମ୍ଭବ
+mortifying,0.0,-0.9,ମର୍ତ୍ତ୍ୟ
+bereave,0.0,-0.9,ଶୋକ
+strangely,0.0,-0.9,ଅଜବ
+blunder,0.0,-0.9,ତ୍ରୁଟି
+struggled,0.0,-0.9,ସଂଘର୍ଷ କଲା |
+alienated,0.0,-0.9,ବିଚ୍ଛିନ୍ନ
+frenzied,0.0,-0.9,କ୍ରୋଧିତ
+absurdity,0.0,-0.9,ଅବ urd ଧତା |
+unspeakable,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+beguile,0.0,-0.9,ପ୍ରତାରଣା
+delude,0.0,-0.9,ନିରାଶ
+violators,0.0,-0.9,ଉଲ୍ଲଂଘନକାରୀ |
+vibrating,0.0,-0.9,କମ୍ପନ
+baffle,0.0,-0.9,ବାଧା
+bowdlerize,0.0,-0.9,bowdlerize
+turmoil,0.0,-0.9,ଅଶାନ୍ତି |
+utterly,0.0,-0.9,ସଂପୂର୍ଣ୍ଣ ଭାବରେ
+shimmer,0.0,-0.9,ଶିମର୍
+frenetically,0.0,-0.9,ଫ୍ରେନେଟିକ୍ |
+fail,0.0,-0.9,ବିଫଳ
+messes,0.0,-0.9,ବିଶୃଙ୍ଖଳା |
+undersized,0.0,-0.9,ଅଣ୍ଡରାଇଜଡ୍ |
+fanaticism,0.0,-0.9,ପ୍ରଶଂସକ
+disarray,0.0,-0.9,ବିଶୃଙ୍ଖଳା
+scold,0.0,-0.9,ଗାଳି
+madness,0.0,-0.9,ପାଗଳାମି |
+shake,0.0,-0.9,ହଲେଇବା
+discrepant,0.0,-0.9,ଅସଙ୍ଗତ
+disses,0.0,-0.9,ସେମାନଙ୍କର
+dubiously,0.0,-0.9,ସନ୍ଦେହଜନକ |
+irksomenesses,0.0,-0.9,irksomenesses
+misrepresentation,0.0,-0.9,ଭୁଲ ଉପସ୍ଥାପନା
+nauseating,0.0,-0.9,ବାନ୍ତି
+wrinkled,0.0,-0.9,କୁଞ୍ଚିତ |
+punch,0.0,-0.9,ପିଚ୍ |
+brood,0.0,-0.9,ରୁଟି |
+cringes,0.0,-0.9,କ୍ରଙ୍ଗସ୍
+grudgingly,0.0,-0.9,ଦୁ ud ଖରେ
+danger,0.0,-0.9,ବିପଦ
+exhaust,0.0,-0.9,ନିଷ୍କାସନ
+raping,0.0,-0.9,ବଳାତ୍କାର
+scandels,0.0,-0.9,ସ୍କାଣ୍ଡେଲ୍ |
+brash,0.0,-0.9,ବ୍ରାସ୍
+slumping,0.0,-0.9,ump ୁଲା
+loser,0.0,-0.9,ପରାଜିତ
+glitches,0.0,-0.9,ଗ୍ଲିଚ୍
+appalling,0.0,-0.9,ଭୟଭୀତ
+conspire,0.0,-0.9,ଷଡଯନ୍ତ୍ର
+heartbreaking,0.0,-0.9,ହୃଦୟ ବିଦାରକ
+besiege,0.0,-0.9,ଅବରୋଧ
+blah,0.0,-0.9,ବ୍ଲା
+bad,0.0,-0.9,ଖରାପ
+blatant,0.0,-0.9,ନିନ୍ଦନୀୟ
+mendacious,0.0,-0.9,mendacious
+submissive,0.0,-0.9,ବଶୀଭୂତ |
+disgraceful,0.0,-0.9,ଅପମାନଜନକ
+unprofitable,0.0,-0.9,ଲାଭଜନକ ନୁହେଁ
+shady,0.0,-0.9,ଛାଇ
+refutes,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ କରେ |
+polution,0.0,-0.9,ପ୍ରଦୂଷଣ
+stump,0.0,-0.9,ଷ୍ଟମ୍ପ୍ |
+enraged,0.0,-0.9,କ୍ରୋଧିତ
+crazily,0.0,-0.9,ପାଗଳ
+over-priced,0.0,-0.9,ଅଧିକ ମୂଲ୍ୟ
+unreadable,0.0,-0.9,ପଠନୀୟ ନୁହେଁ
+satirical,0.0,-0.9,ବିସ୍ମୟକର |
+spiteful,0.0,-0.9,ଖରାପ
+radicalization,0.0,-0.9,ଆଂଚଳିକକରଣ |
+brittle,0.0,-0.9,ଭଗ୍ନ
+peril,0.0,-0.9,ବିପଦ
+gainsayer,0.0,-0.9,ଲାଭକାରୀ
+pout,0.0,-0.9,ପାଉଟ୍
+illusory,0.0,-0.9,ଭ୍ରମାତ୍ମକ |
+haunting,0.0,-0.9,ଶିକାର
+terror-genic,0.0,-0.9,ଆତଙ୍କ-ଜେନିକ୍ |
+weep,0.0,-0.9,କାନ୍ଦ
+downhill,0.0,-0.9,ତଳକୁ
+whine,0.0,-0.9,ଚିତ୍କାର
+dislike,0.0,-0.9,ନାପସନ୍ଦ
+wicked,0.0,-0.9,ଦୁଷ୍ଟ
+extort,0.0,-0.9,ନିର୍ଯାତନା
+smoulder,0.0,-0.9,ସ୍ମୋଲ୍ଡର୍ |
+darker,0.0,-0.9,ଗା dark ଼
+fume,0.0,-0.9,ଧୂଆଁ
+avalanche,0.0,-0.9,ବାଘ
+break-up,0.0,-0.9,ବିଚ୍ଛିନ୍ନ
+hate,0.0,-0.9,ଘୃଣା
+capricious,0.0,-0.9,କ ric ତୁକିଆ
+jutter,0.0,-0.9,ଜଟର୍ |
+immoderately,0.0,-0.9,ଅଯଥାରେ |
+semi-retarded,0.0,-0.9,ଅର୍ଦ୍ଧ-ଅବସରପ୍ରାପ୍ତ
+cracks,0.0,-0.9,ଖାଲ |
+criticizing,0.0,-0.9,ସମାଲୋଚନା
+disgustfully,0.0,-0.9,ଘୃଣ୍ୟ
+dumping,0.0,-0.9,ଡମ୍ପିଂ
+mispronounced,0.0,-0.9,ଭୁଲ ଭୁଲ
+scorchingly,0.0,-0.9,ଜ୍ୱଳନ୍ତ
+kaput,0.0,-0.9,ଫାଟକ
+detraction,0.0,-0.9,ବିଘ୍ନ
+derisively,0.0,-0.9,ଉପହାସ
+condemnation,0.0,-0.9,ନିନ୍ଦା
+funnily,0.0,-0.9,ମଜାଳିଆ
+sass,0.0,-0.9,ସାସ୍
+opponent,0.0,-0.9,ପ୍ରତିଦ୍ୱନ୍ଦ୍ୱୀ |
+dungeons,0.0,-0.9,ଦୁର୍ଗ
+scolded,0.0,-0.9,ଗାଳି
+commotions,0.0,-0.9,ସଂକଟ
+subpoenas,0.0,-0.9,ଉପପୋନାସ୍ |
+regretfully,0.0,-0.9,ଦୁ regret ଖର ସହିତ
+unlawfully,0.0,-0.9,ବେଆଇନ ଭାବରେ |
+brashness,0.0,-0.9,ଉଜ୍ଜ୍ୱଳତା
+unpopular,0.0,-0.9,ଜନପ୍ରିୟ
+dispirit,0.0,-0.9,dispirit
+conspicuously,0.0,-0.9,ସ୍ପଷ୍ଟ ଭାବରେ
+insanely,0.0,-0.9,ପାଗଳ
+incredulous,0.0,-0.9,ଅବିଶ୍ୱାସନୀୟ |
+indifferent,0.0,-0.9,ଉଦାସୀନ |
+racists,0.0,-0.9,ଜାତିବାଦୀ
+impunity,0.0,-0.9,ଅପରାଧ
+sorrowful,0.0,-0.9,ଦୁ orrow ଖୀ
+unhealthy,0.0,-0.9,ଅସ୍ୱାସ୍ଥ୍ୟକର
+critical,0.0,-0.9,ଗୁରୁତର
+debaucher,0.0,-0.9,ଖରାପ
+gawk,0.0,-0.9,gawk
+doggedly,0.0,-0.9,କୁକୁର
+disrespectable,0.0,-0.9,ଅସମ୍ମାନ
+2-faces,0.0,-0.9,2-ଚେହେରା |
+disgustful,0.0,-0.9,ଘୃଣ୍ୟ
+flicering,0.0,-0.9,ନକଲ
+drips,0.0,-0.9,ବୁନ୍ଦା
+evasion,0.0,-0.9,ପଳାୟନ
+indefensible,0.0,-0.9,ଅପରିହାର୍ଯ୍ୟ |
+infuriate,0.0,-0.9,କ୍ରୋଧିତ
+aggrieve,0.0,-0.9,ଦୁ gr ଖ
+ludicrous,0.0,-0.9,ludicrous
+misfortune,0.0,-0.9,ଦୁର୍ଭାଗ୍ୟ
+frigging,0.0,-0.9,ଫ୍ରିଜିଂ
+malevolent,0.0,-0.9,ଦୁଷ୍କର୍ମ
+monstrosities,0.0,-0.9,ରାକ୍ଷସ
+avaricious,0.0,-0.9,ଘୃଣ୍ୟ
+stench,0.0,-0.9,ଦୁର୍ଗନ୍ଧ
+domineering,0.0,-0.9,ପ୍ରାଧାନ୍ୟ
+troublesomely,0.0,-0.9,ଅସୁବିଧାଜନକ
+buckle,0.0,-0.9,ବାଲ
+confounded,0.0,-0.9,ଲଜ୍ଜିତ
+stumps,0.0,-0.9,ଷ୍ଟମ୍ପସ୍ |
+judders,0.0,-0.9,ବିଚାରକର୍ତ୍ତା
+smut,0.0,-0.9,ସ୍ମଟ୍
+terrorism,0.0,-0.9,ଆତଙ୍କବାଦ
+undignified,0.0,-0.9,ଅଯୋଗ୍ୟ
+wack,0.0,-0.9,ୱାକ୍
+mordantly,0.0,-0.9,ଦୁ mor ଖଦ
+uncreative,0.0,-0.9,ଅପ୍ରାକୃତିକ |
+adamantly,0.0,-0.9,ଦୃ ant ଭାବରେ
+incompetent,0.0,-0.9,ଅଯୋଗ୍ୟ
+disturbance,0.0,-0.9,ବିଶୃଙ୍ଖଳା
+over-acted,0.0,-0.9,ଅତ୍ୟଧିକ କାର୍ଯ୍ୟ
+enflame,0.0,-0.9,enflame
+slaves,0.0,-0.9,ଦାସମାନେ
+stealing,0.0,-0.9,ଚୋରି
+unconstitutional,0.0,-0.9,ଅସାମ୍ବିଧାନିକ |
+snobbish,0.0,-0.9,ସ୍ନୋବିଶ୍ |
+gaffe,0.0,-0.9,ତ୍ରୁଟି
+ungrateful,0.0,-0.9,କୃତଜ୍ଞ
+spookier,0.0,-0.9,spookier
+backwood,0.0,-0.9,ପଛପଟ
+derisiveness,0.0,-0.9,ଉପହାସ
+squabble,0.0,-0.9,କଳହ
+inflammed,0.0,-0.9,ପ୍ରଦାହ
+decadent,0.0,-0.9,decadent
+eschew,0.0,-0.9,ପଳାୟନ କରନ୍ତୁ |
+marginal,0.0,-0.9,ମାର୍ଜିନାଲ୍
+addicting,0.0,-0.9,ନିଶା
+fatefully,0.0,-0.9,ଭାଗ୍ୟବଶତ
+distracting,0.0,-0.9,ବିଭ୍ରାନ୍ତକାରୀ |
+penalize,0.0,-0.9,ଦଣ୍ଡ ଦିଅ |
+bearish,0.0,-0.9,ଭାଲୁ
+lull,0.0,-0.9,ଲାଲ୍
+expire,0.0,-0.9,ମିଆଦ ପୂର୍ଣ୍ଣ ହେବ
+betrayals,0.0,-0.9,ବିଶ୍ୱାସଘାତକତା
+bunk,0.0,-0.9,ବାଙ୍କ
+feebleminded,0.0,-0.9,ଦୁର୍ବଳ
+f**k,0.0,-0.9,f ** k
+inelegant,0.0,-0.9,ଅବହେଳିତ |
+ranted,0.0,-0.9,ରାଣ୍ଟ
+scandel,0.0,-0.9,ଦୁର୍ନୀତି
+amputate,0.0,-0.9,ଆମ୍ପୁଟେଡ୍
+hard-liner,0.0,-0.9,ହାର୍ଡ-ଲାଇନ୍ର୍ |
+exclusion,0.0,-0.9,ବହିଷ୍କାର
+drags,0.0,-0.9,ଡ୍ରାଗ୍
+strangest,0.0,-0.9,ଅଜବ
+superstitious,0.0,-0.9,ଅନ୍ଧବିଶ୍ୱାସୀ |
+pry,0.0,-0.9,pry
+shaky,0.0,-0.9,କମ୍ପିତ
+condemn,0.0,-0.9,ନିନ୍ଦା କର |
+abolish,0.0,-0.9,ରଦ୍ଦ
+accusation,0.0,-0.9,ଅଭିଯୋଗ
+irregularity,0.0,-0.9,ଅନିୟମିତତା |
+lies,0.0,-0.9,ମିଥ୍ୟା
+premeditated,0.0,-0.9,ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ |
+fault,0.0,-0.9,ଦୋଷ
+puzzling,0.0,-0.9,ପଜଲ୍
+suspicious,0.0,-0.9,ସନ୍ଦେହଜନକ |
+unattractive,0.0,-0.9,ଆକର୍ଷଣୀୟ ନୁହେଁ |
+delusional,0.0,-0.9,ଭ୍ରମାତ୍ମକ |
+ungovernable,0.0,-0.9,ଅଣସଂରକ୍ଷିତ
+injustices,0.0,-0.9,ଅନ୍ୟାୟ
+limits,0.0,-0.9,ସୀମା
+ultimatum,0.0,-0.9,ଅଲ୍ଟିମାଟମ୍ |
+implode,0.0,-0.9,implode
+covetous,0.0,-0.9,ଲୋଭୀ
+louder,0.0,-0.9,ଅଧିକ ଜୋରରେ |
+monstrous,0.0,-0.9,ରାକ୍ଷସ
+monstrously,0.0,-0.9,ରାକ୍ଷସ
+misstatement,0.0,-0.9,ଭୁଲ ତଥ୍ୟ
+motley,0.0,-0.9,ମୋଟଲି
+carp,0.0,-0.9,କାର୍ପ
+estranged,0.0,-0.9,ବିଚ୍ଛିନ୍ନ
+bumping,0.0,-0.9,ump ୁଣ୍ଟିବା |
+fussy,0.0,-0.9,ଖରାପ
+irksomeness,0.0,-0.9,irksomeness
+puny,0.0,-0.9,puny
+dripped,0.0,-0.9,ଖସିଗଲା |
+imperious,0.0,-0.9,ଅପରାଜିତା |
+confused,0.0,-0.9,ଦ୍ୱନ୍ଦ୍ୱରେ |
+discomfort,0.0,-0.9,ଅସନ୍ତୋଷ |
+jealous,0.0,-0.9,ealous ର୍ଷା
+neurotically,0.0,-0.9,ସ୍ନାୟୁଗତ ଭାବରେ |
+guilty,0.0,-0.9,ଦୋଷୀ
+flagging,0.0,-0.9,ଫ୍ଲାଗିଂ
+refusal,0.0,-0.9,ପ୍ରତ୍ୟାଖ୍ୟାନ
+litigious,0.0,-0.9,ମକଦ୍ଦମା
+scuff,0.0,-0.9,scuff
+tragedy,0.0,-0.9,ଦୁ tragedy ଖଦ ଘଟଣା |
+ailing,0.0,-0.9,ଅସୁସ୍ଥ
+secretive,0.0,-0.9,ଗୁପ୍ତ
+cocky,0.0,-0.9,କକ୍ସି
+primitive,0.0,-0.9,ଆଦିମ
+effigy,0.0,-0.9,ପ୍ରଭାବଶାଳୀ |
+fatcat,0.0,-0.9,ଫ୍ୟାଟକେଟ୍ |
+paupers,0.0,-0.9,ପପୁର୍ସ |
+bullies,0.0,-0.9,ଗାଳିଗୁଲଜ
+vanity,0.0,-0.9,ଅସାର
+stooge,0.0,-0.9,stooge
+inhospitable,0.0,-0.9,ଆତିଥ୍ୟ
+tragically,0.0,-0.9,ଦୁ ag ଖଦାୟକ
+troublesome,0.0,-0.9,ଅସୁବିଧାଜନକ
+outcry,0.0,-0.9,ଚିତ୍କାର
+displeasing,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+degradingly,0.0,-0.9,ଅପମାନଜନକ
+scrambles,0.0,-0.9,ସ୍କ୍ରାମବଲ୍ |
+impatiently,0.0,-0.9,ଧ ati ର୍ଯ୍ୟର ସହିତ |
+maddeningly,0.0,-0.9,ପାଗଳ ଭାବରେ |
+unpleasant,0.0,-0.9,ଅପ୍ରୀତିକର
+craze,0.0,-0.9,କ୍ରେଜ୍
+devastatingly,0.0,-0.9,ବିନାଶକାରୀ
+unwanted,0.0,-0.9,ଅବାଞ୍ଛିତ |
+provoke,0.0,-0.9,ଉତ୍ତେଜିତ କର |
+impolitely,0.0,-0.9,ଅପାରଗତା |
+sneaky,0.0,-0.9,ଗୁପ୍ତ
+unsupported,0.0,-0.9,ଅସମର୍ଥିତ
+languish,0.0,-0.9,ଦୁର୍ବଳ
+swindle,0.0,-0.9,ଠକ
+resentment,0.0,-0.9,ବିରକ୍ତି
+dust,0.0,-0.9,ଧୂଳି
+bloodshed,0.0,-0.9,ରକ୍ତପାତ
+shirk,0.0,-0.9,ଶିର୍କ
+perplexity,0.0,-0.9,ବିଚଳିତତା |
+impiety,0.0,-0.9,ଅଶୁଭତା |
+aggressor,0.0,-0.9,ଆକ୍ରମଣକାରୀ
+forbidding,0.0,-0.9,ବାରଣ
+demean,0.0,-0.9,demean
+inconsequential,0.0,-0.9,ଅପରିହାର୍ଯ୍ୟ |
+disliked,0.0,-0.9,ନାପସନ୍ଦ
+heretical,0.0,-0.9,ବିଦ୍ରୋହୀ
+tetchily,0.0,-0.9,tetchily
+steep,0.0,-0.9,ଖାଲ
+unbelievable,0.0,-0.9,ଅବିଶ୍ୱସନୀୟ
+chill,0.0,-0.9,ଥଣ୍ଡା
+unfulfilled,0.0,-0.9,ଅସଂପୂର୍ଣ୍ଣ
+oversimplify,0.0,-0.9,ଓଭରସିପ୍ଲାଇଫ୍ କରନ୍ତୁ |
+accost,0.0,-0.9,accost
+ambivalent,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+damn,0.0,-0.9,ଅଭିଶାପ
+forgetful,0.0,-0.9,ଭୁଲିଯାଆନ୍ତି |
+undermine,0.0,-0.9,ଦୁର୍ବଳ କର |
+meltdown,0.0,-0.9,ତରଳିବା
+mobster,0.0,-0.9,ମାଓବାଦୀ
+overheat,0.0,-0.9,ଅତ୍ୟଧିକ ଗରମ
+undermined,0.0,-0.9,ଦୁର୍ବଳ
+loophole,0.0,-0.9,ଲୁଫ୍
+plunder,0.0,-0.9,ଲୁଣ୍ଠନ
+screwy,0.0,-0.9,ସ୍କ୍ରୀ
+fustigate,0.0,-0.9,fustigate
+muddy,0.0,-0.9,କାଦୁଅ
+deficiency,0.0,-0.9,ଅଭାବ |
+mulish,0.0,-0.9,mulish
+coupists,0.0,-0.9,ପୁଲୱାମା ଆକ୍ରମଣକାରୀ |
+subvert,0.0,-0.9,subvert
+plagiarize,0.0,-0.9,ଚୋରୀ
+impair,0.0,-0.9,ଦୁର୍ବଳତା |
+jutters,0.0,-0.9,ଜଟର୍ସ
+sufferers,0.0,-0.9,ପୀଡିତ
+deadweight,0.0,-0.9,ମୃତ ଓଜନ
+filth,0.0,-0.9,ଅଶୁଚି
+unraveled,0.0,-0.9,ଉନ୍ମୁକ୍ତ
+flee,0.0,-0.9,ପଳାୟନ କର
+rude,0.0,-0.9,ଅଭଦ୍ର
+dissolution,0.0,-0.9,ବିଲୋପ
+patronize,0.0,-0.9,ପୃଷ୍ଠପୋଷକତା
+manipulative,0.0,-0.9,ମନିପ୍ୟୁଲେଟିଭ୍ |
+peculiarly,0.0,-0.9,ବିଶେଷ ଭାବରେ
+dark,0.0,-0.9,ଅନ୍ଧାର
+notoriety,0.0,-0.9,କୁଖ୍ୟାତି
+bewilderingly,0.0,-0.9,ବିସ୍ମିତ
+hardball,0.0,-0.9,ହାର୍ଡବଲ୍ |
+pompous,0.0,-0.9,ଅହଂକାରୀ |
+spew,0.0,-0.9,spw
+motionless,0.0,-0.9,ଗତିହୀନ |
+negatives,0.0,-0.9,ନକାରାତ୍ମକ
+stifling,0.0,-0.9,ଚୋରି
+addicts,0.0,-0.9,ଯୋଗୀ
+cramp,0.0,-0.9,କ୍ରମ୍ପ
+lone,0.0,-0.9,ଏକାକୀ
+unsecure,0.0,-0.9,ଅସୁରକ୍ଷିତ
+disingenuous,0.0,-0.9,ଅଲଗା
+chafe,0.0,-0.9,ଚାଫେ
+fabrication,0.0,-0.9,ଉତ୍ପାଦନ
+died,0.0,-0.9,ମଲା
+frustration,0.0,-0.9,ନିରାଶା
+disillusionment,0.0,-0.9,ନିରାଶା
+long-winded,0.0,-0.9,ଦୀର୍ଘ ପବନ
+smudging,0.0,-0.9,ଧୂଳିସାତ୍ |
+burdensomely,0.0,-0.9,ଭାରୀ
+bumps,0.0,-0.9,ବାମ୍ପ
+arduously,0.0,-0.9,କଷ୍ଟରେ
+fatalistically,0.0,-0.9,ସାଂଘାତିକ
+militancy,0.0,-0.9,ସ it ନିକତା
+noxious,0.0,-0.9,ବିଷାକ୍ତ
+sulk,0.0,-0.9,sulk
+superfluous,0.0,-0.9,ଅତ୍ୟଧିକ
+complicit,0.0,-0.9,ଜଟିଳ
+choleric,0.0,-0.9,କୋଲେରିକ୍ |
+sunk,0.0,-0.9,ବୁଡ଼ିଗଲା |
+skepticism,0.0,-0.9,ଅନ୍ଧବିଶ୍ୱାସ |
+unreachable,0.0,-0.9,ଅପହଞ୍ଚ |
+commiserate,0.0,-0.9,ପ୍ରଶଂସା
+deprived,0.0,-0.9,ବଞ୍ଚିତ
+traitorously,0.0,-0.9,ଦେଶଦ୍ରୋହୀ
+zombie,0.0,-0.9,ଜମ୍ବି |
+harried,0.0,-0.9,ହରିଡ୍ |
+outbreak,0.0,-0.9,ବିସ୍ଫୋରଣ
+inteferes,0.0,-0.9,ଇଣ୍ଟରଫେରସ୍ |
+emphatic,0.0,-0.9,ଜୋରଦାର
+incense,0.0,-0.9,ଧୂପ
+hated,0.0,-0.9,ଘୃଣା
+overrated,0.0,-0.9,ଅତ୍ୟଧିକ
+irate,0.0,-0.9,କ୍ରୋଧ
+hinder,0.0,-0.9,ବାଧା
+gasp,0.0,-0.9,ବିସ୍ମିତ
+excruciatingly,0.0,-0.9,ଅତିଶୟ ଭାବରେ |
+snarl,0.0,-0.9,ସ୍ନାକ୍ସ
+freezing,0.0,-0.9,ଫ୍ରିଜ୍
+wrath,0.0,-0.9,କ୍ରୋଧ
+farcical,0.0,-0.9,ଫାର୍କିକାଲ୍ |
+ineptitude,0.0,-0.9,ଅପାରଗତା |
+ferocity,0.0,-0.9,ନିଷ୍ଠୁରତା
+underpowered,0.0,-0.9,କ୍ଷମତାଶାଳୀ
+improbable,0.0,-0.9,ଅସମ୍ଭବ
+fearfully,0.0,-0.9,ଭୟଭୀତ
+agonizing,0.0,-0.9,ଯନ୍ତ୍ରଣାଦାୟକ
+puppets,0.0,-0.9,କୁକୁର
+noises,0.0,-0.9,କୋଳାହଳ
+refuses,0.0,-0.9,ମନା
+remorse,0.0,-0.9,ଅନୁତାପ
+addicted,0.0,-0.9,ନିଶା
+defects,0.0,-0.9,ତ୍ରୁଟି
+lethargy,0.0,-0.9,ଲଘୁଚାପ |
+combust,0.0,-0.9,ଜାଳେଣି |
+annoyed,0.0,-0.9,ବିରକ୍ତ
+disdained,0.0,-0.9,ଅବମାନନା
+skittishly,0.0,-0.9,ଚତୁରତାର ସହିତ |
+dissappointing,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+sugar-coated,0.0,-0.9,ଚିନି-ଆବୃତ |
+dragged,0.0,-0.9,ଡ୍ରାଗ୍
+mashed,0.0,-0.9,ମଶେଡ୍ |
+falls,0.0,-0.9,ପଡେ
+depraved,0.0,-0.9,ଖରାପ
+darken,0.0,-0.9,ଅନ୍ଧାର
+ruins,0.0,-0.9,ଧ୍ୱଂସାବଶେଷ |
+stiffness,0.0,-0.9,କଠିନତା
+two-faces,0.0,-0.9,ଦୁଇ ମୁଖ
+sloooow,0.0,-0.9,sloooow
+direness,0.0,-0.9,ସେମାନେ
+inconsistence,0.0,-0.9,ଅସଙ୍ଗତି |
+wily,0.0,-0.9,ଇଚ୍ଛା
+abyss,0.0,-0.9,ପାତାଳ
+burn,0.0,-0.9,ଜଳ
+blabber,0.0,-0.9,ବ୍ଲାବର୍ |
+tediously,0.0,-0.9,କ୍ଲାନ୍ତରେ |
+hostile,0.0,-0.9,ଶତ୍ରୁ
+oblique,0.0,-0.9,oblique
+intractable,0.0,-0.9,ଇଣ୍ଟାକ୍ଟେବଲ୍ |
+despicably,0.0,-0.9,ଘୃଣ୍ୟ
+fanatics,0.0,-0.9,ପ୍ରଶଂସକ
+fury,0.0,-0.9,କ୍ରୋଧ
+imperfections,0.0,-0.9,ଅସମ୍ପୂର୍ଣ୍ଣତା |
+draconic,0.0,-0.9,ଡ୍ରାକୋନିକ୍ |
+kook,0.0,-0.9,ଫୁଟାନ୍ତୁ
+instable,0.0,-0.9,ଅସ୍ଥିର |
+carnage,0.0,-0.9,ହତ୍ୟାକାଣ୍ଡ
+squeals,0.0,-0.9,ଚିତ୍କାର
+reproach,0.0,-0.9,ଅପମାନ
+rut,0.0,-0.9,ରୁଟ୍ |
+taut,0.0,-0.9,taut
+reckless,0.0,-0.9,ବେପରୁଆ |
+antagonistic,0.0,-0.9,ବିରୋଧୀ
+burden,0.0,-0.9,ଭାର
+inextricable,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+obtrusive,0.0,-0.9,ଘୃଣ୍ୟ
+poisonous,0.0,-0.9,ବିଷାକ୍ତ
+incommensurate,0.0,-0.9,ଅସଙ୍ଗତ
+intolerablely,0.0,-0.9,ଅସହିଷ୍ଣୁ |
+infringement,0.0,-0.9,ଉଲ୍ଲଂଘନ
+brazenness,0.0,-0.9,ବ୍ରଜ
+dangerous,0.0,-0.9,ବିପଜ୍ଜନକ |
+niggle,0.0,-0.9,ନିଗଲ୍ |
+dissatisfaction,0.0,-0.9,ଅସନ୍ତୋଷ
+spendy,0.0,-0.9,ଖର୍ଚ୍ଚ
+gimmicks,0.0,-0.9,ଜିମିକ୍ସ
+deterioration,0.0,-0.9,ଖରାପ
+touted,0.0,-0.9,touted
+rigidness,0.0,-0.9,ଦୃ id ତା
+gritty,0.0,-0.9,ଗ୍ରୀଟି
+acridness,0.0,-0.9,ତୀବ୍ରତା
+peculiar,0.0,-0.9,ସ୍ cul ତନ୍ତ୍ର
+beggarly,0.0,-0.9,ଭିକାରୀ
+insufficiency,0.0,-0.9,ପର୍ଯ୍ୟାପ୍ତତା
+admonisher,0.0,-0.9,ଉପଦେଶକ
+panders,0.0,-0.9,ପାଣ୍ଡର୍ସ |
+deviousness,0.0,-0.9,ଭ୍ରାନ୍ତି
+squabbling,0.0,-0.9,କଳହ
+misaligned,0.0,-0.9,ଭୁଲ ଭୁଲ
+misread,0.0,-0.9,ଭୁଲ ପ read ଼ିବା
+wreaked,0.0,-0.9,wreaked
+admonishingly,0.0,-0.9,ଉପଦେଶ
+worn,0.0,-0.9,ପରିଧାନ
+gibber,0.0,-0.9,ଗିବର୍ |
+arrogance,0.0,-0.9,ଅହଂକାର
+jealousy,0.0,-0.9,ealous ର୍ଷା
+mocking,0.0,-0.9,ପରିହାସ
+uproarious,0.0,-0.9,ଉତ୍ତେଜନା |
+joker,0.0,-0.9,ଜୋକର୍
+back-logged,0.0,-0.9,ବ୍ୟାକ୍-ଲଗ୍ ହୋଇଛି |
+meaningless,0.0,-0.9,ଅର୍ଥହୀନ |
+denunciations,0.0,-0.9,ନିନ୍ଦା
+insubstantial,0.0,-0.9,ଅବିସ୍ମରଣୀୟ |
+lawbreaker,0.0,-0.9,ଆଇନ ଉଲ୍ଲଂଘନକାରୀ
+offender,0.0,-0.9,ଅପରାଧୀ
+oversimplification,0.0,-0.9,ଅତ୍ୟଧିକ ବୃଦ୍ଧି
+smolder,0.0,-0.9,ସ୍ମୋଲ୍ଡର୍ |
+taunts,0.0,-0.9,ଅପମାନ
+absent-minded,0.0,-0.9,ଅନୁପସ୍ଥିତ
+unyielding,0.0,-0.9,ଅବାଧ
+vindictive,0.0,-0.9,ପ୍ରତିଶୋଧ ପରାୟଣ |
+galls,0.0,-0.9,କୁକୁଡ଼ା
+swamped,0.0,-0.9,ଜଳାଶୟ
+anti-white,0.0,-0.9,ଧଳା-ବିରୋଧୀ |
+bullying,0.0,-0.9,ଗାଳି ଗୁଲଜ
+toughness,0.0,-0.9,କଠିନତା
+disapproval,0.0,-0.9,ନାପସନ୍ଦ
+anarchism,0.0,-0.9,ଅରାଜକତା |
+suffer,0.0,-0.9,ଯନ୍ତ୍ରଣା ଭୋଗ |
+anxiousness,0.0,-0.9,ଚିନ୍ତା
+busts,0.0,-0.9,ବସ୍
+cruel,0.0,-0.9,ନିଷ୍ଠୁର
+provocative,0.0,-0.9,ଉତ୍ତେଜକ
+pity,0.0,-0.9,ଦୟା
+fanatical,0.0,-0.9,ପ୍ରଶଂସକ
+irrecoverableness,0.0,-0.9,ପୁନରୁଦ୍ଧାରଯୋଗ୍ୟ
+aspersion,0.0,-0.9,ଆକାଂକ୍ଷା
+lorn,0.0,-0.9,lorn
+squeaks,0.0,-0.9,ଚିପି
+scorn,0.0,-0.9,ନିନ୍ଦା
+streaky,0.0,-0.9,ଧାଡି
+crumbling,0.0,-0.9,ଭୁଶୁଡ଼ିବା
+pickets,0.0,-0.9,ପିକେଟ୍
+strut,0.0,-0.9,strut
+heck,0.0,-0.9,ହେକ୍
+far-fetched,0.0,-0.9,ସୁଦୂରପ୍ରସାରୀ |
+scapegoat,0.0,-0.9,scapegoat
+disoriented,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+pratfall,0.0,-0.9,pratfall
+scornful,0.0,-0.9,ନିନ୍ଦନୀୟ
+degenerately,0.0,-0.9,ଅବକ୍ଷୟ ଭାବରେ |
+appalled,0.0,-0.9,ଭୟଭୀତ
+insultingly,0.0,-0.9,ଅପମାନଜନକ
+graft,0.0,-0.9,ଗ୍ରାଫ୍ଟ
+hangs,0.0,-0.9,s ୁଲୁଛି |
+scramble,0.0,-0.9,ସ୍କ୍ରାମବଲ୍ |
+untimely,0.0,-0.9,ଅକାଳ
+bewitch,0.0,-0.9,ବିସ୍ମିତ |
+dead,0.0,-0.9,ମୃତ
+cheated,0.0,-0.9,ପ୍ରତାରଣା
+debilitating,0.0,-0.9,ଦୁର୍ବଳ
+faze,0.0,-0.9,ପର୍ଯ୍ୟାୟ
+freeze,0.0,-0.9,ଫ୍ରିଜ୍
+anxious,0.0,-0.9,ଚିନ୍ତିତ
+unscrupulously,0.0,-0.9,ଅସାଧୁ ଭାବରେ |
+disappointingly,0.0,-0.9,ନିରାଶାଜନକ
+vileness,0.0,-0.9,ଦୁଷ୍କର୍ମ
+harasses,0.0,-0.9,ହଇରାଣ ହରକତ |
+askance,0.0,-0.9,ପଚାର
+disapointing,0.0,-0.9,ନିରାଶ
+wretchedness,0.0,-0.9,ଦୁର୍ଭାଗ୍ୟ
+intrusive,0.0,-0.9,ଅନୁପ୍ରବେଶକାରୀ |
+forfeit,0.0,-0.9,ବଞ୍ଚିତ
+snobby,0.0,-0.9,ସ୍ନୋବି |
+heresy,0.0,-0.9,ବିଦ୍ରୋହ
+insolvent,0.0,-0.9,ଅସମର୍ଥ
+recessionary,0.0,-0.9,ବିମୁଦ୍ରାକରଣ |
+disadvantages,0.0,-0.9,ଅସୁବିଧା
+debauch,0.0,-0.9,debauch
+smallish,0.0,-0.9,ଛୋଟ
+crazy,0.0,-0.9,ପାଗଳ
+deprive,0.0,-0.9,ବଞ୍ଚିତ
+irredeemable,0.0,-0.9,ଅପ୍ରୀତିକର
+treason,0.0,-0.9,ଦେଶଦ୍ରୋହ
+sinful,0.0,-0.9,ପାପୀ
+subordinate,0.0,-0.9,ଅଧସ୍ତନ |
+crippling,0.0,-0.9,ପଙ୍ଗୁ
+indolent,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ |
+stresses,0.0,-0.9,ଚାପ
+undercutting,0.0,-0.9,ଅଣ୍ଡର୍କିଂ
+predatory,0.0,-0.9,ଶିକାରକାରୀ
+lying,0.0,-0.9,ମିଛ କହୁଛି
+disillusions,0.0,-0.9,ନିରାଶା |
+savaged,0.0,-0.9,ସଞ୍ଜୟ
+wasteful,0.0,-0.9,ଅପଚୟ
+unavailable,0.0,-0.9,ଉପଲବ୍ଧ ନାହିଁ
+pessimistic,0.0,-0.9,ନିରାଶାବାଦୀ |
+unkindly,0.0,-0.9,ଦୟାଳୁ
+volatility,0.0,-0.9,ଅସ୍ଥିରତା |
+heckles,0.0,-0.9,ହେକଲେସ୍ |
+abysmal,0.0,-0.9,ଅବକ୍ଷୟ |
+posturing,0.0,-0.9,ପୋଷ୍ଟିଂ
+damned,0.0,-0.9,ଦୋଷୀ
+tortured,0.0,-0.9,ନିର୍ଯାତିତ
+dizzing,0.0,-0.9,ମୁଣ୍ଡ ବୁଲାଇବା |
+defamations,0.0,-0.9,ବଦନାମ
+intefere,0.0,-0.9,intefere
+hypocritically,0.0,-0.9,କପଟୀ
+disparagingly,0.0,-0.9,ଅପମାନଜନକ
+shimmy,0.0,-0.9,ଶିମି
+averse,0.0,-0.9,ଘୃଣା
+discourage,0.0,-0.9,ନିରାଶ
+indecisive,0.0,-0.9,ନିର୍ଣ୍ଣୟ
+insensitive,0.0,-0.9,ସମ୍ବେଦନଶୀଳ |
+prejudice,0.0,-0.9,କୁସଂସ୍କାର
+pitilessly,0.0,-0.9,ଦୟାଳୁ
+betrayer,0.0,-0.9,ବିଶ୍ୱାସଘାତକ
+insinuating,0.0,-0.9,ଇନସୁଇନିଂ
+inadequately,0.0,-0.9,ଅଯୋଗ୍ୟ
+craven,0.0,-0.9,ଲୋଭ
+rumours,0.0,-0.9,ଗୁଜବ
+strain,0.0,-0.9,ଷ୍ଟ୍ରେନ୍
+killed,0.0,-0.9,ହତ୍ୟା
+calumnies,0.0,-0.9,calumnies
+uninformed,0.0,-0.9,ଅଜ୍ଞ
+confuse,0.0,-0.9,ଦ୍ୱନ୍ଦ୍ୱ
+bothered,0.0,-0.9,ବ୍ୟସ୍ତ
+burns,0.0,-0.9,ଜଳିଯାଏ |
+deviate,0.0,-0.9,ବିଚ୍ୟୁତ
+displease,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+hideous,0.0,-0.9,ଘୃଣ୍ୟ
+recourses,0.0,-0.9,recourses
+stutters,0.0,-0.9,ଷ୍ଟଟର୍ସ
+lewd,0.0,-0.9,ଲଜ୍ଜା |
+hegemony,0.0,-0.9,ଶାସକ
+defamation,0.0,-0.9,ବଦନାମ
+befoul,0.0,-0.9,befoul
+desperate,0.0,-0.9,ହତାଶ |
+unease,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+lackeys,0.0,-0.9,ଅଭାବ
+intimidation,0.0,-0.9,ଭୟ
+dungeon,0.0,-0.9,ଦୁର୍ଗ
+raped,0.0,-0.9,ବଳାତ୍କାର
+lapse,0.0,-0.9,ପିଲା
+bigotries,0.0,-0.9,କୁସଂସ୍କାର |
+unwatchable,0.0,-0.9,ଅଦୃଶ୍ୟ
+jaded,0.0,-0.9,ଜାଡେଡ୍ |
+maniacal,0.0,-0.9,ମାନିଆକାଲ୍ |
+unbearable,0.0,-0.9,ଅସହ୍ୟ
+fleed,0.0,-0.9,ପଳାଇଲା
+panicked,0.0,-0.9,ଭୟଭୀତ
+inconsistent,0.0,-0.9,ଅସଙ୍ଗତ
+invidious,0.0,-0.9,ଅଦୃଶ୍ୟ
+unintelligile,0.0,-0.9,ଅଜ୍ଞ
+unproved,0.0,-0.9,ଅଣସଂରକ୍ଷିତ
+scathing,0.0,-0.9,ଘୃଣ୍ୟ
+hazardous,0.0,-0.9,ବିପଜ୍ଜନକ |
+hostage,0.0,-0.9,ବନ୍ଧକ
+inequities,0.0,-0.9,ଅସମାନତା |
+insincere,0.0,-0.9,ଅଜ୍ଞାତ
+bane,0.0,-0.9,ନିଷେଧ |
+obscured,0.0,-0.9,ଅସ୍ପଷ୍ଟ
+degeneration,0.0,-0.9,ଅବନତି
+shamefully,0.0,-0.9,ଲଜ୍ଜାଜନକ ଭାବରେ |
+suppression,0.0,-0.9,ଦମନ
+wrangle,0.0,-0.9,ବିବାଦ |
+fleeting,0.0,-0.9,କ୍ଷୀଣ
+degradation,0.0,-0.9,ଅବନତି |
+asunder,0.0,-0.9,ଅଲଗା କର |
+pandering,0.0,-0.9,ପାଣ୍ଡେରିଙ୍ଗ୍ |
+conceded,0.0,-0.9,ସ୍ ed ୀକାର
+disagreeing,0.0,-0.9,ଏକମତ ନୁହେଁ
+condemned,0.0,-0.9,ନିନ୍ଦିତ
+fried,0.0,-0.9,ଭଜା |
+hoax,0.0,-0.9,ଛଳନା
+gape,0.0,-0.9,ଗେପ୍
+tricked,0.0,-0.9,ପ୍ରତାରଣା
+poison,0.0,-0.9,ବିଷ
+slowest,0.0,-0.9,ଧୀର
+fraud,0.0,-0.9,ଠକେଇ |
+ulterior,0.0,-0.9,ପରବର୍ତ୍ତୀ
+devastated,0.0,-0.9,ବିନାଶ
+moody,0.0,-0.9,ମନୋବଳ
+prickle,0.0,-0.9,ପ୍ରିକଲ୍
+villianously,0.0,-0.9,villianously
+woefully,0.0,-0.9,ଦୁ e ଖରେ
+interferes,0.0,-0.9,ହସ୍ତକ୍ଷେପ କରେ |
+malodorous,0.0,-0.9,ଦୁଷ୍କର୍ମ
+unsatisfactory,0.0,-0.9,ଅସନ୍ତୁଷ୍ଟ
+untenable,0.0,-0.9,ଅସମ୍ଭବ
+unfriendly,0.0,-0.9,ବନ୍ଧୁତ୍ୱପୂର୍ଣ୍ଣ
+ripped,0.0,-0.9,ଚିରିଗଲା |
+frighteningly,0.0,-0.9,ଭୟଭୀତ
+lamentable,0.0,-0.9,ଦୁ regret ଖଦାୟକ
+tormented,0.0,-0.9,ଯନ୍ତ୍ରଣା
+tortuous,0.0,-0.9,ଯନ୍ତ୍ରଣାଦାୟକ |
+irritating,0.0,-0.9,ବିରକ୍ତିକର |
+chatter,0.0,-0.9,ଚାଟର୍
+bruise,0.0,-0.9,କ୍ଷତ
+paucity,0.0,-0.9,ସ୍ଥିରତା

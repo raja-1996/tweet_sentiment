@@ -7,7 +7,7 @@ from nltk.stem import WordNetLemmatizer
 from config.sentiment_config import *
 from src.article_preprocessing import load_dicts
 import spacy
-
+import pandas as pd
 
 positive_polar_words_dicts = {}
 
@@ -20,7 +20,7 @@ for key in negative_polar_words.keys():
     negative_polar_words_dicts[key] = load_dicts(negative_polar_words[key], key)
 
 nltk.download("wordnet")
-nlp = spacy.load("en")
+nlp = spacy.load("en_core_web_sm")
 
 lemmatizer = WordNetLemmatizer()
 """
@@ -42,7 +42,7 @@ def term_frequency(article):
         term_freq[token] = article.count(token)
     term_vector = []
     for token in article:
-        term_val = term_freq[token] / len(article)
+        term_val = term_freq[token]
         term_vector.append(term_val)
     return term_vector
 
@@ -56,7 +56,14 @@ def predict_sentiment(article, lang_code, model):
     term_vector = np.array(term_vector)
     senti_vector = np.array(senti_vector)
 
-    polarity = np.dot(term_vector, senti_vector)
+    total = 0
+    polarity = 0
+    for i in range(len(term_vector)):
+        if senti_vector[i] != 0:
+            total += term_vector[i]
+            polarity += senti_vector[i] * term_vector[i]
+
+    polarity = polarity / total if total > 0 else 0
 
     if polarity > 0:
         num = 1
@@ -65,7 +72,9 @@ def predict_sentiment(article, lang_code, model):
     else:
         num = -1
 
-    return num
+    output = {"sentiment": num, "score": polarity}
+
+    return output
 
 
 # Getting the sentiment vectors of each sentence
@@ -167,15 +176,20 @@ def get_lemmatized_text(text):
 
 
 # Loading polar words
-def get_polar_words(filename):
-    with open(filename, encoding="ISO-8859-1") as f:
-        words = set(f.read().splitlines())
-    return words
+# def get_polar_words(filename):
+#     with open(filename, encoding="ISO-8859-1") as f:
+#         words = set(f.read().splitlines())
+#     return words
 
 
-pos_words = get_polar_words("data/resources/pos_lemm.txt")
-neg_words = get_polar_words("data/resources/neg_lemm.txt")
+# pos_words = get_polar_words("data/resources/pos_lemm.txt")
+# neg_words = get_polar_words("data/resources/neg_lemm.txt")
 
+pos_df = pd.read_csv("data/resources/pos_df.csv")
+neg_df = pd.read_csv("data/resources/neg_df.csv")
+
+pos_dict = dict(zip(pos_df["word"], pos_df["score"]))
+neg_dict = dict(zip(neg_df["word"], neg_df["score"]))
 
 # retrieving the sentiment vector
 def sentiment_coeff(article):
@@ -186,10 +200,10 @@ def sentiment_coeff(article):
         if word_lemmatized == "not":
             flip_polarity = True
             score = 0
-        elif word_lemmatized in pos_words:
-            score = 0.9
-        elif word_lemmatized in neg_words:
-            score = -0.9
+        elif word_lemmatized in pos_dict:
+            score = pos_dict[word_lemmatized]
+        elif word_lemmatized in neg_dict:
+            score = -neg_dict[word_lemmatized]
         else:
             score = TextBlob(word).polarity
             if abs(score) < 0.75:
